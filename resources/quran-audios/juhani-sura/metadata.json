@@ -13,7 +13,8 @@
     "size_bytes": 1622785417,
     "size_human": "1.51 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Sun, 28 May 2023 10:33:33 GMT"
+    "server_last_modified": "Sun, 28 May 2023 10:33:33 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura.zip"
   },
   "checksums": {
     "computed": {
@@ -603,5 +604,6 @@
       "size_bytes": 1247,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/juhani%20-%20Shortcut.lnk"
     }
-  ]
+  ],
+  "archive_bytes": 1622785417
 }

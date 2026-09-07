@@ -14,7 +14,8 @@
     "size_human": "8.38 MB",
     "downloads_count_at_capture": 195,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Mon, 26 Sep 2022 06:08:14 GMT"
+    "server_last_modified": "Mon, 26 Sep 2022 06:08:14 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-douri/UthmanicDouri_v2-0.zip"
   },
   "checksums": {
     "published": {
@@ -165,5 +166,6 @@
       "size_bytes": 800356,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-douri/UthmanicDouri_v2-0%20font/uthmanic_douri_v20.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 8788270
 }

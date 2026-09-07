@@ -13,7 +13,8 @@
     "size_bytes": 743525665,
     "size_human": "709.08 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Tue, 22 Mar 2022 08:37:12 GMT"
+    "server_last_modified": "Tue, 22 Mar 2022 08:37:12 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/books-audios/tafseer-muyassar-ayat/TafseerMuyassar-ayat.zip"
   },
   "checksums": {
     "computed": {
@@ -31788,5 +31789,6 @@
       "size_bytes": 44808,
       "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/tafseer-muyassar-ayat/114_An-Nas_%D8%A7%D9%84%D9%86%D8%A7%D8%B3/10-114A00-104.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 743525665
 }

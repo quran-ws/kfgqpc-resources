@@ -7,11 +7,11 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | تحميل | 733.36 MB | — | [تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1441-ai-hafs.html) |
-| 2 | تحميل | 695.73 MB | — | [تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1442-ai-warsh.html) |
-| 3 | تحميل | 537.84 MB | — | [تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1443-qalon.html) |
-| 4 | تحميل | 530.58 MB | — | [تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1443-shubah.html) |
-| 5 | تحميل | 482.64 MB | — | [تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__douri-1443.html) |
+| 1 | المصحف الرقمي 1441هـ – حفص (بالذكاء الاصطناعي)<br>`Digital Mushaf 1441H – Hafs (AI)` | 733.36 MB | — | [1441-AI-hafs.zip](https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441-AI-hafs.zip) 444.82 MB<br>[تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1441-ai-hafs.html) |
+| 2 | المصحف الرقمي 1442هـ – ورش (بالذكاء الاصطناعي)<br>`Digital Mushaf 1442H – Warsh (AI)` | 695.73 MB | — | [1442-ai-warsh.zip](https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/1442-ai-warsh.zip) 398.10 MB<br>[تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1442-ai-warsh.html) |
+| 3 | المصحف الرقمي 1443هـ – قالون<br>`Digital Mushaf 1443H – Qalon` | 537.84 MB | — | [1443-qalon.zip](https://cdn.quran.ws/KFGQPC/resources/dm/1443-qalon/1443-qalon.zip) 526.23 MB<br>[تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1443-qalon.html) |
+| 4 | المصحف الرقمي 1443هـ – شعبة<br>`Digital Mushaf 1443H – Shu'bah` | 530.58 MB | — | [1443-shubah.zip](https://cdn.quran.ws/KFGQPC/resources/dm/1443-shubah/1443-shubah.zip) 518.36 MB<br>[تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__1443-shubah.html) |
+| 5 | المصحف الرقمي 1443هـ – الدوري<br>`Digital Mushaf 1443H – Douri` | 482.64 MB | — | [Douri-1443.zip](https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443.zip) 460.43 MB<br>[تصفّح 604 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/dm__douri-1443.html) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

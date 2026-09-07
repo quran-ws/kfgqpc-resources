@@ -4,16 +4,16 @@
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
   "title": {
-    "ar": "مجلة البحوث والدراسات القرآنية – العدد 14",
-    "en": "Journal of Qur'anic Research and Studies – Issue 14"
+    "ar": "العدد الرابع عشر",
+    "en": null
   },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_14.pdf",
     "filename": "JQRS_14.pdf",
     "size_bytes": 32019678,
     "size_human": "30.54 MB",
-    "content_type": "application/pdf",
-    "server_last_modified": "Wed, 25 Dec 2024 09:51:32 GMT",
+    "content_type": null,
+    "server_last_modified": null,
     "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-14/JQRS_14.pdf"
   },
   "checksums": {
@@ -23,7 +23,7 @@
       "sha256": "1dbbce2dab3ae65b1b2ffd66ff4cb84604860582b7e5c96a2ccea71cf08e6d3e"
     }
   },
-  "captured_at": "2026-09-02T10:29:05Z",
+  "captured_at": "2026-09-07T15:26:31Z",
   "available": true,
   "archive_extracted": false,
   "file_count": 1,

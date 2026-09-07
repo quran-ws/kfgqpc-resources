@@ -1,4 +1,4 @@
-# سكرتير التحرير
+# العدد الرابع عشر
 
 مصدر / Source: <https://jqrs.qurancomplex.gov.sa/>
 
@@ -7,11 +7,8 @@
 | الملف / File | [`JQRS_14.pdf`](./JQRS_14.pdf) |
 | الحجم / Size | 30.54 MB |
 | رابط التنزيل / Download URL | <https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_14.pdf> |
-| النوع / Content type | application/pdf |
-| آخر تعديل على الخادم / Server last-modified | Wed, 25 Dec 2024 09:51:32 GMT |
-| ETag | `"ae4c3394b256db1:0"` |
 | القسم / Section | سكرتير التحرير |
-| تاريخ الأرشفة / Archived | 2026-09-02T10:29:05Z |
+| تاريخ الأرشفة / Archived | 2026-09-07T15:26:31Z |
 
 ## بصمات التحقق / Checksums
 

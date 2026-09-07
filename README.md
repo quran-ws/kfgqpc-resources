@@ -64,8 +64,14 @@ A single page listing every file, with search, filtering and direct download lin
 ## كيف تحمّل / How to download
 
 **١ — من الموقع / From the website.** افتح <https://quran-ws.github.io/kfgqpc-resources/> وابحث عن الملف ثم اضغط «تحميل».
-Open <https://quran-ws.github.io/kfgqpc-resources/>, find what you want and click Download. Archives that were unpacked show a
-Browse button that lists every file inside them.
+Open <https://quran-ws.github.io/kfgqpc-resources/>, find what you want and click Download.
+
+الملفات التي كانت مضغوطة متاحة بطريقتين: «تحميل الأرشيف» للملف الأصلي (zip/rar) كما نشره المجمع،
+أو «تصفّح» لعرض محتوياته ملفاً ملفاً وتنزيل ما تريد منها فقط.
+
+Anything that came as an archive is offered both ways: **Download archive** gives you the
+original zip/rar exactly as the Complex published it, and **Browse** lists its contents so
+you can take a single file instead of a multi-gigabyte download.
 
 **٢ — رابط مباشر / A direct link.** كل ملف له رابط ثابت:
 Every file has a permanent URL:

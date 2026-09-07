@@ -13,7 +13,8 @@
     "size_bytes": 4181040043,
     "size_human": "3.89 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Sun, 04 Jun 2023 06:46:52 GMT"
+    "server_last_modified": "Sun, 04 Jun 2023 06:46:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/sura.zip"
   },
   "checksums": {
     "computed": {
@@ -603,5 +604,6 @@
       "size_bytes": 2575720,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/114_An-Nas_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 4181040043
 }

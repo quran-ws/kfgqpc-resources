@@ -13,7 +13,8 @@
     "size_bytes": 543538523,
     "size_human": "518.36 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Mon, 11 Oct 2021 06:57:52 GMT"
+    "server_last_modified": "Mon, 11 Oct 2021 06:57:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/dm/1443-shubah/1443-shubah.zip"
   },
   "checksums": {
     "computed": {
@@ -3052,5 +3053,6 @@
   "recovery_note": {
     "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
     "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
-  }
+  },
+  "archive_bytes": 543538523
 }

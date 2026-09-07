@@ -14,7 +14,8 @@
     "size_human": "8.33 MB",
     "downloads_count_at_capture": 239,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Wed, 21 Sep 2022 11:19:28 GMT"
+    "server_last_modified": "Wed, 21 Sep 2022 11:19:28 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0.zip"
   },
   "checksums": {
     "published": {
@@ -165,5 +166,6 @@
       "size_bytes": 721108,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20font/uthmanic_shuba_v20.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 8739612
 }

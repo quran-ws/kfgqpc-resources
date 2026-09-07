@@ -13,7 +13,8 @@
     "size_bytes": 961236527,
     "size_human": "916.71 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Mon, 03 Apr 2023 08:17:26 GMT"
+    "server_last_modified": "Mon, 03 Apr 2023 08:17:26 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayyoub-ayat/ayyoub-ayat.zip"
   },
   "checksums": {
     "computed": {
@@ -31778,5 +31779,6 @@
       "size_bytes": 82752,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayyoub-ayat/ayyoub-ayat/114%20An-Nas%20%EF%BF%BDTd%EF%BF%BD%EF%BF%BD/10-114C00-A03.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 961236527
 }

@@ -13,7 +13,8 @@
     "size_bytes": 842634506,
     "size_human": "803.60 MB",
     "content_type": "application/octet-stream",
-    "server_last_modified": "Thu, 03 Feb 2022 11:53:24 GMT"
+    "server_last_modified": "Thu, 03 Feb 2022 11:53:24 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-ayat/huthify-ayat.rar"
   },
   "checksums": {
     "computed": {
@@ -31778,5 +31779,6 @@
       "size_bytes": 64264,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-ayat/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%A7%D9%8A%D8%A7%D8%AA/114%20An-Nas%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3/10-114C00-A01.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 842634506
 }

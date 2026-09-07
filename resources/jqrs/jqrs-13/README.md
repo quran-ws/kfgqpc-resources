@@ -1,21 +1,22 @@
-# سكرتير التحرير
+# العدد الثالث عشر
 
 مصدر / Source: <https://jqrs.qurancomplex.gov.sa/>
 
 | | |
 |---|---|
-| الملف / File | `JQRS_13.pdf` — غير مخزّن هنا / not stored here |
+| الملف / File | [`JQRS_13.pdf`](./JQRS_13.pdf) |
 | الحجم / Size | 60.36 MB |
 | رابط التنزيل / Download URL | <https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_13.pdf> |
-| النوع / Content type | application/pdf |
-| آخر تعديل على الخادم / Server last-modified | Wed, 25 Dec 2024 08:36:16 GMT |
-| ETag | `"82914310a856db1:0"` |
 | القسم / Section | سكرتير التحرير |
-| تاريخ الأرشفة / Archived | 2026-09-02T10:29:05Z |
+| تاريخ الأرشفة / Archived | 2026-09-07T15:26:31Z |
 
-## ملاحظة / Note
+## بصمات التحقق / Checksums
 
-⚠️ File is 60.36 MB, above the configured per-file limit for this pass; fetch it with tools/fetch_pending.py.
+| | |
+|---|---|
+| MD5 | `4c5277f67676b99ffed37a8bc56fbbdf` |
+| SHA-1 | `cb83c3b7208e32b818eee386503e712717a2ba8e` |
+| SHA-256 | `24edcf53373e602c75bd63b243f1697faebc817b85f1dc7159c5cb9cfa3bad5b` |
 
 ## السياق في الصفحة / Page context
 

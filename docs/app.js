@@ -46,6 +46,13 @@
       ? ' نتيجة' : (shown===1?' result':' results'));
     if(empty) empty.style.display = shown ? 'none' : 'block';
   }
+  var nav=[].slice.call(document.querySelectorAll('.gnav a'));
+  nav.forEach(function(a){
+    a.addEventListener('click',function(){
+      nav.forEach(function(x){x.classList.remove('on');});
+      a.classList.add('on');
+    });
+  });
   if(q) q.addEventListener('input',apply);
   if(sel) sel.addEventListener('change',apply);
   if(langBtn) langBtn.addEventListener('click',apply);

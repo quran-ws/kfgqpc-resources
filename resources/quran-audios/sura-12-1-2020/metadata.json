@@ -13,7 +13,8 @@
     "size_bytes": 1319089096,
     "size_human": "1.23 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Sun, 06 Feb 2022 05:21:51 GMT"
+    "server_last_modified": "Sun, 06 Feb 2022 05:21:51 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura-12-1-2020.zip"
   },
   "checksums": {
     "computed": {
@@ -603,5 +604,6 @@
       "size_bytes": 661716,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-114D00-A08.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 1319089096
 }

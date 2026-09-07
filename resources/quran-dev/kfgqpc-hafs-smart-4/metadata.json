@@ -14,7 +14,8 @@
     "size_human": "21.65 MB",
     "downloads_count_at_capture": 1725,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Thu, 30 Jun 2022 06:03:14 GMT"
+    "server_last_modified": "Thu, 30 Jun 2022 06:03:14 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_4.zip"
   },
   "checksums": {
     "published": {
@@ -160,5 +161,6 @@
       "size_bytes": 301184,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_font/HafsSmart_08.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 22705385
 }

@@ -13,7 +13,8 @@
     "size_bytes": 273034261,
     "size_human": "260.39 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Tue, 22 Mar 2022 08:08:30 GMT"
+    "server_last_modified": "Tue, 22 Mar 2022 08:08:30 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/MuyassarGhareeb-sura.zip"
   },
   "checksums": {
     "computed": {
@@ -598,5 +599,6 @@
       "size_bytes": 258437,
       "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-114_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 273034261
 }

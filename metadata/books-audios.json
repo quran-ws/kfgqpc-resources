@@ -21,7 +21,8 @@
         "size_bytes": 743525665,
         "size_human": "709.08 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 22 Mar 2022 08:37:12 GMT"
+        "server_last_modified": "Tue, 22 Mar 2022 08:37:12 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/books-audios/tafseer-muyassar-ayat/TafseerMuyassar-ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -34,7 +35,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6352,
-      "total_bytes": 879506087
+      "total_bytes": 879506087,
+      "archive_bytes": 743525665
     },
     {
       "slug": "tajweed-muyassar",
@@ -51,7 +53,8 @@
         "size_bytes": 76668806,
         "size_human": "73.12 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 10 May 2026 10:59:55 GMT"
+        "server_last_modified": "Sun, 10 May 2026 10:59:55 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/books-audios/tajweed-muyassar/TajweedMuyassar.zip"
       },
       "checksums": {
         "computed": {
@@ -64,7 +67,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 242,
-      "total_bytes": 88678400
+      "total_bytes": 88678400,
+      "archive_bytes": 76668806
     },
     {
       "slug": "muyassar-ghareeb-sura",
@@ -81,7 +85,8 @@
         "size_bytes": 273034261,
         "size_human": "260.39 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 22 Mar 2022 08:08:30 GMT"
+        "server_last_modified": "Tue, 22 Mar 2022 08:08:30 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/MuyassarGhareeb-sura.zip"
       },
       "checksums": {
         "computed": {
@@ -94,7 +99,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 298883749
+      "total_bytes": 298883749,
+      "archive_bytes": 273034261
     }
   ]
 }

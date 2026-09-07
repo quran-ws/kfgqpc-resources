@@ -13,7 +13,8 @@
     "size_bytes": 3493987817,
     "size_human": "3.25 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Tue, 19 Sep 2023 05:47:10 GMT"
+    "server_last_modified": "Tue, 19 Sep 2023 05:47:10 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-ayat/sediki-ayat.zip"
   },
   "checksums": {
     "computed": {
@@ -31683,5 +31684,6 @@
       "size_bytes": 215147,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-ayat/ayat/114%20An-Nas%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3/06-114C00A10.wav.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 3493987817
 }

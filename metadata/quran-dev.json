@@ -22,7 +22,8 @@
         "size_human": "21.65 MB",
         "downloads_count_at_capture": 1725,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Thu, 30 Jun 2022 06:03:14 GMT"
+        "server_last_modified": "Thu, 30 Jun 2022 06:03:14 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_4.zip"
       },
       "checksums": {
         "published": {
@@ -116,7 +117,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 10,
-      "total_bytes": 54344550
+      "total_bytes": 54344550,
+      "archive_bytes": 22705385
     },
     {
       "slug": "uthmanic-hafs",
@@ -134,7 +136,8 @@
         "size_human": "10.23 MB",
         "downloads_count_at_capture": 1385,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 19 Sep 2023 06:42:05 GMT"
+        "server_last_modified": "Tue, 19 Sep 2023 06:42:05 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0.zip"
       },
       "checksums": {
         "published": {
@@ -228,7 +231,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 11,
-      "total_bytes": 29856878
+      "total_bytes": 29856878,
+      "archive_bytes": 10729285
     },
     {
       "slug": "uthmanic-warsh",
@@ -246,7 +250,8 @@
         "size_human": "8.62 MB",
         "downloads_count_at_capture": 451,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Wed, 07 Sep 2022 11:08:44 GMT"
+        "server_last_modified": "Wed, 07 Sep 2022 11:08:44 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1.zip"
       },
       "checksums": {
         "published": {
@@ -340,7 +345,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 11,
-      "total_bytes": 25131536
+      "total_bytes": 25131536,
+      "archive_bytes": 9042379
     },
     {
       "slug": "uthmanic-shuba",
@@ -358,7 +364,8 @@
         "size_human": "8.33 MB",
         "downloads_count_at_capture": 239,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Wed, 21 Sep 2022 11:19:28 GMT"
+        "server_last_modified": "Wed, 21 Sep 2022 11:19:28 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0.zip"
       },
       "checksums": {
         "published": {
@@ -452,7 +459,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 11,
-      "total_bytes": 24262232
+      "total_bytes": 24262232,
+      "archive_bytes": 8739612
     },
     {
       "slug": "uthmanic-qaloun",
@@ -470,7 +478,8 @@
         "size_human": "8.36 MB",
         "downloads_count_at_capture": 287,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Mon, 26 Sep 2022 06:05:57 GMT"
+        "server_last_modified": "Mon, 26 Sep 2022 06:05:57 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1.zip"
       },
       "checksums": {
         "published": {
@@ -564,7 +573,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 11,
-      "total_bytes": 24731988
+      "total_bytes": 24731988,
+      "archive_bytes": 8763948
     },
     {
       "slug": "uthmanic-douri",
@@ -582,7 +592,8 @@
         "size_human": "8.38 MB",
         "downloads_count_at_capture": 195,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Mon, 26 Sep 2022 06:08:14 GMT"
+        "server_last_modified": "Mon, 26 Sep 2022 06:08:14 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-douri/UthmanicDouri_v2-0.zip"
       },
       "checksums": {
         "published": {
@@ -676,7 +687,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 11,
-      "total_bytes": 24583252
+      "total_bytes": 24583252,
+      "archive_bytes": 8788270
     },
     {
       "slug": "uthmanic-sousi",
@@ -694,7 +706,8 @@
         "size_human": "8.45 MB",
         "downloads_count_at_capture": 194,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 27 Sep 2022 05:32:13 GMT"
+        "server_last_modified": "Tue, 27 Sep 2022 05:32:13 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0.zip"
       },
       "checksums": {
         "published": {
@@ -788,7 +801,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 11,
-      "total_bytes": 24704974
+      "total_bytes": 24704974,
+      "archive_bytes": 8860083
     },
     {
       "slug": "hafs-tafseer-mouaser",
@@ -806,7 +820,8 @@
         "size_human": "7.52 MB",
         "downloads_count_at_capture": 563,
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 26 Nov 2024 11:04:34 GMT"
+        "server_last_modified": "Tue, 26 Nov 2024 11:04:34 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3.zip"
       },
       "checksums": {
         "published": {
@@ -900,7 +915,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 10,
-      "total_bytes": 30483089
+      "total_bytes": 30483089,
+      "archive_bytes": 7885418
     },
     {
       "slug": "muyassar-ghareeb",

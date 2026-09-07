@@ -7,10 +7,10 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | تقويم مواقيت الصلاة | 13.41 MB | — | [Praying-Calender-1448-MAKKAH.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-makkah/Praying-Calender-1448-MAKKAH.pdf) |
-| 2 | تقويم مواقيت الصلاة | 13.40 MB | — | [Praying-Calender-1448-MADINAH.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-madinah/Praying-Calender-1448-MADINAH.pdf) |
-| 3 | تقويم مواقيت الصلاة | 13.40 MB | — | [Praying-Calender-1448-RIYADH.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-riyadh/Praying-Calender-1448-RIYADH.pdf) |
-| 4 | تقويم مواقيت الصلاة | 13.40 MB | — | [Praying-Calender-1448-DAMMAM.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-dammam/Praying-Calender-1448-DAMMAM.pdf) |
+| 1 | تقويم مواقيت الصلاة 1448هـ – مكة المكرمة<br>`Prayer-Time Calendar 1448H – Makkah` | 13.41 MB | — | [Praying-Calender-1448-MAKKAH.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-makkah/Praying-Calender-1448-MAKKAH.pdf) |
+| 2 | تقويم مواقيت الصلاة 1448هـ – المدينة المنورة<br>`Prayer-Time Calendar 1448H – Madinah` | 13.40 MB | — | [Praying-Calender-1448-MADINAH.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-madinah/Praying-Calender-1448-MADINAH.pdf) |
+| 3 | تقويم مواقيت الصلاة 1448هـ – الرياض<br>`Prayer-Time Calendar 1448H – Riyadh` | 13.40 MB | — | [Praying-Calender-1448-RIYADH.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-riyadh/Praying-Calender-1448-RIYADH.pdf) |
+| 4 | تقويم مواقيت الصلاة 1448هـ – الدمام<br>`Prayer-Time Calendar 1448H – Dammam` | 13.40 MB | — | [Praying-Calender-1448-DAMMAM.pdf](https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-dammam/Praying-Calender-1448-DAMMAM.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

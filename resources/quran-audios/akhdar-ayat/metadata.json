@@ -13,7 +13,8 @@
     "size_bytes": 1276378123,
     "size_human": "1.19 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Thu, 03 Feb 2022 11:36:22 GMT"
+    "server_last_modified": "Thu, 03 Feb 2022 11:36:22 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-ayat/akhdar-ayat.zip"
   },
   "checksums": {
     "computed": {
@@ -31773,5 +31774,6 @@
       "size_bytes": 90072,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-ayat/ayat/114%20An-Nas%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3/10-114C00-A02.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 1276378123
 }

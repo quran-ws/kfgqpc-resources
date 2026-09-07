@@ -13,7 +13,8 @@
     "size_bytes": 3304375040,
     "size_human": "3.08 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Wed, 13 May 2026 06:00:41 GMT"
+    "server_last_modified": "Wed, 13 May 2026 06:00:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/tajik-sura/sura.zip"
   },
   "checksums": {
     "computed": {
@@ -603,5 +604,6 @@
       "size_bytes": 1586053,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/tajik-sura/tajik-sura/114-An-Nas-%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 3304375040
 }

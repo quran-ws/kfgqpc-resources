@@ -14,7 +14,8 @@
     "size_human": "8.62 MB",
     "downloads_count_at_capture": 451,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Wed, 07 Sep 2022 11:08:44 GMT"
+    "server_last_modified": "Wed, 07 Sep 2022 11:08:44 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1.zip"
   },
   "checksums": {
     "published": {
@@ -165,5 +166,6 @@
       "size_bytes": 871636,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20font/uthmanic_warsh_v21.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 9042379
 }

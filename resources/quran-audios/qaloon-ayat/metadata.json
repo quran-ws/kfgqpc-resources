@@ -13,7 +13,8 @@
     "size_bytes": 797610252,
     "size_human": "760.66 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Thu, 03 Feb 2022 12:14:11 GMT"
+    "server_last_modified": "Thu, 03 Feb 2022 12:14:11 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-ayat/ayat.zip"
   },
   "checksums": {
     "computed": {
@@ -31668,5 +31669,6 @@
       "size_bytes": 67968,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-ayat/ayat/114%20An-Nas%20%EF%BF%BD%EF%BF%BD%EB%9F%AB/01-114C00-A01.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 797610252
 }

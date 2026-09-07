@@ -13,7 +13,8 @@
     "size_bytes": 1207749085,
     "size_human": "1.12 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Thu, 03 Feb 2022 11:43:38 GMT"
+    "server_last_modified": "Thu, 03 Feb 2022 11:43:38 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/akhdar-sura.zip"
   },
   "checksums": {
     "computed": {
@@ -598,5 +599,6 @@
       "size_bytes": 497536,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-114D00-A02.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 1207749085
 }

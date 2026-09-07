@@ -21,7 +21,8 @@
         "size_bytes": 842634506,
         "size_human": "803.60 MB",
         "content_type": "application/octet-stream",
-        "server_last_modified": "Thu, 03 Feb 2022 11:53:24 GMT"
+        "server_last_modified": "Thu, 03 Feb 2022 11:53:24 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-ayat/huthify-ayat.rar"
       },
       "checksums": {
         "computed": {
@@ -34,7 +35,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6350,
-      "total_bytes": 987137904
+      "total_bytes": 987137904,
+      "archive_bytes": 842634506
     },
     {
       "slug": "huthify-sura",
@@ -51,7 +53,8 @@
         "size_bytes": 841178386,
         "size_human": "802.21 MB",
         "content_type": "application/octet-stream",
-        "server_last_modified": "Thu, 03 Feb 2022 11:56:53 GMT"
+        "server_last_modified": "Thu, 03 Feb 2022 11:56:53 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/huthify-sura.rar"
       },
       "checksums": {
         "computed": {
@@ -64,7 +67,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 863351488
+      "total_bytes": 863351488,
+      "archive_bytes": 841178386
     },
     {
       "slug": "ayat-12-1-2020",
@@ -81,7 +85,8 @@
         "size_bytes": 760867237,
         "size_human": "725.62 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 06 Feb 2022 05:13:36 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:13:36 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayat-12-1-2020/ayat-12-1-2020.zip"
       },
       "checksums": {
         "computed": {
@@ -94,7 +99,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6350,
-      "total_bytes": 911032184
+      "total_bytes": 911032184,
+      "archive_bytes": 760867237
     },
     {
       "slug": "sura-12-1-2020",
@@ -111,7 +117,8 @@
         "size_bytes": 1319089096,
         "size_human": "1.23 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 06 Feb 2022 05:21:51 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:21:51 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura-12-1-2020.zip"
       },
       "checksums": {
         "computed": {
@@ -124,7 +131,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 115,
-      "total_bytes": 1407650656
+      "total_bytes": 1407650656,
+      "archive_bytes": 1319089096
     },
     {
       "slug": "ayyoub-ayat",
@@ -141,7 +149,8 @@
         "size_bytes": 961236527,
         "size_human": "916.71 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Mon, 03 Apr 2023 08:17:26 GMT"
+        "server_last_modified": "Mon, 03 Apr 2023 08:17:26 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayyoub-ayat/ayyoub-ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -154,7 +163,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6350,
-      "total_bytes": 1092999160
+      "total_bytes": 1092999160,
+      "archive_bytes": 961236527
     },
     {
       "slug": "ayyoub-sura",
@@ -171,7 +181,8 @@
         "size_bytes": 912643477,
         "size_human": "870.36 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Thu, 03 Feb 2022 11:48:58 GMT"
+        "server_last_modified": "Thu, 03 Feb 2022 11:48:58 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayyoub-sura/ayyoub-sura.zip"
       },
       "checksums": {
         "computed": {
@@ -184,7 +195,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 932560576
+      "total_bytes": 932560576,
+      "archive_bytes": 912643477
     },
     {
       "slug": "muhanna-ayat",
@@ -201,7 +213,8 @@
         "size_bytes": 1120110331,
         "size_human": "1.04 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 06 Feb 2022 05:30:48 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:30:48 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/muhanna-ayat/muhanna-ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -214,7 +227,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6349,
-      "total_bytes": 1288777382
+      "total_bytes": 1288777382,
+      "archive_bytes": 1120110331
     },
     {
       "slug": "muhanna-sura",
@@ -231,7 +245,8 @@
         "size_bytes": 1087643444,
         "size_human": "1.01 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 06 Feb 2022 05:36:08 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:36:08 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/muhanna-sura/muhanna-sura.zip"
       },
       "checksums": {
         "computed": {
@@ -244,7 +259,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 1109266023
+      "total_bytes": 1109266023,
+      "archive_bytes": 1087643444
     },
     {
       "slug": "akhdar-ayat",
@@ -261,7 +277,8 @@
         "size_bytes": 1276378123,
         "size_human": "1.19 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Thu, 03 Feb 2022 11:36:22 GMT"
+        "server_last_modified": "Thu, 03 Feb 2022 11:36:22 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-ayat/akhdar-ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -274,7 +291,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6349,
-      "total_bytes": 1421542504
+      "total_bytes": 1421542504,
+      "archive_bytes": 1276378123
     },
     {
       "slug": "akhdar-sura",
@@ -291,7 +309,8 @@
         "size_bytes": 1207749085,
         "size_human": "1.12 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Thu, 03 Feb 2022 11:43:38 GMT"
+        "server_last_modified": "Thu, 03 Feb 2022 11:43:38 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/akhdar-sura.zip"
       },
       "checksums": {
         "computed": {
@@ -304,7 +323,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 1224220104
+      "total_bytes": 1224220104,
+      "archive_bytes": 1207749085
     },
     {
       "slug": "huthify-shuba-ayat",
@@ -321,7 +341,8 @@
         "size_bytes": 756861762,
         "size_human": "721.80 MB",
         "content_type": "application/octet-stream",
-        "server_last_modified": "Sun, 06 Feb 2022 05:04:39 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:04:39 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-ayat/huthify-shuba-ayat.rar"
       },
       "checksums": {
         "computed": {
@@ -334,7 +355,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6349,
-      "total_bytes": 849121894
+      "total_bytes": 849121894,
+      "archive_bytes": 756861762
     },
     {
       "slug": "huthify-shuba-sura",
@@ -351,7 +373,8 @@
         "size_bytes": 732017102,
         "size_human": "698.11 MB",
         "content_type": "application/octet-stream",
-        "server_last_modified": "Sun, 06 Feb 2022 05:09:16 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:09:16 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/huthify-shuba-sura.rar"
       },
       "checksums": {
         "computed": {
@@ -364,7 +387,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 753370074
+      "total_bytes": 753370074,
+      "archive_bytes": 732017102
     },
     {
       "slug": "qaloon-ayat",
@@ -381,7 +405,8 @@
         "size_bytes": 797610252,
         "size_human": "760.66 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Thu, 03 Feb 2022 12:14:11 GMT"
+        "server_last_modified": "Thu, 03 Feb 2022 12:14:11 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-ayat/ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -394,7 +419,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6328,
-      "total_bytes": 897990848
+      "total_bytes": 897990848,
+      "archive_bytes": 797610252
     },
     {
       "slug": "qaloon-sura",
@@ -411,7 +437,8 @@
         "size_bytes": 756575811,
         "size_human": "721.53 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 21 Apr 2026 10:41:23 GMT"
+        "server_last_modified": "Tue, 21 Apr 2026 10:41:23 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/sura.zip"
       },
       "checksums": {
         "computed": {
@@ -424,7 +451,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 775019584
+      "total_bytes": 775019584,
+      "archive_bytes": 756575811
     },
     {
       "slug": "sediki-ayat",
@@ -441,7 +469,8 @@
         "size_bytes": 3493987817,
         "size_human": "3.25 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Tue, 19 Sep 2023 05:47:10 GMT"
+        "server_last_modified": "Tue, 19 Sep 2023 05:47:10 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-ayat/sediki-ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -454,7 +483,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6331,
-      "total_bytes": 3998017475
+      "total_bytes": 3998017475,
+      "archive_bytes": 3493987817
     },
     {
       "slug": "sediki-sura",
@@ -471,7 +501,8 @@
         "size_bytes": 2652809311,
         "size_human": "2.47 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Wed, 15 Feb 2023 11:31:41 GMT"
+        "server_last_modified": "Wed, 15 Feb 2023 11:31:41 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki-sura.zip"
       },
       "checksums": {
         "computed": {
@@ -484,7 +515,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 114,
-      "total_bytes": 2832030144
+      "total_bytes": 2832030144,
+      "archive_bytes": 2652809311
     },
     {
       "slug": "juhani-ayat",
@@ -501,7 +533,8 @@
         "size_bytes": 1661598927,
         "size_human": "1.55 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Wed, 24 Jan 2024 06:09:38 GMT"
+        "server_last_modified": "Wed, 24 Jan 2024 06:09:38 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-ayat/ayat.zip"
       },
       "checksums": {
         "computed": {
@@ -514,7 +547,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 6332,
-      "total_bytes": 1741259838
+      "total_bytes": 1741259838,
+      "archive_bytes": 1661598927
     },
     {
       "slug": "juhani-sura",
@@ -531,7 +565,8 @@
         "size_bytes": 1622785417,
         "size_human": "1.51 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 28 May 2023 10:33:33 GMT"
+        "server_last_modified": "Sun, 28 May 2023 10:33:33 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura.zip"
       },
       "checksums": {
         "computed": {
@@ -544,7 +579,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 115,
-      "total_bytes": 1759511150
+      "total_bytes": 1759511150,
+      "archive_bytes": 1622785417
     }
   ]
 }

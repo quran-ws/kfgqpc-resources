@@ -13,7 +13,8 @@
     "size_bytes": 1661598927,
     "size_human": "1.55 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Wed, 24 Jan 2024 06:09:38 GMT"
+    "server_last_modified": "Wed, 24 Jan 2024 06:09:38 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-ayat/ayat.zip"
   },
   "checksums": {
     "computed": {
@@ -31688,5 +31689,6 @@
       "size_bytes": 98119,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-ayat/ayat/114%20An-Nas%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3/05-114C00-A09.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 1661598927
 }

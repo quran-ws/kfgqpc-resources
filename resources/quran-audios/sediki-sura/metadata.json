@@ -13,7 +13,8 @@
     "size_bytes": 2652809311,
     "size_human": "2.47 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Wed, 15 Feb 2023 11:31:41 GMT"
+    "server_last_modified": "Wed, 15 Feb 2023 11:31:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki-sura.zip"
   },
   "checksums": {
     "computed": {
@@ -598,5 +599,6 @@
       "size_bytes": 771033,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-114D00-10mp3.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 2652809311
 }

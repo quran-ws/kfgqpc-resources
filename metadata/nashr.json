@@ -21,7 +21,8 @@
         "size_bytes": 141137879,
         "size_human": "134.60 MB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Mon, 24 Jun 2024 11:13:32 GMT"
+        "server_last_modified": "Mon, 24 Jun 2024 11:13:32 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/nashr/mushaf-publisher-win-setup/Mushaf_Publisher_Win_Setup_V3.16.zip"
       },
       "checksums": {
         "computed": {
@@ -34,7 +35,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 2,
-      "total_bytes": 143400960
+      "total_bytes": 143400960,
+      "archive_bytes": 141137879
     },
     {
       "slug": "generalhelp",

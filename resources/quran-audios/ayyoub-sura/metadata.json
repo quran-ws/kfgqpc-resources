@@ -13,7 +13,8 @@
     "size_bytes": 912643477,
     "size_human": "870.36 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Thu, 03 Feb 2022 11:48:58 GMT"
+    "server_last_modified": "Thu, 03 Feb 2022 11:48:58 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayyoub-sura/ayyoub-sura.zip"
   },
   "checksums": {
     "computed": {
@@ -598,5 +599,6 @@
       "size_bytes": 411328,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/ayyoub-sura/ayyoub-sura/10-114D00-A03.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 912643477
 }

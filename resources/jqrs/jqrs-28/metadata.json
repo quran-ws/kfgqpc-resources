@@ -3,28 +3,19 @@
   "page_order": 3,
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
-  "source_page_title": "الصفحة الرئيسية",
   "title": {
     "ar": "مجلة البحوث والدراسات القرآنية – العدد 28",
     "en": "Journal of Qur'anic Research and Studies – Issue 28"
   },
-  "context": {
-    "link_text": "العدد الثامن والعشرون",
-    "nearest_heading": "سكرتير التحرير",
-    "surrounding_text": ">\nالعدد الثامن والعشرون\n<div class=\"elementor-element elementor-element-35c7dac elementor-widge"
-  },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_28.pdf",
     "filename": "JQRS_28.pdf",
-    "stored_path": "resources/jqrs/jqrs-28/JQRS_28.pdf",
     "size_bytes": 41878684,
     "size_human": "39.94 MB",
     "content_type": null,
     "server_last_modified": null,
-    "etag": null
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-28/JQRS_28.pdf"
   },
-  "stored": true,
-  "not_stored_reason": null,
   "checksums": {
     "computed": {
       "md5": "7b41df9b7237057a60ce9fdd7763a9d3",
@@ -32,8 +23,16 @@
       "sha256": "0701ccdab47d65ca0153b0f1ac82efe8df24ea99e5feadddff3d92b6046076ca"
     }
   },
-  "contents": null,
-  "capture": {
-    "captured_at": "2026-09-07T15:26:31Z"
-  }
+  "captured_at": "2026-09-07T15:26:31Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 41878684,
+  "files": [
+    {
+      "path": "JQRS_28.pdf",
+      "size_bytes": 41878684,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-28/JQRS_28.pdf"
+    }
+  ]
 }

@@ -4,20 +4,26 @@
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
   "title": {
-    "ar": "مجلة البحوث والدراسات القرآنية – العدد 13",
-    "en": "Journal of Qur'anic Research and Studies – Issue 13"
+    "ar": "العدد الثالث عشر",
+    "en": null
   },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_13.pdf",
     "filename": "JQRS_13.pdf",
     "size_bytes": 63296649,
     "size_human": "60.36 MB",
-    "content_type": "application/pdf",
-    "server_last_modified": "Wed, 25 Dec 2024 08:36:16 GMT",
+    "content_type": null,
+    "server_last_modified": null,
     "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-13/JQRS_13.pdf"
   },
-  "checksums": null,
-  "captured_at": "2026-09-02T10:29:05Z",
+  "checksums": {
+    "computed": {
+      "md5": "4c5277f67676b99ffed37a8bc56fbbdf",
+      "sha1": "cb83c3b7208e32b818eee386503e712717a2ba8e",
+      "sha256": "24edcf53373e602c75bd63b243f1697faebc817b85f1dc7159c5cb9cfa3bad5b"
+    }
+  },
+  "captured_at": "2026-09-07T15:26:31Z",
   "available": true,
   "archive_extracted": false,
   "file_count": 1,

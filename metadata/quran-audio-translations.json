@@ -21,7 +21,8 @@
         "size_bytes": 3304375040,
         "size_human": "3.08 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Wed, 13 May 2026 06:00:41 GMT"
+        "server_last_modified": "Wed, 13 May 2026 06:00:41 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/tajik-sura/sura.zip"
       },
       "checksums": {
         "computed": {
@@ -34,7 +35,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 115,
-      "total_bytes": 3387911426
+      "total_bytes": 3387911426,
+      "archive_bytes": 3304375040
     },
     {
       "slug": "oromo-sura",
@@ -51,7 +53,8 @@
         "size_bytes": 3610471724,
         "size_human": "3.36 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 06 Feb 2022 05:56:15 GMT"
+        "server_last_modified": "Sun, 06 Feb 2022 05:56:15 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/sura.zip"
       },
       "checksums": {
         "computed": {
@@ -64,7 +67,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 118,
-      "total_bytes": 3737768227
+      "total_bytes": 3737768227,
+      "archive_bytes": 3610471724
     },
     {
       "slug": "mandankiya-jakhankiyah-sura",
@@ -81,7 +85,8 @@
         "size_bytes": 4181040043,
         "size_human": "3.89 GB",
         "content_type": "application/x-zip-compressed",
-        "server_last_modified": "Sun, 04 Jun 2023 06:46:52 GMT"
+        "server_last_modified": "Sun, 04 Jun 2023 06:46:52 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/sura.zip"
       },
       "checksums": {
         "computed": {
@@ -94,7 +99,8 @@
       "available": true,
       "archive_extracted": true,
       "file_count": 115,
-      "total_bytes": 4481791764
+      "total_bytes": 4481791764,
+      "archive_bytes": 4181040043
     }
   ]
 }

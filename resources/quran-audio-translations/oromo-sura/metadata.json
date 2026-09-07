@@ -13,7 +13,8 @@
     "size_bytes": 3610471724,
     "size_human": "3.36 GB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Sun, 06 Feb 2022 05:56:15 GMT"
+    "server_last_modified": "Sun, 06 Feb 2022 05:56:15 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/sura.zip"
   },
   "checksums": {
     "computed": {
@@ -618,5 +619,6 @@
       "size_bytes": 3204626,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/114-An-Nas-%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 3610471724
 }

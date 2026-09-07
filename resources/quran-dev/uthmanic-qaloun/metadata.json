@@ -14,7 +14,8 @@
     "size_human": "8.36 MB",
     "downloads_count_at_capture": 287,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Mon, 26 Sep 2022 06:05:57 GMT"
+    "server_last_modified": "Mon, 26 Sep 2022 06:05:57 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1.zip"
   },
   "checksums": {
     "published": {
@@ -165,5 +166,6 @@
       "size_bytes": 878696,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20font/uthmanic_qaloun_v21.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 8763948
 }

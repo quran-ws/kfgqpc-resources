@@ -13,7 +13,8 @@
     "size_bytes": 466430736,
     "size_human": "444.82 MB",
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Sun, 10 Apr 2022 06:53:15 GMT"
+    "server_last_modified": "Sun, 10 Apr 2022 06:53:15 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441-AI-hafs.zip"
   },
   "checksums": {
     "computed": {
@@ -3048,5 +3049,6 @@
       "size_bytes": 790241,
       "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/604___Hafs39__DM.ai"
     }
-  ]
+  ],
+  "archive_bytes": 466430736
 }

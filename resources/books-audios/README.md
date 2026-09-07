@@ -7,9 +7,9 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | حقوق الاستخدام | 838.76 MB | — | [تصفّح 6352 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/books-audios__tafseer-muyassar-ayat.html) |
-| 2 | حقوق الاستخدام | 84.57 MB | — | [تصفّح 242 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/books-audios__tajweed-muyassar.html) |
-| 3 | تحميل الكتاب لسور المصحف كاملاً | 285.04 MB | — | [تصفّح 114 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/books-audios__muyassar-ghareeb-sura.html) |
+| 1 | التفسير الميسّر – آية آية (صوتي)<br>`Al-Tafsir Al-Muyassar – Verse by Verse (Audio)` | 838.76 MB | — | [TafseerMuyassar-ayat.zip](https://cdn.quran.ws/KFGQPC/resources/books-audios/tafseer-muyassar-ayat/TafseerMuyassar-ayat.zip) 709.08 MB<br>[تصفّح 6352 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/books-audios__tafseer-muyassar-ayat.html) |
+| 2 | التجويد الميسّر (صوتي)<br>`Al-Tajweed Al-Muyassar (Audio)` | 84.57 MB | — | [TajweedMuyassar.zip](https://cdn.quran.ws/KFGQPC/resources/books-audios/tajweed-muyassar/TajweedMuyassar.zip) 73.12 MB<br>[تصفّح 242 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/books-audios__tajweed-muyassar.html) |
+| 3 | تحميل الكتاب لسور المصحف كاملاً | 285.04 MB | — | [MuyassarGhareeb-sura.zip](https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/MuyassarGhareeb-sura.zip) 260.39 MB<br>[تصفّح 114 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/books-audios__muyassar-ghareeb-sura.html) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

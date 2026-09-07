@@ -7,9 +7,9 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | تحميل الكتاب لسور المصحف كاملاً | 3.16 GB | — | [تصفّح 115 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/quran-audio-translations__tajik-sura.html) |
-| 2 | تحميل الكتاب لسور المصحف كاملاً | 3.48 GB | — | [تصفّح 118 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/quran-audio-translations__oromo-sura.html) |
-| 3 | تحميل الكتاب لسور المصحف كاملاً | 4.17 GB | — | [تصفّح 115 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/quran-audio-translations__mandankiya-jakhankiyah-sura.html) |
+| 1 | الترجمة الصوتية لمعاني القرآن الكريم – باللغة الطاجيكية<br>`Audio Translation of the Qur'an's Meanings – Tajik` | 3.16 GB | — | [sura.zip](https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/tajik-sura/sura.zip) 3.08 GB<br>[تصفّح 115 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/quran-audio-translations__tajik-sura.html) |
+| 2 | الترجمة الصوتية لمعاني القرآن الكريم – باللغة الأورومية<br>`Audio Translation of the Qur'an's Meanings – Oromo` | 3.48 GB | — | [sura.zip](https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/sura.zip) 3.36 GB<br>[تصفّح 118 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/quran-audio-translations__oromo-sura.html) |
+| 3 | الترجمة الصوتية لمعاني القرآن الكريم – بلغتي الماندينكا والجاخانكي<br>`Audio Translation of the Qur'an's Meanings – Mandinka / Jakhanke` | 4.17 GB | — | [sura.zip](https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/sura.zip) 3.89 GB<br>[تصفّح 115 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/quran-audio-translations__mandankiya-jakhankiyah-sura.html) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

@@ -14,7 +14,8 @@
     "size_human": "8.45 MB",
     "downloads_count_at_capture": 194,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Tue, 27 Sep 2022 05:32:13 GMT"
+    "server_last_modified": "Tue, 27 Sep 2022 05:32:13 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0.zip"
   },
   "checksums": {
     "published": {
@@ -165,5 +166,6 @@
       "size_bytes": 800348,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20font/uthmanic_sousi_v20.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 8860083
 }

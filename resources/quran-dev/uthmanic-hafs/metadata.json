@@ -14,7 +14,8 @@
     "size_human": "10.23 MB",
     "downloads_count_at_capture": 1385,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Tue, 19 Sep 2023 06:42:05 GMT"
+    "server_last_modified": "Tue, 19 Sep 2023 06:42:05 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0.zip"
   },
   "checksums": {
     "published": {
@@ -165,5 +166,6 @@
       "size_bytes": 795444,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20font/uthmanic_hafs_v20.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 10729285
 }

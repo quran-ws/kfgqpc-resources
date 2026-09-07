@@ -13,7 +13,8 @@
     "size_bytes": 756861762,
     "size_human": "721.80 MB",
     "content_type": "application/octet-stream",
-    "server_last_modified": "Sun, 06 Feb 2022 05:04:39 GMT"
+    "server_last_modified": "Sun, 06 Feb 2022 05:04:39 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-ayat/huthify-shuba-ayat.rar"
   },
   "checksums": {
     "computed": {
@@ -31773,5 +31774,6 @@
       "size_bytes": 53449,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-ayat/%D8%A2%D9%8A%D8%A7%D8%AA%20-%202020.1.19/114%20An-Nas%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3/09-114C00-A01.mp3"
     }
-  ]
+  ],
+  "archive_bytes": 756861762
 }

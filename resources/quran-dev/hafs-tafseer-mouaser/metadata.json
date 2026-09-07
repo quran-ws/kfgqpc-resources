@@ -14,7 +14,8 @@
     "size_human": "7.52 MB",
     "downloads_count_at_capture": 563,
     "content_type": "application/x-zip-compressed",
-    "server_last_modified": "Tue, 26 Nov 2024 11:04:34 GMT"
+    "server_last_modified": "Tue, 26 Nov 2024 11:04:34 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3.zip"
   },
   "checksums": {
     "published": {
@@ -160,5 +161,6 @@
       "size_bytes": 795444,
       "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_fonts/uthmanic_hafs_v20.ttf"
     }
-  ]
+  ],
+  "archive_bytes": 7885418
 }

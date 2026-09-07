@@ -139,6 +139,10 @@ bdi{unicode-bidi:isolate}
 .dl:hover{filter:brightness(1.08)}
 .dl.off{background:var(--raise); color:var(--ink-faint); border:1px solid var(--line)}
 
+.acts{display:flex; flex-direction:column; gap:6px; align-items:stretch}
+.dl em{font-style:normal; opacity:.75; margin-inline-start:7px; font-size:12px}
+.dl.alt{background:var(--raise); color:var(--ink); border:1px solid var(--line)}
+.dl.alt:hover{border-color:var(--ink-faint); filter:none}
 .more{margin-top:11px}
 .more summary{cursor:pointer; font-size:12.5px; color:var(--ink-soft);
   list-style:none; display:inline-flex; align-items:center; gap:6px;
@@ -195,4 +199,63 @@ footer .wrap{display:grid; grid-template-columns:1fr 1fr; gap:22px 34px}
 footer p{margin:0 0 8px; font-size:13px; color:var(--ink-soft); line-height:1.7}
 footer h3{margin:0 0 8px; font-size:12px; letter-spacing:.09em;
   text-transform:uppercase; color:var(--ink-faint)}
+
+/* ---- file rows: preview control + path + size on one baseline ---- */
+.flist li{display:flex; gap:10px; align-items:center; padding:3px 0;
+  border-bottom:1px dotted var(--line)}
+.pv{flex:none; width:22px; height:22px; padding:0; cursor:pointer;
+  display:grid; place-items:center; font-size:10px; line-height:1;
+  color:var(--accent); background:var(--accent-soft);
+  border:1px solid transparent; border-radius:50%; font-family:var(--f-mo)}
+.pv:hover{border-color:var(--accent)}
+html[dir="rtl"] .pv{transform:scaleX(-1)}
+
+/* ---- preview overlay ---- */
+.ov{position:fixed; inset:0; z-index:60; display:grid; place-items:center;
+  padding:24px; background:rgba(8,14,11,.62); backdrop-filter:blur(2px)}
+.ov-box{width:min(940px,100%); max-height:86vh; display:flex; flex-direction:column;
+  background:var(--surface); border:1px solid var(--line);
+  border-radius:calc(var(--r) + 2px); overflow:hidden;
+  box-shadow:0 18px 50px rgba(0,0,0,.28)}
+.ov-h{display:flex; align-items:center; gap:12px; padding:11px 14px;
+  border-bottom:1px solid var(--line); background:var(--raise)}
+.ov-t{flex:1; min-width:0; font-family:var(--f-mo); font-size:12.5px;
+  color:var(--ink-soft); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.ov-dl{flex:none; background:var(--accent); color:var(--accent-ink);
+  text-decoration:none; font-size:12.5px; font-weight:600;
+  padding:6px 13px; border-radius:var(--r)}
+.ov-dl:hover{filter:brightness(1.08)}
+.ov-x{flex:none; width:28px; height:28px; padding:0; cursor:pointer; font-size:19px;
+  line-height:1; color:var(--ink-soft); background:transparent;
+  border:1px solid var(--line); border-radius:var(--r)}
+.ov-x:hover{color:var(--ink); border-color:var(--ink-faint)}
+.ov-b{flex:1; min-height:0; overflow:auto; padding:16px; background:var(--ground)}
+.ov-pre{margin:0; white-space:pre-wrap; overflow-wrap:anywhere;
+  font-family:var(--f-mo); font-size:12px; line-height:1.65; color:var(--ink)}
+.ov-scroll{overflow-x:auto}
+.ov-tbl{border-collapse:collapse; font-size:12px; min-width:100%}
+.ov-tbl th,.ov-tbl td{border:1px solid var(--line); padding:4px 9px;
+  text-align:start; white-space:nowrap}
+.ov-tbl th{background:var(--raise); font-weight:600; position:sticky; top:0}
+.ov-img{display:block; max-width:100%; margin:0 auto; border-radius:var(--r)}
+.ov-frame{width:100%; height:min(70vh,760px); border:0; background:#fff;
+  border-radius:var(--r)}
+.ov-audio{width:100%}
+.ov-doc{background:var(--surface); padding:20px; border-radius:var(--r);
+  font-size:14px; line-height:1.8}
+.ov-doc img{max-width:100%}
+.ov-msg{margin:12px 0 0; font-size:12.5px; color:var(--ink-faint); text-align:center}
+
+
+/* ---- jump-to-group strip ---- */
+.gnav{display:flex; gap:6px; overflow-x:auto; padding:10px 20px 2px;
+  scrollbar-width:thin}
+.gnav a{flex:none; display:inline-flex; align-items:center; gap:7px;
+  font-size:12.5px; text-decoration:none; color:var(--ink-soft);
+  background:var(--surface); border:1px solid var(--line);
+  border-radius:100px; padding:5px 12px; white-space:nowrap}
+.gnav a:hover{color:var(--ink); border-color:var(--ink-faint)}
+.gnav a b{font-weight:600; color:var(--ink-faint); font-size:11px}
+.gnav a.on{color:var(--accent-ink); background:var(--accent); border-color:var(--accent)}
+.gnav a.on b{color:inherit; opacity:.8}
 @media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
