@@ -213,6 +213,8 @@ html[dir="rtl"] .pv{transform:scaleX(-1)}
 /* ---- preview overlay ---- */
 .ov{position:fixed; inset:0; z-index:60; display:grid; place-items:center;
   padding:24px; background:rgba(8,14,11,.62); backdrop-filter:blur(2px)}
+/* author display beats the UA [hidden] rule, so close() must be able to win */
+.ov[hidden]{display:none}
 .ov-box{width:min(940px,100%); max-height:86vh; display:flex; flex-direction:column;
   background:var(--surface); border:1px solid var(--line);
   border-radius:calc(var(--r) + 2px); overflow:hidden;

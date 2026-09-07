@@ -1,21 +1,22 @@
-# سكرتير التحرير
+# العدد الحادي عشر
 
 مصدر / Source: <https://jqrs.qurancomplex.gov.sa/>
 
 | | |
 |---|---|
-| الملف / File | `JQRS_11.pdf` — غير مخزّن هنا / not stored here |
+| الملف / File | [`JQRS_11.pdf`](./JQRS_11.pdf) |
 | الحجم / Size | 80.38 MB |
 | رابط التنزيل / Download URL | <https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_11.pdf> |
-| النوع / Content type | application/pdf |
-| آخر تعديل على الخادم / Server last-modified | Wed, 25 Dec 2024 08:18:26 GMT |
-| ETag | `"1ca9be92a556db1:0"` |
 | القسم / Section | سكرتير التحرير |
-| تاريخ الأرشفة / Archived | 2026-09-02T10:29:05Z |
+| تاريخ الأرشفة / Archived | 2026-09-07T15:26:31Z |
 
-## ملاحظة / Note
+## بصمات التحقق / Checksums
 
-⚠️ File is 80.38 MB, above the configured per-file limit for this pass; fetch it with tools/fetch_pending.py.
+| | |
+|---|---|
+| MD5 | `dec1db921e2e38eada76b34ae20abb66` |
+| SHA-1 | `8bc8f5addc8346ac0015f717be29fcad4fd6cee0` |
+| SHA-256 | `a7231c40288c020cfd69d74bbee3355d2a052b1a0eb200e525f19852faa138ac` |
 
 ## السياق في الصفحة / Page context
 
