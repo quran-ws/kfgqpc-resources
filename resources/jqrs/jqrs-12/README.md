@@ -1,4 +1,4 @@
-# سكرتير التحرير
+# العدد الثاني عشر
 
 مصدر / Source: <https://jqrs.qurancomplex.gov.sa/>
 
@@ -7,11 +7,8 @@
 | الملف / File | [`JQRS_12.pdf`](./JQRS_12.pdf) |
 | الحجم / Size | 27.81 MB |
 | رابط التنزيل / Download URL | <https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_12.pdf> |
-| النوع / Content type | application/pdf |
-| آخر تعديل على الخادم / Server last-modified | Wed, 25 Dec 2024 08:29:19 GMT |
-| ETag | `"e48da417a756db1:0"` |
 | القسم / Section | سكرتير التحرير |
-| تاريخ الأرشفة / Archived | 2026-09-02T10:29:05Z |
+| تاريخ الأرشفة / Archived | 2026-09-07T15:26:31Z |
 
 ## بصمات التحقق / Checksums
 
