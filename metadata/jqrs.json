@@ -365,7 +365,13 @@
         "server_last_modified": "Thu, 26 Dec 2024 04:53:43 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-18/JQRS_18.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "f885c8292e356f719b3ae3d5f079886a",
+          "sha1": "e4812d4d25a0ae129c43a9cf53fac56ca8411a0e",
+          "sha256": "2c618d32f3a4c2ecd23c636b631a072a72abcf71ec527a31a0bd52b2452f538d"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -390,7 +396,13 @@
         "server_last_modified": "Thu, 26 Dec 2024 04:46:38 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-17/JQRS_17.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "5e6efbb81bd97cdbac082fe8493a0c6e",
+          "sha1": "ba5613524c535d967d360cd75a34174ac44abd5a",
+          "sha256": "cad7c38079796e7d500f463e83c15d9b00e238acc9467eb6c84f600665b45510"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -415,7 +427,13 @@
         "server_last_modified": "Thu, 26 Dec 2024 03:39:14 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-16/JQRS_16.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "c0ba969ce38d5124521a7fd10a81ed7a",
+          "sha1": "9cf7c3352f92e4f6d5cf8b10e45328c6386993e8",
+          "sha256": "0554d43d23b5546b894599d87862919f2e94d6841e5dbf82a0a43e100126b5fe"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -521,16 +539,16 @@
       "group": "jqrs",
       "source_page": "https://jqrs.qurancomplex.gov.sa/",
       "title": {
-        "ar": "مجلة البحوث والدراسات القرآنية – العدد 12",
-        "en": "Journal of Qur'anic Research and Studies – Issue 12"
+        "ar": "العدد الثاني عشر",
+        "en": null
       },
       "download": {
         "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_12.pdf",
         "filename": "JQRS_12.pdf",
         "size_bytes": 29165391,
         "size_human": "27.81 MB",
-        "content_type": "application/pdf",
-        "server_last_modified": "Wed, 25 Dec 2024 08:29:19 GMT",
+        "content_type": null,
+        "server_last_modified": null,
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-12/JQRS_12.pdf"
       },
       "checksums": {
@@ -540,7 +558,7 @@
           "sha256": "1a27568002a756be96a739f00846d0efa9cb39244c577331953457c5d67600e9"
         }
       },
-      "captured_at": "2026-09-02T10:29:05Z",
+      "captured_at": "2026-09-07T15:26:31Z",
       "available": true,
       "archive_extracted": false,
       "file_count": 1,
@@ -552,20 +570,26 @@
       "group": "jqrs",
       "source_page": "https://jqrs.qurancomplex.gov.sa/",
       "title": {
-        "ar": "مجلة البحوث والدراسات القرآنية – العدد 11",
-        "en": "Journal of Qur'anic Research and Studies – Issue 11"
+        "ar": "العدد الحادي عشر",
+        "en": null
       },
       "download": {
         "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_11.pdf",
         "filename": "JQRS_11.pdf",
         "size_bytes": 84283962,
         "size_human": "80.38 MB",
-        "content_type": "application/pdf",
-        "server_last_modified": "Wed, 25 Dec 2024 08:18:26 GMT",
+        "content_type": null,
+        "server_last_modified": null,
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-11/JQRS_11.pdf"
       },
-      "checksums": null,
-      "captured_at": "2026-09-02T10:29:05Z",
+      "checksums": {
+        "computed": {
+          "md5": "dec1db921e2e38eada76b34ae20abb66",
+          "sha1": "8bc8f5addc8346ac0015f717be29fcad4fd6cee0",
+          "sha256": "a7231c40288c020cfd69d74bbee3355d2a052b1a0eb200e525f19852faa138ac"
+        }
+      },
+      "captured_at": "2026-09-07T15:26:31Z",
       "available": true,
       "archive_extracted": false,
       "file_count": 1,
@@ -577,20 +601,26 @@
       "group": "jqrs",
       "source_page": "https://jqrs.qurancomplex.gov.sa/",
       "title": {
-        "ar": "مجلة البحوث والدراسات القرآنية – العدد 10",
-        "en": "Journal of Qur'anic Research and Studies – Issue 10"
+        "ar": "العدد العاشر",
+        "en": null
       },
       "download": {
         "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_10.pdf",
         "filename": "JQRS_10.pdf",
         "size_bytes": 181820166,
         "size_human": "173.40 MB",
-        "content_type": "application/pdf",
-        "server_last_modified": "Thu, 23 Jan 2025 08:34:13 GMT",
+        "content_type": null,
+        "server_last_modified": null,
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-10/JQRS_10.pdf"
       },
-      "checksums": null,
-      "captured_at": "2026-09-02T10:29:05Z",
+      "checksums": {
+        "computed": {
+          "md5": "a2077769b54f404e00b146f054023165",
+          "sha1": "4f0c69b57d794f80c1eccf28e71c96c25ae6da4f",
+          "sha256": "e06f736d8b71a6c776887d3469efc55d28783066c887154a0eefcff20c04343f"
+        }
+      },
+      "captured_at": "2026-09-07T15:26:31Z",
       "available": true,
       "archive_extracted": false,
       "file_count": 1,
@@ -602,20 +632,26 @@
       "group": "jqrs",
       "source_page": "https://jqrs.qurancomplex.gov.sa/",
       "title": {
-        "ar": "مجلة البحوث والدراسات القرآنية – العدد 9",
-        "en": "Journal of Qur'anic Research and Studies – Issue 9"
+        "ar": "العدد التاسع",
+        "en": null
       },
       "download": {
         "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_09.pdf",
         "filename": "JQRS_09.pdf",
         "size_bytes": 256788819,
         "size_human": "244.89 MB",
-        "content_type": "application/pdf",
-        "server_last_modified": "Sun, 19 Jan 2025 05:58:02 GMT",
+        "content_type": null,
+        "server_last_modified": null,
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-09/JQRS_09.pdf"
       },
-      "checksums": null,
-      "captured_at": "2026-09-02T10:29:05Z",
+      "checksums": {
+        "computed": {
+          "md5": "9143bcd42eb1ea4d917d4661976ef6c2",
+          "sha1": "f9346e10972025fa6bb2652c593677d9b1ba5149",
+          "sha256": "54b81db9958d207bf5366a0739b1e3b29d1d5b79430a29a2afd2f2c25419bb40"
+        }
+      },
+      "captured_at": "2026-09-07T15:26:31Z",
       "available": true,
       "archive_extracted": false,
       "file_count": 1,
@@ -639,7 +675,13 @@
         "server_last_modified": "Sun, 19 Jan 2025 05:01:08 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-08/JQRS_08.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "3d89bc086cf94a42e2ce2daa23f8bdd6",
+          "sha1": "3c89234bb5dc852b463486a3e5eb369b99977aa4",
+          "sha256": "d34528bfa3f8b0d915c81f0c779f8120796325b981e537cb704f62ccf37152e7"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -664,7 +706,13 @@
         "server_last_modified": "Sun, 19 Jan 2025 04:53:47 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-07/JQRS_07.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "134f5f44462707d7254bab8edad5d096",
+          "sha1": "417514d7f227b414200beec89079304870035511",
+          "sha256": "25d894b6da3627ed9090bd936ca4fe835d29e2bd2770e042ae7cd3b628cd0f33"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -689,7 +737,13 @@
         "server_last_modified": "Thu, 23 Jan 2025 08:38:43 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-06/JQRS_06.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "f6a722a3e2c05e21bbb90c349a4e15d7",
+          "sha1": "f6562cf52af09930fb1b1eae0f4e4c4b035917af",
+          "sha256": "c754c073a5e531986406877547bfd8f65a2207f5a5bd759562d2ee0e581cdc1a"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -714,7 +768,13 @@
         "server_last_modified": "Thu, 23 Jan 2025 08:41:41 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-05/JQRS_05.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "e5a2daf8e68e901a805626f234a850cb",
+          "sha1": "bb9630bed330981dd678ee054f28362f5c6add39",
+          "sha256": "d064f9fedfefe5e5e6e00fe05924ff9205e6785f87e27e57ecdadf95885ef77a"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -739,7 +799,13 @@
         "server_last_modified": "Thu, 23 Jan 2025 08:45:18 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-04/JQRS_04.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "2ba33b3b5f198c726cc4940bbcd230bc",
+          "sha1": "cb69c2f1d716595db0d39852b9f10b3971733352",
+          "sha256": "a7e8e397bb36cb4c531d35e0d850bd703cbff6ac49dc21f792ab04a8f8b05b0d"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -764,7 +830,13 @@
         "server_last_modified": "Mon, 13 Jan 2025 08:11:26 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-03/JQRS_03.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "f294327887a168338a7edd60f060e951",
+          "sha1": "eccbf64d2bf20dcae9838d5bf353a68ca7eb104c",
+          "sha256": "56d047a732176de1e43b51bb4bc0311217237fa0faba37d5c407ed5b6dfeb2c1"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -789,7 +861,13 @@
         "server_last_modified": "Sun, 26 Jan 2025 07:09:00 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-02/JQRS_02.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "06d81280c5a47e343e575dff573fe0b4",
+          "sha1": "04543bdeaa4d31bec77d68fb0d3ee2be385d4311",
+          "sha256": "5185cbd183f5cc22fc876035a22ca7211ee6c23578dc86e4e8b3eb5eca83b7e2"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,
@@ -814,7 +892,13 @@
         "server_last_modified": "Mon, 13 Jan 2025 05:33:32 GMT",
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-01/JQRS_01.pdf"
       },
-      "checksums": null,
+      "checksums": {
+        "computed": {
+          "md5": "f6109ed3f82a43025678f1eaf3e9a447",
+          "sha1": "caaca84c7a6bc561cec733354cd571ae455808f9",
+          "sha256": "ab0adc5968838b702a45fadc85bea910a1e5a79c7e8491b0d96e28ff741f2f86"
+        }
+      },
       "captured_at": "2026-09-02T10:29:05Z",
       "available": true,
       "archive_extracted": false,

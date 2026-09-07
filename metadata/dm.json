@@ -68,11 +68,11 @@
       "archive_extracted": true,
       "file_count": 604,
       "total_bytes": 729521699,
+      "archive_bytes": 417437136,
       "recovery_note": {
         "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
         "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
-      },
-      "archive_bytes": 417437136
+      }
     },
     {
       "slug": "1443-qalon",
@@ -104,11 +104,11 @@
       "archive_extracted": true,
       "file_count": 604,
       "total_bytes": 563968124,
+      "archive_bytes": 551792593,
       "recovery_note": {
         "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
         "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
-      },
-      "archive_bytes": 551792593
+      }
     },
     {
       "slug": "1443-shubah",
@@ -140,11 +140,11 @@
       "archive_extracted": true,
       "file_count": 604,
       "total_bytes": 556352348,
+      "archive_bytes": 543538523,
       "recovery_note": {
         "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
         "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
-      },
-      "archive_bytes": 543538523
+      }
     },
     {
       "slug": "douri-1443",
@@ -176,11 +176,11 @@
       "archive_extracted": true,
       "file_count": 604,
       "total_bytes": 506079784,
+      "archive_bytes": 482791633,
       "recovery_note": {
         "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
         "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
-      },
-      "archive_bytes": 482791633
+      }
     }
   ]
 }

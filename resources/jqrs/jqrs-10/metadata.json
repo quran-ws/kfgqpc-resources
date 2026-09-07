@@ -4,20 +4,26 @@
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
   "title": {
-    "ar": "مجلة البحوث والدراسات القرآنية – العدد 10",
-    "en": "Journal of Qur'anic Research and Studies – Issue 10"
+    "ar": "العدد العاشر",
+    "en": null
   },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_10.pdf",
     "filename": "JQRS_10.pdf",
     "size_bytes": 181820166,
     "size_human": "173.40 MB",
-    "content_type": "application/pdf",
-    "server_last_modified": "Thu, 23 Jan 2025 08:34:13 GMT",
+    "content_type": null,
+    "server_last_modified": null,
     "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-10/JQRS_10.pdf"
   },
-  "checksums": null,
-  "captured_at": "2026-09-02T10:29:05Z",
+  "checksums": {
+    "computed": {
+      "md5": "a2077769b54f404e00b146f054023165",
+      "sha1": "4f0c69b57d794f80c1eccf28e71c96c25ae6da4f",
+      "sha256": "e06f736d8b71a6c776887d3469efc55d28783066c887154a0eefcff20c04343f"
+    }
+  },
+  "captured_at": "2026-09-07T15:26:31Z",
   "available": true,
   "archive_extracted": false,
   "file_count": 1,

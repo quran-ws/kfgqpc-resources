@@ -1,21 +1,22 @@
-# سكرتير التحرير
+# العدد العاشر
 
 مصدر / Source: <https://jqrs.qurancomplex.gov.sa/>
 
 | | |
 |---|---|
-| الملف / File | `JQRS_10.pdf` — غير مخزّن هنا / not stored here |
+| الملف / File | [`JQRS_10.pdf`](./JQRS_10.pdf) |
 | الحجم / Size | 173.40 MB |
 | رابط التنزيل / Download URL | <https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_10.pdf> |
-| النوع / Content type | application/pdf |
-| آخر تعديل على الخادم / Server last-modified | Thu, 23 Jan 2025 08:34:13 GMT |
-| ETag | `"74d1c294716ddb1:0"` |
 | القسم / Section | سكرتير التحرير |
-| تاريخ الأرشفة / Archived | 2026-09-02T10:29:05Z |
+| تاريخ الأرشفة / Archived | 2026-09-07T15:26:31Z |
 
-## ملاحظة / Note
+## بصمات التحقق / Checksums
 
-⚠️ File is 173.40 MB, above the configured per-file limit for this pass; fetch it with tools/fetch_pending.py.
+| | |
+|---|---|
+| MD5 | `a2077769b54f404e00b146f054023165` |
+| SHA-1 | `4f0c69b57d794f80c1eccf28e71c96c25ae6da4f` |
+| SHA-256 | `e06f736d8b71a6c776887d3469efc55d28783066c887154a0eefcff20c04343f` |
 
 ## السياق في الصفحة / Page context
 

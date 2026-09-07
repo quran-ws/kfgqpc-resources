@@ -4,20 +4,26 @@
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
   "title": {
-    "ar": "مجلة البحوث والدراسات القرآنية – العدد 9",
-    "en": "Journal of Qur'anic Research and Studies – Issue 9"
+    "ar": "العدد التاسع",
+    "en": null
   },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_09.pdf",
     "filename": "JQRS_09.pdf",
     "size_bytes": 256788819,
     "size_human": "244.89 MB",
-    "content_type": "application/pdf",
-    "server_last_modified": "Sun, 19 Jan 2025 05:58:02 GMT",
+    "content_type": null,
+    "server_last_modified": null,
     "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-09/JQRS_09.pdf"
   },
-  "checksums": null,
-  "captured_at": "2026-09-02T10:29:05Z",
+  "checksums": {
+    "computed": {
+      "md5": "9143bcd42eb1ea4d917d4661976ef6c2",
+      "sha1": "f9346e10972025fa6bb2652c593677d9b1ba5149",
+      "sha256": "54b81db9958d207bf5366a0739b1e3b29d1d5b79430a29a2afd2f2c25419bb40"
+    }
+  },
+  "captured_at": "2026-09-07T15:26:31Z",
   "available": true,
   "archive_extracted": false,
   "file_count": 1,

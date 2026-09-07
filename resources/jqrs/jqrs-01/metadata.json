@@ -16,7 +16,13 @@
     "server_last_modified": "Mon, 13 Jan 2025 05:33:32 GMT",
     "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-01/JQRS_01.pdf"
   },
-  "checksums": null,
+  "checksums": {
+    "computed": {
+      "md5": "f6109ed3f82a43025678f1eaf3e9a447",
+      "sha1": "caaca84c7a6bc561cec733354cd571ae455808f9",
+      "sha256": "ab0adc5968838b702a45fadc85bea910a1e5a79c7e8491b0d96e28ff741f2f86"
+    }
+  },
   "captured_at": "2026-09-02T10:29:05Z",
   "available": true,
   "archive_extracted": false,

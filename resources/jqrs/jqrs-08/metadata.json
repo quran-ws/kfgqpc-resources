@@ -3,30 +3,37 @@
   "page_order": 22,
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
+  "source_page_title": "الصفحة الرئيسية",
   "title": {
-    "ar": "مجلة البحوث والدراسات القرآنية – العدد 8",
-    "en": "Journal of Qur'anic Research and Studies – Issue 8"
+    "ar": "العدد الثامن",
+    "en": null
+  },
+  "context": {
+    "link_text": "العدد الثامن",
+    "nearest_heading": "سكرتير التحرير",
+    "surrounding_text": "den=\"true\" class=\"icon icon-download1\">\nالعدد الثامن\n<div class=\"elementor-element elementor-element-d7fc5a7 elementor-widge"
   },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_08.pdf",
     "filename": "JQRS_08.pdf",
+    "stored_path": "resources/jqrs/jqrs-08/JQRS_08.pdf",
     "size_bytes": 192620335,
     "size_human": "183.70 MB",
-    "content_type": "application/pdf",
-    "server_last_modified": "Sun, 19 Jan 2025 05:01:08 GMT",
-    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-08/JQRS_08.pdf"
+    "content_type": null,
+    "server_last_modified": null,
+    "etag": null
   },
-  "checksums": null,
-  "captured_at": "2026-09-02T10:29:05Z",
-  "available": true,
-  "archive_extracted": false,
-  "file_count": 1,
-  "total_bytes": 192620335,
-  "files": [
-    {
-      "path": "JQRS_08.pdf",
-      "size_bytes": 192620335,
-      "url": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-08/JQRS_08.pdf"
+  "stored": true,
+  "not_stored_reason": null,
+  "checksums": {
+    "computed": {
+      "md5": "3d89bc086cf94a42e2ce2daa23f8bdd6",
+      "sha1": "3c89234bb5dc852b463486a3e5eb369b99977aa4",
+      "sha256": "d34528bfa3f8b0d915c81f0c779f8120796325b981e537cb704f62ccf37152e7"
     }
-  ]
+  },
+  "contents": null,
+  "capture": {
+    "captured_at": "2026-09-07T15:26:31Z"
+  }
 }

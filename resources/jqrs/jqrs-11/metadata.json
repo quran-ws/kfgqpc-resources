@@ -3,28 +3,19 @@
   "page_order": 19,
   "group": "jqrs",
   "source_page": "https://jqrs.qurancomplex.gov.sa/",
-  "source_page_title": "الصفحة الرئيسية",
   "title": {
     "ar": "العدد الحادي عشر",
     "en": null
   },
-  "context": {
-    "link_text": "العدد الحادي عشر",
-    "nearest_heading": "سكرتير التحرير",
-    "surrounding_text": "icon-download1\">\nالعدد الحادي عشر\n<div class=\"elementor-element elementor-element-7f30a8d elementor-widge"
-  },
   "download": {
     "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_11.pdf",
     "filename": "JQRS_11.pdf",
-    "stored_path": "resources/jqrs/jqrs-11/JQRS_11.pdf",
     "size_bytes": 84283962,
     "size_human": "80.38 MB",
     "content_type": null,
     "server_last_modified": null,
-    "etag": null
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-11/JQRS_11.pdf"
   },
-  "stored": true,
-  "not_stored_reason": null,
   "checksums": {
     "computed": {
       "md5": "dec1db921e2e38eada76b34ae20abb66",
@@ -32,8 +23,16 @@
       "sha256": "a7231c40288c020cfd69d74bbee3355d2a052b1a0eb200e525f19852faa138ac"
     }
   },
-  "contents": null,
-  "capture": {
-    "captured_at": "2026-09-07T15:26:31Z"
-  }
+  "captured_at": "2026-09-07T15:26:31Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 84283962,
+  "files": [
+    {
+      "path": "JQRS_11.pdf",
+      "size_bytes": 84283962,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-11/JQRS_11.pdf"
+    }
+  ]
 }
