@@ -1,0 +1,47 @@
+{
+  "slug": "persian-1",
+  "page_order": 2,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الفارسية (فارسی)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Persian.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/persian-1.pdf",
+    "filename": "persian-1.pdf",
+    "size_bytes": 313305486,
+    "size_human": "298.79 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 21 Aug 2024 05:50:39 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/persian-1/persian-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ae5b502341d5d1ccbdb6eb64aab0d5b2",
+      "sha1": "992c9a5274bb508471ba7ea79b514cc444fab94b",
+      "sha256": "9f51078f391613bf0a8f9983cc6b259d87be29284fd9de32786c733058131a19"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 313374003,
+  "files": [
+    {
+      "path": "Persian.jpg",
+      "size_bytes": 68517,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/persian-1/Persian.jpg"
+    },
+    {
+      "path": "persian-1.pdf",
+      "size_bytes": 313305486,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/persian-1/persian-1.pdf"
+    }
+  ]
+}

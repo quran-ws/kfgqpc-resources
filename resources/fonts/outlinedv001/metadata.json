@@ -1,0 +1,38 @@
+{
+  "slug": "outlinedv001",
+  "page_order": 15,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/Outlinedv001.otf",
+    "filename": "Outlinedv001.otf",
+    "size_bytes": 282040,
+    "size_human": "275.4 KB",
+    "content_type": "font/otf",
+    "server_last_modified": "Mon, 21 Feb 2011 09:45:26 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/outlinedv001/Outlinedv001.otf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "90caa9680f167b8a060da78a748bd4f1",
+      "sha1": "f70f739d834f1cb678c8bcdd3ad4c00f35f995ed",
+      "sha256": "b9abd8c47cfa7496670075eb9e1bc07f4c046dabfa5f6633945ca1d22915110b"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 282040,
+  "files": [
+    {
+      "path": "Outlinedv001.otf",
+      "size_bytes": 282040,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/outlinedv001/Outlinedv001.otf"
+    }
+  ]
+}

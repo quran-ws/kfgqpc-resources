@@ -1,0 +1,47 @@
+{
+  "slug": "thikr-duaa",
+  "page_order": 11,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب الذكر والدعاء في ضوء الكتاب والسنة",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/thikr_duaa_arabic-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/ThikrDuaa.pdf",
+    "filename": "ThikrDuaa.pdf",
+    "size_bytes": 4888623,
+    "size_human": "4.66 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 11:49:48 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa/ThikrDuaa.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "6db26f968656c7d6e0298a4f499fd676",
+      "sha1": "904d63a0a5da31ce7316cd12d52f99f5e2dfa427",
+      "sha256": "81033482efe03c02c1f068f47a39a8e1f762000817dfc7a5f5b98fbdf5a72537"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 4920982,
+  "files": [
+    {
+      "path": "ThikrDuaa.pdf",
+      "size_bytes": 4888623,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa/ThikrDuaa.pdf"
+    },
+    {
+      "path": "thikr_duaa_arabic-1.jpg",
+      "size_bytes": 32359,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa/thikr_duaa_arabic-1.jpg"
+    }
+  ]
+}

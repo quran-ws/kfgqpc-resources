@@ -1,0 +1,47 @@
+{
+  "slug": "kurdish-surani-1",
+  "page_order": 1,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الكردية (اللهجة السورانية)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Kurdish.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kurdish-surani-1.pdf",
+    "filename": "kurdish-surani-1.pdf",
+    "size_bytes": 278963581,
+    "size_human": "266.04 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 20 Aug 2024 11:17:23 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-surani-1/kurdish-surani-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "52c7231544cb11d6e44276ce2474fff6",
+      "sha1": "f29dfd3f849402f634610a9aef0f8968df50cc75",
+      "sha256": "71ee98ff6195c7352d67721d8f096577f5f2a8d839992d9cbfbb1c9c2b66cac7"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 279040718,
+  "files": [
+    {
+      "path": "Kurdish.jpg",
+      "size_bytes": 77137,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-surani-1/Kurdish.jpg"
+    },
+    {
+      "path": "kurdish-surani-1.pdf",
+      "size_bytes": 278963581,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-surani-1/kurdish-surani-1.pdf"
+    }
+  ]
+}

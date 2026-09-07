@@ -1,0 +1,47 @@
+{
+  "slug": "dari-1",
+  "page_order": 3,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الفارسية الدرية (دری‎)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Dari.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/dari-1.pdf",
+    "filename": "dari-1.pdf",
+    "size_bytes": 292909759,
+    "size_human": "279.34 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 20 Aug 2024 08:24:44 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dari-1/dari-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e06a24ad54f348561d3ac6a06ea84f07",
+      "sha1": "e6dfbcaa2f4319445680d5c95d65762c04d476c4",
+      "sha256": "4fbcd70a083676d875d7998898af1f9433220908e6664cae78b30497d64c6920"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 292978618,
+  "files": [
+    {
+      "path": "Dari.jpg",
+      "size_bytes": 68859,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dari-1/Dari.jpg"
+    },
+    {
+      "path": "dari-1.pdf",
+      "size_bytes": 292909759,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dari-1/dari-1.pdf"
+    }
+  ]
+}

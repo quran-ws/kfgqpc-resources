@@ -1,0 +1,38 @@
+{
+  "slug": "zakhrfa-blk",
+  "page_order": 20,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/ZakhrfaBlk.ttf",
+    "filename": "ZakhrfaBlk.ttf",
+    "size_bytes": 40952,
+    "size_human": "40.0 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 29 Oct 2024 09:17:09 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/zakhrfa-blk/ZakhrfaBlk.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a36c0eb97e6a772d19d2c5a2b846f678",
+      "sha1": "429a5480accb03b3d79881947499dbe543182350",
+      "sha256": "b0d949463bdda80aa075ca71c5f8fb061bdab767f70244a407cff154426c69b5"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 40952,
+  "files": [
+    {
+      "path": "ZakhrfaBlk.ttf",
+      "size_bytes": 40952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/zakhrfa-blk/ZakhrfaBlk.ttf"
+    }
+  ]
+}

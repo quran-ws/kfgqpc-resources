@@ -1,0 +1,176 @@
+{
+  "group": "dm",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/dm/",
+  "resource_count": 5,
+  "available_count": 5,
+  "file_count": 3020,
+  "total_bytes": 3124903533,
+  "resources": [
+    {
+      "slug": "1441-ai-hafs",
+      "page_order": 1,
+      "group": "dm",
+      "source_page": "https://dm.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "تحميل",
+        "en": null
+      },
+      "download": {
+        "url": "https://dm.qurancomplex.gov.sa/Download/1441-AI-hafs.zip",
+        "filename": "1441-AI-hafs.zip",
+        "size_bytes": 466430736,
+        "size_human": "444.82 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 10 Apr 2022 06:53:15 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f21863db9c9dec8eb2c449201c63e116",
+          "sha1": "3aad5fd2ec7c7a992848b956ab80271adc81905e",
+          "sha256": "280c5d71ca16aaeeb3a343be1b92c76fa6df71d0671e202c026fde12402d9eef"
+        }
+      },
+      "captured_at": "2026-09-07T14:04:04Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 604,
+      "total_bytes": 768981578
+    },
+    {
+      "slug": "1442-ai-warsh",
+      "page_order": 2,
+      "group": "dm",
+      "source_page": "https://dm.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "تحميل",
+        "en": null
+      },
+      "download": {
+        "url": "https://dm.qurancomplex.gov.sa/Download/1442-ai-warsh.zip",
+        "filename": "1442-ai-warsh.zip",
+        "size_bytes": 417437136,
+        "size_human": "398.10 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 28 Sep 2020 07:58:12 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "dfbf6ab548ddb877a181db387d8ee597",
+          "sha1": "4f3073b3b91c7e25e4c30e9f642b29d63c45eaa2",
+          "sha256": "2a0c65131dac5a922502fb4740034fb4ffc57792a0b6e5c1cc34c5a3339dd5d7"
+        }
+      },
+      "captured_at": "2026-09-07T14:04:04Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 604,
+      "total_bytes": 729521699,
+      "recovery_note": {
+        "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
+        "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
+      }
+    },
+    {
+      "slug": "1443-qalon",
+      "page_order": 3,
+      "group": "dm",
+      "source_page": "https://dm.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "تحميل",
+        "en": null
+      },
+      "download": {
+        "url": "https://dm.qurancomplex.gov.sa/Download/1443-qalon.zip",
+        "filename": "1443-qalon.zip",
+        "size_bytes": 551792593,
+        "size_human": "526.23 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 11 Oct 2021 07:43:09 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "b9c85a3afbab6a3faca1fef81bb41d92",
+          "sha1": "730677ac4897fdaeafbf02057cd35f2d00ec1335",
+          "sha256": "08ebd0b0ecbc5822da1eaa13a77e93a920383ee652a3b72bec09ec59de35f2da"
+        }
+      },
+      "captured_at": "2026-09-07T14:04:04Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 604,
+      "total_bytes": 563968124,
+      "recovery_note": {
+        "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
+        "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
+      }
+    },
+    {
+      "slug": "1443-shubah",
+      "page_order": 4,
+      "group": "dm",
+      "source_page": "https://dm.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "تحميل",
+        "en": null
+      },
+      "download": {
+        "url": "https://dm.qurancomplex.gov.sa/Download/1443-shubah.zip",
+        "filename": "1443-shubah.zip",
+        "size_bytes": 543538523,
+        "size_human": "518.36 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 11 Oct 2021 06:57:52 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "b32406514333e265830bb37d1957041c",
+          "sha1": "3eaa394396674859f2973baf86d2142cd6d068b5",
+          "sha256": "a788777b56a1784ab8aecd042fc0149e4e96a019450a24f586a4552d0d2dd426"
+        }
+      },
+      "captured_at": "2026-09-07T14:04:04Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 604,
+      "total_bytes": 556352348,
+      "recovery_note": {
+        "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
+        "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
+      }
+    },
+    {
+      "slug": "douri-1443",
+      "page_order": 5,
+      "group": "dm",
+      "source_page": "https://dm.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "تحميل",
+        "en": null
+      },
+      "download": {
+        "url": "https://dm.qurancomplex.gov.sa/Download/Douri-1443.zip",
+        "filename": "Douri-1443.zip",
+        "size_bytes": 482791633,
+        "size_human": "460.43 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 08 Feb 2022 10:35:43 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5557b758056edd3304a4edfe8ed7087b",
+          "sha1": "f37c19e7e6e5070596aae0b0b8e9df234bf9492e",
+          "sha256": "f43a49555fd8c63774725e670a16c002a6024e40ad5601c8adc72846ca581c85"
+        }
+      },
+      "captured_at": "2026-09-07T14:04:04Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 604,
+      "total_bytes": 506079784,
+      "recovery_note": {
+        "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
+        "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
+      }
+    }
+  ]
+}

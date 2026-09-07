@@ -1,0 +1,47 @@
+{
+  "slug": "telugu-1",
+  "page_order": 20,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "التلغو (తెలుగు)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Telugu.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/telugu-1.pdf",
+    "filename": "telugu-1.pdf",
+    "size_bytes": 170929968,
+    "size_human": "163.01 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 05:38:34 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/telugu-1/telugu-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "060c5f33a632cf39a8db246adcb79afd",
+      "sha1": "1bc7ad5d7ad6912dc095a30c261f8a099312f5ea",
+      "sha256": "ffb0f4d9c9a140a2cb43a20275efd9628cab06edc2420f94c9c8f0fc8844ec5a"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 171004782,
+  "files": [
+    {
+      "path": "Telugu.jpg",
+      "size_bytes": 74814,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/telugu-1/Telugu.jpg"
+    },
+    {
+      "path": "telugu-1.pdf",
+      "size_bytes": 170929968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/telugu-1/telugu-1.pdf"
+    }
+  ]
+}

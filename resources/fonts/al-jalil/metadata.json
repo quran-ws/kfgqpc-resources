@@ -1,0 +1,38 @@
+{
+  "slug": "al-jalil",
+  "page_order": 22,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/AlJalil_v01.ttf",
+    "filename": "AlJalil_v01.ttf",
+    "size_bytes": 33688,
+    "size_human": "32.9 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Thu, 07 Nov 2024 07:47:07 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/al-jalil/AlJalil_v01.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e7b613e819e4feddbcbe269232b9744e",
+      "sha1": "e6253786bcabe277f188b5ed78261136995de5a0",
+      "sha256": "6164d038a6edcedfcb8b95cc7eed4a657f09df0e154381d57a9d8417f1fb8c95"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 33688,
+  "files": [
+    {
+      "path": "AlJalil_v01.ttf",
+      "size_bytes": 33688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/al-jalil/AlJalil_v01.ttf"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "group": "quran-qiraat",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/",
+  "resource_count": 5,
+  "available_count": 5,
+  "file_count": 10,
+  "total_bytes": 1180359730,
+  "resources": [
+    {
+      "slug": "warsh39-1",
+      "page_order": 1,
+      "group": "quran-qiraat",
+      "source_page": "https://qurancomplex.gov.sa/quran-qiraat/",
+      "title": {
+        "ar": "مصحف ورش",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/warsh.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/warsh39-1.pdf",
+        "filename": "warsh39-1.pdf",
+        "size_bytes": 234137763,
+        "size_human": "223.29 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 05:56:20 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/warsh39-1/warsh39-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f8c451e5de21436ce68415cf0b9cd3e9",
+          "sha1": "7765c3f60f820594094c17f447879dfd55d65fad",
+          "sha256": "f33a6e55530548d9cbf7e0ab6d8154ba46eea12d227208ce849915b808850074"
+        }
+      },
+      "captured_at": "2026-09-07T14:22:32Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 234256199
+    },
+    {
+      "slug": "douri-1",
+      "page_order": 2,
+      "group": "quran-qiraat",
+      "source_page": "https://qurancomplex.gov.sa/quran-qiraat/",
+      "title": {
+        "ar": "مصحف الدوري",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Douri_Final-PSD.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/douri-1.pdf",
+        "filename": "douri-1.pdf",
+        "size_bytes": 259685371,
+        "size_human": "247.66 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 05:59:13 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/douri-1/douri-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "1ebfe169a440c2cb1d52735c2cf9e658",
+          "sha1": "208c907e07f0dd45fb48e9c53c8f6c27ce88b54f",
+          "sha256": "918f24f92104407712224ebb0f3172f8c18f33dbddd1db85d16c3705e4644ea0"
+        }
+      },
+      "captured_at": "2026-09-07T14:22:32Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 259777820
+    },
+    {
+      "slug": "qaloun-1",
+      "page_order": 3,
+      "group": "quran-qiraat",
+      "source_page": "https://qurancomplex.gov.sa/quran-qiraat/",
+      "title": {
+        "ar": "مصحف قالون",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Qaloun.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/qaloun-1.pdf",
+        "filename": "qaloun-1.pdf",
+        "size_bytes": 242085976,
+        "size_human": "230.87 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 06:00:49 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/qaloun-1/qaloun-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4593c9c14d8d0b641a68a9f1dc525a0a",
+          "sha1": "4a72799f0a4e10196cbc4122a3198328462a0d69",
+          "sha256": "57386a907a400bbad0cbc16002acb314db08350b5c5aabd43a6362085fb306cc"
+        }
+      },
+      "captured_at": "2026-09-07T14:22:32Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 242193272
+    },
+    {
+      "slug": "shuba-1",
+      "page_order": 4,
+      "group": "quran-qiraat",
+      "source_page": "https://qurancomplex.gov.sa/quran-qiraat/",
+      "title": {
+        "ar": "مصحف شعبة",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Shuba.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/shuba-1.pdf",
+        "filename": "shuba-1.pdf",
+        "size_bytes": 231035551,
+        "size_human": "220.33 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 06:02:36 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/shuba-1/shuba-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "de6d83fd8ae688f52b2214101832cd32",
+          "sha1": "44dcf15c9337adcbc7d3ff5a82f4c7a094a6ca71",
+          "sha256": "51cc438eb199ee3fa379dbd1ca35b4abcf2d1a4ad778f52dfdcdc9df1a564d05"
+        }
+      },
+      "captured_at": "2026-09-07T14:22:32Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 231134058
+    },
+    {
+      "slug": "sousi-1",
+      "page_order": 5,
+      "group": "quran-qiraat",
+      "source_page": "https://qurancomplex.gov.sa/quran-qiraat/",
+      "title": {
+        "ar": "مصحف السوسي",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Sousi.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/sousi-1.pdf",
+        "filename": "sousi-1.pdf",
+        "size_bytes": 212948986,
+        "size_human": "203.08 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 06:04:07 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/sousi-1/sousi-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "59c7204587da0876ea556f8d21b38e51",
+          "sha1": "1e12140128f8cd907379b636174f4e5d43359f8f",
+          "sha256": "265b50e718bedec3df1a9ece77480baeec22f73137fa3a01ab6efc071a65005a"
+        }
+      },
+      "captured_at": "2026-09-07T14:22:32Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 212998381
+    }
+  ]
+}

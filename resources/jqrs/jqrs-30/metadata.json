@@ -1,0 +1,38 @@
+{
+  "slug": "jqrs-30",
+  "page_order": 1,
+  "group": "jqrs",
+  "source_page": "https://jqrs.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "العدد الثلاثون",
+    "en": null
+  },
+  "download": {
+    "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_30.pdf",
+    "filename": "JQRS_30.pdf",
+    "size_bytes": 39046731,
+    "size_human": "37.24 MB",
+    "content_type": null,
+    "server_last_modified": null,
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-30/JQRS_30.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "d176185c9e5574bbf60479ea64b8cb14",
+      "sha1": "a42551be9b22cfd6163aac4e1265710540826eb1",
+      "sha256": "8f74f6a6c1047bf8bbc7ee699dd91301b38f0c2161fb79d016788c6d3fae53c4"
+    }
+  },
+  "captured_at": "2026-09-07T15:26:31Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 39046731,
+  "files": [
+    {
+      "path": "JQRS_30.pdf",
+      "size_bytes": 39046731,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-30/JQRS_30.pdf"
+    }
+  ]
+}

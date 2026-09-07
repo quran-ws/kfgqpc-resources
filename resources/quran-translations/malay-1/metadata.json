@@ -1,0 +1,47 @@
+{
+  "slug": "malay-1",
+  "page_order": 26,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الملايوية (Bahasa Melayu)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Malay.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/malay-1.pdf",
+    "filename": "malay-1.pdf",
+    "size_bytes": 235316782,
+    "size_human": "224.42 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 09:58:43 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/malay-1/malay-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "8f4f8fccbca1afd88a63ed5a9875d7c0",
+      "sha1": "c45945a867cbd5e99e471435a312ff5e293bc7b8",
+      "sha256": "eee2dc97b214f61d0b446f2157cbb29c0d78f31ebd5e901e116f4010b79abd22"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 235384794,
+  "files": [
+    {
+      "path": "Malay.jpg",
+      "size_bytes": 68012,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/malay-1/Malay.jpg"
+    },
+    {
+      "path": "malay-1.pdf",
+      "size_bytes": 235316782,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/malay-1/malay-1.pdf"
+    }
+  ]
+}

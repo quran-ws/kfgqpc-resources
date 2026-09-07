@@ -1,0 +1,47 @@
+{
+  "slug": "dagbani-1",
+  "page_order": 43,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الداغبانية (Dagbani)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Dagbani.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/dagbani-1.pdf",
+    "filename": "dagbani-1.pdf",
+    "size_bytes": 161471990,
+    "size_human": "153.99 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 29 Aug 2024 06:32:39 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dagbani-1/dagbani-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5a9b9b6a12891038dfc234a58fb8d9bf",
+      "sha1": "254b1f48370776010ff83b8e2a8b6cbe39797df1",
+      "sha256": "aef07075fd7e13ff4d8748cf75562e91f0fa976b4f7267eda6f4958ff677e0b5"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 161541781,
+  "files": [
+    {
+      "path": "Dagbani.jpg",
+      "size_bytes": 69791,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dagbani-1/Dagbani.jpg"
+    },
+    {
+      "path": "dagbani-1.pdf",
+      "size_bytes": 161471990,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dagbani-1/dagbani-1.pdf"
+    }
+  ]
+}

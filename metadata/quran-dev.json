@@ -1,0 +1,1115 @@
+{
+  "group": "quran-dev",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/",
+  "resource_count": 10,
+  "available_count": 10,
+  "file_count": 88,
+  "total_bytes": 239236785,
+  "resources": [
+    {
+      "slug": "kfgqpc-hafs-smart-4",
+      "page_order": 1,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية",
+        "en": "Unicode Uthmanic Font (Hafs Narration) for smart devices"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/kfgqpc_hafs_smart_4.zip",
+        "filename": "kfgqpc_hafs_smart_4.zip",
+        "size_bytes": 22705385,
+        "size_human": "21.65 MB",
+        "downloads_count_at_capture": 1725,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Thu, 30 Jun 2022 06:03:14 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "53d82b553e5fe919ca1a732e35bf4eb0",
+          "sha1": "1dbeae3847880b1c21a956dcfdc0a2d9d490e729"
+        },
+        "computed": {
+          "md5": "53d82b553e5fe919ca1a732e35bf4eb0",
+          "sha1": "1dbeae3847880b1c21a956dcfdc0a2d9d490e729",
+          "sha256": "e0db8d3ccb9889abe70606a70fef102f1e3a4646e682c0263ef9554775a05ffe"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "21-08-2020",
+        "created_iso": "2020-08-21",
+        "last_modified": "30-06-2022",
+        "last_modified_iso": "2022-06-30",
+        "version": "6.0",
+        "update_notes": "في ملف read.me"
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية\nيستخدم لعرض الآيات بالرسم العثماني على الأجهزة الذكية، وهو ليس معداً لعرض كامل صفحة المصحف مطابقة لمصحف المدينة النبوية، ولكنه يستخدم لعرض النص القرآني على مستوى الآيات فقط. مثل عرض نص الآيات في نتائج البحث، عرض نص الآيات في كتاب التفسير أوالكتب الأخرى.\nتحقق الوثوقية (MD5): 53d82b553e5fe919ca1a732e35bf4eb0\nتحقق الوثوقية (SHA-1): 1dbeae3847880b1c21a956dcfdc0a2d9d490e729\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية"
+            },
+            {
+              "type": "text",
+              "text": "يستخدم لعرض الآيات بالرسم العثماني على الأجهزة الذكية، وهو ليس معداً لعرض كامل صفحة المصحف مطابقة لمصحف المدينة النبوية، ولكنه يستخدم لعرض النص القرآني على مستوى الآيات فقط. مثل عرض نص الآيات في نتائج البحث، عرض نص الآيات في كتاب التفسير أوالكتب الأخرى."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 53d82b553e5fe919ca1a732e35bf4eb0"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 1dbeae3847880b1c21a956dcfdc0a2d9d490e729"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية حفص) للأجهزة الذكية</h3>\n          <p>يستخدم لعرض الآيات بالرسم العثماني على الأجهزة الذكية، وهو ليس معداً لعرض كامل صفحة المصحف مطابقة لمصحف المدينة النبوية، ولكنه يستخدم لعرض النص القرآني على مستوى الآيات فقط. مثل عرض نص الآيات في نتائج البحث، عرض نص الآيات في كتاب التفسير أوالكتب الأخرى.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 53d82b553e5fe919ca1a732e35bf4eb0</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 1dbeae3847880b1c21a956dcfdc0a2d9d490e729</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in UthmanicHafs unicode\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in UthmanicHafs unicode\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number <br>\n\t\t\t2- jozz (int): Jozz Number <br>\n\t\t\t3- sura_no (int): Sura Number <br>\n\t\t\t4- sura_name_en (varchar): Sura Name in English <br>\n\t\t\t5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font) <br>\n\t\t\t6- page (int): Page Number <br>\n\t\t\t7- line_start (int): Start Line of Aya <br>\n\t\t\t8- line_end (int): End Line of Aya <br>\n\t\t\t9- aya_no (int): Aya Number <br>\n\t\t\t10- aya_text (text): Text of the Aya in UthmanicHafs unicode <br>\n\t\t\t11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية\nتاريخ الإنشاء: 21-08-2020\nتاريخ آخر تعديل: 30-06-2022\nمعلومات حول التحديث الجديد: في ملف read.me\nتحديث: 6.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 21-08-2020\nتاريخ آخر تعديل: 30-06-2022\nمعلومات حول التحديث الجديد: في ملف read.me\nتحديث: 6.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية حفص) للأجهزة الذكية</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 21-08-2020 <br>\n\t\t\tتاريخ آخر تعديل: 30-06-2022 <br>\n\t\t\tمعلومات حول التحديث الجديد: في ملف read.me<br>\n\t\t\tتحديث: 6.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 10,
+      "total_bytes": 54344550
+    },
+    {
+      "slug": "uthmanic-hafs",
+      "page_order": 2,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية حفص)",
+        "en": "Unicode Uthmanic Font (Hafs Narration)"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicHafs_v2-0.zip",
+        "filename": "UthmanicHafs_v2-0.zip",
+        "size_bytes": 10729285,
+        "size_human": "10.23 MB",
+        "downloads_count_at_capture": 1385,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 19 Sep 2023 06:42:05 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "cf6841aea5b1d1fd70d032b43ff08278",
+          "sha1": "36ea5ab0d7ea1702f17ff43f9b50924cccd77ebf"
+        },
+        "computed": {
+          "md5": "cf6841aea5b1d1fd70d032b43ff08278",
+          "sha1": "36ea5ab0d7ea1702f17ff43f9b50924cccd77ebf",
+          "sha256": "a7b0e5591945712ec5e4d6142938ae4d1e9b49bdc89dff06222789bfebdfd72c"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "16-9-2020",
+        "created_iso": "2020-09-16",
+        "last_modified": "19-09-2023",
+        "last_modified_iso": "2023-09-19",
+        "version": "13.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية حفص)\nهو خط حاسوبي مخصصة لعرض النص القرآني مطابقاً للرسم العثماني تم بناؤه بما يتوافق مع الترميز العالمي الموحّد Unicode وهو نظام عالمي يمكِّن البيانات من الانتقال عبر الأنظمة والأجهزة المختلفة دون أي تخوّف من عرضها بشكل مشوّه.\nتحقق الوثوقية (MD5): CF6841AEA5B1D1FD70D032B43FF08278\nتحقق الوثوقية (SHA-1): 36EA5AB0D7EA1702F17FF43F9B50924CCCD77EBF\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية حفص)"
+            },
+            {
+              "type": "text",
+              "text": "هو خط حاسوبي مخصصة لعرض النص القرآني مطابقاً للرسم العثماني تم بناؤه بما يتوافق مع الترميز العالمي الموحّد Unicode وهو نظام عالمي يمكِّن البيانات من الانتقال عبر الأنظمة والأجهزة المختلفة دون أي تخوّف من عرضها بشكل مشوّه."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): CF6841AEA5B1D1FD70D032B43FF08278"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 36EA5AB0D7EA1702F17FF43F9B50924CCCD77EBF"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية حفص)</h3>\n          <p>هو خط حاسوبي مخصصة لعرض النص القرآني مطابقاً للرسم العثماني تم بناؤه بما يتوافق مع الترميز العالمي الموحّد Unicode وهو نظام عالمي يمكِّن البيانات من الانتقال عبر الأنظمة والأجهزة المختلفة دون أي تخوّف من عرضها بشكل مشوّه.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> CF6841AEA5B1D1FD70D032B43FF08278</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 36EA5AB0D7EA1702F17FF43F9B50924CCCD77EBF</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON, TXT and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON, TXT and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number <br>\n\t\t\t2- jozz (int): Jozz Number <br>\n\t\t\t3- sura_no (int): Sura Number <br>\n\t\t\t4- sura_name_en (varchar): Sura Name in English <br>\n\t\t\t5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font) <br>\n\t\t\t6- page (int): Page Number <br>\n\t\t\t7- line_start (int): Start Line of Aya <br>\n\t\t\t8- line_end (int): End Line of Aya <br>\n\t\t\t9- aya_no (int): Aya Number <br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly) <br>\n\t\t\t11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON, TXT and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية حفص)\nتاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 19-09-2023\nمعلومات حول التحديث الجديد في ملف read.me\nتحديث: 13.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية حفص)"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 19-09-2023\nمعلومات حول التحديث الجديد في ملف read.me\nتحديث: 13.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية حفص)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 16-9-2020 <br>\n\t\t\tتاريخ آخر تعديل: 19-09-2023<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف read.me<br>\n\t\t\tتحديث: 13.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 11,
+      "total_bytes": 29856878
+    },
+    {
+      "slug": "uthmanic-warsh",
+      "page_order": 3,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية ورش)",
+        "en": "Unicode Uthmanic Font (Warsh Narration)"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicWarsh_v2-1.zip",
+        "filename": "UthmanicWarsh_v2-1.zip",
+        "size_bytes": 9042379,
+        "size_human": "8.62 MB",
+        "downloads_count_at_capture": 451,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Wed, 07 Sep 2022 11:08:44 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "4701e8bbf053098220cf2cf4cda206a1",
+          "sha1": "44ecea8feb23817fdc01a8ee2162a6a0cf08cae7"
+        },
+        "computed": {
+          "md5": "4701e8bbf053098220cf2cf4cda206a1",
+          "sha1": "44ecea8feb23817fdc01a8ee2162a6a0cf08cae7",
+          "sha256": "d847a7e7002dfbed5d28db6684fd1d9c3d50b8bb63ad64cb38a46b9dad788b47"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "16-9-2020",
+        "created_iso": "2020-09-16",
+        "last_modified": "07-09-2022",
+        "last_modified_iso": "2022-09-07",
+        "version": "6.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية ورش)\nوهي الرواية التي يقرأ بها أهل المغرب العربي وإفريقيا الغربية والوسطى وغرب أوروبا (فرنسا وإسبانيا)، تَمَّ صَفُّها كاملةً باستخدام لوحة المفاتيح العادية، دون الحاجة إلى إدراج أيّة رموز لا تتوافق مع النظام المعياري Unicode كما تمّ إرفاق وثيقة (وورد) مصادقاً عليها رقمياً، تحتوي على نص القرآن الكريم كاملاً طبقاً للرسم العثماني الموافق لمصحف المدينة النبوية للرواية المذكورة.\nتحقق الوثوقية (MD5): 4701e8bbf053098220cf2cf4cda206a1\nتحقق الوثوقية (SHA-1): 44ecea8feb23817fdc01a8ee2162a6a0cf08cae7\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية ورش)"
+            },
+            {
+              "type": "text",
+              "text": "وهي الرواية التي يقرأ بها أهل المغرب العربي وإفريقيا الغربية والوسطى وغرب أوروبا (فرنسا وإسبانيا)، تَمَّ صَفُّها كاملةً باستخدام لوحة المفاتيح العادية، دون الحاجة إلى إدراج أيّة رموز لا تتوافق مع النظام المعياري Unicode كما تمّ إرفاق وثيقة (وورد) مصادقاً عليها رقمياً، تحتوي على نص القرآن الكريم كاملاً طبقاً للرسم العثماني الموافق لمصحف المدينة النبوية للرواية المذكورة."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 4701e8bbf053098220cf2cf4cda206a1"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 44ecea8feb23817fdc01a8ee2162a6a0cf08cae7"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية ورش)</h3>\n          <p>وهي الرواية التي يقرأ بها أهل المغرب العربي وإفريقيا الغربية والوسطى وغرب أوروبا (فرنسا وإسبانيا)، تَمَّ صَفُّها كاملةً باستخدام لوحة المفاتيح العادية، دون الحاجة إلى إدراج أيّة رموز لا تتوافق مع النظام المعياري Unicode كما تمّ إرفاق وثيقة (وورد) مصادقاً عليها رقمياً، تحتوي على نص القرآن الكريم كاملاً طبقاً للرسم العثماني الموافق لمصحف المدينة النبوية للرواية المذكورة.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 4701e8bbf053098220cf2cf4cda206a1</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 44ecea8feb23817fdc01a8ee2162a6a0cf08cae7</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_warsh_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_warsh_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicWarsh_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_warsh_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_warsh_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicWarsh_v2-0 data folder except Excel file to display Aya mark properly)"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page\tNumber (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_warsh_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_warsh_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicWarsh_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية ورش)\nتاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 07-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية ورش)"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 07-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية ورش)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 16-9-2020<br>\n\t\t\tتاريخ آخر تعديل: 07-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 6.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 11,
+      "total_bytes": 25131536
+    },
+    {
+      "slug": "uthmanic-shuba",
+      "page_order": 4,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية شعبة)",
+        "en": "Unicode Uthmanic Font (Shubah Narration)"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicShuba_v2-0.zip",
+        "filename": "UthmanicShuba_v2-0.zip",
+        "size_bytes": 8739612,
+        "size_human": "8.33 MB",
+        "downloads_count_at_capture": 239,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Wed, 21 Sep 2022 11:19:28 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "5cda29121bf0d7234e039002e1fbf600",
+          "sha1": "8d66bdf0cab96dc7d1032792c19f77980ca6682a"
+        },
+        "computed": {
+          "md5": "5cda29121bf0d7234e039002e1fbf600",
+          "sha1": "8d66bdf0cab96dc7d1032792c19f77980ca6682a",
+          "sha256": "977e64f3f889c084dc82aec4e97092836ca61777cdc93c3ee7da6f59592efbcf"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "11-10-2020",
+        "created_iso": "2020-10-11",
+        "last_modified": "21-09-2022",
+        "last_modified_iso": "2022-09-21",
+        "version": "6.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية شعبة)\nرواية شُعبة عن عاصِمِ الكُوفيّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.\nتحقق الوثوقية (MD5): 5cda29121bf0d7234e039002e1fbf600\nتحقق الوثوقية (SHA-1): 8d66bdf0cab96dc7d1032792c19f77980ca6682a\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية شعبة)"
+            },
+            {
+              "type": "text",
+              "text": "رواية شُعبة عن عاصِمِ الكُوفيّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 5cda29121bf0d7234e039002e1fbf600"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 8d66bdf0cab96dc7d1032792c19f77980ca6682a"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية شعبة)</h3>\n          <p>رواية شُعبة عن عاصِمِ الكُوفيّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 5cda29121bf0d7234e039002e1fbf600</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 8d66bdf0cab96dc7d1032792c19f77980ca6682a</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_shuba_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_shuba_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicShuba_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_shuba_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_shuba_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicShuba_v2-0 data folder except Excel file to display Aya mark properly)"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_shuba_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_shuba_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicShuba_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية شعبة)\nتاريخ الإنشاء: 11-10-2020\nتاريخ آخر تعديل: 21-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية شعبة)"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 11-10-2020\nتاريخ آخر تعديل: 21-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية شعبة)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 11-10-2020<br>\n\t\t\tتاريخ آخر تعديل: 21-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 6.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 11,
+      "total_bytes": 24262232
+    },
+    {
+      "slug": "uthmanic-qaloun",
+      "page_order": 5,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية قالون)",
+        "en": "Unicode Uthmanic Font (Qaloun Narration)"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicQaloun_v2-1.zip",
+        "filename": "UthmanicQaloun_v2-1.zip",
+        "size_bytes": 8763948,
+        "size_human": "8.36 MB",
+        "downloads_count_at_capture": 287,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 26 Sep 2022 06:05:57 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "964208ff04c8aadd3ddc1be262d8cfd3",
+          "sha1": "81733666be17742e13c9fa4c7d26d42b1adc67c8"
+        },
+        "computed": {
+          "md5": "964208ff04c8aadd3ddc1be262d8cfd3",
+          "sha1": "81733666be17742e13c9fa4c7d26d42b1adc67c8",
+          "sha256": "6988b782b4268c70a11bc807223fcf2b131a9879a48aad34eb65af523fcb144d"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "18-10-2020",
+        "created_iso": "2020-10-18",
+        "last_modified": "25-09-2022",
+        "last_modified_iso": "2022-09-25",
+        "version": "5.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية قالون)\nرواية قالون عن نَافِعٍ المَدَنيّ: وهي الرواية التي يقرأ بها أهل ليبيا وتونس وبعض المناطق في موريتانيا\nتحقق الوثوقية (MD5): 964208ff04c8aadd3ddc1be262d8cfd3\nتحقق الوثوقية (SHA-1): 81733666be17742e13c9fa4c7d26d42b1adc67c8\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية قالون)"
+            },
+            {
+              "type": "text",
+              "text": "رواية قالون عن نَافِعٍ المَدَنيّ: وهي الرواية التي يقرأ بها أهل ليبيا وتونس وبعض المناطق في موريتانيا"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 964208ff04c8aadd3ddc1be262d8cfd3"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 81733666be17742e13c9fa4c7d26d42b1adc67c8"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية قالون)</h3>\n          <p>رواية قالون عن نَافِعٍ المَدَنيّ: وهي الرواية التي يقرأ بها أهل ليبيا وتونس وبعض المناطق في موريتانيا</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 964208ff04c8aadd3ddc1be262d8cfd3</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 81733666be17742e13c9fa4c7d26d42b1adc67c8</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_qaloun_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_qaloun_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicQaloun_v2-1 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_qaloun_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_qaloun_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicQaloun_v2-1 data folder except Excel file to display Aya mark properly)"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_qaloun_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_qaloun_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicQaloun_v2-1 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية قالون)\nتاريخ الإنشاء: 18-10-2020\nتاريخ آخر تعديل: 25-09-2022\nمعلومات حول التحديث الجديدفي ملف: read.me\nتحديث: 5.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية قالون)"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 18-10-2020\nتاريخ آخر تعديل: 25-09-2022\nمعلومات حول التحديث الجديدفي ملف: read.me\nتحديث: 5.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية قالون)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 18-10-2020<br>\n\t\t\tتاريخ آخر تعديل: 25-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديدفي ملف: read.me<br>\n\t\t\tتحديث: 5.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 11,
+      "total_bytes": 24731988
+    },
+    {
+      "slug": "uthmanic-douri",
+      "page_order": 6,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية الدوري)",
+        "en": "Unicode Uthmanic Font (Duri Narration)"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicDouri_v2-0.zip",
+        "filename": "UthmanicDouri_v2-0.zip",
+        "size_bytes": 8788270,
+        "size_human": "8.38 MB",
+        "downloads_count_at_capture": 195,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 26 Sep 2022 06:08:14 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "a60bdd18397b3e27e4617478968a35c8",
+          "sha1": "8049482f04b4ff1053a7859f96b2b113b9771efb"
+        },
+        "computed": {
+          "md5": "a60bdd18397b3e27e4617478968a35c8",
+          "sha1": "8049482f04b4ff1053a7859f96b2b113b9771efb",
+          "sha256": "84e5569790f96b05896b8f44ebe8d82d98377a929ac0e87dd8af4dbec52cb0c1"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "25-10-2020",
+        "created_iso": "2020-10-25",
+        "last_modified": "25-09-2022",
+        "last_modified_iso": "2022-09-25",
+        "version": "3.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية الدوري)\nرواية الدُّورِيّ عن أبي عَمْرِو البَصْريّ: وهي الرواية التي يقرأ بها أهل السودان وشرق أفريقيا.\nتحقق الوثوقية (MD5): a60bdd18397b3e27e4617478968a35c8\nتحقق الوثوقية (SHA-1): 8049482f04b4ff1053a7859f96b2b113b9771efb\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية الدوري)"
+            },
+            {
+              "type": "text",
+              "text": "رواية الدُّورِيّ عن أبي عَمْرِو البَصْريّ: وهي الرواية التي يقرأ بها أهل السودان وشرق أفريقيا."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): a60bdd18397b3e27e4617478968a35c8"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 8049482f04b4ff1053a7859f96b2b113b9771efb"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية الدوري)</h3>\n          <p>رواية الدُّورِيّ عن أبي عَمْرِو البَصْريّ: وهي الرواية التي يقرأ بها أهل السودان وشرق أفريقيا.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> a60bdd18397b3e27e4617478968a35c8</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 8049482f04b4ff1053a7859f96b2b113b9771efb</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_douri_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_douri_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicDouri_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_douri_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_douri_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicDouri_v2-0 data folder except Excel file to display Aya mark properly)"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_douri_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_douri_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicDouri_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية الدوري)\nتاريخ الإنشاء: 25-10-2020\nتاريخ آخر تعديل: 25-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 3.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية الدوري)"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 25-10-2020\nتاريخ آخر تعديل: 25-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 3.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية الدوري)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 25-10-2020<br>\n\t\t\tتاريخ آخر تعديل: 25-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 3.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 11,
+      "total_bytes": 24583252
+    },
+    {
+      "slug": "uthmanic-sousi",
+      "page_order": 7,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "خط الرسم العثماني (رواية السوسي)",
+        "en": "Unicode Uthmanic Font (Susi Narration)"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicSousi_v2-0.zip",
+        "filename": "UthmanicSousi_v2-0.zip",
+        "size_bytes": 8860083,
+        "size_human": "8.45 MB",
+        "downloads_count_at_capture": 194,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 27 Sep 2022 05:32:13 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "1bf6023e29b7622a52b6171232c17096",
+          "sha1": "e52dbc6d8b43797a8faa0fd1ec1d8e5000265674"
+        },
+        "computed": {
+          "md5": "1bf6023e29b7622a52b6171232c17096",
+          "sha1": "e52dbc6d8b43797a8faa0fd1ec1d8e5000265674",
+          "sha256": "e912273b3863bbf97ec4a7b1134967e3cdf21de7fcc06df9dee42bce655ce472"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "02-11-2020",
+        "created_iso": "2020-11-02",
+        "last_modified": "27-09-2022",
+        "last_modified_iso": "2022-09-27",
+        "version": "3.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "خط الرسم العثماني (رواية السوسي)\nرواية السوسي عن أبي عَمْرِو البَصْريّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.\nتحقق الوثوقية (MD5): 1bf6023e29b7622a52b6171232c17096\nتحقق الوثوقية (SHA-1): e52dbc6d8b43797a8faa0fd1ec1d8e5000265674\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية السوسي)"
+            },
+            {
+              "type": "text",
+              "text": "رواية السوسي عن أبي عَمْرِو البَصْريّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 1bf6023e29b7622a52b6171232c17096"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): e52dbc6d8b43797a8faa0fd1ec1d8e5000265674"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية السوسي)</h3>\n          <p>رواية السوسي عن أبي عَمْرِو البَصْريّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 1bf6023e29b7622a52b6171232c17096</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> e52dbc6d8b43797a8faa0fd1ec1d8e5000265674</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_sousi_uthmanic_script ttf font file)\n7- aya_no (int): Aya Number\n8- line_start (int): Start Line of Aya\n9- line_end (int): End Line of Aya\n10- aya_text (text): Text of the Aya in kfgqpc_sousi_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicSousi_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_sousi_uthmanic_script ttf font file)\n7- aya_no (int): Aya Number\n8- line_start (int): Start Line of Aya\n9- line_end (int): End Line of Aya\n10- aya_text (text): Text of the Aya in kfgqpc_sousi_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicSousi_v2-0 data folder except Excel file to display Aya mark properly)"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_sousi_uthmanic_script ttf font file)<br>\n\t\t\t7- aya_no (int): Aya Number<br>\n\t\t\t8- line_start (int): Start Line of Aya<br>\n\t\t\t9- line_end (int): End Line of Aya<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_sousi_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicSousi_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "خط الرسم العثماني (رواية السوسي)\nتاريخ الإنشاء: 02-11-2020\nتاريخ آخر تعديل: 27-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 3.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "خط الرسم العثماني (رواية السوسي)"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 02-11-2020\nتاريخ آخر تعديل: 27-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 3.0"
+            }
+          ],
+          "html": "<h3>خط الرسم العثماني (رواية السوسي)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 02-11-2020<br>\n\t\t\tتاريخ آخر تعديل: 27-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 3.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 11,
+      "total_bytes": 24704974
+    },
+    {
+      "slug": "hafs-tafseer-mouaser",
+      "page_order": 8,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "التفسير الميسر للقرآن الكريم",
+        "en": "Tafseer Muyassar"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/hafs_tafseerMouaser_v3.zip",
+        "filename": "hafs_tafseerMouaser_v3.zip",
+        "size_bytes": 7885418,
+        "size_human": "7.52 MB",
+        "downloads_count_at_capture": 563,
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 26 Nov 2024 11:04:34 GMT"
+      },
+      "checksums": {
+        "published": {
+          "md5": "5601682965e32f4dd6992c7600fdccc3",
+          "sha1": "5f533113c2f54f32eded734bb49e6a5837965722"
+        },
+        "computed": {
+          "md5": "b38703983d438a5cd22269b746eaac0c",
+          "sha1": "a8f054411c6cd14a258d5ba7bc4e30c9ea79b336",
+          "sha256": "443a6927dbbf9df0fb63792dc83b83511f7d308f3ec322c9230fbebfe3c69c86"
+        },
+        "verified": false,
+        "note": "Published MD5/SHA-1 on the source page do not match the file currently served. The download was repeated and is byte-identical each time, and the file is structurally valid, so the served file appears to have been replaced after the page checksums were written."
+      },
+      "release_info": {
+        "created": "15-12-2020",
+        "created_iso": "2020-12-15",
+        "last_modified": "01-08-2023",
+        "last_modified_iso": "2023-08-01",
+        "version": "3.0",
+        "update_notes": null
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "التفسير الميسر للقرآن الكريم\nهي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية والجوالات والمتصفحات) وبحوثهم، وهذا المحتوى موثوق ومعتمد من المجمع، ويحتوي على بيانات المصحف الشريف برواية حفص عن عاصم مع نص التفسير الميسر المقابل لكل آية، كما تم إضافة وسم () مع خاصية (aya) للتحكم في نوع الخط للآية القرآنية وتمييزها عن نص التفسير.\nتحقق الوثوقية (MD5): 5601682965e32f4dd6992c7600fdccc3\nتحقق الوثوقية (SHA-1): 5f533113c2f54f32eded734bb49e6a5837965722\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "التفسير الميسر للقرآن الكريم"
+            },
+            {
+              "type": "text",
+              "text": "هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية والجوالات والمتصفحات) وبحوثهم، وهذا المحتوى موثوق ومعتمد من المجمع، ويحتوي على بيانات المصحف الشريف برواية حفص عن عاصم مع نص التفسير الميسر المقابل لكل آية، كما تم إضافة وسم () مع خاصية (aya) للتحكم في نوع الخط للآية القرآنية وتمييزها عن نص التفسير."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 5601682965e32f4dd6992c7600fdccc3"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 5f533113c2f54f32eded734bb49e6a5837965722"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>التفسير الميسر للقرآن الكريم</h3>\n          <p>هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية والجوالات والمتصفحات) وبحوثهم، وهذا المحتوى موثوق ومعتمد من المجمع، ويحتوي على بيانات المصحف الشريف برواية حفص عن عاصم مع نص التفسير الميسر المقابل لكل آية، كما تم إضافة وسم (<span class = aya>) مع خاصية (aya) للتحكم في نوع الخط للآية القرآنية وتمييزها عن نص التفسير.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 5601682965e32f4dd6992c7600fdccc3</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 5f533113c2f54f32eded734bb49e6a5837965722</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (int): Page Number\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_hafs_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n12- aya_tafseer (text): Tafseer Text of the Aya (The Tafseer text in Uthman Taha Naskh font and the Aya in Uthmanic Hafs font) A tag () has been added with the aya attribute to control the font type of the Quranic Aya and distinguish it from the text of the interpretation (Tafseer).\nIt includes two folders:\n1- It contains Tafseer Mouaser fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (int): Page Number\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_hafs_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n12- aya_tafseer (text): Tafseer Text of the Aya (The Tafseer text in Uthman Taha Naskh font and the Aya in Uthmanic Hafs font) A tag () has been added with the aya attribute to control the font type of the Quranic Aya and distinguish it from the text of the interpretation (Tafseer)."
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1- It contains Tafseer Mouaser fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (int): Page Number<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_hafs_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)<br>\n\t\t\t11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose<br>\n\t\t\t12- aya_tafseer (text): Tafseer Text of the Aya (The Tafseer text in Uthman Taha Naskh font and the Aya in Uthmanic Hafs font) A tag (<span class =’aya’>) has been added with the aya attribute to control the font type of the Quranic Aya and distinguish it from the text of the interpretation (Tafseer).\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains Tafseer Mouaser fonts (Uthmanic Hafs font and Uthman Taha Naskh font). <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "التفسير الميسر للقرآن الكريم\nتاريخ الإنشاء: 15-12-2020\nتاريخ آخر تعديل: 01-08-2023\nمعلومات حول التحديث الجديد ملف: read.me\nتحديث: 3.0",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "التفسير الميسر للقرآن الكريم"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 15-12-2020\nتاريخ آخر تعديل: 01-08-2023\nمعلومات حول التحديث الجديد ملف: read.me\nتحديث: 3.0"
+            }
+          ],
+          "html": "<h3>التفسير الميسر للقرآن الكريم</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 15-12-2020<br>\n\t\t\tتاريخ آخر تعديل: 01-08-2023<br>\n\t\t\tمعلومات حول التحديث الجديد ملف: read.me<br>\n\t\t\tتحديث: 3.0\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 10,
+      "total_bytes": 30483089
+    },
+    {
+      "slug": "muyassar-ghareeb",
+      "page_order": 9,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "الميسر في غريب القرآن الكريم",
+        "en": "Muyassar of Ghareeb Al-Qu’ran"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/MuyassarGhareeb.docx",
+        "filename": "MuyassarGhareeb.docx",
+        "size_bytes": 956677,
+        "size_human": "934.3 KB",
+        "downloads_count_at_capture": 352,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "server_last_modified": "Thu, 12 Jan 2023 11:38:48 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/muyassar-ghareeb/MuyassarGhareeb.docx"
+      },
+      "checksums": {
+        "published": {
+          "md5": "7e22381eedb152ee7ed6488f2395c6cd",
+          "sha1": "055a908c6ec7f06912c33bd00920406c665cc5f9"
+        },
+        "computed": {
+          "md5": "ffd3c58f51f8a69340a205b71bf1e870",
+          "sha1": "1be35ad20c48b4d47dfa0bfc3d97ac7b0b3401ca",
+          "sha256": "8a7af5decb94ee465b77c0eded05e018c6bf813fc544455bd0faebfcc84a8cb2"
+        },
+        "verified": false,
+        "note": "Published MD5/SHA-1 on the source page do not match the file currently served. The download was repeated and is byte-identical each time, and the file is structurally valid, so the served file appears to have been replaced after the page checksums were written."
+      },
+      "release_info": {
+        "created": "6-4-2021",
+        "created_iso": "2021-04-06",
+        "last_modified": "6-4-2021",
+        "last_modified_iso": "2021-04-06",
+        "version": "لا يوجد تحديثات",
+        "update_notes": "تحديث: لا يوجد تحديثات"
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "الميسر في غريب القرآن الكريم\nهي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية ، والجوال ، والمتصفحات) وأبحاثهم، وهذا المحتوى موثوق به ومعتمد من قبل مجمع الملك فهد لطباعة المصحف الشريف، ويحتوي على بيانات الميسر في غريب القرآن الكريم برواية حفص.\nتحقق الوثوقية (MD5): 7E22381EEDB152EE7ED6488F2395C6CD\nتحقق الوثوقية (SHA-1): 055A908C6EC7F06912C33BD00920406C665CC5F9\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "الميسر في غريب القرآن الكريم"
+            },
+            {
+              "type": "text",
+              "text": "هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية ، والجوال ، والمتصفحات) وأبحاثهم، وهذا المحتوى موثوق به ومعتمد من قبل مجمع الملك فهد لطباعة المصحف الشريف، ويحتوي على بيانات الميسر في غريب القرآن الكريم برواية حفص."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): 7E22381EEDB152EE7ED6488F2395C6CD"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): 055A908C6EC7F06912C33BD00920406C665CC5F9"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>الميسر في غريب القرآن الكريم</h3>\n          <p>هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية ، والجوال ، والمتصفحات) وأبحاثهم، وهذا المحتوى موثوق به ومعتمد من قبل مجمع الملك فهد لطباعة المصحف الشريف، ويحتوي على بيانات الميسر في غريب القرآن الكريم برواية حفص.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 7E22381EEDB152EE7ED6488F2395C6CD</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 055A908C6EC7F06912C33BD00920406C665CC5F9</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> \n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- page (int): Page Number\n3- sura_name (varchar): Sora Name in Arabic (Uthman Taha Naskh font)\n4- aya_no (int): Aya Number\n5- quranic_words (text): Text of the Quranic word in (UthmanicHafs font)\n6- explanation (text): Text of the Tafseer of the Quranic word in (Uthman Taha Naskh font)\nIt includes two folders:\n1– It contains folder of MuyassarGhareeb fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "The database contains the following fields:"
+            },
+            {
+              "type": "text",
+              "text": "1- id (int): Auto_increment Number\n2- page (int): Page Number\n3- sura_name (varchar): Sora Name in Arabic (Uthman Taha Naskh font)\n4- aya_no (int): Aya Number\n5- quranic_words (text): Text of the Quranic word in (UthmanicHafs font)\n6- explanation (text): Text of the Tafseer of the Quranic word in (Uthman Taha Naskh font)"
+            },
+            {
+              "type": "heading",
+              "text": "It includes two folders:"
+            },
+            {
+              "type": "text",
+              "text": "1– It contains folder of MuyassarGhareeb fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+            }
+          ],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- page (int): Page Number<br>\n\t\t\t3- sura_name (varchar): Sora Name in Arabic (Uthman Taha Naskh font)<br>\n\t\t\t4- aya_no (int): Aya Number<br>\n\t\t\t5- quranic_words (text): Text of the Quranic word in (UthmanicHafs font)<br>\n\t\t\t6- explanation (text): Text of the Tafseer of the Quranic word in (Uthman Taha Naskh font)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1– It contains folder of MuyassarGhareeb fonts (Uthmanic Hafs font and Uthman Taha Naskh font). <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "الميسر في غريب القرآن الكريم\nتاريخ الإنشاء: 6-4-2021\nتاريخ آخر تعديل: 6-4-2021\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "الميسر في غريب القرآن الكريم"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 6-4-2021\nتاريخ آخر تعديل: 6-4-2021\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات"
+            }
+          ],
+          "html": "<h3>الميسر في غريب القرآن الكريم</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 6-4-2021 <br>\n\t\t\tتاريخ آخر تعديل: 6-4-2021 <br>\n\t\t\tمعلومات حول التحديث الجديد: <br>\n\t\t\tتحديث: لا يوجد تحديثات\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 956677
+    },
+    {
+      "slug": "tajweed-muyassar",
+      "page_order": 10,
+      "group": "quran-dev",
+      "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+      "title": {
+        "ar": "التجويد الميسر",
+        "en": "Tajweed Muyassar"
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/resources_dev/Tajweed_Muyassar.docx",
+        "filename": "Tajweed_Muyassar.docx",
+        "size_bytes": 181609,
+        "size_human": "177.4 KB",
+        "downloads_count_at_capture": 417,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "server_last_modified": "Wed, 21 Dec 2022 08:45:26 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/tajweed-muyassar/Tajweed_Muyassar.docx"
+      },
+      "checksums": {
+        "published": {
+          "md5": "b4a265a810c0ce4a722019791910b67e",
+          "sha1": "d2496382fc5e843ccb693b94dd19407eaa174bea"
+        },
+        "computed": {
+          "md5": "b4a265a810c0ce4a722019791910b67e",
+          "sha1": "d2496382fc5e843ccb693b94dd19407eaa174bea",
+          "sha256": "f61272c718568295264d41130bde128a53adad2a189ae1c1fcb9a5f76e7fe63f"
+        },
+        "verified": true,
+        "note": null
+      },
+      "release_info": {
+        "created": "12-01-2023",
+        "created_iso": "2023-01-12",
+        "last_modified": "12-01-2023",
+        "last_modified_iso": "2023-01-12",
+        "version": "لا يوجد تحديثات",
+        "update_notes": "تحديث: لا يوجد تحديثات"
+      },
+      "tabs": {
+        "definition": {
+          "label_ar": "تعريف",
+          "text": "التجويد الميسر\nكتاب مختصر فيه أهمُّ مباحث علم التجويد، مع استيعاب المعنى وشموله، وتوخي السهولة في الأسلوب، ووضوح تقرير مسائل التجويد وعَرْضها.\nتحقق الوثوقية (MD5): b4a265a810c0ce4a722019791910b67e\nتحقق الوثوقية (SHA-1): d2496382fc5e843ccb693b94dd19407eaa174bea\nأنواع الملفات:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "التجويد الميسر"
+            },
+            {
+              "type": "text",
+              "text": "كتاب مختصر فيه أهمُّ مباحث علم التجويد، مع استيعاب المعنى وشموله، وتوخي السهولة في الأسلوب، ووضوح تقرير مسائل التجويد وعَرْضها."
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (MD5): b4a265a810c0ce4a722019791910b67e"
+            },
+            {
+              "type": "text",
+              "text": "تحقق الوثوقية (SHA-1): d2496382fc5e843ccb693b94dd19407eaa174bea"
+            },
+            {
+              "type": "text",
+              "text": "أنواع الملفات:"
+            }
+          ],
+          "html": "<h3>التجويد الميسر</h3>\n          <p>كتاب مختصر فيه أهمُّ مباحث علم التجويد، مع استيعاب المعنى وشموله، وتوخي السهولة في الأسلوب، ووضوح تقرير مسائل التجويد وعَرْضها.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> b4a265a810c0ce4a722019791910b67e</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> d2496382fc5e843ccb693b94dd19407eaa174bea</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t  </p>"
+        },
+        "usage_guide": {
+          "label_ar": "دليل الاستخدام",
+          "text": "",
+          "blocks": [],
+          "html": "<h3 class=\"qc_modern_inside_tab_en\"></h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t\n\t\t  </p>"
+        },
+        "information": {
+          "label_ar": "معلومات",
+          "text": "التجويد الميسر\nتاريخ الإنشاء: 12-01-2023\nتاريخ آخر تعديل: 12-01-2023\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "التجويد الميسر"
+            },
+            {
+              "type": "text",
+              "text": "تاريخ الإنشاء: 12-01-2023\nتاريخ آخر تعديل: 12-01-2023\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات"
+            }
+          ],
+          "html": "<h3>التجويد الميسر</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 12-01-2023 <br>\n\t\t\tتاريخ آخر تعديل: 12-01-2023 <br>\n\t\t\tمعلومات حول التحديث الجديد: <br>\n\t\t\tتحديث: لا يوجد تحديثات\n\t\t  </p>"
+        }
+      },
+      "captured_at": "2026-09-07T14:02:59Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 181609
+    }
+  ]
+}

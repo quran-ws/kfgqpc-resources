@@ -1,0 +1,47 @@
+{
+  "slug": "azerbaijani-1",
+  "page_order": 8,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الأذريـة (Azərbaycan)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Azerbaijani.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/azerbaijani-1.pdf",
+    "filename": "azerbaijani-1.pdf",
+    "size_bytes": 120196414,
+    "size_human": "114.63 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 19 Nov 2025 08:21:24 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/azerbaijani-1/azerbaijani-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a152e9439ec2e08b4f2d12ed44dab6d9",
+      "sha1": "d95a6fbe44ea059c266db7fc3a1e16ddb2872b49",
+      "sha256": "330ffbc982f755d4c8bc85b00f6b2088228c5c5538b7e2f5cf256d901124330b"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 120322132,
+  "files": [
+    {
+      "path": "Azerbaijani.jpg",
+      "size_bytes": 125718,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/azerbaijani-1/Azerbaijani.jpg"
+    },
+    {
+      "path": "azerbaijani-1.pdf",
+      "size_bytes": 120196414,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/azerbaijani-1/azerbaijani-1.pdf"
+    }
+  ]
+}

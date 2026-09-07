@@ -1,0 +1,47 @@
+{
+  "slug": "khass1brown-1",
+  "page_order": 2,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف الخاص ١",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Khass_Hafs-on_the_box.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/khass1brown-1.pdf",
+    "filename": "khass1brown-1.pdf",
+    "size_bytes": 609338538,
+    "size_human": "581.11 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 13 Nov 2025 10:34:32 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/khass1brown-1/khass1brown-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "31dcb8407d9c538fb1d51722193e78b3",
+      "sha1": "abc85ecc83690f67de719bc5a7d13fef308affbf",
+      "sha256": "39f98e3fdf16ec881f014431707dd8aa97092b2fcdee9a21d7ff93dacf99ab0c"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 609456366,
+  "files": [
+    {
+      "path": "Khass_Hafs-on_the_box.jpg",
+      "size_bytes": 117828,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/khass1brown-1/Khass_Hafs-on_the_box.jpg"
+    },
+    {
+      "path": "khass1brown-1.pdf",
+      "size_bytes": 609338538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/khass1brown-1/khass1brown-1.pdf"
+    }
+  ]
+}

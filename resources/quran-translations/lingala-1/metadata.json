@@ -1,0 +1,47 @@
+{
+  "slug": "lingala-1",
+  "page_order": 47,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "اللنغالا (Lingala)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/lingala.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/lingala-1.pdf",
+    "filename": "lingala-1.pdf",
+    "size_bytes": 14501871,
+    "size_human": "13.83 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 21 Aug 2024 05:21:10 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/lingala-1/lingala-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "02b61c1a998a93481f86b2a596ab330e",
+      "sha1": "ca882b6fe3735d0e40253a3fdc056e02b8b267ff",
+      "sha256": "0e24df91a71025f75799a31a9edc5f8739ee88e5934b1e556bef12c0be9a49d6"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 14555027,
+  "files": [
+    {
+      "path": "lingala-1.pdf",
+      "size_bytes": 14501871,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/lingala-1/lingala-1.pdf"
+    },
+    {
+      "path": "lingala.jpg",
+      "size_bytes": 53156,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/lingala-1/lingala.jpg"
+    }
+  ]
+}

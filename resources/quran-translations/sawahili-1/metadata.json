@@ -1,0 +1,47 @@
+{
+  "slug": "sawahili-1",
+  "page_order": 44,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "السواحلية (Kiswahili)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Sawahili.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/sawahili-1.pdf",
+    "filename": "sawahili-1.pdf",
+    "size_bytes": 24865904,
+    "size_human": "23.71 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 29 Aug 2024 06:36:08 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/sawahili-1/sawahili-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "8628aea55668a2418693545f3ac9418f",
+      "sha1": "47c952426c0113e9864b5c21609b512fda589363",
+      "sha256": "d3fc20abeab3c3c1efb89bd4f6758073f1823c4790536e91623e352947cc8ff4"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 24946694,
+  "files": [
+    {
+      "path": "Sawahili.jpg",
+      "size_bytes": 80790,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/sawahili-1/Sawahili.jpg"
+    },
+    {
+      "path": "sawahili-1.pdf",
+      "size_bytes": 24865904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/sawahili-1/sawahili-1.pdf"
+    }
+  ]
+}

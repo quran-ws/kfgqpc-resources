@@ -1,0 +1,602 @@
+{
+  "slug": "huthify-sura",
+  "page_order": 2,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-huthify/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/hafs/huthify-sura.rar",
+    "filename": "huthify-sura.rar",
+    "size_bytes": 841178386,
+    "size_human": "802.21 MB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Thu, 03 Feb 2022 11:56:53 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "f4f73216f3cce9c078435867521f8b58",
+      "sha1": "5418308b3185764716953a0a84ed3c094a4e01ea",
+      "sha256": "14b91a3464b7872508d2374bb015a2e1291dcd2dc15ec912f95aec9ef3743d9c"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 114,
+  "total_bytes": 863351488,
+  "files": [
+    {
+      "path": "الحذيفي-سور/10-001D00-A01.mp3",
+      "size_bytes": 505984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-001D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-002D00-A01.mp3",
+      "size_bytes": 67073152,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-002D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-003D00-A01.mp3",
+      "size_bytes": 37684672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-003D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-004D00-A01.mp3",
+      "size_bytes": 38577408,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-004D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-005D00-A01.mp3",
+      "size_bytes": 31754368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-005D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-006D00-A01.mp3",
+      "size_bytes": 33990912,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-006D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-007D00-A01.mp3",
+      "size_bytes": 37015744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-007D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-008D00-A01.mp3",
+      "size_bytes": 13642752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-008D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-009D00-A01.mp3",
+      "size_bytes": 26794688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-009D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-010D00-A01.mp3",
+      "size_bytes": 19699840,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-010D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-011D00-A01.mp3",
+      "size_bytes": 21208576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-011D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-012D00-A01.mp3",
+      "size_bytes": 19052800,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-012D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-013D00-A01.mp3",
+      "size_bytes": 9189248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-013D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-014D00-A01.mp3",
+      "size_bytes": 9129536,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-014D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-015D00-A01.mp3",
+      "size_bytes": 7588480,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-015D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-016D00-A01.mp3",
+      "size_bytes": 19184576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-016D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-017D00-A01.mp3",
+      "size_bytes": 14420928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-017D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-018D00-A01.mp3",
+      "size_bytes": 15152064,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-018D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-019D00-A01.mp3",
+      "size_bytes": 8772672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-019D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-020D00-A01.mp3",
+      "size_bytes": 13752640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-020D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-021D00-A01.mp3",
+      "size_bytes": 12674496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-021D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-022D00-A01.mp3",
+      "size_bytes": 13402304,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-022D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-023D00-A01.mp3",
+      "size_bytes": 11485696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-023D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-024D00-A01.mp3",
+      "size_bytes": 14248448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-024D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-025D00-A01.mp3",
+      "size_bytes": 8729216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-025D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-026D00-A01.mp3",
+      "size_bytes": 15743104,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-026D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-027D00-A01.mp3",
+      "size_bytes": 13328640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-027D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-028D00-A01.mp3",
+      "size_bytes": 16259904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-028D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-029D00-A01.mp3",
+      "size_bytes": 11116544,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-029D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-030D00-A01.mp3",
+      "size_bytes": 9549440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-030D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-031D00-A01.mp3",
+      "size_bytes": 5740672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-031D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-032D00-A01.mp3",
+      "size_bytes": 4361152,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-032D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-033D00-A01.mp3",
+      "size_bytes": 14160320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-033D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-034D00-A01.mp3",
+      "size_bytes": 9126080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-034D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-035D00-A01.mp3",
+      "size_bytes": 8301632,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-035D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-036D00-A01.mp3",
+      "size_bytes": 8456448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-036D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-037D00-A01.mp3",
+      "size_bytes": 11606464,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-037D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-038D00-A01.mp3",
+      "size_bytes": 8562240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-038D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-039D00-A01.mp3",
+      "size_bytes": 13039488,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-039D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-040D00-A01.mp3",
+      "size_bytes": 13147008,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-040D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-041D00-A01.mp3",
+      "size_bytes": 9371072,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-041D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-042D00-A01.mp3",
+      "size_bytes": 10187072,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-042D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-043D00-A01.mp3",
+      "size_bytes": 10453440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-043D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-044D00-A01.mp3",
+      "size_bytes": 4707392,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-044D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-045D00-A01.mp3",
+      "size_bytes": 5591104,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-045D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-046D00-A01.mp3",
+      "size_bytes": 7650496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-046D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-047D00-A01.mp3",
+      "size_bytes": 6182272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-047D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-048D00-A01.mp3",
+      "size_bytes": 5827264,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-048D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-049D00-A01.mp3",
+      "size_bytes": 4214464,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-049D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-050D00-A01.mp3",
+      "size_bytes": 4037312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-050D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-051D00-A01.mp3",
+      "size_bytes": 4276736,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-051D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-052D00-A01.mp3",
+      "size_bytes": 3805952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-052D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-053D00-A01.mp3",
+      "size_bytes": 4160384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-053D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-054D00-A01.mp3",
+      "size_bytes": 4111424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-054D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-055D00-A01.mp3",
+      "size_bytes": 5821184,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-055D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-056D00-A01.mp3",
+      "size_bytes": 5804928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-056D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-057D00-A01.mp3",
+      "size_bytes": 6483712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-057D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-058D00-A01.mp3",
+      "size_bytes": 5442112,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-058D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-059D00-A01.mp3",
+      "size_bytes": 5249152,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-059D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-060D00-A01.mp3",
+      "size_bytes": 4256512,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-060D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-061D00-A01.mp3",
+      "size_bytes": 2536384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-061D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-062D00-A01.mp3",
+      "size_bytes": 2143936,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-062D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-063D00-A01.mp3",
+      "size_bytes": 2307520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-063D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-064D00-A01.mp3",
+      "size_bytes": 2952256,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-064D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-065D00-A01.mp3",
+      "size_bytes": 3564544,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-065D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-066D00-A01.mp3",
+      "size_bytes": 3273088,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-066D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-067D00-A01.mp3",
+      "size_bytes": 4020352,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-067D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-068D00-A01.mp3",
+      "size_bytes": 3991808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-068D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-069D00-A01.mp3",
+      "size_bytes": 3282368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-069D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-070D00-A01.mp3",
+      "size_bytes": 2735744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-070D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-071D00-A01.mp3",
+      "size_bytes": 2532736,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-071D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-072D00-A01.mp3",
+      "size_bytes": 2926528,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-072D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-073D00-A01.mp3",
+      "size_bytes": 2223040,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-073D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-074D00-A01.mp3",
+      "size_bytes": 3208640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-074D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-075D00-A01.mp3",
+      "size_bytes": 1881472,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-075D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-076D00-A01.mp3",
+      "size_bytes": 2805952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-076D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-077D00-A01.mp3",
+      "size_bytes": 2558336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-077D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-078D00-A01.mp3",
+      "size_bytes": 2117696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-078D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-079D00-A01.mp3",
+      "size_bytes": 2083328,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-079D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-080D00-A01.mp3",
+      "size_bytes": 1810688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-080D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-081D00-A01.mp3",
+      "size_bytes": 1342720,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-081D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-082D00-A01.mp3",
+      "size_bytes": 1088512,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-082D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-083D00-A01.mp3",
+      "size_bytes": 2417216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-083D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-084D00-A01.mp3",
+      "size_bytes": 1324288,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-084D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-085D00-A01.mp3",
+      "size_bytes": 1342528,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-085D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-086D00-A01.mp3",
+      "size_bytes": 790912,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-086D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-087D00-A01.mp3",
+      "size_bytes": 871168,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-087D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-088D00-A01.mp3",
+      "size_bytes": 1096384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-088D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-089D00-A01.mp3",
+      "size_bytes": 1650688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-089D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-090D00-A01.mp3",
+      "size_bytes": 947392,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-090D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-091D00-A01.mp3",
+      "size_bytes": 699328,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-091D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-092D00-A01.mp3",
+      "size_bytes": 895360,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-092D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-093D00-A01.mp3",
+      "size_bytes": 525760,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-093D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-094D00-A01.mp3",
+      "size_bytes": 350272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-094D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-095D00-A01.mp3",
+      "size_bytes": 472192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-095D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-096D00-A01.mp3",
+      "size_bytes": 809344,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-096D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-097D00-A01.mp3",
+      "size_bytes": 360832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-097D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-098D00-A01.mp3",
+      "size_bytes": 1022848,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-098D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-099D00-A01.mp3",
+      "size_bytes": 452800,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-099D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-100D00-A01.mp3",
+      "size_bytes": 520192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-100D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-101D00-A01.mp3",
+      "size_bytes": 476608,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-101D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-102D00-A01.mp3",
+      "size_bytes": 432640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-102D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-103D00-A01.mp3",
+      "size_bytes": 213696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-103D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-104D00-A01.mp3",
+      "size_bytes": 432064,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-104D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-105D00-A01.mp3",
+      "size_bytes": 328960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-105D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-106D00-A01.mp3",
+      "size_bytes": 304512,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-106D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-107D00-A01.mp3",
+      "size_bytes": 385792,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-107D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-108D00-A01.mp3",
+      "size_bytes": 192000,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-108D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-109D00-A01.mp3",
+      "size_bytes": 414784,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-109D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-110D00-A01.mp3",
+      "size_bytes": 261696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-110D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-111D00-A01.mp3",
+      "size_bytes": 302848,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-111D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-112D00-A01.mp3",
+      "size_bytes": 185472,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-112D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-113D00-A01.mp3",
+      "size_bytes": 265216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-113D00-A01.mp3"
+    },
+    {
+      "path": "الحذيفي-سور/10-114D00-A01.mp3",
+      "size_bytes": 353728,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-sura/%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A-%D8%B3%D9%88%D8%B1/10-114D00-A01.mp3"
+    }
+  ]
+}

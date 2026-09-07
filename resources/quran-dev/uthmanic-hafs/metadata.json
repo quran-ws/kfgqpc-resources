@@ -1,0 +1,169 @@
+{
+  "slug": "uthmanic-hafs",
+  "page_order": 2,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "خط الرسم العثماني (رواية حفص)",
+    "en": "Unicode Uthmanic Font (Hafs Narration)"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicHafs_v2-0.zip",
+    "filename": "UthmanicHafs_v2-0.zip",
+    "size_bytes": 10729285,
+    "size_human": "10.23 MB",
+    "downloads_count_at_capture": 1385,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Tue, 19 Sep 2023 06:42:05 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "cf6841aea5b1d1fd70d032b43ff08278",
+      "sha1": "36ea5ab0d7ea1702f17ff43f9b50924cccd77ebf"
+    },
+    "computed": {
+      "md5": "cf6841aea5b1d1fd70d032b43ff08278",
+      "sha1": "36ea5ab0d7ea1702f17ff43f9b50924cccd77ebf",
+      "sha256": "a7b0e5591945712ec5e4d6142938ae4d1e9b49bdc89dff06222789bfebdfd72c"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "16-9-2020",
+    "created_iso": "2020-09-16",
+    "last_modified": "19-09-2023",
+    "last_modified_iso": "2023-09-19",
+    "version": "13.0",
+    "update_notes": null
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "خط الرسم العثماني (رواية حفص)\nهو خط حاسوبي مخصصة لعرض النص القرآني مطابقاً للرسم العثماني تم بناؤه بما يتوافق مع الترميز العالمي الموحّد Unicode وهو نظام عالمي يمكِّن البيانات من الانتقال عبر الأنظمة والأجهزة المختلفة دون أي تخوّف من عرضها بشكل مشوّه.\nتحقق الوثوقية (MD5): CF6841AEA5B1D1FD70D032B43FF08278\nتحقق الوثوقية (SHA-1): 36EA5AB0D7EA1702F17FF43F9B50924CCCD77EBF\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية حفص)"
+        },
+        {
+          "type": "text",
+          "text": "هو خط حاسوبي مخصصة لعرض النص القرآني مطابقاً للرسم العثماني تم بناؤه بما يتوافق مع الترميز العالمي الموحّد Unicode وهو نظام عالمي يمكِّن البيانات من الانتقال عبر الأنظمة والأجهزة المختلفة دون أي تخوّف من عرضها بشكل مشوّه."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): CF6841AEA5B1D1FD70D032B43FF08278"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 36EA5AB0D7EA1702F17FF43F9B50924CCCD77EBF"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية حفص)</h3>\n          <p>هو خط حاسوبي مخصصة لعرض النص القرآني مطابقاً للرسم العثماني تم بناؤه بما يتوافق مع الترميز العالمي الموحّد Unicode وهو نظام عالمي يمكِّن البيانات من الانتقال عبر الأنظمة والأجهزة المختلفة دون أي تخوّف من عرضها بشكل مشوّه.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> CF6841AEA5B1D1FD70D032B43FF08278</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 36EA5AB0D7EA1702F17FF43F9B50924CCCD77EBF</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON, TXT and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON, TXT and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number <br>\n\t\t\t2- jozz (int): Jozz Number <br>\n\t\t\t3- sura_no (int): Sura Number <br>\n\t\t\t4- sura_name_en (varchar): Sura Name in English <br>\n\t\t\t5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font) <br>\n\t\t\t6- page (int): Page Number <br>\n\t\t\t7- line_start (int): Start Line of Aya <br>\n\t\t\t8- line_end (int): End Line of Aya <br>\n\t\t\t9- aya_no (int): Aya Number <br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly) <br>\n\t\t\t11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON, TXT and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "خط الرسم العثماني (رواية حفص)\nتاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 19-09-2023\nمعلومات حول التحديث الجديد في ملف read.me\nتحديث: 13.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية حفص)"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 19-09-2023\nمعلومات حول التحديث الجديد في ملف read.me\nتحديث: 13.0"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية حفص)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 16-9-2020 <br>\n\t\t\tتاريخ آخر تعديل: 19-09-2023<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف read.me<br>\n\t\t\tتحديث: 13.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 11,
+  "total_bytes": 29856878,
+  "files": [
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.csv",
+      "size_bytes": 2435043,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.csv"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.html",
+      "size_bytes": 5023310,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.html"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.json",
+      "size_bytes": 3594552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.json"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.sql",
+      "size_bytes": 3382722,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.sql"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.txt",
+      "size_bytes": 2409808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.txt"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.xlsx",
+      "size_bytes": 1186416,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.xlsx"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/hafsData_v2-0.xml",
+      "size_bytes": 4087208,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/hafsData_v2-0.xml"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 data/read.me",
+      "size_bytes": 2302,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20data/read.me"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 font/uthmanic_hafs_v2-0.docx",
+      "size_bytes": 860404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20font/uthmanic_hafs_v2-0.docx"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 font/uthmanic_hafs_v2-0.pdf",
+      "size_bytes": 6079669,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20font/uthmanic_hafs_v2-0.pdf"
+    },
+    {
+      "path": "UthmanicHafs_v2-0 font/uthmanic_hafs_v20.ttf",
+      "size_bytes": 795444,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-hafs/UthmanicHafs_v2-0%20font/uthmanic_hafs_v20.ttf"
+    }
+  ]
+}

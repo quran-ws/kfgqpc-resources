@@ -1,0 +1,100 @@
+{
+  "group": "quran-audio-translations",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/",
+  "resource_count": 3,
+  "available_count": 3,
+  "file_count": 348,
+  "total_bytes": 11607471417,
+  "resources": [
+    {
+      "slug": "tajik-sura",
+      "page_order": 1,
+      "group": "quran-audio-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translate-audio-tajik/",
+      "title": {
+        "ar": "تحميل الكتاب لسور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/tajik/sura.zip",
+        "filename": "sura.zip",
+        "size_bytes": 3304375040,
+        "size_human": "3.08 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Wed, 13 May 2026 06:00:41 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "7ba2c93ae5e78db861309c1b8fa1e9e2",
+          "sha1": "e0e2871ccfc44453b3bda9ca4d4d54b3a0a907f1",
+          "sha256": "3db90513bb0e5cdcbdb5e27ed11e11cdbd6dd6278a5ab2719c6b0f83a5963a88"
+        }
+      },
+      "captured_at": "2026-09-07T14:06:26Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 115,
+      "total_bytes": 3387911426
+    },
+    {
+      "slug": "oromo-sura",
+      "page_order": 2,
+      "group": "quran-audio-translations",
+      "source_page": "https://qurancomplex.gov.sa/kfgqpc-quran-translate-oromo/",
+      "title": {
+        "ar": "تحميل الكتاب لسور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/Oromo/sura.zip",
+        "filename": "sura.zip",
+        "size_bytes": 3610471724,
+        "size_human": "3.36 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 06 Feb 2022 05:56:15 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "9c78ae93fdc8bbbb2b51f0e945ad9d3f",
+          "sha1": "11aba1e58f315414b493f62b5ba6be797ff83c31",
+          "sha256": "b8daf868625f5b3059334f7ba1b9a915436c53522119e2aa1d03c6a0e2309f9b"
+        }
+      },
+      "captured_at": "2026-09-07T14:06:26Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 118,
+      "total_bytes": 3737768227
+    },
+    {
+      "slug": "mandankiya-jakhankiyah-sura",
+      "page_order": 3,
+      "group": "quran-audio-translations",
+      "source_page": "https://qurancomplex.gov.sa/kfgqpc-quran-translate-mandinka/",
+      "title": {
+        "ar": "تحميل الكتاب لسور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/Mandankiya-Jakhankiyah/sura.zip",
+        "filename": "sura.zip",
+        "size_bytes": 4181040043,
+        "size_human": "3.89 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 04 Jun 2023 06:46:52 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "560ab93187bb66b103ed5a78b4abab69",
+          "sha1": "8c9c7463bcb4a9361099b0b2586348e6303c1259",
+          "sha256": "4094b1179caf3c5afb7baff81f3b8409e2f5b1c401256f1ddf6d20978f5c3edb"
+        }
+      },
+      "captured_at": "2026-09-07T14:06:26Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 115,
+      "total_bytes": 4481791764
+    }
+  ]
+}

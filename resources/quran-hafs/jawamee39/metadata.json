@@ -1,0 +1,47 @@
+{
+  "slug": "jawamee39",
+  "page_order": 3,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف الجوامعي",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Jawamee50.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/jawamee39.pdf",
+    "filename": "jawamee39.pdf",
+    "size_bytes": 167547887,
+    "size_human": "159.79 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 13 Nov 2025 10:15:35 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawamee39/jawamee39.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "7896c475efa6da18e395d0d2d7af14e9",
+      "sha1": "f14d6dc84a8b6c168a9e5fa73cf4d61fdc7df305",
+      "sha256": "6bbc7ff013ed3d848667ca80df64018c4ad3ff2e1d63e1a13a68aca9ec97fdc6"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 167612999,
+  "files": [
+    {
+      "path": "Jawamee50.jpg",
+      "size_bytes": 65112,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawamee39/Jawamee50.jpg"
+    },
+    {
+      "path": "jawamee39.pdf",
+      "size_bytes": 167547887,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawamee39/jawamee39.pdf"
+    }
+  ]
+}

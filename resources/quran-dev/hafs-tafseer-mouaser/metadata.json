@@ -1,0 +1,164 @@
+{
+  "slug": "hafs-tafseer-mouaser",
+  "page_order": 8,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "التفسير الميسر للقرآن الكريم",
+    "en": "Tafseer Muyassar"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/hafs_tafseerMouaser_v3.zip",
+    "filename": "hafs_tafseerMouaser_v3.zip",
+    "size_bytes": 7885418,
+    "size_human": "7.52 MB",
+    "downloads_count_at_capture": 563,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Tue, 26 Nov 2024 11:04:34 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "5601682965e32f4dd6992c7600fdccc3",
+      "sha1": "5f533113c2f54f32eded734bb49e6a5837965722"
+    },
+    "computed": {
+      "md5": "b38703983d438a5cd22269b746eaac0c",
+      "sha1": "a8f054411c6cd14a258d5ba7bc4e30c9ea79b336",
+      "sha256": "443a6927dbbf9df0fb63792dc83b83511f7d308f3ec322c9230fbebfe3c69c86"
+    },
+    "verified": false,
+    "note": "Published MD5/SHA-1 on the source page do not match the file currently served. The download was repeated and is byte-identical each time, and the file is structurally valid, so the served file appears to have been replaced after the page checksums were written."
+  },
+  "release_info": {
+    "created": "15-12-2020",
+    "created_iso": "2020-12-15",
+    "last_modified": "01-08-2023",
+    "last_modified_iso": "2023-08-01",
+    "version": "3.0",
+    "update_notes": null
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "التفسير الميسر للقرآن الكريم\nهي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية والجوالات والمتصفحات) وبحوثهم، وهذا المحتوى موثوق ومعتمد من المجمع، ويحتوي على بيانات المصحف الشريف برواية حفص عن عاصم مع نص التفسير الميسر المقابل لكل آية، كما تم إضافة وسم () مع خاصية (aya) للتحكم في نوع الخط للآية القرآنية وتمييزها عن نص التفسير.\nتحقق الوثوقية (MD5): 5601682965e32f4dd6992c7600fdccc3\nتحقق الوثوقية (SHA-1): 5f533113c2f54f32eded734bb49e6a5837965722\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "التفسير الميسر للقرآن الكريم"
+        },
+        {
+          "type": "text",
+          "text": "هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية والجوالات والمتصفحات) وبحوثهم، وهذا المحتوى موثوق ومعتمد من المجمع، ويحتوي على بيانات المصحف الشريف برواية حفص عن عاصم مع نص التفسير الميسر المقابل لكل آية، كما تم إضافة وسم () مع خاصية (aya) للتحكم في نوع الخط للآية القرآنية وتمييزها عن نص التفسير."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 5601682965e32f4dd6992c7600fdccc3"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 5f533113c2f54f32eded734bb49e6a5837965722"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>التفسير الميسر للقرآن الكريم</h3>\n          <p>هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية والجوالات والمتصفحات) وبحوثهم، وهذا المحتوى موثوق ومعتمد من المجمع، ويحتوي على بيانات المصحف الشريف برواية حفص عن عاصم مع نص التفسير الميسر المقابل لكل آية، كما تم إضافة وسم (<span class = aya>) مع خاصية (aya) للتحكم في نوع الخط للآية القرآنية وتمييزها عن نص التفسير.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 5601682965e32f4dd6992c7600fdccc3</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 5f533113c2f54f32eded734bb49e6a5837965722</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (int): Page Number\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_hafs_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n12- aya_tafseer (text): Tafseer Text of the Aya (The Tafseer text in Uthman Taha Naskh font and the Aya in Uthmanic Hafs font) A tag () has been added with the aya attribute to control the font type of the Quranic Aya and distinguish it from the text of the interpretation (Tafseer).\nIt includes two folders:\n1- It contains Tafseer Mouaser fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (int): Page Number\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_hafs_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n12- aya_tafseer (text): Tafseer Text of the Aya (The Tafseer text in Uthman Taha Naskh font and the Aya in Uthmanic Hafs font) A tag () has been added with the aya attribute to control the font type of the Quranic Aya and distinguish it from the text of the interpretation (Tafseer)."
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains Tafseer Mouaser fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (int): Page Number<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_hafs_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_hafs_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicHafs_v2-0 data folder except Excel file to display Aya mark properly)<br>\n\t\t\t11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose<br>\n\t\t\t12- aya_tafseer (text): Tafseer Text of the Aya (The Tafseer text in Uthman Taha Naskh font and the Aya in Uthmanic Hafs font) A tag (<span class =’aya’>) has been added with the aya attribute to control the font type of the Quranic Aya and distinguish it from the text of the interpretation (Tafseer).\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains Tafseer Mouaser fonts (Uthmanic Hafs font and Uthman Taha Naskh font). <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "التفسير الميسر للقرآن الكريم\nتاريخ الإنشاء: 15-12-2020\nتاريخ آخر تعديل: 01-08-2023\nمعلومات حول التحديث الجديد ملف: read.me\nتحديث: 3.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "التفسير الميسر للقرآن الكريم"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 15-12-2020\nتاريخ آخر تعديل: 01-08-2023\nمعلومات حول التحديث الجديد ملف: read.me\nتحديث: 3.0"
+        }
+      ],
+      "html": "<h3>التفسير الميسر للقرآن الكريم</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 15-12-2020<br>\n\t\t\tتاريخ آخر تعديل: 01-08-2023<br>\n\t\t\tمعلومات حول التحديث الجديد ملف: read.me<br>\n\t\t\tتحديث: 3.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 10,
+  "total_bytes": 30483089,
+  "files": [
+    {
+      "path": "hafs_tafseerMouaser_v3_data/read.me",
+      "size_bytes": 1558,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/read.me"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.csv",
+      "size_bytes": 4408127,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.csv"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.html",
+      "size_bytes": 7202603,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.html"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.sql",
+      "size_bytes": 5431012,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.sql"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.txt",
+      "size_bytes": 4358351,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.txt"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.xlsx",
+      "size_bytes": 1797975,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.xlsx"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.xml",
+      "size_bytes": 6216583,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_data/tafseerMouaser_v03.xml"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_fonts/uthman_tn1_ver20.ttf",
+      "size_bytes": 139384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_fonts/uthman_tn1_ver20.ttf"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_fonts/uthman_tn1b_ver20.ttf",
+      "size_bytes": 132052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_fonts/uthman_tn1b_ver20.ttf"
+    },
+    {
+      "path": "hafs_tafseerMouaser_v3_fonts/uthmanic_hafs_v20.ttf",
+      "size_bytes": 795444,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/hafs-tafseer-mouaser/hafs_tafseerMouaser_v3_fonts/uthmanic_hafs_v20.ttf"
+    }
+  ]
+}

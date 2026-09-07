@@ -1,0 +1,47 @@
+{
+  "slug": "juzutabarak-1",
+  "page_order": 13,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "جزء تبارك",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Juzu-Tabarak.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzutabarak-1.pdf",
+    "filename": "juzutabarak-1.pdf",
+    "size_bytes": 14188196,
+    "size_human": "13.53 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 18 Nov 2025 10:38:17 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzutabarak-1/juzutabarak-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ae76a9a406583233a716ba6b00c2d1de",
+      "sha1": "1c8cfc31a115e0e62c842107a70913a99c6f9f7f",
+      "sha256": "16aca7de05c627b19d7518773d5f30cea946925c5ab6cbac4047bffe231c9b6a"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 14239199,
+  "files": [
+    {
+      "path": "Juzu-Tabarak.jpg",
+      "size_bytes": 51003,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzutabarak-1/Juzu-Tabarak.jpg"
+    },
+    {
+      "path": "juzutabarak-1.pdf",
+      "size_bytes": 14188196,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzutabarak-1/juzutabarak-1.pdf"
+    }
+  ]
+}

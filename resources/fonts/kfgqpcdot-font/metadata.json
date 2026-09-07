@@ -1,0 +1,38 @@
+{
+  "slug": "kfgqpcdot-font",
+  "page_order": 14,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/KFGQPCDotFont.otf",
+    "filename": "KFGQPCDotFont.otf",
+    "size_bytes": 184952,
+    "size_human": "180.6 KB",
+    "content_type": "font/otf",
+    "server_last_modified": "Wed, 09 Jul 2014 07:41:34 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/kfgqpcdot-font/KFGQPCDotFont.otf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5e66af3a41d4ca0b27596488380132bf",
+      "sha1": "8d1972a01bd9954574979e3a384b9f3f2b6a081f",
+      "sha256": "fc705f2daa494f093658b0f176197aed2871a1a819c15e30f87648e01fd5d9de"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 184952,
+  "files": [
+    {
+      "path": "KFGQPCDotFont.otf",
+      "size_bytes": 184952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/kfgqpcdot-font/KFGQPCDotFont.otf"
+    }
+  ]
+}

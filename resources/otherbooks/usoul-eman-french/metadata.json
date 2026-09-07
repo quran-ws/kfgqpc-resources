@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-french",
+  "page_order": 10,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الفرنسية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Usoul_Eman__French.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-French.pdf",
+    "filename": "UsoulEman-French.pdf",
+    "size_bytes": 41574771,
+    "size_human": "39.65 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 13:25:05 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-french/UsoulEman-French.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "219c2a15e1eb3437085271f7f2ad6e75",
+      "sha1": "ab3bae8addb27933bac0f5f097059145dfddb344",
+      "sha256": "8a00fa6b4e6e0a67b9a5981a549162062f7198638a31ee50f38b98947a7c9021"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 41673367,
+  "files": [
+    {
+      "path": "UsoulEman-French.pdf",
+      "size_bytes": 41574771,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-french/UsoulEman-French.pdf"
+    },
+    {
+      "path": "Usoul_Eman__French.jpg",
+      "size_bytes": 98596,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-french/Usoul_Eman__French.jpg"
+    }
+  ]
+}

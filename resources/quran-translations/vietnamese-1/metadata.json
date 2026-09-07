@@ -1,0 +1,47 @@
+{
+  "slug": "vietnamese-1",
+  "page_order": 23,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الفيتنامية (Tiếng Việt)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/vietnamese.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/vietnamese-1.pdf",
+    "filename": "vietnamese-1.pdf",
+    "size_bytes": 369036640,
+    "size_human": "351.94 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 07:26:19 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/vietnamese-1/vietnamese-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a8f4c24728117376fc9332f7c981bfc7",
+      "sha1": "a6c25b25ac3638b2be0116a1e00e31fac1d91875",
+      "sha256": "36f6dfc11d388246cf3299a55e86e05f5e0f27d25e101c8600487badce4b60d0"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 369092432,
+  "files": [
+    {
+      "path": "vietnamese-1.pdf",
+      "size_bytes": 369036640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/vietnamese-1/vietnamese-1.pdf"
+    },
+    {
+      "path": "vietnamese.jpg",
+      "size_bytes": 55792,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/vietnamese-1/vietnamese.jpg"
+    }
+  ]
+}

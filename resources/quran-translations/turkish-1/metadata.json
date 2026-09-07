@@ -1,0 +1,47 @@
+{
+  "slug": "turkish-1",
+  "page_order": 18,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "التركية (Türkçe)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Turkish.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/turkish-1.pdf",
+    "filename": "turkish-1.pdf",
+    "size_bytes": 186510049,
+    "size_human": "177.87 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 25 Aug 2024 10:30:08 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/turkish-1/turkish-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "1f2f4b017b278724933e27729e299b7a",
+      "sha1": "4584795306fd162f60982d313c5f05d8200bfb20",
+      "sha256": "a44b68cf52d0bad30881a01520451f4807ba29577c8311e0af9af50a8ca2c95e"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 186599513,
+  "files": [
+    {
+      "path": "Turkish.jpg",
+      "size_bytes": 89464,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/turkish-1/Turkish.jpg"
+    },
+    {
+      "path": "turkish-1.pdf",
+      "size_bytes": 186510049,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/turkish-1/turkish-1.pdf"
+    }
+  ]
+}

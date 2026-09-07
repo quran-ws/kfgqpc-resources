@@ -1,0 +1,38 @@
+{
+  "slug": "شرح-الحقيبة-التدريبية-بروتوكولات-المجمع",
+  "page_order": 2,
+  "group": "training-bags",
+  "source_page": "https://qurancomplex.gov.sa/training-bags/",
+  "title": {
+    "ar": "شرح الحقيبة",
+    "en": null
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/training-bags/%D8%B4%D8%B1%D8%AD%20_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9_%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9_%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9.pdf",
+    "filename": "شرح _الحقيبة_التدريبية_بروتوكولات_المجمع.pdf",
+    "size_bytes": 579338,
+    "size_human": "565.8 KB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 31 Jul 2025 08:38:51 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/training-bags/%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9/%D8%B4%D8%B1%D8%AD%20_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9_%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9_%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "70b39db89932c98f401691cf2a0b02cc",
+      "sha1": "39e927d0e111a62ebdffb0f227f8148d3247dd1d",
+      "sha256": "c0c1440019a35f002d7274dbf01efc04e72adf5b5787f6b1f883441186bcdcdf"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:09Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 579338,
+  "files": [
+    {
+      "path": "شرح _الحقيبة_التدريبية_بروتوكولات_المجمع.pdf",
+      "size_bytes": 579338,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/training-bags/%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9/%D8%B4%D8%B1%D8%AD%20_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9_%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9_%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9.pdf"
+    }
+  ]
+}

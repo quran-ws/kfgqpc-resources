@@ -1,0 +1,47 @@
+{
+  "slug": "swedish",
+  "page_order": 34,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "السويدية (الأجزاء الخمسة الأولى) (Svenska)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأوروبية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/05/Swedish.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/swedish.pdf",
+    "filename": "swedish.pdf",
+    "size_bytes": 23800085,
+    "size_human": "22.70 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 18 Mar 2025 12:44:37 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/swedish/swedish.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ef71257450e880e2959bf07e6904ef29",
+      "sha1": "e62fcfd1c8fe9c59a728648a53f6b9f7fd848052",
+      "sha256": "ce1c09a932e9416603a289515e317749537182c2c1796026cb86f429ad1cad0c"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 23858023,
+  "files": [
+    {
+      "path": "Swedish.jpg",
+      "size_bytes": 57938,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/swedish/Swedish.jpg"
+    },
+    {
+      "path": "swedish.pdf",
+      "size_bytes": 23800085,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/swedish/swedish.pdf"
+    }
+  ]
+}

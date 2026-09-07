@@ -1,0 +1,47 @@
+{
+  "slug": "juzuamma-2",
+  "page_order": 14,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "الفاتحة وجزء عم",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Juzu_Amma.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzuamma-2.pdf",
+    "filename": "juzuamma-2.pdf",
+    "size_bytes": 33053201,
+    "size_human": "31.52 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 18 Nov 2025 10:50:29 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuamma-2/juzuamma-2.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "c49d0d31c90addf92c12fa381ff39948",
+      "sha1": "635ce34fa81df6036482b8b85d3df1691189345e",
+      "sha256": "5d14f40fe3b52ad31d46b5b4c5df039c2c7a7b4d37deaf907c66461521dce30a"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 33108585,
+  "files": [
+    {
+      "path": "Juzu_Amma.jpg",
+      "size_bytes": 55384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuamma-2/Juzu_Amma.jpg"
+    },
+    {
+      "path": "juzuamma-2.pdf",
+      "size_bytes": 33053201,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuamma-2/juzuamma-2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mushaf-publisher-win-setup",
+  "page_order": 1,
+  "group": "nashr",
+  "source_page": "https://nashr.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل",
+    "en": null
+  },
+  "download": {
+    "url": "https://nashr.qurancomplex.gov.sa/download/Mushaf_Publisher_Win_Setup_V3.16.zip",
+    "filename": "Mushaf_Publisher_Win_Setup_V3.16.zip",
+    "size_bytes": 141137879,
+    "size_human": "134.60 MB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Mon, 24 Jun 2024 11:13:32 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "4180440b4a34228fc79ee3423731adc3",
+      "sha1": "bbc7b3bc420b23c2b26767369a436c74872b6922",
+      "sha256": "da568c9cd49285ed6cd02a2c8501c125e26c682d9e18394453d35d936f294a85"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:49Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 2,
+  "total_bytes": 143400960,
+  "files": [
+    {
+      "path": "Mushaf Publisher Win Setup V3.16/SetupProject.msi",
+      "size_bytes": 142848512,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/nashr/mushaf-publisher-win-setup/Mushaf%20Publisher%20Win%20Setup%20V3.16/SetupProject.msi"
+    },
+    {
+      "path": "Mushaf Publisher Win Setup V3.16/setup.exe",
+      "size_bytes": 552448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/nashr/mushaf-publisher-win-setup/Mushaf%20Publisher%20Win%20Setup%20V3.16/setup.exe"
+    }
+  ]
+}

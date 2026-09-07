@@ -1,0 +1,819 @@
+{
+  "group": "jqrs",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/jqrs/",
+  "resource_count": 29,
+  "available_count": 29,
+  "file_count": 29,
+  "total_bytes": 2846725181,
+  "resources": [
+    {
+      "slug": "jqrs-30",
+      "page_order": 1,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "العدد الثلاثون",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_30.pdf",
+        "filename": "JQRS_30.pdf",
+        "size_bytes": 39046731,
+        "size_human": "37.24 MB",
+        "content_type": null,
+        "server_last_modified": null,
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-30/JQRS_30.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "d176185c9e5574bbf60479ea64b8cb14",
+          "sha1": "a42551be9b22cfd6163aac4e1265710540826eb1",
+          "sha256": "8f74f6a6c1047bf8bbc7ee699dd91301b38f0c2161fb79d016788c6d3fae53c4"
+        }
+      },
+      "captured_at": "2026-09-07T15:26:31Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 39046731
+    },
+    {
+      "slug": "jqrs-29",
+      "page_order": 2,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "العدد التاسع والعشرون",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_29.pdf",
+        "filename": "JQRS_29.pdf",
+        "size_bytes": 22742227,
+        "size_human": "21.69 MB",
+        "content_type": null,
+        "server_last_modified": null,
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-29/JQRS_29.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "71cbc26af883d64b8c9e0999ac723dbd",
+          "sha1": "a9604eb1dc5553e616574a241c71fd9a38b1affa",
+          "sha256": "433c40e5400cbcb8214379ae5cdc9ab3a4ba50988f43716e79b50d5b41d01e73"
+        }
+      },
+      "captured_at": "2026-09-07T15:26:31Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 22742227
+    },
+    {
+      "slug": "jqrs-28",
+      "page_order": 3,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_28.pdf",
+        "filename": "JQRS_28.pdf",
+        "size_bytes": 41878684,
+        "size_human": "39.94 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 11 Mar 2025 09:27:10 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-28/JQRS_28.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "7b41df9b7237057a60ce9fdd7763a9d3",
+          "sha1": "170d968bd6f5bdc8b95c1bc35006cf5ca16afa42",
+          "sha256": "0701ccdab47d65ca0153b0f1ac82efe8df24ea99e5feadddff3d92b6046076ca"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 41878684
+    },
+    {
+      "slug": "jqrs-27",
+      "page_order": 4,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_27.pdf",
+        "filename": "JQRS_27.pdf",
+        "size_bytes": 17626903,
+        "size_human": "16.81 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 01 Jan 2025 05:21:08 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-27/JQRS_27.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e98845c85c3133c56a6c5070c4f6a2c4",
+          "sha1": "abcfa0699f875d303289ab7a784eef56edf1eff2",
+          "sha256": "541d8393af59b74c655f7063c1811fa482d4be8ab1638b91ebc9a7bebe057895"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 17626903
+    },
+    {
+      "slug": "jqrs-26",
+      "page_order": 5,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_26.pdf",
+        "filename": "JQRS_26.pdf",
+        "size_bytes": 16986996,
+        "size_human": "16.20 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 01 Jan 2025 05:19:44 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-26/JQRS_26.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "2ce1db849edd66d814c0a29fbe33e82d",
+          "sha1": "27b27d28b992ff6ecca24c150ae5aebb2a232318",
+          "sha256": "6fb26aba4994f95681e380fffe48d25f6ba15508c1a2d8ec8e71f4063c619b51"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 16986996
+    },
+    {
+      "slug": "jqrs-25",
+      "page_order": 6,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_25.pdf",
+        "filename": "JQRS_25.pdf",
+        "size_bytes": 30350114,
+        "size_human": "28.94 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 01 Jan 2025 05:13:39 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-25/JQRS_25.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "38a8a9597eaa68fff9e135b830f1507f",
+          "sha1": "ccd9ff7b952f31768bb2545581cf2864f465bf50",
+          "sha256": "b900a52c3d620cc202a65318f647a4a8feebbbbe523d70da017105b0c99f5996"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 30350114
+    },
+    {
+      "slug": "jqrs-23-24",
+      "page_order": 7,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_23_24.pdf",
+        "filename": "JQRS_23_24.pdf",
+        "size_bytes": 25893385,
+        "size_human": "24.69 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 05:44:53 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-23-24/JQRS_23_24.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "384404952d32137429cbdf9af6a584dc",
+          "sha1": "4295d70f8cdb31d2c88def4aeb1c48801c489ade",
+          "sha256": "501930f3497d283f6581336af0accf7012793262632b930aacd4cc5978fd5816"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 25893385
+    },
+    {
+      "slug": "jqrs-22",
+      "page_order": 8,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_22.pdf",
+        "filename": "JQRS_22.pdf",
+        "size_bytes": 29035480,
+        "size_human": "27.69 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 05:34:54 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-22/JQRS_22.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "9a2c41bad9ec80f0b7c6982b9b4748d6",
+          "sha1": "307327d199991c47846a42749ca096d6101f4059",
+          "sha256": "37deef5656d5dadac84bc4a5cc3e90762c1bed78620e1ce68d2ff90e82bf451b"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 29035480
+    },
+    {
+      "slug": "jqrs-21",
+      "page_order": 9,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_21.pdf",
+        "filename": "JQRS_21.pdf",
+        "size_bytes": 29328189,
+        "size_human": "27.97 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 05:28:56 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-21/JQRS_21.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "c5cfb425c4c16c340ef821a378ad8c7b",
+          "sha1": "209136fcef3b558643eeced10aa75009038be7ae",
+          "sha256": "5b4f299b9259f815639e288eced0dcf2ee853abfabc6364f7f891df8a9436402"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 29328189
+    },
+    {
+      "slug": "jqrs-20",
+      "page_order": 10,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_20.pdf",
+        "filename": "JQRS_20.pdf",
+        "size_bytes": 26308937,
+        "size_human": "25.09 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 05:06:09 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-20/JQRS_20.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "60c560d874b5dbb1557f006fcde83493",
+          "sha1": "c6c06a24554220e8dbc860329a6d342dc053e28e",
+          "sha256": "fbe9593ba5a309c3db4acf633e63771c3b803296b3badc035b5a06b466cc3369"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 26308937
+    },
+    {
+      "slug": "jqrs-19",
+      "page_order": 11,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_19.pdf",
+        "filename": "JQRS_19.pdf",
+        "size_bytes": 40208012,
+        "size_human": "38.35 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 05:00:05 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-19/JQRS_19.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "c90b68fe1c5f6af30b26918dd67fa4bd",
+          "sha1": "a0935927f4836e265a0a487a0390a1cb27c7f34a",
+          "sha256": "bc5a22614cdbb957523123daee44a596f5e8fecb3cd48f304f9f8ba5dcd3fc57"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 40208012
+    },
+    {
+      "slug": "jqrs-18",
+      "page_order": 12,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_18.pdf",
+        "filename": "JQRS_18.pdf",
+        "size_bytes": 43637626,
+        "size_human": "41.62 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 04:53:43 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-18/JQRS_18.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 43637626
+    },
+    {
+      "slug": "jqrs-17",
+      "page_order": 13,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_17.pdf",
+        "filename": "JQRS_17.pdf",
+        "size_bytes": 44678490,
+        "size_human": "42.61 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 04:46:38 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-17/JQRS_17.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 44678490
+    },
+    {
+      "slug": "jqrs-16",
+      "page_order": 14,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_16.pdf",
+        "filename": "JQRS_16.pdf",
+        "size_bytes": 44642825,
+        "size_human": "42.57 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 03:39:14 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-16/JQRS_16.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 44642825
+    },
+    {
+      "slug": "jqrs-15",
+      "page_order": 15,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_15.pdf",
+        "filename": "JQRS_15.pdf",
+        "size_bytes": 33783763,
+        "size_human": "32.22 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 26 Dec 2024 03:00:19 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-15/JQRS_15.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "78ad9deebfba11200730f8cbe357138c",
+          "sha1": "c2328d27f1c3691e4b670e69971414ac1c2d2f75",
+          "sha256": "0edfb20a3aebf7aa561abda3bccf1edcc5ddfc8c7230892d372078c837da1079"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 33783763
+    },
+    {
+      "slug": "jqrs-14",
+      "page_order": 16,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_14.pdf",
+        "filename": "JQRS_14.pdf",
+        "size_bytes": 32019678,
+        "size_human": "30.54 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 25 Dec 2024 09:51:32 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-14/JQRS_14.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e4699e90ffe0331b21f90956ca15e379",
+          "sha1": "cdc74426d3462c68f69f1f3f202a29cbce26df66",
+          "sha256": "1dbbce2dab3ae65b1b2ffd66ff4cb84604860582b7e5c96a2ccea71cf08e6d3e"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 32019678
+    },
+    {
+      "slug": "jqrs-13",
+      "page_order": 17,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_13.pdf",
+        "filename": "JQRS_13.pdf",
+        "size_bytes": 63296649,
+        "size_human": "60.36 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 25 Dec 2024 08:36:16 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-13/JQRS_13.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 63296649
+    },
+    {
+      "slug": "jqrs-12",
+      "page_order": 18,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_12.pdf",
+        "filename": "JQRS_12.pdf",
+        "size_bytes": 29165391,
+        "size_human": "27.81 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 25 Dec 2024 08:29:19 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-12/JQRS_12.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "61d0627763e9e60228a32728ac0ebecb",
+          "sha1": "c979cd8ca4381b8a705cd4e337241bc2f1543775",
+          "sha256": "1a27568002a756be96a739f00846d0efa9cb39244c577331953457c5d67600e9"
+        }
+      },
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 29165391
+    },
+    {
+      "slug": "jqrs-11",
+      "page_order": 19,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_11.pdf",
+        "filename": "JQRS_11.pdf",
+        "size_bytes": 84283962,
+        "size_human": "80.38 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 25 Dec 2024 08:18:26 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-11/JQRS_11.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 84283962
+    },
+    {
+      "slug": "jqrs-10",
+      "page_order": 20,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_10.pdf",
+        "filename": "JQRS_10.pdf",
+        "size_bytes": 181820166,
+        "size_human": "173.40 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 23 Jan 2025 08:34:13 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-10/JQRS_10.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 181820166
+    },
+    {
+      "slug": "jqrs-09",
+      "page_order": 21,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_09.pdf",
+        "filename": "JQRS_09.pdf",
+        "size_bytes": 256788819,
+        "size_human": "244.89 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 19 Jan 2025 05:58:02 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-09/JQRS_09.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 256788819
+    },
+    {
+      "slug": "jqrs-08",
+      "page_order": 22,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_08.pdf",
+        "filename": "JQRS_08.pdf",
+        "size_bytes": 192620335,
+        "size_human": "183.70 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 19 Jan 2025 05:01:08 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-08/JQRS_08.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 192620335
+    },
+    {
+      "slug": "jqrs-07",
+      "page_order": 23,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_07.pdf",
+        "filename": "JQRS_07.pdf",
+        "size_bytes": 169298932,
+        "size_human": "161.46 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 19 Jan 2025 04:53:47 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-07/JQRS_07.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 169298932
+    },
+    {
+      "slug": "jqrs-06",
+      "page_order": 24,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_06.pdf",
+        "filename": "JQRS_06.pdf",
+        "size_bytes": 290610611,
+        "size_human": "277.15 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 23 Jan 2025 08:38:43 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-06/JQRS_06.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 290610611
+    },
+    {
+      "slug": "jqrs-05",
+      "page_order": 25,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_05.pdf",
+        "filename": "JQRS_05.pdf",
+        "size_bytes": 233356734,
+        "size_human": "222.55 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 23 Jan 2025 08:41:41 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-05/JQRS_05.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 233356734
+    },
+    {
+      "slug": "jqrs-04",
+      "page_order": 26,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_04.pdf",
+        "filename": "JQRS_04.pdf",
+        "size_bytes": 209350027,
+        "size_human": "199.65 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 23 Jan 2025 08:45:18 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-04/JQRS_04.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 209350027
+    },
+    {
+      "slug": "jqrs-03",
+      "page_order": 27,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_03.pdf",
+        "filename": "JQRS_03.pdf",
+        "size_bytes": 291372930,
+        "size_human": "277.87 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 13 Jan 2025 08:11:26 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-03/JQRS_03.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 291372930
+    },
+    {
+      "slug": "jqrs-02",
+      "page_order": 28,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_02.pdf",
+        "filename": "JQRS_02.pdf",
+        "size_bytes": 189829778,
+        "size_human": "181.04 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 26 Jan 2025 07:09:00 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-02/JQRS_02.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 189829778
+    },
+    {
+      "slug": "jqrs-01",
+      "page_order": 29,
+      "group": "jqrs",
+      "source_page": "https://jqrs.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "سكرتير التحرير",
+        "en": null
+      },
+      "download": {
+        "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_01.pdf",
+        "filename": "JQRS_01.pdf",
+        "size_bytes": 136762807,
+        "size_human": "130.43 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 13 Jan 2025 05:33:32 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-01/JQRS_01.pdf"
+      },
+      "checksums": null,
+      "captured_at": "2026-09-02T10:29:05Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 136762807
+    }
+  ]
+}

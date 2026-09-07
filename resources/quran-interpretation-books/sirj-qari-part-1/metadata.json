@@ -1,0 +1,47 @@
+{
+  "slug": "sirj-qari-part-1",
+  "page_order": 1,
+  "group": "quran-interpretation-books",
+  "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+  "title": {
+    "ar": "سراج القارئ المبتدي وتذكار المقرئ المنتهي-1",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/sirj_qari_image.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/sirj_qari_part_1.pdf",
+    "filename": "sirj_qari_part_1.pdf",
+    "size_bytes": 22568060,
+    "size_human": "21.52 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 13 Oct 2024 08:55:20 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-1/sirj_qari_part_1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "f15b0eb1a2ea1c53d6c7733c3c498a78",
+      "sha1": "83fb35bf2ad49e6f8398d55882bbaea12edc34ae",
+      "sha256": "c4397dc0c00df0b5137a62c94d8455353574bdcddc52a5bb8a786546c4b394ba"
+    }
+  },
+  "captured_at": "2026-09-07T14:27:50Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 22697789,
+  "files": [
+    {
+      "path": "sirj_qari_image.jpg",
+      "size_bytes": 129729,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-1/sirj_qari_image.jpg"
+    },
+    {
+      "path": "sirj_qari_part_1.pdf",
+      "size_bytes": 22568060,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-1/sirj_qari_part_1.pdf"
+    }
+  ]
+}

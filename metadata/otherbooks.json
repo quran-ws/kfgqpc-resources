@@ -1,0 +1,465 @@
+{
+  "group": "otherbooks",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/",
+  "resource_count": 13,
+  "available_count": 13,
+  "file_count": 26,
+  "total_bytes": 435590093,
+  "resources": [
+    {
+      "slug": "usoul-eman-arabic",
+      "page_order": 1,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_arabic-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Arabic.pdf",
+        "filename": "UsoulEman-Arabic.pdf",
+        "size_bytes": 32098138,
+        "size_human": "30.61 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 12:23:11 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-arabic/UsoulEman-Arabic.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ab03c3902a477b47dbf38e730d790ede",
+          "sha1": "a90b713791c192b87b41199ed0d81b39336a5371",
+          "sha256": "b508179683a77b43f024b9634fedceca4d040215eff727b11aeed1159f5dc851"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 32158774
+    },
+    {
+      "slug": "usoul-eman-english",
+      "page_order": 2,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الإنجليزية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_english.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-English.pdf",
+        "filename": "UsoulEman-English.pdf",
+        "size_bytes": 52769279,
+        "size_human": "50.32 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 12:58:52 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-english/UsoulEman-English.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "bff717e38038c449506ac07d0f1af27a",
+          "sha1": "c8a64edfa872c9e0b6aa2d20f3dfd5da24c49fd9",
+          "sha256": "c92a4ec71e865dcf320189dee567bacb030269a964b9fb07d14070a955c1df2a"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 52821411
+    },
+    {
+      "slug": "usoul-eman-kurdish",
+      "page_order": 3,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الكردية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_kurdish-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Kurdish.pdf",
+        "filename": "UsoulEman-Kurdish.pdf",
+        "size_bytes": 66351502,
+        "size_human": "63.28 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 15:25:02 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-kurdish/UsoulEman-Kurdish.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "799d80e3b600262e219adf95c0fa9828",
+          "sha1": "12b3da7cc1613c45fd8e29a16dad1ed0efd8c699",
+          "sha256": "03f290e8f5041207820d1db745280f716d337c095d828d4096337694a5411788"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 66402879
+    },
+    {
+      "slug": "usoul-eman-macedonian",
+      "page_order": 4,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة المقدونية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_macedonian.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Macedonian.pdf",
+        "filename": "UsoulEman-Macedonian.pdf",
+        "size_bytes": 35117152,
+        "size_human": "33.49 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 14:40:34 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-macedonian/UsoulEman-Macedonian.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "3ae15780d531f2da80997c83ba4ab23a",
+          "sha1": "99ce4f235d84cc765e47ea19dcb2dd422ff41e7b",
+          "sha256": "baf94480bc144cd7308224f83ff3c76686ef0f055003b035ef0cf39284bd8b2e"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 35169057
+    },
+    {
+      "slug": "usoul-eman-azerbaijani",
+      "page_order": 5,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الأذرية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/Usoul_Eman_Azeri-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Azerbaijani.pdf",
+        "filename": "UsoulEman-Azerbaijani.pdf",
+        "size_bytes": 34116980,
+        "size_human": "32.54 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 12:20:49 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-azerbaijani/UsoulEman-Azerbaijani.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "7b6a8e370a8b42de47e22c2f4c26c44e",
+          "sha1": "0200a9ad9ac07a7be4f5f31e458cf0911da23362",
+          "sha256": "76293f7b1edf77a5738c75830ac995f26b350945f0a83c6f245b2e244b8fc381"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 34168408
+    },
+    {
+      "slug": "usoul-eman-ukranian",
+      "page_order": 6,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الأُكْرانية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_ukrainian-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Ukranian.pdf",
+        "filename": "UsoulEman-Ukranian.pdf",
+        "size_bytes": 35067681,
+        "size_human": "33.44 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 15:47:03 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-ukranian/UsoulEman-Ukranian.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "199bd03cad6e94d9297cdae5a00b6fae",
+          "sha1": "55a52b02bfe77673f839303f1fe439dd2b256543",
+          "sha256": "55d9e2ad351940e68e1cbb99ebf082354dcfd1c6f01a6430e70870b6d8d2122b"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 35109380
+    },
+    {
+      "slug": "usoul-eman-nko",
+      "page_order": 7,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الأنكو)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_nko-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Nko.pdf",
+        "filename": "UsoulEman-Nko.pdf",
+        "size_bytes": 27435462,
+        "size_human": "26.16 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 14:15:40 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-nko/UsoulEman-Nko.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "dfc79366dca3ab0733e973c38de1634d",
+          "sha1": "121099779d7d3234f88742352652f1600e195c53",
+          "sha256": "67a82b2a197176f4e50eeba8fee032e6518301639f9560a864d07f953a6923ce"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 27475150
+    },
+    {
+      "slug": "usoul-eman-russian",
+      "page_order": 8,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الروسية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_russian.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Russian.pdf",
+        "filename": "UsoulEman-Russian.pdf",
+        "size_bytes": 38740457,
+        "size_human": "36.95 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 13:49:14 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-russian/UsoulEman-Russian.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "33b33fb7b89b08fb9e19459beba7d0a5",
+          "sha1": "d2c4b7403de3029bc7c48762026bd856e90db502",
+          "sha256": "6178baf5813b71f5b422ae163e5ca6c48a7dddf47ecc1fc673dfbc3a29ceb20d"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 38791496
+    },
+    {
+      "slug": "usoul-eman-chinese",
+      "page_order": 9,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الصينية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman__chinese.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Chinese.pdf",
+        "filename": "UsoulEman-Chinese.pdf",
+        "size_bytes": 37165156,
+        "size_human": "35.44 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 12:23:29 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-chinese/UsoulEman-Chinese.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "198038318c7a2a82f52183d0ce55dbf0",
+          "sha1": "c6288c8f117b7a07efc6b3ad581c3135d6b88413",
+          "sha256": "96f229926822572ac0c6ad68ad4cf2e3ec6c741eb5be25d05422d25566042ed5"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 37208807
+    },
+    {
+      "slug": "usoul-eman-french",
+      "page_order": 10,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الفرنسية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Usoul_Eman__French.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-French.pdf",
+        "filename": "UsoulEman-French.pdf",
+        "size_bytes": 41574771,
+        "size_human": "39.65 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 13:25:05 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-french/UsoulEman-French.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "219c2a15e1eb3437085271f7f2ad6e75",
+          "sha1": "ab3bae8addb27933bac0f5f097059145dfddb344",
+          "sha256": "8a00fa6b4e6e0a67b9a5981a549162062f7198638a31ee50f38b98947a7c9021"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 41673367
+    },
+    {
+      "slug": "thikr-duaa",
+      "page_order": 11,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب الذكر والدعاء في ضوء الكتاب والسنة",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/thikr_duaa_arabic-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/ThikrDuaa.pdf",
+        "filename": "ThikrDuaa.pdf",
+        "size_bytes": 4888623,
+        "size_human": "4.66 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 11:49:48 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa/ThikrDuaa.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "6db26f968656c7d6e0298a4f499fd676",
+          "sha1": "904d63a0a5da31ce7316cd12d52f99f5e2dfa427",
+          "sha256": "81033482efe03c02c1f068f47a39a8e1f762000817dfc7a5f5b98fbdf5a72537"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 4920982
+    },
+    {
+      "slug": "thikr-duaa-english",
+      "page_order": 12,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب الذكر والدعاء (اللغة الإنجليزية)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/thikr-duaa-english.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/ThikrDuaa-English.pdf",
+        "filename": "ThikrDuaa-English.pdf",
+        "size_bytes": 16041341,
+        "size_human": "15.30 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 11:53:49 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa-english/ThikrDuaa-English.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5a34ccbd7b0196b674210107913bdc0c",
+          "sha1": "f77bec2ace44d0b003e228db1a3eb5c9ed6a348f",
+          "sha256": "8f7c3d46ca290e94eb7f4c25bbbc26bed1cc5ab9f560824c1bb556b03c9ceca0"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 16094884
+    },
+    {
+      "slug": "thikr-duaa-urdu",
+      "page_order": 13,
+      "group": "otherbooks",
+      "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+      "title": {
+        "ar": "كتاب الذكر والدعاء (لغة الأردو)",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/thikr-duaa-urdu.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/ThikrDuaa-Urdu.pdf",
+        "filename": "ThikrDuaa-Urdu.pdf",
+        "size_bytes": 13545975,
+        "size_human": "12.92 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 11:53:10 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa-urdu/ThikrDuaa-Urdu.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4e1ae507cf9b7adeb7df7f8b27e807a3",
+          "sha1": "732c741c3ab2c0fe427edeb1c1bb778e7ccffc5a",
+          "sha256": "00ab3311b277b5471d538867a5a8ee646279b4659d14cff4610ef54415a6ab15"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:19Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 13595498
+    }
+  ]
+}

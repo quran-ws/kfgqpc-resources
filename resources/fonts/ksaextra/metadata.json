@@ -1,0 +1,38 @@
+{
+  "slug": "ksaextra",
+  "page_order": 7,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/KSAExtra.ttf",
+    "filename": "KSAExtra.ttf",
+    "size_bytes": 49376,
+    "size_human": "48.2 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 13 Dec 2022 07:55:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaextra/KSAExtra.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "b74cd1ef4ce0feeae1b7e2d6d907da57",
+      "sha1": "5d023229ca4c728743c641a752d8d7252bea8307",
+      "sha256": "2d2c3bdc3775d61b84a6e43a8b09fec6bd127a48982eb99600fc501e2fd3d455"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 49376,
+  "files": [
+    {
+      "path": "KSAExtra.ttf",
+      "size_bytes": 49376,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaextra/KSAExtra.ttf"
+    }
+  ]
+}

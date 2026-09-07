@@ -1,0 +1,607 @@
+{
+  "slug": "sura-12-1-2020",
+  "page_order": 4,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-muaiqly/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip",
+    "filename": "sura-12-1-2020.zip",
+    "size_bytes": 1319089096,
+    "size_human": "1.23 GB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Sun, 06 Feb 2022 05:21:51 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "22449e37823103e8a62c411da3b007d0",
+      "sha1": "7f655e8ccb1e6252abf1499c5213c75bdb583f25",
+      "sha256": "1f99418cd52d2e84bd144d80f62a8fddd45bfc633c352fd06a603c7cfbe7b5cc"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 115,
+  "total_bytes": 1407650656,
+  "files": [
+    {
+      "path": "sura/10-000L01-A08.mp3",
+      "size_bytes": 1645299,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-000L01-A08.mp3"
+    },
+    {
+      "path": "sura/10-001D00-A08.mp3",
+      "size_bytes": 753249,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-001D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-002D00-A08.mp3",
+      "size_bytes": 96916065,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-002D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-003D00-A08.mp3",
+      "size_bytes": 56592888,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-003D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-004D00-A08.mp3",
+      "size_bytes": 58321693,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-004D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-005D00-A08.mp3",
+      "size_bytes": 44679965,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-005D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-006D00-A08.mp3",
+      "size_bytes": 52621252,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-006D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-007D00-A08.mp3",
+      "size_bytes": 59202939,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-007D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-008D00-A08.mp3",
+      "size_bytes": 21387538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-008D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-009D00-A08.mp3",
+      "size_bytes": 42465701,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-009D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-010D00-A08.mp3",
+      "size_bytes": 32885679,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-010D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-011D00-A08.mp3",
+      "size_bytes": 35163431,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-011D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-012D00-A08.mp3",
+      "size_bytes": 32904487,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-012D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-013D00-A08.mp3",
+      "size_bytes": 15960359,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-013D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-014D00-A08.mp3",
+      "size_bytes": 16161607,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-014D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-015D00-A08.mp3",
+      "size_bytes": 14559945,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-015D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-016D00-A08.mp3",
+      "size_bytes": 33867235,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-016D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-017D00-A08.mp3",
+      "size_bytes": 25959886,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-017D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-018D00-A08.mp3",
+      "size_bytes": 27011576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-018D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-019D00-A08.mp3",
+      "size_bytes": 16349228,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-019D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-020D00-A08.mp3",
+      "size_bytes": 21702742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-020D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-021D00-A08.mp3",
+      "size_bytes": 22286966,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-021D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-022D00-A08.mp3",
+      "size_bytes": 22373086,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-022D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-023D00-A08.mp3",
+      "size_bytes": 20872592,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-023D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-024D00-A08.mp3",
+      "size_bytes": 23191158,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-024D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-025D00-A08.mp3",
+      "size_bytes": 15026304,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-025D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-026D00-A08.mp3",
+      "size_bytes": 27504684,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-026D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-027D00-A08.mp3",
+      "size_bytes": 22361801,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-027D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-028D00-A08.mp3",
+      "size_bytes": 26065755,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-028D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-029D00-A08.mp3",
+      "size_bytes": 18290774,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-029D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-030D00-A08.mp3",
+      "size_bytes": 15639993,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-030D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-031D00-A08.mp3",
+      "size_bytes": 9969876,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-031D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-032D00-A08.mp3",
+      "size_bytes": 7058685,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-032D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-033D00-A08.mp3",
+      "size_bytes": 22673703,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-033D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-034D00-A08.mp3",
+      "size_bytes": 15515546,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-034D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-035D00-A08.mp3",
+      "size_bytes": 14101172,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-035D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-036D00-A08.mp3",
+      "size_bytes": 14087463,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-036D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-037D00-A08.mp3",
+      "size_bytes": 18929332,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-037D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-038D00-A08.mp3",
+      "size_bytes": 13458330,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-038D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-039D00-A08.mp3",
+      "size_bytes": 22155852,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-039D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-040D00-A08.mp3",
+      "size_bytes": 23114441,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-040D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-041D00-A08.mp3",
+      "size_bytes": 15127784,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-041D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-042D00-A08.mp3",
+      "size_bytes": 15649398,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-042D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-043D00-A08.mp3",
+      "size_bytes": 16765119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-043D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-044D00-A08.mp3",
+      "size_bytes": 8122998,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-044D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-045D00-A08.mp3",
+      "size_bytes": 9190988,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-045D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-046D00-A08.mp3",
+      "size_bytes": 11721229,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-046D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-047D00-A08.mp3",
+      "size_bytes": 10169639,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-047D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-048D00-A08.mp3",
+      "size_bytes": 9599982,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-048D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-049D00-A08.mp3",
+      "size_bytes": 6730796,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-049D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-050D00-A08.mp3",
+      "size_bytes": 7226789,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-050D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-051D00-A08.mp3",
+      "size_bytes": 7285094,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-051D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-052D00-A08.mp3",
+      "size_bytes": 6342805,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-052D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-053D00-A08.mp3",
+      "size_bytes": 6193280,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-053D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-054D00-A08.mp3",
+      "size_bytes": 6837146,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-054D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-055D00-A08.mp3",
+      "size_bytes": 9171950,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-055D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-056D00-A08.mp3",
+      "size_bytes": 10579197,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-056D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-057D00-A08.mp3",
+      "size_bytes": 10193066,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-057D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-058D00-A08.mp3",
+      "size_bytes": 8364912,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-058D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-059D00-A08.mp3",
+      "size_bytes": 8239525,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-059D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-060D00-A08.mp3",
+      "size_bytes": 7305386,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-060D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-061D00-A08.mp3",
+      "size_bytes": 4051574,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-061D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-062D00-A08.mp3",
+      "size_bytes": 3184517,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-062D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-063D00-A08.mp3",
+      "size_bytes": 3535289,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-063D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-064D00-A08.mp3",
+      "size_bytes": 4489177,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-064D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-065D00-A08.mp3",
+      "size_bytes": 5220187,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-065D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-066D00-A08.mp3",
+      "size_bytes": 5049660,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-066D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-067D00-A08.mp3",
+      "size_bytes": 6080974,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-067D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-068D00-A08.mp3",
+      "size_bytes": 6715207,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-068D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-069D00-A08.mp3",
+      "size_bytes": 5346599,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-069D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-070D00-A08.mp3",
+      "size_bytes": 4715585,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-070D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-071D00-A08.mp3",
+      "size_bytes": 4292945,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-071D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-072D00-A08.mp3",
+      "size_bytes": 4972860,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-072D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-073D00-A08.mp3",
+      "size_bytes": 3787005,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-073D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-074D00-A08.mp3",
+      "size_bytes": 5564460,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-074D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-075D00-A08.mp3",
+      "size_bytes": 3545404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-075D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-076D00-A08.mp3",
+      "size_bytes": 5135551,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-076D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-077D00-A08.mp3",
+      "size_bytes": 4824673,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-077D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-078D00-A08.mp3",
+      "size_bytes": 4109649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-078D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-079D00-A08.mp3",
+      "size_bytes": 3957616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-079D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-080D00-A08.mp3",
+      "size_bytes": 3416255,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-080D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-081D00-A08.mp3",
+      "size_bytes": 2471374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-081D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-082D00-A08.mp3",
+      "size_bytes": 1903054,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-082D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-083D00-A08.mp3",
+      "size_bytes": 4318106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-083D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-084D00-A08.mp3",
+      "size_bytes": 2357272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-084D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-085D00-A08.mp3",
+      "size_bytes": 2429056,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-085D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-086D00-A08.mp3",
+      "size_bytes": 1477990,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-086D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-087D00-A08.mp3",
+      "size_bytes": 1584256,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-087D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-088D00-A08.mp3",
+      "size_bytes": 2037533,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-088D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-089D00-A08.mp3",
+      "size_bytes": 2934996,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-089D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-090D00-A08.mp3",
+      "size_bytes": 1710584,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-090D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-091D00-A08.mp3",
+      "size_bytes": 1239753,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-091D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-092D00-A08.mp3",
+      "size_bytes": 1714346,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-092D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-093D00-A08.mp3",
+      "size_bytes": 1001203,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-093D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-094D00-A08.mp3",
+      "size_bytes": 680837,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-094D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-095D00-A08.mp3",
+      "size_bytes": 904968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-095D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-096D00-A08.mp3",
+      "size_bytes": 1532847,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-096D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-097D00-A08.mp3",
+      "size_bytes": 656073,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-097D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-098D00-A08.mp3",
+      "size_bytes": 1710898,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-098D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-099D00-A08.mp3",
+      "size_bytes": 889294,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-099D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-100D00-A08.mp3",
+      "size_bytes": 1005592,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-100D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-101D00-A08.mp3",
+      "size_bytes": 962019,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-101D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-102D00-A08.mp3",
+      "size_bytes": 804344,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-102D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-103D00-A08.mp3",
+      "size_bytes": 384212,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-103D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-104D00-A08.mp3",
+      "size_bytes": 842587,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-104D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-105D00-A08.mp3",
+      "size_bytes": 629742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-105D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-106D00-A08.mp3",
+      "size_bytes": 564143,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-106D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-107D00-A08.mp3",
+      "size_bytes": 770803,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-107D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-108D00-A08.mp3",
+      "size_bytes": 334997,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-108D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-109D00-A08.mp3",
+      "size_bytes": 708109,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-109D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-110D00-A08.mp3",
+      "size_bytes": 458190,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-110D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-111D00-A08.mp3",
+      "size_bytes": 552628,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-111D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-112D00-A08.mp3",
+      "size_bytes": 332803,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-112D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-113D00-A08.mp3",
+      "size_bytes": 481784,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-113D00-A08.mp3"
+    },
+    {
+      "path": "sura/10-114D00-A08.mp3",
+      "size_bytes": 661716,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sura-12-1-2020/sura/10-114D00-A08.mp3"
+    }
+  ]
+}

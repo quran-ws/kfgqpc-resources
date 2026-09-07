@@ -1,0 +1,103 @@
+{
+  "slug": "tajweed-muyassar",
+  "page_order": 10,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "التجويد الميسر",
+    "en": "Tajweed Muyassar"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/Tajweed_Muyassar.docx",
+    "filename": "Tajweed_Muyassar.docx",
+    "size_bytes": 181609,
+    "size_human": "177.4 KB",
+    "downloads_count_at_capture": 417,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "server_last_modified": "Wed, 21 Dec 2022 08:45:26 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/tajweed-muyassar/Tajweed_Muyassar.docx"
+  },
+  "checksums": {
+    "published": {
+      "md5": "b4a265a810c0ce4a722019791910b67e",
+      "sha1": "d2496382fc5e843ccb693b94dd19407eaa174bea"
+    },
+    "computed": {
+      "md5": "b4a265a810c0ce4a722019791910b67e",
+      "sha1": "d2496382fc5e843ccb693b94dd19407eaa174bea",
+      "sha256": "f61272c718568295264d41130bde128a53adad2a189ae1c1fcb9a5f76e7fe63f"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "12-01-2023",
+    "created_iso": "2023-01-12",
+    "last_modified": "12-01-2023",
+    "last_modified_iso": "2023-01-12",
+    "version": "لا يوجد تحديثات",
+    "update_notes": "تحديث: لا يوجد تحديثات"
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "التجويد الميسر\nكتاب مختصر فيه أهمُّ مباحث علم التجويد، مع استيعاب المعنى وشموله، وتوخي السهولة في الأسلوب، ووضوح تقرير مسائل التجويد وعَرْضها.\nتحقق الوثوقية (MD5): b4a265a810c0ce4a722019791910b67e\nتحقق الوثوقية (SHA-1): d2496382fc5e843ccb693b94dd19407eaa174bea\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "التجويد الميسر"
+        },
+        {
+          "type": "text",
+          "text": "كتاب مختصر فيه أهمُّ مباحث علم التجويد، مع استيعاب المعنى وشموله، وتوخي السهولة في الأسلوب، ووضوح تقرير مسائل التجويد وعَرْضها."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): b4a265a810c0ce4a722019791910b67e"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): d2496382fc5e843ccb693b94dd19407eaa174bea"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>التجويد الميسر</h3>\n          <p>كتاب مختصر فيه أهمُّ مباحث علم التجويد، مع استيعاب المعنى وشموله، وتوخي السهولة في الأسلوب، ووضوح تقرير مسائل التجويد وعَرْضها.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> b4a265a810c0ce4a722019791910b67e</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> d2496382fc5e843ccb693b94dd19407eaa174bea</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "",
+      "blocks": [],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\"></h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "التجويد الميسر\nتاريخ الإنشاء: 12-01-2023\nتاريخ آخر تعديل: 12-01-2023\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "التجويد الميسر"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 12-01-2023\nتاريخ آخر تعديل: 12-01-2023\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات"
+        }
+      ],
+      "html": "<h3>التجويد الميسر</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 12-01-2023 <br>\n\t\t\tتاريخ آخر تعديل: 12-01-2023 <br>\n\t\t\tمعلومات حول التحديث الجديد: <br>\n\t\t\tتحديث: لا يوجد تحديثات\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 181609,
+  "files": [
+    {
+      "path": "Tajweed_Muyassar.docx",
+      "size_bytes": 181609,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/tajweed-muyassar/Tajweed_Muyassar.docx"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "nepali-1",
+  "page_order": 29,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "النيبالية (नेपाली)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Nepali.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/nepali-1.pdf",
+    "filename": "nepali-1.pdf",
+    "size_bytes": 141791293,
+    "size_human": "135.22 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 27 Aug 2024 08:25:14 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nepali-1/nepali-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "affd11700cf124a7ad69e557d073bce5",
+      "sha1": "f044be5309080e72aef9b60ef488b182fe81b4a5",
+      "sha256": "80563415931056a73d01003f29ba1c026b3b78d71259bdd48902137e07fb7159"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 141836551,
+  "files": [
+    {
+      "path": "Nepali.jpg",
+      "size_bytes": 45258,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nepali-1/Nepali.jpg"
+    },
+    {
+      "path": "nepali-1.pdf",
+      "size_bytes": 141791293,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nepali-1/nepali-1.pdf"
+    }
+  ]
+}

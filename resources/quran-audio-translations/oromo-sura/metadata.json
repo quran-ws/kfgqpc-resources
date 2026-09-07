@@ -1,0 +1,622 @@
+{
+  "slug": "oromo-sura",
+  "page_order": 2,
+  "group": "quran-audio-translations",
+  "source_page": "https://qurancomplex.gov.sa/kfgqpc-quran-translate-oromo/",
+  "title": {
+    "ar": "تحميل الكتاب لسور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/Oromo/sura.zip",
+    "filename": "sura.zip",
+    "size_bytes": 3610471724,
+    "size_human": "3.36 GB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Sun, 06 Feb 2022 05:56:15 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "9c78ae93fdc8bbbb2b51f0e945ad9d3f",
+      "sha1": "11aba1e58f315414b493f62b5ba6be797ff83c31",
+      "sha256": "b8daf868625f5b3059334f7ba1b9a915436c53522119e2aa1d03c6a0e2309f9b"
+    }
+  },
+  "captured_at": "2026-09-07T14:06:26Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 118,
+  "total_bytes": 3737768227,
+  "files": [
+    {
+      "path": "001-Al-Fātiḥah-الفاتحة.mp3",
+      "size_bytes": 5037586,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/001-Al-F%C4%81ti%E1%B8%A5ah-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3"
+    },
+    {
+      "path": "002-1-Al-Baqarah-البقرة.mp3",
+      "size_bytes": 112164005,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/002-1-Al-Baqarah-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+    },
+    {
+      "path": "002-2-Al-Baqarah-البقرة.mp3",
+      "size_bytes": 109225125,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/002-2-Al-Baqarah-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+    },
+    {
+      "path": "002-3-Al-Baqarah-البقرة.mp3",
+      "size_bytes": 113372507,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/002-3-Al-Baqarah-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+    },
+    {
+      "path": "003-1-Āl-‘Imrān-ال-عمران.mp3",
+      "size_bytes": 107029193,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/003-1-%C4%80l-%E2%80%98Imr%C4%81n-%D8%A7%D9%84-%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "003-2-Āl-‘Imrān-ال-عمران .mp3",
+      "size_bytes": 62534455,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/003-2-%C4%80l-%E2%80%98Imr%C4%81n-%D8%A7%D9%84-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%20.mp3"
+    },
+    {
+      "path": "004-1-An-Nisā’-النساء.mp3",
+      "size_bytes": 103167433,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/004-1-An-Nis%C4%81%E2%80%99-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "004-2-An-Nisā’-النساء.mp3",
+      "size_bytes": 75621833,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/004-2-An-Nis%C4%81%E2%80%99-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "005-Al-Ma'idah-المائدة.mp3",
+      "size_bytes": 128029056,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/005-Al-Ma%27idah-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "006-Al-An'am-الأنعام.mp3",
+      "size_bytes": 124656987,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/006-Al-An%27am-%D8%A7%D9%84%D8%A3%D9%86%D8%B9%D8%A7%D9%85.mp3"
+    },
+    {
+      "path": "007-Al-A'raf-الأعراف.mp3",
+      "size_bytes": 143594222,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/007-Al-A%27raf-%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "008-Al-Anfal-الأنفال.mp3",
+      "size_bytes": 57101403,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/008-Al-Anfal-%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%A7%D9%84.mp3"
+    },
+    {
+      "path": "009-At-Taubah-التوبة.mp3",
+      "size_bytes": 98348965,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/009-At-Taubah-%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9.mp3"
+    },
+    {
+      "path": "010-Yunus-يونس.mp3",
+      "size_bytes": 73924809,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/010-Yunus-%D9%8A%D9%88%D9%86%D8%B3.mp3"
+    },
+    {
+      "path": "011-Hud-هود.mp3",
+      "size_bytes": 80418176,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/011-Hud-%D9%87%D9%88%D8%AF.mp3"
+    },
+    {
+      "path": "012-Yusuf-يوسف.mp3",
+      "size_bytes": 76395136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/012-Yusuf-%D9%8A%D9%88%D8%B3%D9%81.mp3"
+    },
+    {
+      "path": "013-Ar-Ra'd-الرعد.mp3",
+      "size_bytes": 35869678,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/013-Ar-Ra%27d-%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3"
+    },
+    {
+      "path": "014-Ibrahim-إبراهيم.mp3",
+      "size_bytes": 33940718,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/014-Ibrahim-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "015-Al-Hijr-الحجر.mp3",
+      "size_bytes": 30516169,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/015-Al-Hijr-%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "016-An-Nahl-النحل.mp3",
+      "size_bytes": 74601125,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/016-An-Nahl-%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3"
+    },
+    {
+      "path": "017-Al-Isra'-الإسراء.mp3",
+      "size_bytes": 78607342,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/017-Al-Isra%27-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "018-Al-Kahf-الكهف.mp3",
+      "size_bytes": 66800329,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/018-Al-Kahf-%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3"
+    },
+    {
+      "path": "019-Maryam-مريم.mp3",
+      "size_bytes": 37087141,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/019-Maryam-%D9%85%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "020-Ta-Ha-طه.mp3",
+      "size_bytes": 60520283,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/020-Ta-Ha-%D8%B7%D9%87.mp3"
+    },
+    {
+      "path": "021-Al-Anbiya'-الأنبياء.mp3",
+      "size_bytes": 64364672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/021-Al-Anbiya%27-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "022-Al-Hajj-الحج.mp3",
+      "size_bytes": 55074249,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/022-Al-Hajj-%D8%A7%D9%84%D8%AD%D8%AC.mp3"
+    },
+    {
+      "path": "023-Al-Mu'minun-المؤمنون.mp3",
+      "size_bytes": 45385563,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/023-Al-Mu%27minun-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "024-An-Nur-النور.mp3",
+      "size_bytes": 64527415,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/024-An-Nur-%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "025-Al-Furqan-الفرقان.mp3",
+      "size_bytes": 47305929,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/025-Al-Furqan-%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "026-Ash-Shu'ara'-الشعراء.mp3",
+      "size_bytes": 61584512,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/026-Ash-Shu%27ara%27-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "027-An-Naml-النمل.mp3",
+      "size_bytes": 53053678,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/027-An-Naml-%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "028-Al-Qasas-القصص.mp3",
+      "size_bytes": 59849929,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/028-Al-Qasas-%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3"
+    },
+    {
+      "path": "029-Al-'Ankabut-العنكبوت.mp3",
+      "size_bytes": 41731529,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/029-Al-%27Ankabut-%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3"
+    },
+    {
+      "path": "030-Ar-Rum-الروم.mp3",
+      "size_bytes": 38038181,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/030-Ar-Rum-%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3"
+    },
+    {
+      "path": "031-Luqman-لقمان.mp3",
+      "size_bytes": 21765723,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/031-Luqman-%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "032-As-Sajdah-السجدة.mp3",
+      "size_bytes": 17466752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/032-As-Sajdah-%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "033-Al-Ahzab-الأحزاب.mp3",
+      "size_bytes": 64855278,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/033-Al-Ahzab-%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8.mp3"
+    },
+    {
+      "path": "034-Saba'-سبإ.mp3",
+      "size_bytes": 38127781,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/034-Saba%27-%D8%B3%D8%A8%D8%A5.mp3"
+    },
+    {
+      "path": "035-Fatir-فاطر.mp3",
+      "size_bytes": 34743461,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/035-Fatir-%D9%81%D8%A7%D8%B7%D8%B1.mp3"
+    },
+    {
+      "path": "036-Ya-Sin-يس.mp3",
+      "size_bytes": 39032923,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/036-Ya-Sin-%D9%8A%D8%B3.mp3"
+    },
+    {
+      "path": "037-As-Saffat-الصافات.mp3",
+      "size_bytes": 46933083,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/037-As-Saffat-%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "038-Sad-ص.mp3",
+      "size_bytes": 38113518,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/038-Sad-%D8%B5.mp3"
+    },
+    {
+      "path": "039-Az-Zumar-الزمر.mp3",
+      "size_bytes": 56032603,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/039-Az-Zumar-%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "040-Ghafir-غافر.mp3",
+      "size_bytes": 49952786,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/040-Ghafir-%D8%BA%D8%A7%D9%81%D8%B1.mp3"
+    },
+    {
+      "path": "041-Fussilat-فصلت.mp3",
+      "size_bytes": 36756352,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/041-Fussilat-%D9%81%D8%B5%D9%84%D8%AA.mp3"
+    },
+    {
+      "path": "042-Ash-Shura-الشورى.mp3",
+      "size_bytes": 39904603,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/042-Ash-Shura-%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3"
+    },
+    {
+      "path": "043-Az-Zukhruf-الزخرف.mp3",
+      "size_bytes": 45186066,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/043-Az-Zukhruf-%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3"
+    },
+    {
+      "path": "044-Ad-Dukhan-الدخان.mp3",
+      "size_bytes": 19874981,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/044-Ad-Dukhan-%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "045-Al-Jathiyah-الجاثية.mp3",
+      "size_bytes": 18385061,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/045-Al-Jathiyah-%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "046-Al-Ahqaf-الأحقاف.mp3",
+      "size_bytes": 27965312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/046-Al-Ahqaf-%D8%A7%D9%84%D8%A3%D8%AD%D9%82%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "047-Muhammad-محمد.mp3",
+      "size_bytes": 26286683,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/047-Muhammad-%D9%85%D8%AD%D9%85%D8%AF.mp3"
+    },
+    {
+      "path": "048-Al-Fath-الفتح.mp3",
+      "size_bytes": 36000421,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/048-Al-Fath-%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3"
+    },
+    {
+      "path": "049-Al-Hujurat-الحجرات.mp3",
+      "size_bytes": 20112329,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/049-Al-Hujurat-%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "050-Qaf-ق.mp3",
+      "size_bytes": 19716443,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/050-Qaf-%D9%82.mp3"
+    },
+    {
+      "path": "051-Adh-Dhariyat-الذاريات.mp3",
+      "size_bytes": 23898203,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/051-Adh-Dhariyat-%D8%A7%D9%84%D8%B0%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "052-At-Tur-الطور.mp3",
+      "size_bytes": 17884946,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/052-At-Tur-%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "053-An-Najm-النجم.mp3",
+      "size_bytes": 22941312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/053-An-Najm-%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3"
+    },
+    {
+      "path": "054-Al-Qamar-القمر.mp3",
+      "size_bytes": 20871552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/054-Al-Qamar-%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "055-Ar-Rahman-الرحمن.mp3",
+      "size_bytes": 21357403,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/055-Ar-Rahman-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86.mp3"
+    },
+    {
+      "path": "056-Al-Waqi'ah-الواقعة.mp3",
+      "size_bytes": 23146295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/056-Al-Waqi%27ah-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "057-Al-Hadid-الحديد.mp3",
+      "size_bytes": 30510501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/057-Al-Hadid-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3"
+    },
+    {
+      "path": "058-Al-Mujadilah-المجادلة.mp3",
+      "size_bytes": 23004215,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/058-Al-Mujadilah-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "059-Al-Hashr-الحشر.mp3",
+      "size_bytes": 21400741,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/059-Al-Hashr-%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3"
+    },
+    {
+      "path": "060-Al-Mumtahanah-الممتحنة.mp3",
+      "size_bytes": 18073472,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/060-Al-Mumtahanah-%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "061-As-Saff-الصف.mp3",
+      "size_bytes": 10094318,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/061-As-Saff-%D8%A7%D9%84%D8%B5%D9%81.mp3"
+    },
+    {
+      "path": "062-Al-Jumu'ah-الجمعة.mp3",
+      "size_bytes": 10110043,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/062-Al-Jumu%27ah-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "063-Al-Munafiqun-المنافقون.mp3",
+      "size_bytes": 10691163,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/063-Al-Munafiqun-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "064-At-Taghabun-التغابن.mp3",
+      "size_bytes": 12745929,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/064-At-Taghabun-%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3"
+    },
+    {
+      "path": "065-At-Talaq-الطلاق.mp3",
+      "size_bytes": 12253312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/065-At-Talaq-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "066-At-Tahrim-التحريم.mp3",
+      "size_bytes": 14192146,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/066-At-Tahrim-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "067-Al-Mulk-الملك.mp3",
+      "size_bytes": 16282752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/067-Al-Mulk-%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3"
+    },
+    {
+      "path": "068-Al-Qalam-القلم.mp3",
+      "size_bytes": 18874935,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/068-Al-Qalam-%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3"
+    },
+    {
+      "path": "069-Al-Haqqah-الحاقة.mp3",
+      "size_bytes": 14613449,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/069-Al-Haqqah-%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A9.mp3"
+    },
+    {
+      "path": "070-Al-Ma'arij-المعارج.mp3",
+      "size_bytes": 11333723,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/070-Al-Ma%27arij-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3"
+    },
+    {
+      "path": "071-Nuh-نوح.mp3",
+      "size_bytes": 10283941,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/071-Nuh-%D9%86%D9%88%D8%AD.mp3"
+    },
+    {
+      "path": "072-Al-Jinn-الجن.mp3",
+      "size_bytes": 13474615,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/072-Al-Jinn-%D8%A7%D9%84%D8%AC%D9%86.mp3"
+    },
+    {
+      "path": "073-Al-Muzzammil-المزمل.mp3",
+      "size_bytes": 10119552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/073-Al-Muzzammil-%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "074-Al-Muddaththir-المد ثر.mp3",
+      "size_bytes": 14469175,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/074-Al-Muddaththir-%D8%A7%D9%84%D9%85%D8%AF%20%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "075-Al-Qiyamah-القيامة.mp3",
+      "size_bytes": 9231963,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/075-Al-Qiyamah-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3"
+    },
+    {
+      "path": "076-Al-Insan-الإنسان.mp3",
+      "size_bytes": 16492672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/076-Al-Insan-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "077-Al-Mursalat-المرسلات.mp3",
+      "size_bytes": 10948809,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/077-Al-Mursalat-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "078-An-Naba'-النبإ.mp3",
+      "size_bytes": 11470501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/078-An-Naba%27-%D8%A7%D9%84%D9%86%D8%A8%D8%A5.mp3"
+    },
+    {
+      "path": "079-An-Nazi'at-النازعات.mp3",
+      "size_bytes": 11563758,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/079-An-Nazi%27at-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "080-Abasa-عبس.mp3",
+      "size_bytes": 7866203,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/080-Abasa-%D8%B9%D8%A8%D8%B3.mp3"
+    },
+    {
+      "path": "081-At-Takwir-التكوير.mp3",
+      "size_bytes": 7927278,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/081-At-Takwir-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3"
+    },
+    {
+      "path": "082-Al-Infitar-الانفطار.mp3",
+      "size_bytes": 5795712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/082-Al-Infitar-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3"
+    },
+    {
+      "path": "083-Al-Mutaffifin-المطففين.mp3",
+      "size_bytes": 9399826,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/083-Al-Mutaffifin-%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "084-Al-Inshiqaq-الانشقاق.mp3",
+      "size_bytes": 6259986,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/084-Al-Inshiqaq-%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "085-Al-Buruj-البروج.mp3",
+      "size_bytes": 6469358,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/085-Al-Buruj-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3"
+    },
+    {
+      "path": "086-At-Tariq-الطارق.mp3",
+      "size_bytes": 5389952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/086-At-Tariq-%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3"
+    },
+    {
+      "path": "087-Al-A'la-الأعلى.mp3",
+      "size_bytes": 7110272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/087-Al-A%27la-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3"
+    },
+    {
+      "path": "088-Al-Ghashiyah-الغاشية.mp3",
+      "size_bytes": 6282112,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/088-Al-Ghashiyah-%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "089-Al-Fajr-الفجر.mp3",
+      "size_bytes": 9207826,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/089-Al-Fajr-%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "090-Al-Balad-البلد.mp3",
+      "size_bytes": 6091209,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/090-Al-Balad-%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3"
+    },
+    {
+      "path": "091-Ash-Shams-الشمس.mp3",
+      "size_bytes": 5437678,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/091-Ash-Shams-%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3"
+    },
+    {
+      "path": "092-Al-Lail-الليل.mp3",
+      "size_bytes": 5121518,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/092-Al-Lail-%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "093-Ad-Duha-الضحى.mp3",
+      "size_bytes": 4487003,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/093-Ad-Duha-%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3"
+    },
+    {
+      "path": "094-Ash-Sharh-الشرح.mp3",
+      "size_bytes": 3760878,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/094-Ash-Sharh-%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3"
+    },
+    {
+      "path": "095-At-Tin-التين.mp3",
+      "size_bytes": 3743506,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/095-At-Tin-%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "096-Al-'Alaq-العلق.mp3",
+      "size_bytes": 8047781,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/096-Al-%27Alaq-%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "097-Al-Qadr-القدر.mp3",
+      "size_bytes": 2956123,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/097-Al-Qadr-%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3"
+    },
+    {
+      "path": "098-Al-Bayyinah-البينة.mp3",
+      "size_bytes": 5260672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/098-Al-Bayyinah-%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "099-Az-Zalzalah-الزلزلة.mp3",
+      "size_bytes": 2690432,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/099-Az-Zalzalah-%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "100-Al-'Adiyat-العاديات.mp3",
+      "size_bytes": 2397970,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/100-Al-%27Adiyat-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "101-Al-Qari'ah-القارعة.mp3",
+      "size_bytes": 3637632,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/101-Al-Qari%27ah-%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "102-At-Takathur-التكاثر.mp3",
+      "size_bytes": 2759003,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/102-At-Takathur-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "103-Al-'Asr-العصر.mp3",
+      "size_bytes": 1940096,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/103-Al-%27Asr-%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "104-Al-Humazah-الهمزة.mp3",
+      "size_bytes": 2741632,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/104-Al-Humazah-%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.mp3"
+    },
+    {
+      "path": "105-Al-Fil-الفيل.mp3",
+      "size_bytes": 3324215,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/105-Al-Fil-%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "106-Quraish-قريش.mp3",
+      "size_bytes": 2547072,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/106-Quraish-%D9%82%D8%B1%D9%8A%D8%B4.mp3"
+    },
+    {
+      "path": "107-Al-Ma'un-الماعون.mp3",
+      "size_bytes": 1576649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/107-Al-Ma%27un-%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "108-Al-Kauthar-الكوثر.mp3",
+      "size_bytes": 1544101,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/108-Al-Kauthar-%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "109-Al-Kafirun-الكافرون.mp3",
+      "size_bytes": 1984603,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/109-Al-Kafirun-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "110-An-Nasr-النصر.mp3",
+      "size_bytes": 1457061,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/110-An-Nasr-%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "111-Al-Masad-المسد.mp3",
+      "size_bytes": 3400832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/111-Al-Masad-%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3"
+    },
+    {
+      "path": "112-Al-Ikhlas-الإخلاص.mp3",
+      "size_bytes": 4235941,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/112-Al-Ikhlas-%D8%A7%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%B5.mp3"
+    },
+    {
+      "path": "113-Al-Falaq-الفلق.mp3",
+      "size_bytes": 2684581,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/113-Al-Falaq-%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "114-An-Nas-الناس.mp3",
+      "size_bytes": 3204626,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/oromo-sura/114-An-Nas-%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
+    }
+  ]
+}

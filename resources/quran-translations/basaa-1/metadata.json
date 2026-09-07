@@ -1,0 +1,47 @@
+{
+  "slug": "basaa-1",
+  "page_order": 42,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الباسا (Basaa)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Bassa.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/basaa-1.pdf",
+    "filename": "basaa-1.pdf",
+    "size_bytes": 297410089,
+    "size_human": "283.63 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 29 Aug 2024 06:25:55 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/basaa-1/basaa-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "846f0539a6eb9d857d7a6b5f93851421",
+      "sha1": "79accd68ab4ce3911186b843e01cfa37c91ee4c3",
+      "sha256": "b0a02bf5acf73323c737eff91a377d96ccab31396b4745cd60d33b774517ccc3"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 297539769,
+  "files": [
+    {
+      "path": "Bassa.jpg",
+      "size_bytes": 129680,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/basaa-1/Bassa.jpg"
+    },
+    {
+      "path": "basaa-1.pdf",
+      "size_bytes": 297410089,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/basaa-1/basaa-1.pdf"
+    }
+  ]
+}

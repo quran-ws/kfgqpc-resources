@@ -1,0 +1,47 @@
+{
+  "slug": "japanese-1",
+  "page_order": 31,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "اليابانية (日本語)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Japanies.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/japanese-1.pdf",
+    "filename": "japanese-1.pdf",
+    "size_bytes": 695010472,
+    "size_human": "662.81 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 27 Aug 2024 10:09:23 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/japanese-1/japanese-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "884d78ee2950ccf3d8ab55b7957d914d",
+      "sha1": "e264f00b61a6ef56a5a6b1e05c534014a382168b",
+      "sha256": "7cb6b7b267b1e961404f3b05f8cfed1a91a0c079daab25ac7cb8c1df4492bf8f"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 695085474,
+  "files": [
+    {
+      "path": "Japanies.jpg",
+      "size_bytes": 75002,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/japanese-1/Japanies.jpg"
+    },
+    {
+      "path": "japanese-1.pdf",
+      "size_bytes": 695010472,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/japanese-1/japanese-1.pdf"
+    }
+  ]
+}

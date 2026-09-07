@@ -1,0 +1,47 @@
+{
+  "slug": "tajik-1",
+  "page_order": 22,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الطاجيكية (забо́ни тоҷикӣ́)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tajik.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/tajik-1.pdf",
+    "filename": "tajik-1.pdf",
+    "size_bytes": 259345940,
+    "size_human": "247.33 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 07:29:00 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tajik-1/tajik-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "40ff594eb5fad28a97fa359c765e0969",
+      "sha1": "32ea415fdd77d910db0449d5c0c04a7c43b8b13b",
+      "sha256": "fc792805d36cb620e2264ba442bc465e92b3a44e669ba8de4da46b4cef14ebb8"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 259391682,
+  "files": [
+    {
+      "path": "Tajik.jpg",
+      "size_bytes": 45742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tajik-1/Tajik.jpg"
+    },
+    {
+      "path": "tajik-1.pdf",
+      "size_bytes": 259345940,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tajik-1/tajik-1.pdf"
+    }
+  ]
+}

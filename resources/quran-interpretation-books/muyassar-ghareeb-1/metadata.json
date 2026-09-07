@@ -1,0 +1,47 @@
+{
+  "slug": "muyassar-ghareeb-1",
+  "page_order": 5,
+  "group": "quran-interpretation-books",
+  "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+  "title": {
+    "ar": "الميسر في غريب القرآن الكريم",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Muyassar_Ghareeb-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/MuyassarGhareeb-1.pdf",
+    "filename": "MuyassarGhareeb-1.pdf",
+    "size_bytes": 240026838,
+    "size_human": "228.91 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 05 May 2026 11:42:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/muyassar-ghareeb-1/MuyassarGhareeb-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "6ede45857912d0e8fe8cb41f39b66446",
+      "sha1": "e8c87b53a8269de626b30fa13acc1ddc1c8f4da3",
+      "sha256": "559d1433b467597c86e2178e343ebda6842a32166ade532e49c11af130fdb9a3"
+    }
+  },
+  "captured_at": "2026-09-07T14:27:50Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 240099811,
+  "files": [
+    {
+      "path": "MuyassarGhareeb-1.pdf",
+      "size_bytes": 240026838,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/muyassar-ghareeb-1/MuyassarGhareeb-1.pdf"
+    },
+    {
+      "path": "Muyassar_Ghareeb-1.jpg",
+      "size_bytes": 72973,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/muyassar-ghareeb-1/Muyassar_Ghareeb-1.jpg"
+    }
+  ]
+}

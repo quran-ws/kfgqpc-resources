@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-macedonian",
+  "page_order": 4,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة المقدونية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_macedonian.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Macedonian.pdf",
+    "filename": "UsoulEman-Macedonian.pdf",
+    "size_bytes": 35117152,
+    "size_human": "33.49 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 14:40:34 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-macedonian/UsoulEman-Macedonian.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "3ae15780d531f2da80997c83ba4ab23a",
+      "sha1": "99ce4f235d84cc765e47ea19dcb2dd422ff41e7b",
+      "sha256": "baf94480bc144cd7308224f83ff3c76686ef0f055003b035ef0cf39284bd8b2e"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 35169057,
+  "files": [
+    {
+      "path": "UsoulEman-Macedonian.pdf",
+      "size_bytes": 35117152,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-macedonian/UsoulEman-Macedonian.pdf"
+    },
+    {
+      "path": "usoul_eman_macedonian.jpg",
+      "size_bytes": 51905,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-macedonian/usoul_eman_macedonian.jpg"
+    }
+  ]
+}

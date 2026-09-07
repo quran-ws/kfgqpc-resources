@@ -1,0 +1,47 @@
+{
+  "slug": "chinese-nqt-1",
+  "page_order": 21,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الصينية (中文)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/chinese.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/chinese-nqt-1.pdf",
+    "filename": "chinese-nqt-1.pdf",
+    "size_bytes": 14676312,
+    "size_human": "14.00 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 06:06:55 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chinese-nqt-1/chinese-nqt-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "73e5d4b300fed42601215b337ab00a9c",
+      "sha1": "2596a0e0603ca9691b40e7dae92d6e0d7bd92dde",
+      "sha256": "6edae374eca7f1b3387494cad62064438db4d574d6a69703783564b82ef2fbc0"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 14752770,
+  "files": [
+    {
+      "path": "chinese-nqt-1.pdf",
+      "size_bytes": 14676312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chinese-nqt-1/chinese-nqt-1.pdf"
+    },
+    {
+      "path": "chinese.jpg",
+      "size_bytes": 76458,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chinese-nqt-1/chinese.jpg"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "slug": "mandankiya-jakhankiyah-sura",
+  "page_order": 3,
+  "group": "quran-audio-translations",
+  "source_page": "https://qurancomplex.gov.sa/kfgqpc-quran-translate-mandinka/",
+  "title": {
+    "ar": "تحميل الكتاب لسور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/Mandankiya-Jakhankiyah/sura.zip",
+    "filename": "sura.zip",
+    "size_bytes": 4181040043,
+    "size_human": "3.89 GB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Sun, 04 Jun 2023 06:46:52 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "560ab93187bb66b103ed5a78b4abab69",
+      "sha1": "8c9c7463bcb4a9361099b0b2586348e6303c1259",
+      "sha256": "4094b1179caf3c5afb7baff81f3b8409e2f5b1c401256f1ddf6d20978f5c3edb"
+    }
+  },
+  "captured_at": "2026-09-07T14:06:26Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 115,
+  "total_bytes": 4481791764,
+  "files": [
+    {
+      "path": "000_Intro_المقدمة.mp3",
+      "size_bytes": 2805240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/000_Intro_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9.mp3"
+    },
+    {
+      "path": "001_Al-Fatihah_الفاتحة.mp3",
+      "size_bytes": 7218471,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/001_Al-Fatihah_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3"
+    },
+    {
+      "path": "002_Al-Baqarah_البقرة.mp3",
+      "size_bytes": 345319030,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/002_Al-Baqarah_%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+    },
+    {
+      "path": "003_Al-'Imran_آل_عمران.mp3",
+      "size_bytes": 197531170,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/003_Al-%27Imran_%D8%A2%D9%84_%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "004_An-Nisa'_النساء.mp3",
+      "size_bytes": 207751108,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/004_An-Nisa%27_%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "005_Al-Ma'idah_المائدة.mp3",
+      "size_bytes": 157385772,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/005_Al-Ma%27idah_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "006_Al-An'am_الأنعام.mp3",
+      "size_bytes": 158948104,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/006_Al-An%27am_%D8%A7%D9%84%D8%A3%D9%86%D8%B9%D8%A7%D9%85.mp3"
+    },
+    {
+      "path": "007_Al-A'raf_الأعراف.mp3",
+      "size_bytes": 156458321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/007_Al-A%27raf_%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "008_Al-Anfal_الأنفال.mp3",
+      "size_bytes": 62015010,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/008_Al-Anfal_%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%A7%D9%84.mp3"
+    },
+    {
+      "path": "009_At-Taubah_التوبة.mp3",
+      "size_bytes": 121248185,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/009_At-Taubah_%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9.mp3"
+    },
+    {
+      "path": "010_Yunus_يونس.mp3",
+      "size_bytes": 94555222,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/010_Yunus_%D9%8A%D9%88%D9%86%D8%B3.mp3"
+    },
+    {
+      "path": "011_Hud_هود.mp3",
+      "size_bytes": 98974305,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/011_Hud_%D9%87%D9%88%D8%AF.mp3"
+    },
+    {
+      "path": "012_Yusuf_يوسف.mp3",
+      "size_bytes": 92030331,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/012_Yusuf_%D9%8A%D9%88%D8%B3%D9%81.mp3"
+    },
+    {
+      "path": "013_Ar-Ra'd_الرعد.mp3",
+      "size_bytes": 47945668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/013_Ar-Ra%27d_%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3"
+    },
+    {
+      "path": "014_Ibrahim_إبراهيم.mp3",
+      "size_bytes": 45128205,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/014_Ibrahim_%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "015_Al-Hijr_الحجر.mp3",
+      "size_bytes": 39359114,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/015_Al-Hijr_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "016_An-Nahl_النحل.mp3",
+      "size_bytes": 94265576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/016_An-Nahl_%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3"
+    },
+    {
+      "path": "017_Al-Isra'_الإسراء.mp3",
+      "size_bytes": 81675810,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/017_Al-Isra%27_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "018_Al-Kahf_الكهف.mp3",
+      "size_bytes": 78590017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/018_Al-Kahf_%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3"
+    },
+    {
+      "path": "019_Maryam_مريم.mp3",
+      "size_bytes": 51557671,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/019_Maryam_%D9%85%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "020_Ta-Ha_طه.mp3",
+      "size_bytes": 72635353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/020_Ta-Ha_%D8%B7%D9%87.mp3"
+    },
+    {
+      "path": "021_Al-Anbiya'_الأنبياء.mp3",
+      "size_bytes": 67507830,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/021_Al-Anbiya%27_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "022_Al-Hajj_الحج.mp3",
+      "size_bytes": 67978870,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/022_Al-Hajj_%D8%A7%D9%84%D8%AD%D8%AC.mp3"
+    },
+    {
+      "path": "023_Al-Mu'minun_المؤمنون.mp3",
+      "size_bytes": 57438357,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/023_Al-Mu%27minun_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "024_An-Nur_النور.mp3",
+      "size_bytes": 68910919,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/024_An-Nur_%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "025_Al-Furqan_الفرقان.mp3",
+      "size_bytes": 51522563,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/025_Al-Furqan_%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "026_Ash-Shu'ara'_الشعراء.mp3",
+      "size_bytes": 74678755,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/026_Ash-Shu%27ara%27_%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "027_An-Naml_النمل.mp3",
+      "size_bytes": 68951043,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/027_An-Naml_%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "028_Al-Qasas_القصص.mp3",
+      "size_bytes": 76659046,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/028_Al-Qasas_%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3"
+    },
+    {
+      "path": "029_Al-'Ankabut_العنكبوت.mp3",
+      "size_bytes": 54625910,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/029_Al-%27Ankabut_%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3"
+    },
+    {
+      "path": "030_Ar-Rum_الروم.mp3",
+      "size_bytes": 47126050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/030_Ar-Rum_%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3"
+    },
+    {
+      "path": "031_Luqman_لقمان.mp3",
+      "size_bytes": 29926194,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/031_Luqman_%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "032_As-Sajdah_السجدة.mp3",
+      "size_bytes": 22599369,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/032_As-Sajdah_%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "033_Al-Ahzab_الأحزاب.mp3",
+      "size_bytes": 73718703,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/033_Al-Ahzab_%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8.mp3"
+    },
+    {
+      "path": "034_Saba'_سبإ.mp3",
+      "size_bytes": 50939928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/034_Saba%27_%D8%B3%D8%A8%D8%A5.mp3"
+    },
+    {
+      "path": "035_Fatir_فاطر.mp3",
+      "size_bytes": 40993753,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/035_Fatir_%D9%81%D8%A7%D8%B7%D8%B1.mp3"
+    },
+    {
+      "path": "036_Ya-Sin_يس.mp3",
+      "size_bytes": 45622233,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/036_Ya-Sin_%D9%8A%D8%B3.mp3"
+    },
+    {
+      "path": "037_As-Saffat_الصافات.mp3",
+      "size_bytes": 62004561,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/037_As-Saffat_%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "038_Sad_ص.mp3",
+      "size_bytes": 51592780,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/038_Sad_%D8%B5.mp3"
+    },
+    {
+      "path": "039_Az-Zumar_الزمر.mp3",
+      "size_bytes": 70795496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/039_Az-Zumar_%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "040_Ghafir_غافر.mp3",
+      "size_bytes": 67875216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/040_Ghafir_%D8%BA%D8%A7%D9%81%D8%B1.mp3"
+    },
+    {
+      "path": "041_Fussilat_فصلت.mp3",
+      "size_bytes": 48985550,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/041_Fussilat_%D9%81%D8%B5%D9%84%D8%AA.mp3"
+    },
+    {
+      "path": "042_Ash-Shura_الشورى.mp3",
+      "size_bytes": 53478660,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/042_Ash-Shura_%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3"
+    },
+    {
+      "path": "043_Az-Zukhruf_الزخرف.mp3",
+      "size_bytes": 60174429,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/043_Az-Zukhruf_%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3"
+    },
+    {
+      "path": "044_Ad-Dukhan_الدخان.mp3",
+      "size_bytes": 26683248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/044_Ad-Dukhan_%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "045_Al-Jathiyah_الجاثية.mp3",
+      "size_bytes": 30788443,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/045_Al-Jathiyah_%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "046_Al-Ahqaf_الأحقاف.mp3",
+      "size_bytes": 40923536,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/046_Al-Ahqaf_%D8%A7%D9%84%D8%A3%D8%AD%D9%82%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "047_Muhammad_محمد.mp3",
+      "size_bytes": 32864865,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/047_Muhammad_%D9%85%D8%AD%D9%85%D8%AF.mp3"
+    },
+    {
+      "path": "048_Al-Fath_الفتح.mp3",
+      "size_bytes": 37254272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/048_Al-Fath_%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3"
+    },
+    {
+      "path": "049_Al-Hujurat_الحجرات.mp3",
+      "size_bytes": 20469449,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/049_Al-Hujurat_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "050_Qaf_ق.mp3",
+      "size_bytes": 24544133,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/050_Qaf_%D9%82.mp3"
+    },
+    {
+      "path": "051_Adh-Dhariyat_الذاريات.mp3",
+      "size_bytes": 27201518,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/051_Adh-Dhariyat_%D8%A7%D9%84%D8%B0%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "052_At-Tur_الطور.mp3",
+      "size_bytes": 26147007,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/052_At-Tur_%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "053_An-Najm_النجم.mp3",
+      "size_bytes": 26990030,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/053_An-Najm_%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3"
+    },
+    {
+      "path": "054_Al-Qamar_القمر.mp3",
+      "size_bytes": 25389665,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/054_Al-Qamar_%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "055_Ar-Rahman_الرحمن.mp3",
+      "size_bytes": 31107764,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/055_Ar-Rahman_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86.mp3"
+    },
+    {
+      "path": "056_Al-Waqi'ah_الواقعة.mp3",
+      "size_bytes": 30788025,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/056_Al-Waqi%27ah_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "057_Al-Hadid_الحديد.mp3",
+      "size_bytes": 32873224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/057_Al-Hadid_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3"
+    },
+    {
+      "path": "058_Al-Mujadilah_المجادلة.mp3",
+      "size_bytes": 27360342,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/058_Al-Mujadilah_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "059_Al-Hashr_الحشر.mp3",
+      "size_bytes": 28519761,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/059_Al-Hashr_%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3"
+    },
+    {
+      "path": "060_Al-Mumtahanah_الممتحنة.mp3",
+      "size_bytes": 20798801,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/060_Al-Mumtahanah_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "061_As-Saff_الصف.mp3",
+      "size_bytes": 11288140,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/061_As-Saff_%D8%A7%D9%84%D8%B5%D9%81.mp3"
+    },
+    {
+      "path": "062_Al-Jumu'ah_الجمعة.mp3",
+      "size_bytes": 10475209,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/062_Al-Jumu%27ah_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "063_Al-Munafiqun_المنافقون.mp3",
+      "size_bytes": 10132065,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/063_Al-Munafiqun_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "064_At-Taghabun_التغابن.mp3",
+      "size_bytes": 14054612,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/064_At-Taghabun_%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3"
+    },
+    {
+      "path": "065_At-Talaq_الطلاق.mp3",
+      "size_bytes": 17937034,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/065_At-Talaq_%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "066_At-Tahrim_التحريم.mp3",
+      "size_bytes": 17757730,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/066_At-Tahrim_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "067_Al-Mulk_الملك.mp3",
+      "size_bytes": 21979954,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/067_Al-Mulk_%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3"
+    },
+    {
+      "path": "068_Al-Qalam_القلم.mp3",
+      "size_bytes": 22838442,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/068_Al-Qalam_%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3"
+    },
+    {
+      "path": "069_Al-Haqqah_الحاقة.mp3",
+      "size_bytes": 17082483,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/069_Al-Haqqah_%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A9.mp3"
+    },
+    {
+      "path": "070_Al-Ma'arij_المعارج.mp3",
+      "size_bytes": 15030546,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/070_Al-Ma%27arij_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3"
+    },
+    {
+      "path": "071_Nuh_نوح.mp3",
+      "size_bytes": 13486605,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/071_Nuh_%D9%86%D9%88%D8%AD.mp3"
+    },
+    {
+      "path": "072_Al-Jinn_الجن.mp3",
+      "size_bytes": 17918644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/072_Al-Jinn_%D8%A7%D9%84%D8%AC%D9%86.mp3"
+    },
+    {
+      "path": "073_Al-Muzzammil_المزمل.mp3",
+      "size_bytes": 11785093,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/073_Al-Muzzammil_%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "074_Al-Muddaththir_المد_ثر.mp3",
+      "size_bytes": 18452378,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/074_Al-Muddaththir_%D8%A7%D9%84%D9%85%D8%AF_%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "075_Al-Qiyamah_القيامة.mp3",
+      "size_bytes": 12599278,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/075_Al-Qiyamah_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3"
+    },
+    {
+      "path": "076_Al-Insan_الإنسان.mp3",
+      "size_bytes": 15566788,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/076_Al-Insan_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "077_Al-Mursalat_المرسلات.mp3",
+      "size_bytes": 16943545,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/077_Al-Mursalat_%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "078_An-Naba'_النبأ.mp3",
+      "size_bytes": 13113368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/078_An-Naba%27_%D8%A7%D9%84%D9%86%D8%A8%D8%A3.mp3"
+    },
+    {
+      "path": "079_An-Nazi'at_النازعات.mp3",
+      "size_bytes": 13822644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/079_An-Nazi%27at_%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "080_'Abasa_عبس.mp3",
+      "size_bytes": 11385106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/080_%27Abasa_%D8%B9%D8%A8%D8%B3.mp3"
+    },
+    {
+      "path": "081_At-Takwir_التكوير.mp3",
+      "size_bytes": 9449955,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/081_At-Takwir_%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3"
+    },
+    {
+      "path": "082_Al-Infitar_الانفطار.mp3",
+      "size_bytes": 6571888,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/082_Al-Infitar_%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3"
+    },
+    {
+      "path": "083_Al-Mutaffifin_المطففين.mp3",
+      "size_bytes": 13061123,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/083_Al-Mutaffifin_%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "084_Al-Inshiqaq_الانشقاق.mp3",
+      "size_bytes": 7549683,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/084_Al-Inshiqaq_%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "085_Al-Buruj_البروج.mp3",
+      "size_bytes": 8358664,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/085_Al-Buruj_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3"
+    },
+    {
+      "path": "086_At-Tariq_الطارق.mp3",
+      "size_bytes": 5862969,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/086_At-Tariq_%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3"
+    },
+    {
+      "path": "087_Al-A'la_الأعلى.mp3",
+      "size_bytes": 6059052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/087_Al-A%27la_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3"
+    },
+    {
+      "path": "088_Al-Ghashiyah_الغاشية.mp3",
+      "size_bytes": 6180261,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/088_Al-Ghashiyah_%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "089_Al-Fajr_الفجر.mp3",
+      "size_bytes": 10940816,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/089_Al-Fajr_%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "090_Al-Balad_البلد.mp3",
+      "size_bytes": 6822246,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/090_Al-Balad_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3"
+    },
+    {
+      "path": "091_Ash-Shams_الشمس.mp3",
+      "size_bytes": 5527826,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/091_Ash-Shams_%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3"
+    },
+    {
+      "path": "092_Al-Lail_الليل.mp3",
+      "size_bytes": 5719670,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/092_Al-Lail_%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "093_Ad-Duha_الضحى.mp3",
+      "size_bytes": 3580136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/093_Ad-Duha_%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3"
+    },
+    {
+      "path": "094_Ash-Sharh_الشرح.mp3",
+      "size_bytes": 2353844,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/094_Ash-Sharh_%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3"
+    },
+    {
+      "path": "095_At-Tin_التين.mp3",
+      "size_bytes": 4046997,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/095_At-Tin_%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "096_Al-'Alaq_العلق.mp3",
+      "size_bytes": 6176499,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/096_Al-%27Alaq_%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "097_Al-Qadr_القدر.mp3",
+      "size_bytes": 2888414,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/097_Al-Qadr_%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3"
+    },
+    {
+      "path": "098_Al-Bayyinah_البينة.mp3",
+      "size_bytes": 5337655,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/098_Al-Bayyinah_%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "099_Az-Zalzalah_الزلزلة.mp3",
+      "size_bytes": 3315986,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/099_Az-Zalzalah_%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "100_Al-'Adiyat_العاديات.mp3",
+      "size_bytes": 3755261,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/100_Al-%27Adiyat_%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "101_Al-Qari'ah_القارعة.mp3",
+      "size_bytes": 3326017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/101_Al-Qari%27ah_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "102_At-Takathur_التكاثر.mp3",
+      "size_bytes": 3341482,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/102_At-Takathur_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "103_Al-'Asr_العصر.mp3",
+      "size_bytes": 1866086,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/103_Al-%27Asr_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "104_Al-Humazah_الهمزة.mp3",
+      "size_bytes": 2904714,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/104_Al-Humazah_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.mp3"
+    },
+    {
+      "path": "105_Al-Fil_الفيل.mp3",
+      "size_bytes": 2413194,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/105_Al-Fil_%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "106_Quraish_قريش.mp3",
+      "size_bytes": 2554047,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/106_Quraish_%D9%82%D8%B1%D9%8A%D8%B4.mp3"
+    },
+    {
+      "path": "107_Al-Ma'un_الماعون.mp3",
+      "size_bytes": 2902207,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/107_Al-Ma%27un_%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "108_Al-Kauthar_الكوثر.mp3",
+      "size_bytes": 2161583,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/108_Al-Kauthar_%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "109_Al-Kafirun_الكافرون.mp3",
+      "size_bytes": 3047239,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/109_Al-Kafirun_%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "110_An-Nasr_النصر.mp3",
+      "size_bytes": 2268581,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/110_An-Nasr_%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "111_Al-Masad_المسد.mp3",
+      "size_bytes": 2535239,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/111_Al-Masad_%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3"
+    },
+    {
+      "path": "112_Al-Ikhlas_الإخلاص.mp3",
+      "size_bytes": 2207141,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/112_Al-Ikhlas_%D8%A7%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%B5.mp3"
+    },
+    {
+      "path": "113_Al-Falaq_الفلق.mp3",
+      "size_bytes": 2271924,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/113_Al-Falaq_%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "114_An-Nas_الناس.mp3",
+      "size_bytes": 2575720,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audio-translations/mandankiya-jakhankiyah-sura/114_An-Nas_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
+    }
+  ]
+}

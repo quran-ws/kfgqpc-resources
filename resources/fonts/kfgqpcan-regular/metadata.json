@@ -1,0 +1,38 @@
+{
+  "slug": "kfgqpcan-regular",
+  "page_order": 11,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/KFGQPCAnRegular.ttf",
+    "filename": "KFGQPCAnRegular.ttf",
+    "size_bytes": 41704,
+    "size_human": "40.7 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 13 Dec 2022 08:19:36 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/kfgqpcan-regular/KFGQPCAnRegular.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "8fe5685d55ebfc6bab12146cc9ecd585",
+      "sha1": "35fa41b23b0e94514e1d6a69c685919e0be8e50c",
+      "sha256": "32356cddc83b01cc62cce5045d959674f4730b71c6065ccd5d1cb2e3e3056f87"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 41704,
+  "files": [
+    {
+      "path": "KFGQPCAnRegular.ttf",
+      "size_bytes": 41704,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/kfgqpcan-regular/KFGQPCAnRegular.ttf"
+    }
+  ]
+}

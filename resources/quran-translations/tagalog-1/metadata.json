@@ -1,0 +1,47 @@
+{
+  "slug": "tagalog-1",
+  "page_order": 19,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "التغالوغ (Tagalog)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tagalog1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/tagalog-1.pdf",
+    "filename": "tagalog-1.pdf",
+    "size_bytes": 354285671,
+    "size_human": "337.87 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 04:08:50 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tagalog-1/tagalog-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "2d36903f8a4754f3445685720cb0147d",
+      "sha1": "17b4b05f33c04efa05cf08d7697b5f833f2a3d5f",
+      "sha256": "d5d559d1183046e365fec59d4d50a15c6a7d20673797b9415745e78316f0b224"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 354340296,
+  "files": [
+    {
+      "path": "Tagalog1.jpg",
+      "size_bytes": 54625,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tagalog-1/Tagalog1.jpg"
+    },
+    {
+      "path": "tagalog-1.pdf",
+      "size_bytes": 354285671,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tagalog-1/tagalog-1.pdf"
+    }
+  ]
+}

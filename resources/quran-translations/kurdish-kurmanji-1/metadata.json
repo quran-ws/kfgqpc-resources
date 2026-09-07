@@ -1,0 +1,47 @@
+{
+  "slug": "kurdish-kurmanji-1",
+  "page_order": 25,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الكرديـــة (كوردی) [اللهجة الكرمانجية – Kurmanji]",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/kurdish-kurmanji.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kurdish-kurmanji-1.pdf",
+    "filename": "kurdish-kurmanji-1.pdf",
+    "size_bytes": 177714713,
+    "size_human": "169.48 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 08:43:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-kurmanji-1/kurdish-kurmanji-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "770b7b6eebd40465a07652d9f8ab2d7e",
+      "sha1": "4688e5af9198d9b42cf4318a6aaae06721286b1f",
+      "sha256": "3674e937626f33fc08957612462831897d758c534060c965e3765aba38cf26c8"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 177772066,
+  "files": [
+    {
+      "path": "kurdish-kurmanji-1.pdf",
+      "size_bytes": 177714713,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-kurmanji-1/kurdish-kurmanji-1.pdf"
+    },
+    {
+      "path": "kurdish-kurmanji.jpg",
+      "size_bytes": 57353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-kurmanji-1/kurdish-kurmanji.jpg"
+    }
+  ]
+}

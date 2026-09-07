@@ -1,0 +1,38 @@
+{
+  "slug": "إصدارات-المجمع-مع-الشرح-qr-code",
+  "page_order": 3,
+  "group": "training-bags",
+  "source_page": "https://qurancomplex.gov.sa/training-bags/",
+  "title": {
+    "ar": "تحميل الروابط",
+    "en": null
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/training-bags/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D8%AD-qr-code.pdf",
+    "filename": "إصدارات-المجمع-مع-الشرح-qr-code.pdf",
+    "size_bytes": 725445,
+    "size_human": "708.4 KB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 17 Dec 2025 06:08:28 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/training-bags/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D8%AD-qr-code/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D8%AD-qr-code.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e9652780d6559cce6446ad65df948bcb",
+      "sha1": "9094616b8e0002937bdc756af8421b9aaff7d936",
+      "sha256": "73a84076ef0275145d5d36ba88eaac11c0c445eda56ed1b4ae8a67cd753f35b7"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:09Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 725445,
+  "files": [
+    {
+      "path": "إصدارات-المجمع-مع-الشرح-qr-code.pdf",
+      "size_bytes": 725445,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/training-bags/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D8%AD-qr-code/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D8%AD-qr-code.pdf"
+    }
+  ]
+}

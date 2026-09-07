@@ -1,0 +1,38 @@
+{
+  "slug": "praying-calender-1448-madinah",
+  "page_order": 2,
+  "group": "calendar",
+  "source_page": "https://qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تقويم مواقيت الصلاة",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/kfgqpc-calendar/1448/Praying-Calender-1448-MADINAH.pdf",
+    "filename": "Praying-Calender-1448-MADINAH.pdf",
+    "size_bytes": 14050686,
+    "size_human": "13.40 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 21 Jun 2026 05:14:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-madinah/Praying-Calender-1448-MADINAH.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "801d2832f5d7688efd80be0cbf8cd76a",
+      "sha1": "df30073aa5dba3642c844722363f3069a124fd75",
+      "sha256": "09312ec362ee96c8186ef3321ca8615ae51a15c9dc94efc9f1bcd989909ec2ce"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:32Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 14050686,
+  "files": [
+    {
+      "path": "Praying-Calender-1448-MADINAH.pdf",
+      "size_bytes": 14050686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-madinah/Praying-Calender-1448-MADINAH.pdf"
+    }
+  ]
+}

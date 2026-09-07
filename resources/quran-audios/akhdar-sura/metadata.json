@@ -1,0 +1,602 @@
+{
+  "slug": "akhdar-sura",
+  "page_order": 10,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-akhdar/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/akhdar/hafs/akhdar-sura.zip",
+    "filename": "akhdar-sura.zip",
+    "size_bytes": 1207749085,
+    "size_human": "1.12 GB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Thu, 03 Feb 2022 11:43:38 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "bb608fefded8107de35520fbcca83757",
+      "sha1": "47ce071e142740d98a942636f9e33ee24ec1f103",
+      "sha256": "dfbbd1f3fc3fd36bf54b970dcdf64cbb48065fe4d89b5c7b4aa24df049bcb777"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 114,
+  "total_bytes": 1224220104,
+  "files": [
+    {
+      "path": "sura/10-001D00-A02.mp3",
+      "size_bytes": 651616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-001D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-002D00-A02.mp3",
+      "size_bytes": 95436176,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-002D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-003D00-A02.mp3",
+      "size_bytes": 55400384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-003D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-004D00-A02.mp3",
+      "size_bytes": 54964120,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-004D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-005D00-A02.mp3",
+      "size_bytes": 42588872,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-005D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-006D00-A02.mp3",
+      "size_bytes": 46914216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-006D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-007D00-A02.mp3",
+      "size_bytes": 51555584,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-007D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-008D00-A02.mp3",
+      "size_bytes": 19370784,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-008D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-009D00-A02.mp3",
+      "size_bytes": 37959992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-009D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-010D00-A02.mp3",
+      "size_bytes": 28071208,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-010D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-011D00-A02.mp3",
+      "size_bytes": 29174552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-011D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-012D00-A02.mp3",
+      "size_bytes": 27722728,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-012D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-013D00-A02.mp3",
+      "size_bytes": 13191440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-013D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-014D00-A02.mp3",
+      "size_bytes": 13206560,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-014D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-015D00-A02.mp3",
+      "size_bytes": 11633248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-015D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-016D00-A02.mp3",
+      "size_bytes": 28470032,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-016D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-017D00-A02.mp3",
+      "size_bytes": 21749608,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-017D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-018D00-A02.mp3",
+      "size_bytes": 22916728,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-018D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-019D00-A02.mp3",
+      "size_bytes": 14013928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-019D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-020D00-A02.mp3",
+      "size_bytes": 18645272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-020D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-021D00-A02.mp3",
+      "size_bytes": 19836928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-021D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-022D00-A02.mp3",
+      "size_bytes": 19557264,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-022D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-023D00-A02.mp3",
+      "size_bytes": 18298952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-023D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-024D00-A02.mp3",
+      "size_bytes": 21520344,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-024D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-025D00-A02.mp3",
+      "size_bytes": 13017504,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-025D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-026D00-A02.mp3",
+      "size_bytes": 24208904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-026D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-027D00-A02.mp3",
+      "size_bytes": 19071568,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-027D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-028D00-A02.mp3",
+      "size_bytes": 22451608,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-028D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-029D00-A02.mp3",
+      "size_bytes": 15662424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-029D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-030D00-A02.mp3",
+      "size_bytes": 13320984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-030D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-031D00-A02.mp3",
+      "size_bytes": 8376440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-031D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-032D00-A02.mp3",
+      "size_bytes": 6137960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-032D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-033D00-A02.mp3",
+      "size_bytes": 19961904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-033D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-034D00-A02.mp3",
+      "size_bytes": 13382240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-034D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-035D00-A02.mp3",
+      "size_bytes": 12485840,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-035D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-036D00-A02.mp3",
+      "size_bytes": 12633744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-036D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-037D00-A02.mp3",
+      "size_bytes": 16698616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-037D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-038D00-A02.mp3",
+      "size_bytes": 12942208,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-038D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-039D00-A02.mp3",
+      "size_bytes": 18468624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-039D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-040D00-A02.mp3",
+      "size_bytes": 18964344,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-040D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-041D00-A02.mp3",
+      "size_bytes": 12761240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-041D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-042D00-A02.mp3",
+      "size_bytes": 13372520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-042D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-043D00-A02.mp3",
+      "size_bytes": 14153248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-043D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-044D00-A02.mp3",
+      "size_bytes": 6561624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-044D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-045D00-A02.mp3",
+      "size_bytes": 7379960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-045D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-046D00-A02.mp3",
+      "size_bytes": 9678560,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-046D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-047D00-A02.mp3",
+      "size_bytes": 8154320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-047D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-048D00-A02.mp3",
+      "size_bytes": 7919240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-048D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-049D00-A02.mp3",
+      "size_bytes": 5582896,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-049D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-050D00-A02.mp3",
+      "size_bytes": 5770040,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-050D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-051D00-A02.mp3",
+      "size_bytes": 5947464,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-051D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-052D00-A02.mp3",
+      "size_bytes": 5393120,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-052D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-053D00-A02.mp3",
+      "size_bytes": 5222064,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-053D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-054D00-A02.mp3",
+      "size_bytes": 5415080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-054D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-055D00-A02.mp3",
+      "size_bytes": 7623624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-055D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-056D00-A02.mp3",
+      "size_bytes": 7801048,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-056D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-057D00-A02.mp3",
+      "size_bytes": 8730320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-057D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-058D00-A02.mp3",
+      "size_bytes": 7514296,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-058D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-059D00-A02.mp3",
+      "size_bytes": 6849736,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-059D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-060D00-A02.mp3",
+      "size_bytes": 5717176,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-060D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-061D00-A02.mp3",
+      "size_bytes": 3501376,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-061D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-062D00-A02.mp3",
+      "size_bytes": 2671216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-062D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-063D00-A02.mp3",
+      "size_bytes": 2979016,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-063D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-064D00-A02.mp3",
+      "size_bytes": 3826816,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-064D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-065D00-A02.mp3",
+      "size_bytes": 4351696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-065D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-066D00-A02.mp3",
+      "size_bytes": 4071616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-066D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-067D00-A02.mp3",
+      "size_bytes": 5122040,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-067D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-068D00-A02.mp3",
+      "size_bytes": 5374040,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-068D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-069D00-A02.mp3",
+      "size_bytes": 4646840,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-069D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-070D00-A02.mp3",
+      "size_bytes": 3829640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-070D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-071D00-A02.mp3",
+      "size_bytes": 3500600,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-071D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-072D00-A02.mp3",
+      "size_bytes": 4139960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-072D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-073D00-A02.mp3",
+      "size_bytes": 2990536,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-073D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-074D00-A02.mp3",
+      "size_bytes": 4197144,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-074D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-075D00-A02.mp3",
+      "size_bytes": 2601680,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-075D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-076D00-A02.mp3",
+      "size_bytes": 3928640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-076D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-077D00-A02.mp3",
+      "size_bytes": 3637760,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-077D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-078D00-A02.mp3",
+      "size_bytes": 2950160,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-078D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-079D00-A02.mp3",
+      "size_bytes": 2833160,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-079D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-080D00-A02.mp3",
+      "size_bytes": 2491520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-080D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-081D00-A02.mp3",
+      "size_bytes": 1837400,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-081D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-082D00-A02.mp3",
+      "size_bytes": 1490416,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-082D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-083D00-A02.mp3",
+      "size_bytes": 3391160,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-083D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-084D00-A02.mp3",
+      "size_bytes": 1779080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-084D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-085D00-A02.mp3",
+      "size_bytes": 1925656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-085D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-086D00-A02.mp3",
+      "size_bytes": 1060576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-086D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-087D00-A02.mp3",
+      "size_bytes": 1123216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-087D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-088D00-A02.mp3",
+      "size_bytes": 1536440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-088D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-089D00-A02.mp3",
+      "size_bytes": 2372360,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-089D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-090D00-A02.mp3",
+      "size_bytes": 1312216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-090D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-091D00-A02.mp3",
+      "size_bytes": 913336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-091D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-092D00-A02.mp3",
+      "size_bytes": 1221496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-092D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-093D00-A02.mp3",
+      "size_bytes": 712816,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-093D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-094D00-A02.mp3",
+      "size_bytes": 463696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-094D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-095D00-A02.mp3",
+      "size_bytes": 673576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-095D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-096D00-A02.mp3",
+      "size_bytes": 1058416,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-096D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-097D00-A02.mp3",
+      "size_bytes": 480616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-097D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-098D00-A02.mp3",
+      "size_bytes": 1357216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-098D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-099D00-A02.mp3",
+      "size_bytes": 614896,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-099D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-100D00-A02.mp3",
+      "size_bytes": 713896,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-100D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-101D00-A02.mp3",
+      "size_bytes": 677536,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-101D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-102D00-A02.mp3",
+      "size_bytes": 597256,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-102D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-103D00-A02.mp3",
+      "size_bytes": 278656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-103D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-104D00-A02.mp3",
+      "size_bytes": 598696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-104D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-105D00-A02.mp3",
+      "size_bytes": 486376,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-105D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-106D00-A02.mp3",
+      "size_bytes": 446056,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-106D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-107D00-A02.mp3",
+      "size_bytes": 570616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-107D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-108D00-A02.mp3",
+      "size_bytes": 256696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-108D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-109D00-A02.mp3",
+      "size_bytes": 570976,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-109D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-110D00-A02.mp3",
+      "size_bytes": 354976,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-110D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-111D00-A02.mp3",
+      "size_bytes": 421936,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-111D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-112D00-A02.mp3",
+      "size_bytes": 238696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-112D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-113D00-A02.mp3",
+      "size_bytes": 357136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-113D00-A02.mp3"
+    },
+    {
+      "path": "sura/10-114D00-A02.mp3",
+      "size_bytes": 497536,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/akhdar-sura/sura/10-114D00-A02.mp3"
+    }
+  ]
+}

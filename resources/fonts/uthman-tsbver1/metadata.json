@@ -1,0 +1,38 @@
+{
+  "slug": "uthman-tsbver1",
+  "page_order": 17,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/UthmanTSBVer1.ttf",
+    "filename": "UthmanTSBVer1.ttf",
+    "size_bytes": 139880,
+    "size_human": "136.6 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 29 Oct 2024 06:08:46 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/uthman-tsbver1/UthmanTSBVer1.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "8c08bedb457d0630b56b80e924014f07",
+      "sha1": "622befdc74cfeaebf7ccdb4b76af4dfb1e31d4fb",
+      "sha256": "a4b9d8ca8d14d0b1237d6fd7881462b66f30970767faae992ee3d7a0cd74671a"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 139880,
+  "files": [
+    {
+      "path": "UthmanTSBVer1.ttf",
+      "size_bytes": 139880,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/uthman-tsbver1/UthmanTSBVer1.ttf"
+    }
+  ]
+}

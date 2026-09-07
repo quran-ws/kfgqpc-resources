@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-chinese",
+  "page_order": 9,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الصينية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman__chinese.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Chinese.pdf",
+    "filename": "UsoulEman-Chinese.pdf",
+    "size_bytes": 37165156,
+    "size_human": "35.44 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 12:23:29 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-chinese/UsoulEman-Chinese.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "198038318c7a2a82f52183d0ce55dbf0",
+      "sha1": "c6288c8f117b7a07efc6b3ad581c3135d6b88413",
+      "sha256": "96f229926822572ac0c6ad68ad4cf2e3ec6c741eb5be25d05422d25566042ed5"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 37208807,
+  "files": [
+    {
+      "path": "UsoulEman-Chinese.pdf",
+      "size_bytes": 37165156,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-chinese/UsoulEman-Chinese.pdf"
+    },
+    {
+      "path": "usoul_eman__chinese.jpg",
+      "size_bytes": 43651,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-chinese/usoul_eman__chinese.jpg"
+    }
+  ]
+}

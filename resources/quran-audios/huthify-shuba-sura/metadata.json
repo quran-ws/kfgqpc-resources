@@ -1,0 +1,602 @@
+{
+  "slug": "huthify-shuba-sura",
+  "page_order": 12,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-shouba-huthify/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/shuba/huthify-shuba-sura.rar",
+    "filename": "huthify-shuba-sura.rar",
+    "size_bytes": 732017102,
+    "size_human": "698.11 MB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Sun, 06 Feb 2022 05:09:16 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a310c2b4df56cb2be9220454f13b32d1",
+      "sha1": "8cab4b58f18049c97a9eacc7cfd9180e0d7b3cfe",
+      "sha256": "d4c3a7dab17fcb19204cde1a36cad8fe867d902539c49da2fc91f90fd222d2c7"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 114,
+  "total_bytes": 753370074,
+  "files": [
+    {
+      "path": "سور - 2020.06.04/09-001D00-A01.mp3",
+      "size_bytes": 433426,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-001D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-002D00-A01.mp3",
+      "size_bytes": 58439186,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-002D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-003D00-A01.mp3",
+      "size_bytes": 32789925,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-003D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-004D00-A01.mp3",
+      "size_bytes": 33663323,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-004D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-005D00-A01.mp3",
+      "size_bytes": 27690697,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-005D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-006D00-A01.mp3",
+      "size_bytes": 29652974,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-006D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-007D00-A01.mp3",
+      "size_bytes": 32357833,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-007D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-008D00-A01.mp3",
+      "size_bytes": 11961179,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-008D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-009D00-A01.mp3",
+      "size_bytes": 23355703,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-009D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-010D00-A01.mp3",
+      "size_bytes": 17154542,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-010D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-011D00-A01.mp3",
+      "size_bytes": 18519314,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-011D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-012D00-A01.mp3",
+      "size_bytes": 16675822,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-012D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-013D00-A01.mp3",
+      "size_bytes": 7976978,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-013D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-014D00-A01.mp3",
+      "size_bytes": 7966738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-014D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-015D00-A01.mp3",
+      "size_bytes": 6673536,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-015D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-016D00-A01.mp3",
+      "size_bytes": 16862080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-016D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-017D00-A01.mp3",
+      "size_bytes": 12572325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-017D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-018D00-A01.mp3",
+      "size_bytes": 13262427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-018D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-019D00-A01.mp3",
+      "size_bytes": 7756782,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-019D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-020D00-A01.mp3",
+      "size_bytes": 11929984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-020D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-021D00-A01.mp3",
+      "size_bytes": 11183707,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-021D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-022D00-A01.mp3",
+      "size_bytes": 11668901,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-022D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-023D00-A01.mp3",
+      "size_bytes": 9955566,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-023D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-024D00-A01.mp3",
+      "size_bytes": 12451054,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-024D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-025D00-A01.mp3",
+      "size_bytes": 7637157,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-025D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-026D00-A01.mp3",
+      "size_bytes": 13841463,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-026D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-027D00-A01.mp3",
+      "size_bytes": 11579849,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-027D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-028D00-A01.mp3",
+      "size_bytes": 14125221,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-028D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-029D00-A01.mp3",
+      "size_bytes": 9736722,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-029D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-030D00-A01.mp3",
+      "size_bytes": 8344265,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-030D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-031D00-A01.mp3",
+      "size_bytes": 5001966,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-031D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-032D00-A01.mp3",
+      "size_bytes": 3812663,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-032D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-033D00-A01.mp3",
+      "size_bytes": 12293979,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-033D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-034D00-A01.mp3",
+      "size_bytes": 7993618,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-034D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-035D00-A01.mp3",
+      "size_bytes": 7129618,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-035D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-036D00-A01.mp3",
+      "size_bytes": 7382912,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-036D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-037D00-A01.mp3",
+      "size_bytes": 10119735,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-037D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-038D00-A01.mp3",
+      "size_bytes": 7510546,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-038D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-039D00-A01.mp3",
+      "size_bytes": 11425591,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-039D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-040D00-A01.mp3",
+      "size_bytes": 11505243,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-040D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-041D00-A01.mp3",
+      "size_bytes": 8164955,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-041D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-042D00-A01.mp3",
+      "size_bytes": 8859813,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-042D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-043D00-A01.mp3",
+      "size_bytes": 9041243,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-043D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-044D00-A01.mp3",
+      "size_bytes": 4108014,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-044D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-045D00-A01.mp3",
+      "size_bytes": 4890057,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-045D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-046D00-A01.mp3",
+      "size_bytes": 6642743,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-046D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-047D00-A01.mp3",
+      "size_bytes": 5400338,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-047D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-048D00-A01.mp3",
+      "size_bytes": 5085714,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-048D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-049D00-A01.mp3",
+      "size_bytes": 3698999,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-049D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-050D00-A01.mp3",
+      "size_bytes": 3524224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-050D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-051D00-A01.mp3",
+      "size_bytes": 3744859,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-051D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-052D00-A01.mp3",
+      "size_bytes": 3331675,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-052D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-053D00-A01.mp3",
+      "size_bytes": 3629659,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-053D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-054D00-A01.mp3",
+      "size_bytes": 3591150,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-054D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-055D00-A01.mp3",
+      "size_bytes": 5092809,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-055D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-056D00-A01.mp3",
+      "size_bytes": 5078363,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-056D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-057D00-A01.mp3",
+      "size_bytes": 5660434,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-057D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-058D00-A01.mp3",
+      "size_bytes": 4713051,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-058D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-059D00-A01.mp3",
+      "size_bytes": 4534949,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-059D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-060D00-A01.mp3",
+      "size_bytes": 3725696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-060D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-061D00-A01.mp3",
+      "size_bytes": 2226085,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-061D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-062D00-A01.mp3",
+      "size_bytes": 1874450,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-062D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-063D00-A01.mp3",
+      "size_bytes": 2025856,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-063D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-064D00-A01.mp3",
+      "size_bytes": 2580645,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-064D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-065D00-A01.mp3",
+      "size_bytes": 3104165,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-065D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-066D00-A01.mp3",
+      "size_bytes": 2826953,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-066D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-067D00-A01.mp3",
+      "size_bytes": 3531063,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-067D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-068D00-A01.mp3",
+      "size_bytes": 3494235,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-068D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-069D00-A01.mp3",
+      "size_bytes": 2871607,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-069D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-070D00-A01.mp3",
+      "size_bytes": 2382647,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-070D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-071D00-A01.mp3",
+      "size_bytes": 2213943,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-071D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-072D00-A01.mp3",
+      "size_bytes": 2537600,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-072D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-073D00-A01.mp3",
+      "size_bytes": 1947154,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-073D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-074D00-A01.mp3",
+      "size_bytes": 2806327,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-074D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-075D00-A01.mp3",
+      "size_bytes": 1642624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-075D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-076D00-A01.mp3",
+      "size_bytes": 2461349,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-076D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-077D00-A01.mp3",
+      "size_bytes": 2229595,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-077D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-078D00-A01.mp3",
+      "size_bytes": 1862053,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-078D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-079D00-A01.mp3",
+      "size_bytes": 1819813,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-079D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-080D00-A01.mp3",
+      "size_bytes": 1580818,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-080D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-081D00-A01.mp3",
+      "size_bytes": 1172206,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-081D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-082D00-A01.mp3",
+      "size_bytes": 956617,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-082D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-083D00-A01.mp3",
+      "size_bytes": 2103497,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-083D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-084D00-A01.mp3",
+      "size_bytes": 1153920,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-084D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-085D00-A01.mp3",
+      "size_bytes": 1171474,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-085D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-086D00-A01.mp3",
+      "size_bytes": 691730,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-086D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-087D00-A01.mp3",
+      "size_bytes": 760960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-087D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-088D00-A01.mp3",
+      "size_bytes": 943817,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-088D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-089D00-A01.mp3",
+      "size_bytes": 1418331,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-089D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-090D00-A01.mp3",
+      "size_bytes": 817646,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-090D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-091D00-A01.mp3",
+      "size_bytes": 602313,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-091D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-092D00-A01.mp3",
+      "size_bytes": 776686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-092D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-093D00-A01.mp3",
+      "size_bytes": 462062,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-093D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-094D00-A01.mp3",
+      "size_bytes": 304987,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-094D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-095D00-A01.mp3",
+      "size_bytes": 407936,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-095D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-096D00-A01.mp3",
+      "size_bytes": 707749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-096D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-097D00-A01.mp3",
+      "size_bytes": 309742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-097D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-098D00-A01.mp3",
+      "size_bytes": 890862,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-098D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-099D00-A01.mp3",
+      "size_bytes": 391662,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-099D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-100D00-A01.mp3",
+      "size_bytes": 454016,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-100D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-101D00-A01.mp3",
+      "size_bytes": 407570,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-101D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-102D00-A01.mp3",
+      "size_bytes": 379776,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-102D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-103D00-A01.mp3",
+      "size_bytes": 181193,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-103D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-104D00-A01.mp3",
+      "size_bytes": 374656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-104D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-105D00-A01.mp3",
+      "size_bytes": 284325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-105D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-106D00-A01.mp3",
+      "size_bytes": 267136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-106D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-107D00-A01.mp3",
+      "size_bytes": 333696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-107D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-108D00-A01.mp3",
+      "size_bytes": 165102,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-108D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-109D00-A01.mp3",
+      "size_bytes": 366245,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-109D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-110D00-A01.mp3",
+      "size_bytes": 224347,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-110D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-111D00-A01.mp3",
+      "size_bytes": 264942,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-111D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-112D00-A01.mp3",
+      "size_bytes": 156873,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-112D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-113D00-A01.mp3",
+      "size_bytes": 232576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-113D00-A01.mp3"
+    },
+    {
+      "path": "سور - 2020.06.04/09-114D00-A01.mp3",
+      "size_bytes": 301147,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/huthify-shuba-sura/%D8%B3%D9%88%D8%B1%20-%202020.06.04/09-114D00-A01.mp3"
+    }
+  ]
+}

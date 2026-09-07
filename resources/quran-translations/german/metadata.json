@@ -1,0 +1,47 @@
+{
+  "slug": "german",
+  "page_order": 35,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الألمانية (Deutsch)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأوروبية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/05/German.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/german.pdf",
+    "filename": "german.pdf",
+    "size_bytes": 444453501,
+    "size_human": "423.86 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 19 Mar 2025 11:06:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/german/german.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "32a7393ee5ed4739e0fec628c7f4cf43",
+      "sha1": "546a8b215c961fb2b88ce47e44ad9ddc01b60cf8",
+      "sha256": "2dbeff4453de953274052f78dccc8a36954697be58497683c1fc0b1e59a84c8d"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 444520040,
+  "files": [
+    {
+      "path": "German.jpg",
+      "size_bytes": 66539,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/german/German.jpg"
+    },
+    {
+      "path": "german.pdf",
+      "size_bytes": 444453501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/german/german.pdf"
+    }
+  ]
+}

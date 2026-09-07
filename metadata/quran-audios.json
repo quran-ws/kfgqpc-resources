@@ -1,0 +1,550 @@
+{
+  "group": "quran-audios",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/",
+  "resource_count": 18,
+  "available_count": 18,
+  "file_count": 58116,
+  "total_bytes": 24844858988,
+  "resources": [
+    {
+      "slug": "huthify-ayat",
+      "page_order": 1,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-huthify/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/hafs/huthify-ayat.rar",
+        "filename": "huthify-ayat.rar",
+        "size_bytes": 842634506,
+        "size_human": "803.60 MB",
+        "content_type": "application/octet-stream",
+        "server_last_modified": "Thu, 03 Feb 2022 11:53:24 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "b5b08e9329e8c2e4e31687b08598126d",
+          "sha1": "f69c5bc487d608cc36c0d3e68fff737cac0c684c",
+          "sha256": "ad50fd0d8c362f6967141b5240cdbac4089efaf6d3a46ef159c3c8aaa05371f5"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6350,
+      "total_bytes": 987137904
+    },
+    {
+      "slug": "huthify-sura",
+      "page_order": 2,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-huthify/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/hafs/huthify-sura.rar",
+        "filename": "huthify-sura.rar",
+        "size_bytes": 841178386,
+        "size_human": "802.21 MB",
+        "content_type": "application/octet-stream",
+        "server_last_modified": "Thu, 03 Feb 2022 11:56:53 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f4f73216f3cce9c078435867521f8b58",
+          "sha1": "5418308b3185764716953a0a84ed3c094a4e01ea",
+          "sha256": "14b91a3464b7872508d2374bb015a2e1291dcd2dc15ec912f95aec9ef3743d9c"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 863351488
+    },
+    {
+      "slug": "ayat-12-1-2020",
+      "page_order": 3,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-muaiqly/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/ayat-12-1-2020.zip",
+        "filename": "ayat-12-1-2020.zip",
+        "size_bytes": 760867237,
+        "size_human": "725.62 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 06 Feb 2022 05:13:36 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "0c12091707050eb51bbf5595c62d2c25",
+          "sha1": "d48a0ffb9624bab662fd890241e6608b03acd7e0",
+          "sha256": "3edcc70407f9d19c972c002c69a43cc245a62a0fcc497d3c719406a69965e18e"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6350,
+      "total_bytes": 911032184
+    },
+    {
+      "slug": "sura-12-1-2020",
+      "page_order": 4,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-muaiqly/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip",
+        "filename": "sura-12-1-2020.zip",
+        "size_bytes": 1319089096,
+        "size_human": "1.23 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 06 Feb 2022 05:21:51 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "22449e37823103e8a62c411da3b007d0",
+          "sha1": "7f655e8ccb1e6252abf1499c5213c75bdb583f25",
+          "sha256": "1f99418cd52d2e84bd144d80f62a8fddd45bfc633c352fd06a603c7cfbe7b5cc"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 115,
+      "total_bytes": 1407650656
+    },
+    {
+      "slug": "ayyoub-ayat",
+      "page_order": 5,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-ayyoub/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/ayyoub/hafs/ayyoub-ayat.zip",
+        "filename": "ayyoub-ayat.zip",
+        "size_bytes": 961236527,
+        "size_human": "916.71 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 03 Apr 2023 08:17:26 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "6bef2c3f4a533a176b28820f9c946ff4",
+          "sha1": "a1d14c85d2ec8bfa6e7d82ea42154f2958486b96",
+          "sha256": "7d82d979b1dcb2ae543812ae03fef71e745cdbe60c084fc9b1ee3e25e84ffce2"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6350,
+      "total_bytes": 1092999160
+    },
+    {
+      "slug": "ayyoub-sura",
+      "page_order": 6,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-ayyoub/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/ayyoub/hafs/ayyoub-sura.zip",
+        "filename": "ayyoub-sura.zip",
+        "size_bytes": 912643477,
+        "size_human": "870.36 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Thu, 03 Feb 2022 11:48:58 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "420cc7c37bf23e88793ac38f87f17b6b",
+          "sha1": "8d2bbe3200b2f7e4a539d6074960d2fe6f1c35a1",
+          "sha256": "7ace0a0481420fd708b76434e0c3d287c126463857afc7831cde27d467946af4"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 932560576
+    },
+    {
+      "slug": "muhanna-ayat",
+      "page_order": 7,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-muhanna/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/muhanna/hafs/muhanna-ayat.zip",
+        "filename": "muhanna-ayat.zip",
+        "size_bytes": 1120110331,
+        "size_human": "1.04 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 06 Feb 2022 05:30:48 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5182e28dee20a6b575aa9e067dc10bfe",
+          "sha1": "0c7516fec600f85a184532bf7329fc07b780c7bf",
+          "sha256": "0e275dd1974984035f7ebc8e5c629a1d54ae9154820290b63a405dff9b833752"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6349,
+      "total_bytes": 1288777382
+    },
+    {
+      "slug": "muhanna-sura",
+      "page_order": 8,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-muhanna/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/muhanna/hafs/muhanna-sura.zip",
+        "filename": "muhanna-sura.zip",
+        "size_bytes": 1087643444,
+        "size_human": "1.01 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 06 Feb 2022 05:36:08 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "482a632564b54162d531c18e1956b85f",
+          "sha1": "2a4d8e3f69187120fa6b4b414d46dbf1f7d07961",
+          "sha256": "369241162d5ed5ed188f6d8a8f90f6d3add501e650dfd96283246cd3bd1c3cc5"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 1109266023
+    },
+    {
+      "slug": "akhdar-ayat",
+      "page_order": 9,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-akhdar/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/akhdar/hafs/akhdar-ayat.zip",
+        "filename": "akhdar-ayat.zip",
+        "size_bytes": 1276378123,
+        "size_human": "1.19 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Thu, 03 Feb 2022 11:36:22 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "23edeb57949f08cf4d98b28b493c970a",
+          "sha1": "3cc552dc03ce26bf19e4595f991eec87d0cca030",
+          "sha256": "62ff5be271903d8eaf632f9db7751962e2aa54f0978b65bf8a9d215feaaf3066"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6349,
+      "total_bytes": 1421542504
+    },
+    {
+      "slug": "akhdar-sura",
+      "page_order": 10,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-hafs-akhdar/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/akhdar/hafs/akhdar-sura.zip",
+        "filename": "akhdar-sura.zip",
+        "size_bytes": 1207749085,
+        "size_human": "1.12 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Thu, 03 Feb 2022 11:43:38 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "bb608fefded8107de35520fbcca83757",
+          "sha1": "47ce071e142740d98a942636f9e33ee24ec1f103",
+          "sha256": "dfbbd1f3fc3fd36bf54b970dcdf64cbb48065fe4d89b5c7b4aa24df049bcb777"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 1224220104
+    },
+    {
+      "slug": "huthify-shuba-ayat",
+      "page_order": 11,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-shouba-huthify/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/shuba/huthify-shuba-ayat.rar",
+        "filename": "huthify-shuba-ayat.rar",
+        "size_bytes": 756861762,
+        "size_human": "721.80 MB",
+        "content_type": "application/octet-stream",
+        "server_last_modified": "Sun, 06 Feb 2022 05:04:39 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "2f6f2bfa022d4fb609a37f122c0996b1",
+          "sha1": "ad58ec5a9dde7b11ae6f44c4a4754819dae33824",
+          "sha256": "2d7e3da65c0658af6bcd3f5b3adba1594d6ac6debcf4c50025c280a08aa70504"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6349,
+      "total_bytes": 849121894
+    },
+    {
+      "slug": "huthify-shuba-sura",
+      "page_order": 12,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-shouba-huthify/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/shuba/huthify-shuba-sura.rar",
+        "filename": "huthify-shuba-sura.rar",
+        "size_bytes": 732017102,
+        "size_human": "698.11 MB",
+        "content_type": "application/octet-stream",
+        "server_last_modified": "Sun, 06 Feb 2022 05:09:16 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a310c2b4df56cb2be9220454f13b32d1",
+          "sha1": "8cab4b58f18049c97a9eacc7cfd9180e0d7b3cfe",
+          "sha256": "d4c3a7dab17fcb19204cde1a36cad8fe867d902539c49da2fc91f90fd222d2c7"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 753370074
+    },
+    {
+      "slug": "qaloon-ayat",
+      "page_order": 13,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-qaloon-huthify/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/qaloon/ayat.zip",
+        "filename": "ayat.zip",
+        "size_bytes": 797610252,
+        "size_human": "760.66 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Thu, 03 Feb 2022 12:14:11 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5e8d8a22bc8d538c8fac2921c9469f77",
+          "sha1": "4b26dbd6461889deafa023282938f11fceee9d4d",
+          "sha256": "7b043726712b6dbfdb3d13f2c485e9eca2f9b61957c84ccae27095d9c188ab2c"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6328,
+      "total_bytes": 897990848
+    },
+    {
+      "slug": "qaloon-sura",
+      "page_order": 14,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-qaloon-huthify/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/qaloon/sura.zip",
+        "filename": "sura.zip",
+        "size_bytes": 756575811,
+        "size_human": "721.53 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 21 Apr 2026 10:41:23 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "6a86418946e32da66d3f1f79ceff7ab9",
+          "sha1": "a4cf65ab26936595112dada100e8049f0f706371",
+          "sha256": "3af1a21ba19d28b722cb336d3cf2e6ab741f7cf2d27ceb4e2e6124bb801026cb"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 775019584
+    },
+    {
+      "slug": "sediki-ayat",
+      "page_order": 15,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-sousi-sediki/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/sousi/sediki-ayat.zip",
+        "filename": "sediki-ayat.zip",
+        "size_bytes": 3493987817,
+        "size_human": "3.25 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 19 Sep 2023 05:47:10 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4ce7d0ad92c1446d39bfa6eb3802f5d9",
+          "sha1": "b1cd22647034ad717aa7f841ccca25fa36cc7343",
+          "sha256": "081fc05620110281844c054e4d7a575c82f216ec0a96acbc9f565749a5fc703f"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6331,
+      "total_bytes": 3998017475
+    },
+    {
+      "slug": "sediki-sura",
+      "page_order": 16,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-sousi-sediki/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/sousi/sediki-sura.zip",
+        "filename": "sediki-sura.zip",
+        "size_bytes": 2652809311,
+        "size_human": "2.47 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Wed, 15 Feb 2023 11:31:41 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "98c188923ab4f6ee5e69054435492727",
+          "sha1": "4b04aafbdb63b9f6dee4e74ad2c29c617a6c4fe9",
+          "sha256": "63ee3376cb81cf3e0a2d9bd845ab7949afa27892f388442e54a9c5671c4493fd"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 2832030144
+    },
+    {
+      "slug": "juhani-ayat",
+      "page_order": 17,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-douri-juhani/",
+      "title": {
+        "ar": "تحميل آيات المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/douri/juhani/ayat.zip",
+        "filename": "ayat.zip",
+        "size_bytes": 1661598927,
+        "size_human": "1.55 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Wed, 24 Jan 2024 06:09:38 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "91add132bb50a6f046c102cc568fac5f",
+          "sha1": "a629c7bf5b06dad665199c0a004661727027a43f",
+          "sha256": "38233710901a9aeb74f38f514c111fc479e5ee0b1b10078b4bc2af8d1aa772a6"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6332,
+      "total_bytes": 1741259838
+    },
+    {
+      "slug": "juhani-sura",
+      "page_order": 18,
+      "group": "quran-audios",
+      "source_page": "https://qurancomplex.gov.sa/quran-audio-douri-juhani/",
+      "title": {
+        "ar": "تحميل سور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/douri/juhani/sura.zip",
+        "filename": "sura.zip",
+        "size_bytes": 1622785417,
+        "size_human": "1.51 GB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 28 May 2023 10:33:33 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "2923e0e2a81ff1962ab68c448edbb260",
+          "sha1": "0e10ef4be4ad10dc9a54d4f5560c85ebff2c3ecc",
+          "sha256": "4f52a03d0e40fe969124a751fbd01bac8acbfcef4cef62cf792607aaee466d28"
+        }
+      },
+      "captured_at": "2026-09-07T14:11:06Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 115,
+      "total_bytes": 1759511150
+    }
+  ]
+}

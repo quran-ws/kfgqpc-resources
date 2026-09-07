@@ -1,0 +1,47 @@
+{
+  "slug": "wasat39-1",
+  "page_order": 7,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف الوسط",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Wasat.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/wasat39-1.pdf",
+    "filename": "wasat39-1.pdf",
+    "size_bytes": 211330566,
+    "size_human": "201.54 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 13 Nov 2025 11:00:47 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/wasat39-1/wasat39-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a401d2093578a2a7f523ef42f1989d1f",
+      "sha1": "052198672762bccc32619bf536c735ccc7b67fd5",
+      "sha256": "19e5556fb46c94b8c618449e71b1a3e36659f3ad84c31c946e8c34f3c186a12e"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 211394813,
+  "files": [
+    {
+      "path": "Wasat.jpg",
+      "size_bytes": 64247,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/wasat39-1/Wasat.jpg"
+    },
+    {
+      "path": "wasat39-1.pdf",
+      "size_bytes": 211330566,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/wasat39-1/wasat39-1.pdf"
+    }
+  ]
+}

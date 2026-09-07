@@ -1,0 +1,47 @@
+{
+  "slug": "juzuqad-1",
+  "page_order": 12,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "جزء قد سمع",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Juzu_Qad.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzuqad-1.pdf",
+    "filename": "juzuqad-1.pdf",
+    "size_bytes": 12804591,
+    "size_human": "12.21 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 18 Nov 2025 08:36:26 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuqad-1/juzuqad-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "aa2a45c5fbec97257583079844b49d85",
+      "sha1": "65cb79ce6b0c7003c58aef9a7a37ff9e1ab684a3",
+      "sha256": "5f667bc49f423658b38f377e613f92e3b048229ed505791dbbdc83029eedc82f"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 12857438,
+  "files": [
+    {
+      "path": "Juzu_Qad.jpg",
+      "size_bytes": 52847,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuqad-1/Juzu_Qad.jpg"
+    },
+    {
+      "path": "juzuqad-1.pdf",
+      "size_bytes": 12804591,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuqad-1/juzuqad-1.pdf"
+    }
+  ]
+}

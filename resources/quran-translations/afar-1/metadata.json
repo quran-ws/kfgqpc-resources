@@ -1,0 +1,47 @@
+{
+  "slug": "afar-1",
+  "page_order": 45,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "العفرية (Afar)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Afar.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/afar-1.pdf",
+    "filename": "afar-1.pdf",
+    "size_bytes": 206487500,
+    "size_human": "196.92 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 29 Aug 2024 06:41:13 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/afar-1/afar-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "fac00c65af7b1dc9a42b6e15b27f4e7e",
+      "sha1": "0d7d9dd8d87b945ad8c162fa70184345500ef1bd",
+      "sha256": "4fc471fb983d6657b151ffdf38f12ff8863fd5ddc7f030d0c17a31250c39673d"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 206554321,
+  "files": [
+    {
+      "path": "Afar.jpg",
+      "size_bytes": 66821,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/afar-1/Afar.jpg"
+    },
+    {
+      "path": "afar-1.pdf",
+      "size_bytes": 206487500,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/afar-1/afar-1.pdf"
+    }
+  ]
+}

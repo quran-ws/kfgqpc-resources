@@ -1,0 +1,47 @@
+{
+  "slug": "chichewa-2",
+  "page_order": 37,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الشيشيوا (Chichewa)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Chichewa.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/chichewa-2.pdf",
+    "filename": "chichewa-2.pdf",
+    "size_bytes": 17492183,
+    "size_human": "16.68 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 20 Aug 2024 07:59:00 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chichewa-2/chichewa-2.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "bd198b504a3c7d012aa2be78dc71513d",
+      "sha1": "bb2c4826872f56d1a867b039022afec48243fc13",
+      "sha256": "a5d53a1ced85ae89415cc7d707b84b5da11842455e410587795f4dc850f0a9a9"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 17527758,
+  "files": [
+    {
+      "path": "Chichewa.jpg",
+      "size_bytes": 35575,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chichewa-2/Chichewa.jpg"
+    },
+    {
+      "path": "chichewa-2.pdf",
+      "size_bytes": 17492183,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chichewa-2/chichewa-2.pdf"
+    }
+  ]
+}

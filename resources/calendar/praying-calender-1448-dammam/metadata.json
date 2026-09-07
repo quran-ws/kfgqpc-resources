@@ -1,0 +1,38 @@
+{
+  "slug": "praying-calender-1448-dammam",
+  "page_order": 4,
+  "group": "calendar",
+  "source_page": "https://qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تقويم مواقيت الصلاة",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/kfgqpc-calendar/1448/Praying-Calender-1448-DAMMAM.pdf",
+    "filename": "Praying-Calender-1448-DAMMAM.pdf",
+    "size_bytes": 14049832,
+    "size_human": "13.40 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 21 Jun 2026 05:14:50 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-dammam/Praying-Calender-1448-DAMMAM.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "100ac15ac8e1faacfd1d5a462bda95cf",
+      "sha1": "afb288b15018feeda928f5121d97b255cc351a01",
+      "sha256": "27ba571cdec1c541a330d6e99882f8854eea67e11c84047dbeccb3167ff4ddcd"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:32Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 14049832,
+  "files": [
+    {
+      "path": "Praying-Calender-1448-DAMMAM.pdf",
+      "size_bytes": 14049832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-dammam/Praying-Calender-1448-DAMMAM.pdf"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "muyassar-ghareeb",
+  "page_order": 9,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "الميسر في غريب القرآن الكريم",
+    "en": "Muyassar of Ghareeb Al-Qu’ran"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/MuyassarGhareeb.docx",
+    "filename": "MuyassarGhareeb.docx",
+    "size_bytes": 956677,
+    "size_human": "934.3 KB",
+    "downloads_count_at_capture": 352,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "server_last_modified": "Thu, 12 Jan 2023 11:38:48 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/muyassar-ghareeb/MuyassarGhareeb.docx"
+  },
+  "checksums": {
+    "published": {
+      "md5": "7e22381eedb152ee7ed6488f2395c6cd",
+      "sha1": "055a908c6ec7f06912c33bd00920406c665cc5f9"
+    },
+    "computed": {
+      "md5": "ffd3c58f51f8a69340a205b71bf1e870",
+      "sha1": "1be35ad20c48b4d47dfa0bfc3d97ac7b0b3401ca",
+      "sha256": "8a7af5decb94ee465b77c0eded05e018c6bf813fc544455bd0faebfcc84a8cb2"
+    },
+    "verified": false,
+    "note": "Published MD5/SHA-1 on the source page do not match the file currently served. The download was repeated and is byte-identical each time, and the file is structurally valid, so the served file appears to have been replaced after the page checksums were written."
+  },
+  "release_info": {
+    "created": "6-4-2021",
+    "created_iso": "2021-04-06",
+    "last_modified": "6-4-2021",
+    "last_modified_iso": "2021-04-06",
+    "version": "لا يوجد تحديثات",
+    "update_notes": "تحديث: لا يوجد تحديثات"
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "الميسر في غريب القرآن الكريم\nهي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية ، والجوال ، والمتصفحات) وأبحاثهم، وهذا المحتوى موثوق به ومعتمد من قبل مجمع الملك فهد لطباعة المصحف الشريف، ويحتوي على بيانات الميسر في غريب القرآن الكريم برواية حفص.\nتحقق الوثوقية (MD5): 7E22381EEDB152EE7ED6488F2395C6CD\nتحقق الوثوقية (SHA-1): 055A908C6EC7F06912C33BD00920406C665CC5F9\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "الميسر في غريب القرآن الكريم"
+        },
+        {
+          "type": "text",
+          "text": "هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية ، والجوال ، والمتصفحات) وأبحاثهم، وهذا المحتوى موثوق به ومعتمد من قبل مجمع الملك فهد لطباعة المصحف الشريف، ويحتوي على بيانات الميسر في غريب القرآن الكريم برواية حفص."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 7E22381EEDB152EE7ED6488F2395C6CD"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 055A908C6EC7F06912C33BD00920406C665CC5F9"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>الميسر في غريب القرآن الكريم</h3>\n          <p>هي خدمة يقدمها مجمع الملك فهد لطباعة المصحف الشريف للمطورين والباحثين ودور النشر لاستخدامها في محتوى تطبيقاتهم (المكتبية ، والجوال ، والمتصفحات) وأبحاثهم، وهذا المحتوى موثوق به ومعتمد من قبل مجمع الملك فهد لطباعة المصحف الشريف، ويحتوي على بيانات الميسر في غريب القرآن الكريم برواية حفص.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 7E22381EEDB152EE7ED6488F2395C6CD</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 055A908C6EC7F06912C33BD00920406C665CC5F9</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> \n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- page (int): Page Number\n3- sura_name (varchar): Sora Name in Arabic (Uthman Taha Naskh font)\n4- aya_no (int): Aya Number\n5- quranic_words (text): Text of the Quranic word in (UthmanicHafs font)\n6- explanation (text): Text of the Tafseer of the Quranic word in (Uthman Taha Naskh font)\nIt includes two folders:\n1– It contains folder of MuyassarGhareeb fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- page (int): Page Number\n3- sura_name (varchar): Sora Name in Arabic (Uthman Taha Naskh font)\n4- aya_no (int): Aya Number\n5- quranic_words (text): Text of the Quranic word in (UthmanicHafs font)\n6- explanation (text): Text of the Tafseer of the Quranic word in (Uthman Taha Naskh font)"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1– It contains folder of MuyassarGhareeb fonts (Uthmanic Hafs font and Uthman Taha Naskh font).\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- page (int): Page Number<br>\n\t\t\t3- sura_name (varchar): Sora Name in Arabic (Uthman Taha Naskh font)<br>\n\t\t\t4- aya_no (int): Aya Number<br>\n\t\t\t5- quranic_words (text): Text of the Quranic word in (UthmanicHafs font)<br>\n\t\t\t6- explanation (text): Text of the Tafseer of the Quranic word in (Uthman Taha Naskh font)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1– It contains folder of MuyassarGhareeb fonts (Uthmanic Hafs font and Uthman Taha Naskh font). <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "الميسر في غريب القرآن الكريم\nتاريخ الإنشاء: 6-4-2021\nتاريخ آخر تعديل: 6-4-2021\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "الميسر في غريب القرآن الكريم"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 6-4-2021\nتاريخ آخر تعديل: 6-4-2021\nمعلومات حول التحديث الجديد:\nتحديث: لا يوجد تحديثات"
+        }
+      ],
+      "html": "<h3>الميسر في غريب القرآن الكريم</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 6-4-2021 <br>\n\t\t\tتاريخ آخر تعديل: 6-4-2021 <br>\n\t\t\tمعلومات حول التحديث الجديد: <br>\n\t\t\tتحديث: لا يوجد تحديثات\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 956677,
+  "files": [
+    {
+      "path": "MuyassarGhareeb.docx",
+      "size_bytes": 956677,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/muyassar-ghareeb/MuyassarGhareeb.docx"
+    }
+  ]
+}

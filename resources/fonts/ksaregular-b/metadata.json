@@ -1,0 +1,38 @@
+{
+  "slug": "ksaregular-b",
+  "page_order": 6,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/KSARegular_B.ttf",
+    "filename": "KSARegular_B.ttf",
+    "size_bytes": 49168,
+    "size_human": "48.0 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 13 Dec 2022 07:55:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaregular-b/KSARegular_B.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "0d4428e3a68381d932fa44f3f3094ed1",
+      "sha1": "6ebe294beb31507dd224bd84dedefac8b3674ed7",
+      "sha256": "7bc29584df72fbefe32f7b607b3720a0e6f72753c32857cf1ad77d442b4a8710"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 49168,
+  "files": [
+    {
+      "path": "KSARegular_B.ttf",
+      "size_bytes": 49168,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaregular-b/KSARegular_B.ttf"
+    }
+  ]
+}

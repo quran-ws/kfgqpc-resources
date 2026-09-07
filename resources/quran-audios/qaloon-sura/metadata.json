@@ -1,0 +1,602 @@
+{
+  "slug": "qaloon-sura",
+  "page_order": 14,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-qaloon-huthify/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/huthify-01/qaloon/sura.zip",
+    "filename": "sura.zip",
+    "size_bytes": 756575811,
+    "size_human": "721.53 MB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Tue, 21 Apr 2026 10:41:23 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "6a86418946e32da66d3f1f79ceff7ab9",
+      "sha1": "a4cf65ab26936595112dada100e8049f0f706371",
+      "sha256": "3af1a21ba19d28b722cb336d3cf2e6ab741f7cf2d27ceb4e2e6124bb801026cb"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 114,
+  "total_bytes": 775019584,
+  "files": [
+    {
+      "path": "01-001D00-A01.mp3",
+      "size_bytes": 437632,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-001D00-A01.mp3"
+    },
+    {
+      "path": "01-002D00-A01.mp3",
+      "size_bytes": 58624768,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-002D00-A01.mp3"
+    },
+    {
+      "path": "01-003D00-A01.mp3",
+      "size_bytes": 34969408,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-003D00-A01.mp3"
+    },
+    {
+      "path": "01-004D00-A01.mp3",
+      "size_bytes": 33966208,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-004D00-A01.mp3"
+    },
+    {
+      "path": "01-005D00-A01.mp3",
+      "size_bytes": 26296256,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-005D00-A01.mp3"
+    },
+    {
+      "path": "01-006D00-A01.mp3",
+      "size_bytes": 28812096,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-006D00-A01.mp3"
+    },
+    {
+      "path": "01-007D00-A01.mp3",
+      "size_bytes": 32429312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-007D00-A01.mp3"
+    },
+    {
+      "path": "01-008D00-A01.mp3",
+      "size_bytes": 12412032,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-008D00-A01.mp3"
+    },
+    {
+      "path": "01-009D00-A01.mp3",
+      "size_bytes": 24176960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-009D00-A01.mp3"
+    },
+    {
+      "path": "01-010D00-A01.mp3",
+      "size_bytes": 17858368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-010D00-A01.mp3"
+    },
+    {
+      "path": "01-011D00-A01.mp3",
+      "size_bytes": 18207296,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-011D00-A01.mp3"
+    },
+    {
+      "path": "01-012D00-A01.mp3",
+      "size_bytes": 16803520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-012D00-A01.mp3"
+    },
+    {
+      "path": "01-013D00-A01.mp3",
+      "size_bytes": 8215424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-013D00-A01.mp3"
+    },
+    {
+      "path": "01-014D00-A01.mp3",
+      "size_bytes": 8297024,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-014D00-A01.mp3"
+    },
+    {
+      "path": "01-015D00-A01.mp3",
+      "size_bytes": 7514944,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-015D00-A01.mp3"
+    },
+    {
+      "path": "01-016D00-A01.mp3",
+      "size_bytes": 18900992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-016D00-A01.mp3"
+    },
+    {
+      "path": "01-017D00-A01.mp3",
+      "size_bytes": 13887616,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-017D00-A01.mp3"
+    },
+    {
+      "path": "01-018D00-A01.mp3",
+      "size_bytes": 14377600,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-018D00-A01.mp3"
+    },
+    {
+      "path": "01-019D00-A01.mp3",
+      "size_bytes": 8699776,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-019D00-A01.mp3"
+    },
+    {
+      "path": "01-020D00-A01.mp3",
+      "size_bytes": 11464832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-020D00-A01.mp3"
+    },
+    {
+      "path": "01-021D00-A01.mp3",
+      "size_bytes": 12168448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-021D00-A01.mp3"
+    },
+    {
+      "path": "01-022D00-A01.mp3",
+      "size_bytes": 12659712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-022D00-A01.mp3"
+    },
+    {
+      "path": "01-023D00-A01.mp3",
+      "size_bytes": 11554688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-023D00-A01.mp3"
+    },
+    {
+      "path": "01-024D00-A01.mp3",
+      "size_bytes": 13773888,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-024D00-A01.mp3"
+    },
+    {
+      "path": "01-025D00-A01.mp3",
+      "size_bytes": 8200320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-025D00-A01.mp3"
+    },
+    {
+      "path": "01-026D00-A01.mp3",
+      "size_bytes": 15050240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-026D00-A01.mp3"
+    },
+    {
+      "path": "01-027D00-A01.mp3",
+      "size_bytes": 12075712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-027D00-A01.mp3"
+    },
+    {
+      "path": "01-028D00-A01.mp3",
+      "size_bytes": 14313024,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-028D00-A01.mp3"
+    },
+    {
+      "path": "01-029D00-A01.mp3",
+      "size_bytes": 10472832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-029D00-A01.mp3"
+    },
+    {
+      "path": "01-030D00-A01.mp3",
+      "size_bytes": 8547648,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-030D00-A01.mp3"
+    },
+    {
+      "path": "01-031D00-A01.mp3",
+      "size_bytes": 5474624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-031D00-A01.mp3"
+    },
+    {
+      "path": "01-032D00-A01.mp3",
+      "size_bytes": 3754112,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-032D00-A01.mp3"
+    },
+    {
+      "path": "01-033D00-A01.mp3",
+      "size_bytes": 13000704,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-033D00-A01.mp3"
+    },
+    {
+      "path": "01-034D00-A01.mp3",
+      "size_bytes": 8600960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-034D00-A01.mp3"
+    },
+    {
+      "path": "01-035D00-A01.mp3",
+      "size_bytes": 7856384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-035D00-A01.mp3"
+    },
+    {
+      "path": "01-036D00-A01.mp3",
+      "size_bytes": 7658496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-036D00-A01.mp3"
+    },
+    {
+      "path": "01-037D00-A01.mp3",
+      "size_bytes": 10963264,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-037D00-A01.mp3"
+    },
+    {
+      "path": "01-038D00-A01.mp3",
+      "size_bytes": 7707264,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-038D00-A01.mp3"
+    },
+    {
+      "path": "01-039D00-A01.mp3",
+      "size_bytes": 11573952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-039D00-A01.mp3"
+    },
+    {
+      "path": "01-040D00-A01.mp3",
+      "size_bytes": 12072192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-040D00-A01.mp3"
+    },
+    {
+      "path": "01-041D00-A01.mp3",
+      "size_bytes": 8239808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-041D00-A01.mp3"
+    },
+    {
+      "path": "01-042D00-A01.mp3",
+      "size_bytes": 8641088,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-042D00-A01.mp3"
+    },
+    {
+      "path": "01-043D00-A01.mp3",
+      "size_bytes": 9480576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-043D00-A01.mp3"
+    },
+    {
+      "path": "01-044D00-A01.mp3",
+      "size_bytes": 4079744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-044D00-A01.mp3"
+    },
+    {
+      "path": "01-045D00-A01.mp3",
+      "size_bytes": 5117120,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-045D00-A01.mp3"
+    },
+    {
+      "path": "01-046D00-A01.mp3",
+      "size_bytes": 6277568,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-046D00-A01.mp3"
+    },
+    {
+      "path": "01-047D00-A01.mp3",
+      "size_bytes": 5226176,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-047D00-A01.mp3"
+    },
+    {
+      "path": "01-048D00-A01.mp3",
+      "size_bytes": 5403584,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-048D00-A01.mp3"
+    },
+    {
+      "path": "01-049D00-A01.mp3",
+      "size_bytes": 3769984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-049D00-A01.mp3"
+    },
+    {
+      "path": "01-050D00-A01.mp3",
+      "size_bytes": 3710912,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-050D00-A01.mp3"
+    },
+    {
+      "path": "01-051D00-A01.mp3",
+      "size_bytes": 3862656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-051D00-A01.mp3"
+    },
+    {
+      "path": "01-052D00-A01.mp3",
+      "size_bytes": 3473408,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-052D00-A01.mp3"
+    },
+    {
+      "path": "01-053D00-A01.mp3",
+      "size_bytes": 3477696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-053D00-A01.mp3"
+    },
+    {
+      "path": "01-054D00-A01.mp3",
+      "size_bytes": 3383360,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-054D00-A01.mp3"
+    },
+    {
+      "path": "01-055D00-A01.mp3",
+      "size_bytes": 5098368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-055D00-A01.mp3"
+    },
+    {
+      "path": "01-056D00-A01.mp3",
+      "size_bytes": 5031232,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-056D00-A01.mp3"
+    },
+    {
+      "path": "01-057D00-A01.mp3",
+      "size_bytes": 5524096,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-057D00-A01.mp3"
+    },
+    {
+      "path": "01-058D00-A01.mp3",
+      "size_bytes": 4741696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-058D00-A01.mp3"
+    },
+    {
+      "path": "01-059D00-A01.mp3",
+      "size_bytes": 4560640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-059D00-A01.mp3"
+    },
+    {
+      "path": "01-060D00-A01.mp3",
+      "size_bytes": 3635008,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-060D00-A01.mp3"
+    },
+    {
+      "path": "01-061D00-A01.mp3",
+      "size_bytes": 2278528,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-061D00-A01.mp3"
+    },
+    {
+      "path": "01-062D00-A01.mp3",
+      "size_bytes": 1764544,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-062D00-A01.mp3"
+    },
+    {
+      "path": "01-063D00-A01.mp3",
+      "size_bytes": 1933504,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-063D00-A01.mp3"
+    },
+    {
+      "path": "01-064D00-A01.mp3",
+      "size_bytes": 2527168,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-064D00-A01.mp3"
+    },
+    {
+      "path": "01-065D00-A01.mp3",
+      "size_bytes": 2874304,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-065D00-A01.mp3"
+    },
+    {
+      "path": "01-066D00-A01.mp3",
+      "size_bytes": 2564992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-066D00-A01.mp3"
+    },
+    {
+      "path": "01-067D00-A01.mp3",
+      "size_bytes": 3147584,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-067D00-A01.mp3"
+    },
+    {
+      "path": "01-068D00-A01.mp3",
+      "size_bytes": 3391424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-068D00-A01.mp3"
+    },
+    {
+      "path": "01-069D00-A01.mp3",
+      "size_bytes": 2928320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-069D00-A01.mp3"
+    },
+    {
+      "path": "01-070D00-A01.mp3",
+      "size_bytes": 2489984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-070D00-A01.mp3"
+    },
+    {
+      "path": "01-071D00-A01.mp3",
+      "size_bytes": 2124800,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-071D00-A01.mp3"
+    },
+    {
+      "path": "01-072D00-A01.mp3",
+      "size_bytes": 2416960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-072D00-A01.mp3"
+    },
+    {
+      "path": "01-073D00-A01.mp3",
+      "size_bytes": 1861696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-073D00-A01.mp3"
+    },
+    {
+      "path": "01-074D00-A01.mp3",
+      "size_bytes": 2715968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-074D00-A01.mp3"
+    },
+    {
+      "path": "01-075D00-A01.mp3",
+      "size_bytes": 1669952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-075D00-A01.mp3"
+    },
+    {
+      "path": "01-076D00-A01.mp3",
+      "size_bytes": 2443520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-076D00-A01.mp3"
+    },
+    {
+      "path": "01-077D00-A01.mp3",
+      "size_bytes": 2290880,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-077D00-A01.mp3"
+    },
+    {
+      "path": "01-078D00-A01.mp3",
+      "size_bytes": 1938176,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-078D00-A01.mp3"
+    },
+    {
+      "path": "01-079D00-A01.mp3",
+      "size_bytes": 1851584,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-079D00-A01.mp3"
+    },
+    {
+      "path": "01-080D00-A01.mp3",
+      "size_bytes": 1607936,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-080D00-A01.mp3"
+    },
+    {
+      "path": "01-081D00-A01.mp3",
+      "size_bytes": 1240064,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-081D00-A01.mp3"
+    },
+    {
+      "path": "01-082D00-A01.mp3",
+      "size_bytes": 941440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-082D00-A01.mp3"
+    },
+    {
+      "path": "01-083D00-A01.mp3",
+      "size_bytes": 2178368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-083D00-A01.mp3"
+    },
+    {
+      "path": "01-084D00-A01.mp3",
+      "size_bytes": 1187200,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-084D00-A01.mp3"
+    },
+    {
+      "path": "01-085D00-A01.mp3",
+      "size_bytes": 1275136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-085D00-A01.mp3"
+    },
+    {
+      "path": "01-086D00-A01.mp3",
+      "size_bytes": 729664,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-086D00-A01.mp3"
+    },
+    {
+      "path": "01-087D00-A01.mp3",
+      "size_bytes": 792256,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-087D00-A01.mp3"
+    },
+    {
+      "path": "01-088D00-A01.mp3",
+      "size_bytes": 997696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-088D00-A01.mp3"
+    },
+    {
+      "path": "01-089D00-A01.mp3",
+      "size_bytes": 1444928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-089D00-A01.mp3"
+    },
+    {
+      "path": "01-090D00-A01.mp3",
+      "size_bytes": 850624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-090D00-A01.mp3"
+    },
+    {
+      "path": "01-091D00-A01.mp3",
+      "size_bytes": 649600,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-091D00-A01.mp3"
+    },
+    {
+      "path": "01-092D00-A01.mp3",
+      "size_bytes": 833920,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-092D00-A01.mp3"
+    },
+    {
+      "path": "01-093D00-A01.mp3",
+      "size_bytes": 498880,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-093D00-A01.mp3"
+    },
+    {
+      "path": "01-094D00-A01.mp3",
+      "size_bytes": 316864,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-094D00-A01.mp3"
+    },
+    {
+      "path": "01-095D00-A01.mp3",
+      "size_bytes": 452224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-095D00-A01.mp3"
+    },
+    {
+      "path": "01-096D00-A01.mp3",
+      "size_bytes": 737152,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-096D00-A01.mp3"
+    },
+    {
+      "path": "01-097D00-A01.mp3",
+      "size_bytes": 325504,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-097D00-A01.mp3"
+    },
+    {
+      "path": "01-098D00-A01.mp3",
+      "size_bytes": 952960,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-098D00-A01.mp3"
+    },
+    {
+      "path": "01-099D00-A01.mp3",
+      "size_bytes": 441472,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-099D00-A01.mp3"
+    },
+    {
+      "path": "01-100D00-A01.mp3",
+      "size_bytes": 499456,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-100D00-A01.mp3"
+    },
+    {
+      "path": "01-101D00-A01.mp3",
+      "size_bytes": 441664,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-101D00-A01.mp3"
+    },
+    {
+      "path": "01-102D00-A01.mp3",
+      "size_bytes": 428224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-102D00-A01.mp3"
+    },
+    {
+      "path": "01-103D00-A01.mp3",
+      "size_bytes": 200128,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-103D00-A01.mp3"
+    },
+    {
+      "path": "01-104D00-A01.mp3",
+      "size_bytes": 392320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-104D00-A01.mp3"
+    },
+    {
+      "path": "01-105D00-A01.mp3",
+      "size_bytes": 343552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-105D00-A01.mp3"
+    },
+    {
+      "path": "01-106D00-A01.mp3",
+      "size_bytes": 310336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-106D00-A01.mp3"
+    },
+    {
+      "path": "01-107D00-A01.mp3",
+      "size_bytes": 383680,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-107D00-A01.mp3"
+    },
+    {
+      "path": "01-108D00-A01.mp3",
+      "size_bytes": 168448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-108D00-A01.mp3"
+    },
+    {
+      "path": "01-109D00-A01.mp3",
+      "size_bytes": 318016,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-109D00-A01.mp3"
+    },
+    {
+      "path": "01-110D00-A01.mp3",
+      "size_bytes": 254656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-110D00-A01.mp3"
+    },
+    {
+      "path": "01-111D00-A01.mp3",
+      "size_bytes": 266368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-111D00-A01.mp3"
+    },
+    {
+      "path": "01-112D00-A01.mp3",
+      "size_bytes": 172672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-112D00-A01.mp3"
+    },
+    {
+      "path": "01-113D00-A01.mp3",
+      "size_bytes": 254848,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-113D00-A01.mp3"
+    },
+    {
+      "path": "01-114D00-A01.mp3",
+      "size_bytes": 352192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/qaloon-sura/01-114D00-A01.mp3"
+    }
+  ]
+}

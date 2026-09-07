@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-azerbaijani",
+  "page_order": 5,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الأذرية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/Usoul_Eman_Azeri-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Azerbaijani.pdf",
+    "filename": "UsoulEman-Azerbaijani.pdf",
+    "size_bytes": 34116980,
+    "size_human": "32.54 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 12:20:49 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-azerbaijani/UsoulEman-Azerbaijani.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "7b6a8e370a8b42de47e22c2f4c26c44e",
+      "sha1": "0200a9ad9ac07a7be4f5f31e458cf0911da23362",
+      "sha256": "76293f7b1edf77a5738c75830ac995f26b350945f0a83c6f245b2e244b8fc381"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 34168408,
+  "files": [
+    {
+      "path": "UsoulEman-Azerbaijani.pdf",
+      "size_bytes": 34116980,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-azerbaijani/UsoulEman-Azerbaijani.pdf"
+    },
+    {
+      "path": "Usoul_Eman_Azeri-1.jpg",
+      "size_bytes": 51428,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-azerbaijani/Usoul_Eman_Azeri-1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "group": "booklets",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/booklets/",
+  "resource_count": 2,
+  "available_count": 2,
+  "file_count": 4,
+  "total_bytes": 21498886,
+  "resources": [
+    {
+      "slug": "complextechguide",
+      "page_order": 1,
+      "group": "booklets",
+      "source_page": "https://qurancomplex.gov.sa/booklets/",
+      "title": {
+        "ar": "دليل الأعمال التقنية",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/complex_tech_guide__cover.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/booklets/complextechguide.pdf",
+        "filename": "complextechguide.pdf",
+        "size_bytes": 15797205,
+        "size_human": "15.07 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 28 May 2023 08:17:33 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/booklets/complextechguide/complextechguide.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "2c4b9bbb39ab7de140083122265bb92a",
+          "sha1": "0761b275d98247474df80aea28fa6513981af131",
+          "sha256": "af297d10a20341e6af3610df77a863685a6b2319faefa03fb792eb85dd6d4943"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:59Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 15947209
+    },
+    {
+      "slug": "complexbooklet",
+      "page_order": 2,
+      "group": "booklets",
+      "source_page": "https://qurancomplex.gov.sa/booklets/",
+      "title": {
+        "ar": "مسيرة وإنجازات",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/complex_booklet__Cover.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/booklets/complexbooklet.pdf",
+        "filename": "complexbooklet.pdf",
+        "size_bytes": 5352357,
+        "size_human": "5.10 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 11 Sep 2019 07:22:33 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/booklets/complexbooklet/complexbooklet.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4249346ffcdb5269a3a07a4faae632dd",
+          "sha1": "d2a36715aee08b7d68e5c64d3be16dfc0002c0bc",
+          "sha256": "7582ec96430328d5254d4d3210132b3845dda28dc86122d4db8b6dc3d4eebd0a"
+        }
+      },
+      "captured_at": "2026-09-07T14:28:59Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 5551677
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-nko",
+  "page_order": 7,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الأنكو)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_nko-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Nko.pdf",
+    "filename": "UsoulEman-Nko.pdf",
+    "size_bytes": 27435462,
+    "size_human": "26.16 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 14:15:40 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-nko/UsoulEman-Nko.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "dfc79366dca3ab0733e973c38de1634d",
+      "sha1": "121099779d7d3234f88742352652f1600e195c53",
+      "sha256": "67a82b2a197176f4e50eeba8fee032e6518301639f9560a864d07f953a6923ce"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 27475150,
+  "files": [
+    {
+      "path": "UsoulEman-Nko.pdf",
+      "size_bytes": 27435462,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-nko/UsoulEman-Nko.pdf"
+    },
+    {
+      "path": "usoul_eman_nko-1.jpg",
+      "size_bytes": 39688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-nko/usoul_eman_nko-1.jpg"
+    }
+  ]
+}

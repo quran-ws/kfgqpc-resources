@@ -1,0 +1,47 @@
+{
+  "slug": "jawameethree-1",
+  "page_order": 4,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف الجوامعي – ٣",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Jawamee70.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/jawameethree-1.pdf",
+    "filename": "jawameethree-1.pdf",
+    "size_bytes": 224311553,
+    "size_human": "213.92 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 16 Nov 2025 12:01:25 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawameethree-1/jawameethree-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e1adba074094ac104659087854358525",
+      "sha1": "85548ddd040bfcc57b2da4c0d6a9d94d8a2f7560",
+      "sha256": "1c2ee2a38789dcbee660f6b9c09e864d009fadd33e7c52fd9b89eb6c248bc591"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 224376098,
+  "files": [
+    {
+      "path": "Jawamee70.jpg",
+      "size_bytes": 64545,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawameethree-1/Jawamee70.jpg"
+    },
+    {
+      "path": "jawameethree-1.pdf",
+      "size_bytes": 224311553,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawameethree-1/jawameethree-1.pdf"
+    }
+  ]
+}

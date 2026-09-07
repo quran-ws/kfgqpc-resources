@@ -1,0 +1,47 @@
+{
+  "slug": "folani-1",
+  "page_order": 46,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الفولانية [بالحرف اللاتيني] (Fulfulde)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Folani-Latin.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/folani-1.pdf",
+    "filename": "folani-1.pdf",
+    "size_bytes": 321075428,
+    "size_human": "306.20 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 29 Aug 2024 06:46:35 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/folani-1/folani-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "4354d2c9bad27b2812e47b28dd28a364",
+      "sha1": "f8f5090faddbb82132606ca24a9ad686d42ff982",
+      "sha256": "52e69ed8936224d1d51891e42cf2bab5e38a809860f12b481a8b3f8a1400173f"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 321142743,
+  "files": [
+    {
+      "path": "Folani-Latin.jpg",
+      "size_bytes": 67315,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/folani-1/Folani-Latin.jpg"
+    },
+    {
+      "path": "folani-1.pdf",
+      "size_bytes": 321075428,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/folani-1/folani-1.pdf"
+    }
+  ]
+}

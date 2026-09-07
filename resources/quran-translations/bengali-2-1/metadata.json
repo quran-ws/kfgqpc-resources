@@ -1,0 +1,47 @@
+{
+  "slug": "bengali-2-1",
+  "page_order": 16,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "البنغالية (2) (বাংলা) [দ্বিতীয় অংশটি]",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Bengali1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/bengali-2-1.pdf",
+    "filename": "bengali-2-1.pdf",
+    "size_bytes": 312905604,
+    "size_human": "298.41 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 25 Aug 2024 08:30:07 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/bengali-2-1/bengali-2-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ba3e3ac09624aa7c76b4bc581f3facf4",
+      "sha1": "60b81d0cc9382160b9e9386e2c5987dfd23d6fac",
+      "sha256": "ef285c4f795c95334b754d898df7e8018f5bfda874d3c60cc485cfd6e19b9f5c"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 312985583,
+  "files": [
+    {
+      "path": "Bengali1.jpg",
+      "size_bytes": 79979,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/bengali-2-1/Bengali1.jpg"
+    },
+    {
+      "path": "bengali-2-1.pdf",
+      "size_bytes": 312905604,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/bengali-2-1/bengali-2-1.pdf"
+    }
+  ]
+}

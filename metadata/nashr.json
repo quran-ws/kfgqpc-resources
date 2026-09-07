@@ -1,0 +1,133 @@
+{
+  "group": "nashr",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/nashr/",
+  "resource_count": 4,
+  "available_count": 4,
+  "file_count": 5,
+  "total_bytes": 146644849,
+  "resources": [
+    {
+      "slug": "mushaf-publisher-win-setup",
+      "page_order": 1,
+      "group": "nashr",
+      "source_page": "https://nashr.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "تحميل",
+        "en": null
+      },
+      "download": {
+        "url": "https://nashr.qurancomplex.gov.sa/download/Mushaf_Publisher_Win_Setup_V3.16.zip",
+        "filename": "Mushaf_Publisher_Win_Setup_V3.16.zip",
+        "size_bytes": 141137879,
+        "size_human": "134.60 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Mon, 24 Jun 2024 11:13:32 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4180440b4a34228fc79ee3423731adc3",
+          "sha1": "bbc7b3bc420b23c2b26767369a436c74872b6922",
+          "sha256": "da568c9cd49285ed6cd02a2c8501c125e26c682d9e18394453d35d936f294a85"
+        }
+      },
+      "captured_at": "2026-09-07T14:03:49Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 2,
+      "total_bytes": 143400960
+    },
+    {
+      "slug": "generalhelp",
+      "page_order": 2,
+      "group": "nashr",
+      "source_page": "https://nashr.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "دليل استخدام التطبيق",
+        "en": null
+      },
+      "download": {
+        "url": "https://nashr.qurancomplex.gov.sa/download/Generalhelp.pdf",
+        "filename": "Generalhelp.pdf",
+        "size_bytes": 3060839,
+        "size_human": "2.92 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 10 Apr 2022 08:13:47 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/nashr/generalhelp/Generalhelp.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "3b0d1f83e7ef17d0923f4d203920df64",
+          "sha1": "e937131ac594c5dd7114bed59ed8f9e66f5e0a15",
+          "sha256": "6eb93fd480e75015a82be23d6bd2b0b2af5db330aac0b0e32c953feaaeaffb09"
+        }
+      },
+      "captured_at": "2026-09-07T14:03:49Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 3060839
+    },
+    {
+      "slug": "help-illustrator",
+      "page_order": 3,
+      "group": "nashr",
+      "source_page": "https://nashr.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "دليل استخدام التطبيق مع برنامج إليستريتور",
+        "en": null
+      },
+      "download": {
+        "url": "https://nashr.qurancomplex.gov.sa/download/Help_illustrator.pdf",
+        "filename": "Help_illustrator.pdf",
+        "size_bytes": 74257,
+        "size_human": "72.5 KB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 10 Apr 2022 08:13:47 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/nashr/help-illustrator/Help_illustrator.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "b81b30ce549ff3ab05ba3948c820425d",
+          "sha1": "41f7bf74c7dc8937c8085fcb6700d7f58066ca51",
+          "sha256": "d8232dd63514faf1535d2838a5fdb2f19fee39e1fbf16c983c4a3267a31937fb"
+        }
+      },
+      "captured_at": "2026-09-07T14:03:49Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 74257
+    },
+    {
+      "slug": "help-photoshop",
+      "page_order": 4,
+      "group": "nashr",
+      "source_page": "https://nashr.qurancomplex.gov.sa/",
+      "title": {
+        "ar": "دليل استخدام التطبيق مع برنامج فوتوشوب",
+        "en": null
+      },
+      "download": {
+        "url": "https://nashr.qurancomplex.gov.sa/download/Help_Photoshop.pdf",
+        "filename": "Help_Photoshop.pdf",
+        "size_bytes": 108793,
+        "size_human": "106.2 KB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 10 Apr 2022 08:13:47 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/nashr/help-photoshop/Help_Photoshop.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "1e016d80dc49ffb977b380fcb245106a",
+          "sha1": "502045fad65c73e77299a95085462f77b71d736a",
+          "sha256": "ba4f09850564e1ebb5787e35ef8516e6bdd383e338be158f8904092ccbc2bbd2"
+        }
+      },
+      "captured_at": "2026-09-07T14:03:49Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 108793
+    }
+  ]
+}

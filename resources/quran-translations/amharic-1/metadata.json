@@ -1,0 +1,47 @@
+{
+  "slug": "amharic-1",
+  "page_order": 38,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الأمهرية (አማርኛ)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Somali.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/amharic-1.pdf",
+    "filename": "amharic-1.pdf",
+    "size_bytes": 14789382,
+    "size_human": "14.10 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 27 Aug 2024 10:33:13 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/amharic-1/amharic-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "9fe480c53d68f79f02ef2245e50b4dc3",
+      "sha1": "09830a8b0fb13ee0a7b900cf9ef1df046f0171d7",
+      "sha256": "0bd9d8e2ecc945d14d81416bcf191ac39480e7f2edf80d1ca87cd524638cce23"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 14864076,
+  "files": [
+    {
+      "path": "Somali.jpg",
+      "size_bytes": 74694,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/amharic-1/Somali.jpg"
+    },
+    {
+      "path": "amharic-1.pdf",
+      "size_bytes": 14789382,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/amharic-1/amharic-1.pdf"
+    }
+  ]
+}

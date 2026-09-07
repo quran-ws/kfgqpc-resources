@@ -1,0 +1,1655 @@
+{
+  "group": "quran-translations",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/",
+  "resource_count": 47,
+  "available_count": 47,
+  "file_count": 94,
+  "total_bytes": 10216170423,
+  "resources": [
+    {
+      "slug": "kurdish-surani-1",
+      "page_order": 1,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الكردية (اللهجة السورانية)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Kurdish.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kurdish-surani-1.pdf",
+        "filename": "kurdish-surani-1.pdf",
+        "size_bytes": 278963581,
+        "size_human": "266.04 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 20 Aug 2024 11:17:23 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-surani-1/kurdish-surani-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "52c7231544cb11d6e44276ce2474fff6",
+          "sha1": "f29dfd3f849402f634610a9aef0f8968df50cc75",
+          "sha256": "71ee98ff6195c7352d67721d8f096577f5f2a8d839992d9cbfbb1c9c2b66cac7"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 279040718
+    },
+    {
+      "slug": "persian-1",
+      "page_order": 2,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الفارسية (فارسی)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Persian.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/persian-1.pdf",
+        "filename": "persian-1.pdf",
+        "size_bytes": 313305486,
+        "size_human": "298.79 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 21 Aug 2024 05:50:39 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/persian-1/persian-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ae5b502341d5d1ccbdb6eb64aab0d5b2",
+          "sha1": "992c9a5274bb508471ba7ea79b514cc444fab94b",
+          "sha256": "9f51078f391613bf0a8f9983cc6b259d87be29284fd9de32786c733058131a19"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 313374003
+    },
+    {
+      "slug": "dari-1",
+      "page_order": 3,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الفارسية الدرية (دری‎)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Dari.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/dari-1.pdf",
+        "filename": "dari-1.pdf",
+        "size_bytes": 292909759,
+        "size_human": "279.34 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 20 Aug 2024 08:24:44 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dari-1/dari-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e06a24ad54f348561d3ac6a06ea84f07",
+          "sha1": "e6dfbcaa2f4319445680d5c95d65762c04d476c4",
+          "sha256": "4fbcd70a083676d875d7998898af1f9433220908e6664cae78b30497d64c6920"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 292978618
+    },
+    {
+      "slug": "lezgian-1",
+      "page_order": 4,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الليزكية (лезги чӀал)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/urdu.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/lezgian-1.pdf",
+        "filename": "lezgian-1.pdf",
+        "size_bytes": 22668182,
+        "size_human": "21.62 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 21 Aug 2024 04:36:14 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/lezgian-1/lezgian-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e34ac4632eb494834d00013702ed379e",
+          "sha1": "8554dbdd5b5cfa89999605636dfdac9e72956889",
+          "sha256": "001736cb58f9754666a8c3cdba116444d0a51e7772ffb76c3a57acf76bae55f2"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 22738897
+    },
+    {
+      "slug": "korean-1",
+      "page_order": 5,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الكورية (조선말)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Korean.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/korean-1.pdf",
+        "filename": "korean-1.pdf",
+        "size_bytes": 28734980,
+        "size_human": "27.40 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 20 Aug 2024 09:40:04 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/korean-1/korean-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "34e064fd498fc649b46285696a566e35",
+          "sha1": "77c46f1b73ecb1a1ce6ba340e8578d9c5857ef5e",
+          "sha256": "aa30eb144baea65be6cf3f85b6318de54e1c1777378d7ebef2a2b7eefb99dceb"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 28849401
+    },
+    {
+      "slug": "iranouniya-1",
+      "page_order": 6,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الإيرانونية (Iranon)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Iranouniya.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/iranouniya-1.pdf",
+        "filename": "iranouniya-1.pdf",
+        "size_bytes": 18010761,
+        "size_human": "17.18 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 20 Aug 2024 09:27:39 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/iranouniya-1/iranouniya-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "73d593afadbf7aedaeadc7db0fd7f2ce",
+          "sha1": "61c868202c4272cc79172aa4ffe2537d73de9a90",
+          "sha256": "84a7402bce6bfc5a65d9a179a4475e4dc7790d4c5e823203cdae0ef676757fd7"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 18125803
+    },
+    {
+      "slug": "balochi-1",
+      "page_order": 7,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "البلوشية (بلوچی)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/urdu.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/balochi-1.pdf",
+        "filename": "balochi-1.pdf",
+        "size_bytes": 408224664,
+        "size_human": "389.31 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 20 Aug 2024 05:34:21 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/balochi-1/balochi-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5dce036655b282eff94a44db42585d0a",
+          "sha1": "75fbb3f4388aa19abed5ea25ac211b28a491a130",
+          "sha256": "e9e32d9e4d3e4b978b3204d4562f5fb0faf9ed9911cd9250a1c397f04e2d67aa"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 408295379
+    },
+    {
+      "slug": "azerbaijani-1",
+      "page_order": 8,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأذريـة (Azərbaycan)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Azerbaijani.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/azerbaijani-1.pdf",
+        "filename": "azerbaijani-1.pdf",
+        "size_bytes": 120196414,
+        "size_human": "114.63 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 19 Nov 2025 08:21:24 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/azerbaijani-1/azerbaijani-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a152e9439ec2e08b4f2d12ed44dab6d9",
+          "sha1": "d95a6fbe44ea059c266db7fc3a1e16ddb2872b49",
+          "sha256": "330ffbc982f755d4c8bc85b00f6b2088228c5c5538b7e2f5cf256d901124330b"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 120322132
+    },
+    {
+      "slug": "urdu",
+      "page_order": 9,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأرديـــة (اُردُو)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/urdu.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/urdu.pdf",
+        "filename": "urdu.pdf",
+        "size_bytes": 370047012,
+        "size_human": "352.90 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 27 Apr 2022 17:32:59 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/urdu/urdu.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e1d456716280cddfc2633520648d4ac8",
+          "sha1": "1de507a5ef4850eeb30facc904cc44f65db9e0c7",
+          "sha256": "2f0d454471576280b28c7e2d7df914d1b4820db3e3b09909f55a8e7e165ba4db"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 370117727
+    },
+    {
+      "slug": "indonesian-1",
+      "page_order": 10,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "اللغة الإندونيسية (Bahasa Indonesia)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Indonesian.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/indonesian-1.pdf",
+        "filename": "indonesian-1.pdf",
+        "size_bytes": 584354142,
+        "size_human": "557.28 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 22 Aug 2024 07:57:03 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/indonesian-1/indonesian-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4bce4875850ab70e826ff493ad3e09db",
+          "sha1": "c6d76f9927901dda689b847c777514d749e75cf9",
+          "sha256": "af8c95f1b447683e77b9b54246f6b7fc6515ab53692c10516e8ed1bb71fbb8a2"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 584466331
+    },
+    {
+      "slug": "avar-1",
+      "page_order": 11,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأواريــة (Магlарул мацl) [1]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Avar1st.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/avar-1.pdf",
+        "filename": "avar-1.pdf",
+        "size_bytes": 187212989,
+        "size_human": "178.54 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 28 Mar 2022 08:55:47 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/avar-1/avar-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "d6676cf307f265e884896313c679e240",
+          "sha1": "036fec2fda74a00eababc1769191c7bdcb816872",
+          "sha256": "5b67c6f85e82b4cc6fd962100de55a2397f2ef282e4d4b4348e577e5813cc019"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 187287857
+    },
+    {
+      "slug": "avar-2",
+      "page_order": 12,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأواريــة (Магlарул мацl) [2]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Avar1st.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/avar-2.pdf",
+        "filename": "avar-2.pdf",
+        "size_bytes": 184168229,
+        "size_human": "175.64 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 16 Jan 2020 02:19:42 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/avar-2/avar-2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "d8a49e40d174e68f8e0411767a27be7f",
+          "sha1": "2d40f0f603333304050d96e63ac3ef7ccfc30965",
+          "sha256": "051fb41f1cffd429b1dac539b285d288cabdb1f1f2cfcdf14235eaee95d140e2"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 184243097
+    },
+    {
+      "slug": "pashto-1",
+      "page_order": 13,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "البشتو (پښتو) [لومړی ټوک]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Pashto-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/pashto-1.pdf",
+        "filename": "pashto-1.pdf",
+        "size_bytes": 256013371,
+        "size_human": "244.15 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 04 Apr 2022 14:37:20 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/pashto-1/pashto-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f2b8cae75ea4bba1a52787f86267e0e4",
+          "sha1": "5f7dcfe37e417e91a415ceeca1af5fe01ffb7f2e",
+          "sha256": "e2db19269629c1a4c750aa6de72e197d273432864b004566b5274832c6730286"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 256073735
+    },
+    {
+      "slug": "pashto-2",
+      "page_order": 14,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "البشتو (پښتو) [دوهم ټوک]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Pashto-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/pashto-2.pdf",
+        "filename": "pashto-2.pdf",
+        "size_bytes": 257343493,
+        "size_human": "245.42 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 04 Apr 2022 15:03:25 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/pashto-2/pashto-2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5ba000e03226c9b020ceaf6f82356392",
+          "sha1": "4791696705db838110882b97392f3557fea1eab2",
+          "sha256": "b8fe8d48ae8e23827f5334af41ce8b9f3df041a4ba24d72e1918a5f5e99b4721"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 257403857
+    },
+    {
+      "slug": "bengali-1-1",
+      "page_order": 15,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "البنغالية (1) (বাংলা) [প্রথম অংশটি]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Bengali1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/bengali-1-1.pdf",
+        "filename": "bengali-1-1.pdf",
+        "size_bytes": 333220943,
+        "size_human": "317.78 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 25 Aug 2024 08:24:48 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/bengali-1-1/bengali-1-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f5ea5c9b6b19d5bbb65ad0f7087076c3",
+          "sha1": "3573b17c1437b2e257efc02ff49cb91e49c0d358",
+          "sha256": "6033663dfaa9e8dcb7061ca73d991cd7dd6bcd84872d3a56f0e96f15bbd689fa"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 333300922
+    },
+    {
+      "slug": "bengali-2-1",
+      "page_order": 16,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "البنغالية (2) (বাংলা) [দ্বিতীয় অংশটি]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Bengali1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/bengali-2-1.pdf",
+        "filename": "bengali-2-1.pdf",
+        "size_bytes": 312905604,
+        "size_human": "298.41 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 25 Aug 2024 08:30:07 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/bengali-2-1/bengali-2-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ba3e3ac09624aa7c76b4bc581f3facf4",
+          "sha1": "60b81d0cc9382160b9e9386e2c5987dfd23d6fac",
+          "sha256": "ef285c4f795c95334b754d898df7e8018f5bfda874d3c60cc485cfd6e19b9f5c"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 312985583
+    },
+    {
+      "slug": "thai-1",
+      "page_order": 17,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "التايلندية (ไทย)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Thai.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/thai-1.pdf",
+        "filename": "thai-1.pdf",
+        "size_bytes": 324638233,
+        "size_human": "309.60 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 25 Aug 2024 10:17:58 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/thai-1/thai-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "d62ec3a05865bbde6d86195b37d6ed62",
+          "sha1": "817fe5b22933b1a848bee2578cf7909f3aa65cfb",
+          "sha256": "7ef7140284fbbf02a0d4a8f791d4e33a8762a7cf714c0d8edaa9c02dc79fac0c"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 324704887
+    },
+    {
+      "slug": "turkish-1",
+      "page_order": 18,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "التركية (Türkçe)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Turkish.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/turkish-1.pdf",
+        "filename": "turkish-1.pdf",
+        "size_bytes": 186510049,
+        "size_human": "177.87 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 25 Aug 2024 10:30:08 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/turkish-1/turkish-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "1f2f4b017b278724933e27729e299b7a",
+          "sha1": "4584795306fd162f60982d313c5f05d8200bfb20",
+          "sha256": "a44b68cf52d0bad30881a01520451f4807ba29577c8311e0af9af50a8ca2c95e"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 186599513
+    },
+    {
+      "slug": "tagalog-1",
+      "page_order": 19,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "التغالوغ (Tagalog)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tagalog1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/tagalog-1.pdf",
+        "filename": "tagalog-1.pdf",
+        "size_bytes": 354285671,
+        "size_human": "337.87 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 04:08:50 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tagalog-1/tagalog-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "2d36903f8a4754f3445685720cb0147d",
+          "sha1": "17b4b05f33c04efa05cf08d7697b5f833f2a3d5f",
+          "sha256": "d5d559d1183046e365fec59d4d50a15c6a7d20673797b9415745e78316f0b224"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 354340296
+    },
+    {
+      "slug": "telugu-1",
+      "page_order": 20,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "التلغو (తెలుగు)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Telugu.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/telugu-1.pdf",
+        "filename": "telugu-1.pdf",
+        "size_bytes": 170929968,
+        "size_human": "163.01 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 05:38:34 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/telugu-1/telugu-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "060c5f33a632cf39a8db246adcb79afd",
+          "sha1": "1bc7ad5d7ad6912dc095a30c261f8a099312f5ea",
+          "sha256": "ffb0f4d9c9a140a2cb43a20275efd9628cab06edc2420f94c9c8f0fc8844ec5a"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 171004782
+    },
+    {
+      "slug": "chinese-nqt-1",
+      "page_order": 21,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الصينية (中文)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/chinese.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/chinese-nqt-1.pdf",
+        "filename": "chinese-nqt-1.pdf",
+        "size_bytes": 14676312,
+        "size_human": "14.00 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 06:06:55 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chinese-nqt-1/chinese-nqt-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "73e5d4b300fed42601215b337ab00a9c",
+          "sha1": "2596a0e0603ca9691b40e7dae92d6e0d7bd92dde",
+          "sha256": "6edae374eca7f1b3387494cad62064438db4d574d6a69703783564b82ef2fbc0"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 14752770
+    },
+    {
+      "slug": "tajik-1",
+      "page_order": 22,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الطاجيكية (забо́ни тоҷикӣ́)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tajik.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/tajik-1.pdf",
+        "filename": "tajik-1.pdf",
+        "size_bytes": 259345940,
+        "size_human": "247.33 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 07:29:00 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tajik-1/tajik-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "40ff594eb5fad28a97fa359c765e0969",
+          "sha1": "32ea415fdd77d910db0449d5c0c04a7c43b8b13b",
+          "sha256": "fc792805d36cb620e2264ba442bc465e92b3a44e669ba8de4da46b4cef14ebb8"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 259391682
+    },
+    {
+      "slug": "vietnamese-1",
+      "page_order": 23,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الفيتنامية (Tiếng Việt)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/vietnamese.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/vietnamese-1.pdf",
+        "filename": "vietnamese-1.pdf",
+        "size_bytes": 369036640,
+        "size_human": "351.94 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 07:26:19 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/vietnamese-1/vietnamese-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a8f4c24728117376fc9332f7c981bfc7",
+          "sha1": "a6c25b25ac3638b2be0116a1e00e31fac1d91875",
+          "sha256": "36f6dfc11d388246cf3299a55e86e05f5e0f27d25e101c8600487badce4b60d0"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 369092432
+    },
+    {
+      "slug": "kyrgyz-1",
+      "page_order": 24,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "القيرغيزية (кыргыз тили)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Kyrgyz.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kyrgyz-1.pdf",
+        "filename": "kyrgyz-1.pdf",
+        "size_bytes": 160883767,
+        "size_human": "153.43 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 08:38:09 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kyrgyz-1/kyrgyz-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "bdba689ed2c8af20426b47afdd022179",
+          "sha1": "b4d8c300327b6ec6bce9f65cb532ef46ed52777d",
+          "sha256": "1b4a7f189b5056b0f760a7f8f4795274d31eab7f4fd696daa1eb38b62b252297"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 160992287
+    },
+    {
+      "slug": "kurdish-kurmanji-1",
+      "page_order": 25,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الكرديـــة (كوردی) [اللهجة الكرمانجية – Kurmanji]",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/kurdish-kurmanji.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kurdish-kurmanji-1.pdf",
+        "filename": "kurdish-kurmanji-1.pdf",
+        "size_bytes": 177714713,
+        "size_human": "169.48 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 08:43:52 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kurdish-kurmanji-1/kurdish-kurmanji-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "770b7b6eebd40465a07652d9f8ab2d7e",
+          "sha1": "4688e5af9198d9b42cf4318a6aaae06721286b1f",
+          "sha256": "3674e937626f33fc08957612462831897d758c534060c965e3765aba38cf26c8"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 177772066
+    },
+    {
+      "slug": "malay-1",
+      "page_order": 26,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الملايوية (Bahasa Melayu)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Malay.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/malay-1.pdf",
+        "filename": "malay-1.pdf",
+        "size_bytes": 235316782,
+        "size_human": "224.42 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 26 Aug 2024 09:58:43 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/malay-1/malay-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "8f4f8fccbca1afd88a63ed5a9875d7c0",
+          "sha1": "c45945a867cbd5e99e471435a312ff5e293bc7b8",
+          "sha256": "eee2dc97b214f61d0b446f2157cbb29c0d78f31ebd5e901e116f4010b79abd22"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 235384794
+    },
+    {
+      "slug": "milibari-1",
+      "page_order": 27,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "المليبارية [المليالم] (മലയാളം)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Milibari.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/milibari-1.pdf",
+        "filename": "milibari-1.pdf",
+        "size_bytes": 277489155,
+        "size_human": "264.63 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 06:21:03 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/milibari-1/milibari-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ace75a90f4b52866ef100b6add079fe9",
+          "sha1": "c21bac43209b073b634bc7cdceb84f70091de550",
+          "sha256": "d381efbe2944ee041494a138ca89ab658c15ee4bd43850c6f5f778891631037d"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 277589644
+    },
+    {
+      "slug": "mandariya-1",
+      "page_order": 28,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "المندرية (Mandar)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Mandariya.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/mandariya-1.pdf",
+        "filename": "mandariya-1.pdf",
+        "size_bytes": 340894460,
+        "size_human": "325.10 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 06:27:43 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/mandariya-1/mandariya-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a8da0ce270e55bc0d04eb441de0e9dd4",
+          "sha1": "226573f1fdd5c39c6da29cc43fb5badca90327c8",
+          "sha256": "ac642dddef0428a86afe2cb2c663597a48ffad54b90ba30d9494b45aec7653fd"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 340966112
+    },
+    {
+      "slug": "nepali-1",
+      "page_order": 29,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "النيبالية (नेपाली)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Nepali.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/nepali-1.pdf",
+        "filename": "nepali-1.pdf",
+        "size_bytes": 141791293,
+        "size_human": "135.22 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 08:25:14 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nepali-1/nepali-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "affd11700cf124a7ad69e557d073bce5",
+          "sha1": "f044be5309080e72aef9b60ef488b182fe81b4a5",
+          "sha256": "80563415931056a73d01003f29ba1c026b3b78d71259bdd48902137e07fb7159"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 141836551
+    },
+    {
+      "slug": "hindi-1",
+      "page_order": 30,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الهندية (हिन्दी)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Hindi.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/hindi-1.pdf",
+        "filename": "hindi-1.pdf",
+        "size_bytes": 230163247,
+        "size_human": "219.50 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 08:32:44 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/hindi-1/hindi-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5859f7465b71799d80da946296a40550",
+          "sha1": "eb9b28055279cb9419f4f9365ea022e07f5d25a3",
+          "sha256": "c0af983bda91c4d538f33398807c36786ab9c918e336c4c75e8ab8c717adb521"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 230280249
+    },
+    {
+      "slug": "japanese-1",
+      "page_order": 31,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "اليابانية (日本語)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Japanies.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/japanese-1.pdf",
+        "filename": "japanese-1.pdf",
+        "size_bytes": 695010472,
+        "size_human": "662.81 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 10:09:23 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/japanese-1/japanese-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "884d78ee2950ccf3d8ab55b7957d914d",
+          "sha1": "e264f00b61a6ef56a5a6b1e05c534014a382168b",
+          "sha256": "7cb6b7b267b1e961404f3b05f8cfed1a91a0c079daab25ac7cb8c1df4492bf8f"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 695085474
+    },
+    {
+      "slug": "kannada-1",
+      "page_order": 32,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الكنّاديّة (ಕನ್ನಡ)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الآسيوية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/kannada.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kannada-1.pdf",
+        "filename": "kannada-1.pdf",
+        "size_bytes": 22144522,
+        "size_human": "21.12 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 10:22:30 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kannada-1/kannada-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a76de295fd35416336102720e16f369e",
+          "sha1": "7be638aa3b303b706dcab8f4991a83003aee5645",
+          "sha256": "ba352214d2780adacc46649f77051dca529570f06dd2a2126aa7bf60d6238444"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 22188445
+    },
+    {
+      "slug": "spanish-nqt",
+      "page_order": 33,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الإسبانية (Spanish)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأوروبية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/07/Spanish.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/spanish_nqt.pdf",
+        "filename": "spanish_nqt.pdf",
+        "size_bytes": 58630278,
+        "size_human": "55.91 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 19 Mar 2025 09:15:13 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/spanish-nqt/spanish_nqt.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4a592323cd4cdb8928bb39cec4b8527f",
+          "sha1": "3dfd86abc53afbddd51599ed69d44c4706f2574c",
+          "sha256": "a4b79bd274a98be401b3202497c1ff6729eb750d130b390c4ffa2931cddb8b6a"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 58697424
+    },
+    {
+      "slug": "swedish",
+      "page_order": 34,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "السويدية (الأجزاء الخمسة الأولى) (Svenska)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأوروبية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/05/Swedish.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/swedish.pdf",
+        "filename": "swedish.pdf",
+        "size_bytes": 23800085,
+        "size_human": "22.70 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 18 Mar 2025 12:44:37 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/swedish/swedish.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ef71257450e880e2959bf07e6904ef29",
+          "sha1": "e62fcfd1c8fe9c59a728648a53f6b9f7fd848052",
+          "sha256": "ce1c09a932e9416603a289515e317749537182c2c1796026cb86f429ad1cad0c"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 23858023
+    },
+    {
+      "slug": "german",
+      "page_order": 35,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الألمانية (Deutsch)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأوروبية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/05/German.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/german.pdf",
+        "filename": "german.pdf",
+        "size_bytes": 444453501,
+        "size_human": "423.86 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 19 Mar 2025 11:06:41 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/german/german.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "32a7393ee5ed4739e0fec628c7f4cf43",
+          "sha1": "546a8b215c961fb2b88ce47e44ad9ddc01b60cf8",
+          "sha256": "2dbeff4453de953274052f78dccc8a36954697be58497683c1fc0b1e59a84c8d"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 444520040
+    },
+    {
+      "slug": "zulu-1",
+      "page_order": 36,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الزولو (Zulu)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Zulu-ayat.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/zulu-1.pdf",
+        "filename": "zulu-1.pdf",
+        "size_bytes": 15609164,
+        "size_human": "14.89 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 21 Aug 2024 05:32:32 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/zulu-1/zulu-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "c392225281cb2870c07bd4d75ccd2b2d",
+          "sha1": "34f3e84f219ebd80080bc2d4d300fdeda42b1b12",
+          "sha256": "1f3e1440850e4f1f446739a9f26d9319675cfe174331637f7062f0660d46bd99"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 15679500
+    },
+    {
+      "slug": "chichewa-2",
+      "page_order": 37,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الشيشيوا (Chichewa)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Chichewa.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/chichewa-2.pdf",
+        "filename": "chichewa-2.pdf",
+        "size_bytes": 17492183,
+        "size_human": "16.68 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 20 Aug 2024 07:59:00 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/chichewa-2/chichewa-2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "bd198b504a3c7d012aa2be78dc71513d",
+          "sha1": "bb2c4826872f56d1a867b039022afec48243fc13",
+          "sha256": "a5d53a1ced85ae89415cc7d707b84b5da11842455e410587795f4dc850f0a9a9"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 17527758
+    },
+    {
+      "slug": "amharic-1",
+      "page_order": 38,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأمهرية (አማርኛ)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Somali.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/amharic-1.pdf",
+        "filename": "amharic-1.pdf",
+        "size_bytes": 14789382,
+        "size_human": "14.10 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 27 Aug 2024 10:33:13 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/amharic-1/amharic-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "9fe480c53d68f79f02ef2245e50b4dc3",
+          "sha1": "09830a8b0fb13ee0a7b900cf9ef1df046f0171d7",
+          "sha256": "0bd9d8e2ecc945d14d81416bcf191ac39480e7f2edf80d1ca87cd524638cce23"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 14864076
+    },
+    {
+      "slug": "soumaliya-1",
+      "page_order": 39,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الصومالية (Afka-Soomaaliga)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Somali.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/soumaliya-1.pdf",
+        "filename": "soumaliya-1.pdf",
+        "size_bytes": 13333543,
+        "size_human": "12.72 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 21 Aug 2024 05:39:38 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/soumaliya-1/soumaliya-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "39398d904b388ef61965dfc22059f887",
+          "sha1": "1cbb67c049d3682b6fc783f8e6fee0dba85b4dcc",
+          "sha256": "4b5680515a5098743e41c8e8467c325c3a1c9960dc3737cd0d3a3c0688965dbd"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 13408237
+    },
+    {
+      "slug": "tamazight-arabic-1",
+      "page_order": 40,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأمازيغية [بالحرف العربي] (غاللغه اتمازيغث-اسثقپايليث)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Tamazight_Arabic.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/tamazight-Arabic-1.pdf",
+        "filename": "tamazight-Arabic-1.pdf",
+        "size_bytes": 305517946,
+        "size_human": "291.36 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 28 Aug 2024 05:14:51 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tamazight-arabic-1/tamazight-Arabic-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f5eb6bfeb08c648a744fe18fdaa36305",
+          "sha1": "394e6a2d9cef932943bba9eb3d4b8379b90a6224",
+          "sha256": "36d1c995a7e80ffd1c6a9556543a04896a4dde3e3aac08044fe3a33172789470"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 305593964
+    },
+    {
+      "slug": "nko-1",
+      "page_order": 41,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الأنكو (Nko)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Nko.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/nko-1.pdf",
+        "filename": "nko-1.pdf",
+        "size_bytes": 364113956,
+        "size_human": "347.25 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 29 Aug 2024 06:12:02 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nko-1/nko-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "c8c039035c7a7d7d311051a2f2a20df3",
+          "sha1": "3eaa8c72869e7c561b4abb4e3e63e993026ac875",
+          "sha256": "5d465c9580b2b17c0752a82b5f2a70e76f3d9f6c2b57e7cc18330fc9bacf4b65"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 364155022
+    },
+    {
+      "slug": "basaa-1",
+      "page_order": 42,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الباسا (Basaa)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Bassa.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/basaa-1.pdf",
+        "filename": "basaa-1.pdf",
+        "size_bytes": 297410089,
+        "size_human": "283.63 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 29 Aug 2024 06:25:55 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/basaa-1/basaa-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "846f0539a6eb9d857d7a6b5f93851421",
+          "sha1": "79accd68ab4ce3911186b843e01cfa37c91ee4c3",
+          "sha256": "b0a02bf5acf73323c737eff91a377d96ccab31396b4745cd60d33b774517ccc3"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 297539769
+    },
+    {
+      "slug": "dagbani-1",
+      "page_order": 43,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الداغبانية (Dagbani)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Dagbani.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/dagbani-1.pdf",
+        "filename": "dagbani-1.pdf",
+        "size_bytes": 161471990,
+        "size_human": "153.99 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 29 Aug 2024 06:32:39 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/dagbani-1/dagbani-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "5a9b9b6a12891038dfc234a58fb8d9bf",
+          "sha1": "254b1f48370776010ff83b8e2a8b6cbe39797df1",
+          "sha256": "aef07075fd7e13ff4d8748cf75562e91f0fa976b4f7267eda6f4958ff677e0b5"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 161541781
+    },
+    {
+      "slug": "sawahili-1",
+      "page_order": 44,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "السواحلية (Kiswahili)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Sawahili.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/sawahili-1.pdf",
+        "filename": "sawahili-1.pdf",
+        "size_bytes": 24865904,
+        "size_human": "23.71 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 29 Aug 2024 06:36:08 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/sawahili-1/sawahili-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "8628aea55668a2418693545f3ac9418f",
+          "sha1": "47c952426c0113e9864b5c21609b512fda589363",
+          "sha256": "d3fc20abeab3c3c1efb89bd4f6758073f1823c4790536e91623e352947cc8ff4"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 24946694
+    },
+    {
+      "slug": "afar-1",
+      "page_order": 45,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "العفرية (Afar)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Afar.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/afar-1.pdf",
+        "filename": "afar-1.pdf",
+        "size_bytes": 206487500,
+        "size_human": "196.92 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 29 Aug 2024 06:41:13 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/afar-1/afar-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "fac00c65af7b1dc9a42b6e15b27f4e7e",
+          "sha1": "0d7d9dd8d87b945ad8c162fa70184345500ef1bd",
+          "sha256": "4fc471fb983d6657b151ffdf38f12ff8863fd5ddc7f030d0c17a31250c39673d"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 206554321
+    },
+    {
+      "slug": "folani-1",
+      "page_order": 46,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "الفولانية [بالحرف اللاتيني] (Fulfulde)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Folani-Latin.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/folani-1.pdf",
+        "filename": "folani-1.pdf",
+        "size_bytes": 321075428,
+        "size_human": "306.20 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 29 Aug 2024 06:46:35 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/folani-1/folani-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "4354d2c9bad27b2812e47b28dd28a364",
+          "sha1": "f8f5090faddbb82132606ca24a9ad686d42ff982",
+          "sha256": "52e69ed8936224d1d51891e42cf2bab5e38a809860f12b481a8b3f8a1400173f"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 321142743
+    },
+    {
+      "slug": "lingala-1",
+      "page_order": 47,
+      "group": "quran-translations",
+      "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+      "title": {
+        "ar": "اللنغالا (Lingala)",
+        "en": null
+      },
+      "publication": {
+        "category": "اللغات الأفريقية",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/lingala.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/lingala-1.pdf",
+        "filename": "lingala-1.pdf",
+        "size_bytes": 14501871,
+        "size_human": "13.83 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Wed, 21 Aug 2024 05:21:10 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/lingala-1/lingala-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "02b61c1a998a93481f86b2a596ab330e",
+          "sha1": "ca882b6fe3735d0e40253a3fdc056e02b8b267ff",
+          "sha256": "0e24df91a71025f75799a31a9edc5f8739ee88e5934b1e556bef12c0be9a49d6"
+        }
+      },
+      "captured_at": "2026-09-07T14:23:16Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 14555027
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "kaffi-1",
+  "page_order": 9,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف الكفي",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/kaffi.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/kaffi-1.pdf",
+    "filename": "kaffi-1.pdf",
+    "size_bytes": 119909244,
+    "size_human": "114.35 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 13 Nov 2025 10:30:39 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/kaffi-1/kaffi-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "31475b43053eed913e9a11a39216028c",
+      "sha1": "6b153cd88e7776f8f99a4e45d05423a3a5936e17",
+      "sha256": "266b8a3288fc629fb94be19361a7ca5814805a789641ac1798d4dc5a081c0828"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 119951355,
+  "files": [
+    {
+      "path": "kaffi-1.pdf",
+      "size_bytes": 119909244,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/kaffi-1/kaffi-1.pdf"
+    },
+    {
+      "path": "kaffi.jpg",
+      "size_bytes": 42111,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/kaffi-1/kaffi.jpg"
+    }
+  ]
+}

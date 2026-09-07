@@ -1,0 +1,47 @@
+{
+  "slug": "urdu",
+  "page_order": 9,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الأرديـــة (اُردُو)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/urdu.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/urdu.pdf",
+    "filename": "urdu.pdf",
+    "size_bytes": 370047012,
+    "size_human": "352.90 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 27 Apr 2022 17:32:59 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/urdu/urdu.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e1d456716280cddfc2633520648d4ac8",
+      "sha1": "1de507a5ef4850eeb30facc904cc44f65db9e0c7",
+      "sha256": "2f0d454471576280b28c7e2d7df914d1b4820db3e3b09909f55a8e7e165ba4db"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 370117727,
+  "files": [
+    {
+      "path": "urdu.jpg",
+      "size_bytes": 70715,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/urdu/urdu.jpg"
+    },
+    {
+      "path": "urdu.pdf",
+      "size_bytes": 370047012,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/urdu/urdu.pdf"
+    }
+  ]
+}

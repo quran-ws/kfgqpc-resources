@@ -1,0 +1,62 @@
+{
+  "slug": "مصحف-المدينة-النبوية-2-0-بطريقة-النقط-البارز-برايل",
+  "page_order": 1,
+  "group": "braille",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs-braille/",
+  "title": {
+    "ar": "تحميل المصحف",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/files/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-(2.0)-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-(%D8%A8%D8%B1%D8%A7%D9%8A%D9%84).zip",
+    "filename": "مصحف-المدينة-النبوية-(2.0)-بطريقة-النقط-البارز-(برايل).zip",
+    "size_bytes": 465744,
+    "size_human": "454.8 KB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Thu, 29 Jan 2026 11:51:23 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "3c90779dc79f965f8bdd0d2f2113724a",
+      "sha1": "822cbd6256a4a0b0975a267a45cf89193c98ad50",
+      "sha256": "da91fe078e399988326db2ae0071d8c0dfb267982c8f4530c0080c7acd23aa59"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:24Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 6,
+  "total_bytes": 1413462,
+  "files": [
+    {
+      "path": "1 quran 14470710 .brf",
+      "size_bytes": 699909,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/braille/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-2-0-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%D9%8A%D9%84/1%20quran%2014470710%20.brf"
+    },
+    {
+      "path": "1 quran 14470710 .brl",
+      "size_bytes": 699909,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/braille/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-2-0-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%D9%8A%D9%84/1%20quran%2014470710%20.brl"
+    },
+    {
+      "path": "2 fhrs.brf",
+      "size_bytes": 3983,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/braille/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-2-0-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%D9%8A%D9%84/2%20fhrs.brf"
+    },
+    {
+      "path": "2 fhrs.brl",
+      "size_bytes": 3983,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/braille/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-2-0-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%D9%8A%D9%84/2%20fhrs.brl"
+    },
+    {
+      "path": "3 mhm.brf",
+      "size_bytes": 2839,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/braille/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-2-0-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%D9%8A%D9%84/3%20mhm.brf"
+    },
+    {
+      "path": "3 mhm.brl",
+      "size_bytes": 2839,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/braille/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-2-0-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%D9%8A%D9%84/3%20mhm.brl"
+    }
+  ]
+}

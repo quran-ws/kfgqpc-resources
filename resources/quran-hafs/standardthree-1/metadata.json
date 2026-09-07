@@ -1,0 +1,47 @@
+{
+  "slug": "standardthree-1",
+  "page_order": 6,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف العادي – ٣",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Standard2-50.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/standardthree-1.pdf",
+    "filename": "standardthree-1.pdf",
+    "size_bytes": 238648541,
+    "size_human": "227.59 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 16 Nov 2025 12:03:40 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standardthree-1/standardthree-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "203f9fb1200ed54bc3dd6f4fdf6ee7f6",
+      "sha1": "39c18e2f5cd6a1127f25307a4b75a813057d2c3b",
+      "sha256": "f68282d43a8f0adea07251dfe83d7bb94d44be5d32662526646edb78e8dafb26"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 238721593,
+  "files": [
+    {
+      "path": "Standard2-50.jpg",
+      "size_bytes": 73052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standardthree-1/Standard2-50.jpg"
+    },
+    {
+      "path": "standardthree-1.pdf",
+      "size_bytes": 238648541,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standardthree-1/standardthree-1.pdf"
+    }
+  ]
+}

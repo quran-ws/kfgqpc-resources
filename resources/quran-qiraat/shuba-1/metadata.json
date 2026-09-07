@@ -1,0 +1,47 @@
+{
+  "slug": "shuba-1",
+  "page_order": 4,
+  "group": "quran-qiraat",
+  "source_page": "https://qurancomplex.gov.sa/quran-qiraat/",
+  "title": {
+    "ar": "مصحف شعبة",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Shuba.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/shuba-1.pdf",
+    "filename": "shuba-1.pdf",
+    "size_bytes": 231035551,
+    "size_human": "220.33 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 16 Nov 2025 06:02:36 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/shuba-1/shuba-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "de6d83fd8ae688f52b2214101832cd32",
+      "sha1": "44dcf15c9337adcbc7d3ff5a82f4c7a094a6ca71",
+      "sha256": "51cc438eb199ee3fa379dbd1ca35b4abcf2d1a4ad778f52dfdcdc9df1a564d05"
+    }
+  },
+  "captured_at": "2026-09-07T14:22:32Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 231134058,
+  "files": [
+    {
+      "path": "Shuba.jpg",
+      "size_bytes": 98507,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/shuba-1/Shuba.jpg"
+    },
+    {
+      "path": "shuba-1.pdf",
+      "size_bytes": 231035551,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/shuba-1/shuba-1.pdf"
+    }
+  ]
+}

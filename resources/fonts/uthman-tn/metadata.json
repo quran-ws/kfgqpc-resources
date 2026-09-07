@@ -1,0 +1,38 @@
+{
+  "slug": "uthman-tn",
+  "page_order": 1,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/UthmanTN_v2-0.ttf",
+    "filename": "UthmanTN_v2-0.ttf",
+    "size_bytes": 139336,
+    "size_human": "136.1 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Wed, 30 Mar 2022 05:28:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/uthman-tn/UthmanTN_v2-0.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "69b34d79c363d51a674283e1dee486d3",
+      "sha1": "b7f621480cd715885719fdbc5a16521447f4c7f3",
+      "sha256": "f4a2b776261e390089ee108029d9a5f1ee862435ea52f571af2c5e0817c361ba"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 139336,
+  "files": [
+    {
+      "path": "UthmanTN_v2-0.ttf",
+      "size_bytes": 139336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/uthman-tn/UthmanTN_v2-0.ttf"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-ukranian",
+  "page_order": 6,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الأُكْرانية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_ukrainian-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Ukranian.pdf",
+    "filename": "UsoulEman-Ukranian.pdf",
+    "size_bytes": 35067681,
+    "size_human": "33.44 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 15:47:03 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-ukranian/UsoulEman-Ukranian.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "199bd03cad6e94d9297cdae5a00b6fae",
+      "sha1": "55a52b02bfe77673f839303f1fe439dd2b256543",
+      "sha256": "55d9e2ad351940e68e1cbb99ebf082354dcfd1c6f01a6430e70870b6d8d2122b"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 35109380,
+  "files": [
+    {
+      "path": "UsoulEman-Ukranian.pdf",
+      "size_bytes": 35067681,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-ukranian/UsoulEman-Ukranian.pdf"
+    },
+    {
+      "path": "usoul_eman_ukrainian-1.jpg",
+      "size_bytes": 41699,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-ukranian/usoul_eman_ukrainian-1.jpg"
+    }
+  ]
+}

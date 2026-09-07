@@ -1,0 +1,38 @@
+{
+  "slug": "ksaheading",
+  "page_order": 9,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/KSAHeading.ttf",
+    "filename": "KSAHeading.ttf",
+    "size_bytes": 49324,
+    "size_human": "48.2 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 13 Dec 2022 07:55:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaheading/KSAHeading.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5f02339db375b8c6d065ae023039f0b6",
+      "sha1": "8aae7cfd7aa47c9842c819f51c89ed5d4e12a8ea",
+      "sha256": "8191f0ca0be18d46a48d650ca2f630672e0161a70f2ada19b9f831db904f246f"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 49324,
+  "files": [
+    {
+      "path": "KSAHeading.ttf",
+      "size_bytes": 49324,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaheading/KSAHeading.ttf"
+    }
+  ]
+}

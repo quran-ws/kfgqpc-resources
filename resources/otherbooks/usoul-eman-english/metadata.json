@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-english",
+  "page_order": 2,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الإنجليزية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_english.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-English.pdf",
+    "filename": "UsoulEman-English.pdf",
+    "size_bytes": 52769279,
+    "size_human": "50.32 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 12:58:52 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-english/UsoulEman-English.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "bff717e38038c449506ac07d0f1af27a",
+      "sha1": "c8a64edfa872c9e0b6aa2d20f3dfd5da24c49fd9",
+      "sha256": "c92a4ec71e865dcf320189dee567bacb030269a964b9fb07d14070a955c1df2a"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 52821411,
+  "files": [
+    {
+      "path": "UsoulEman-English.pdf",
+      "size_bytes": 52769279,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-english/UsoulEman-English.pdf"
+    },
+    {
+      "path": "usoul_eman_english.jpg",
+      "size_bytes": 52132,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-english/usoul_eman_english.jpg"
+    }
+  ]
+}

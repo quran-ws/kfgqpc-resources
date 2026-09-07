@@ -1,0 +1,169 @@
+{
+  "slug": "uthmanic-warsh",
+  "page_order": 3,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "خط الرسم العثماني (رواية ورش)",
+    "en": "Unicode Uthmanic Font (Warsh Narration)"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicWarsh_v2-1.zip",
+    "filename": "UthmanicWarsh_v2-1.zip",
+    "size_bytes": 9042379,
+    "size_human": "8.62 MB",
+    "downloads_count_at_capture": 451,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Wed, 07 Sep 2022 11:08:44 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "4701e8bbf053098220cf2cf4cda206a1",
+      "sha1": "44ecea8feb23817fdc01a8ee2162a6a0cf08cae7"
+    },
+    "computed": {
+      "md5": "4701e8bbf053098220cf2cf4cda206a1",
+      "sha1": "44ecea8feb23817fdc01a8ee2162a6a0cf08cae7",
+      "sha256": "d847a7e7002dfbed5d28db6684fd1d9c3d50b8bb63ad64cb38a46b9dad788b47"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "16-9-2020",
+    "created_iso": "2020-09-16",
+    "last_modified": "07-09-2022",
+    "last_modified_iso": "2022-09-07",
+    "version": "6.0",
+    "update_notes": null
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "خط الرسم العثماني (رواية ورش)\nوهي الرواية التي يقرأ بها أهل المغرب العربي وإفريقيا الغربية والوسطى وغرب أوروبا (فرنسا وإسبانيا)، تَمَّ صَفُّها كاملةً باستخدام لوحة المفاتيح العادية، دون الحاجة إلى إدراج أيّة رموز لا تتوافق مع النظام المعياري Unicode كما تمّ إرفاق وثيقة (وورد) مصادقاً عليها رقمياً، تحتوي على نص القرآن الكريم كاملاً طبقاً للرسم العثماني الموافق لمصحف المدينة النبوية للرواية المذكورة.\nتحقق الوثوقية (MD5): 4701e8bbf053098220cf2cf4cda206a1\nتحقق الوثوقية (SHA-1): 44ecea8feb23817fdc01a8ee2162a6a0cf08cae7\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية ورش)"
+        },
+        {
+          "type": "text",
+          "text": "وهي الرواية التي يقرأ بها أهل المغرب العربي وإفريقيا الغربية والوسطى وغرب أوروبا (فرنسا وإسبانيا)، تَمَّ صَفُّها كاملةً باستخدام لوحة المفاتيح العادية، دون الحاجة إلى إدراج أيّة رموز لا تتوافق مع النظام المعياري Unicode كما تمّ إرفاق وثيقة (وورد) مصادقاً عليها رقمياً، تحتوي على نص القرآن الكريم كاملاً طبقاً للرسم العثماني الموافق لمصحف المدينة النبوية للرواية المذكورة."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 4701e8bbf053098220cf2cf4cda206a1"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 44ecea8feb23817fdc01a8ee2162a6a0cf08cae7"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية ورش)</h3>\n          <p>وهي الرواية التي يقرأ بها أهل المغرب العربي وإفريقيا الغربية والوسطى وغرب أوروبا (فرنسا وإسبانيا)، تَمَّ صَفُّها كاملةً باستخدام لوحة المفاتيح العادية، دون الحاجة إلى إدراج أيّة رموز لا تتوافق مع النظام المعياري Unicode كما تمّ إرفاق وثيقة (وورد) مصادقاً عليها رقمياً، تحتوي على نص القرآن الكريم كاملاً طبقاً للرسم العثماني الموافق لمصحف المدينة النبوية للرواية المذكورة.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 4701e8bbf053098220cf2cf4cda206a1</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 44ecea8feb23817fdc01a8ee2162a6a0cf08cae7</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_warsh_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_warsh_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicWarsh_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_warsh_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_warsh_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicWarsh_v2-0 data folder except Excel file to display Aya mark properly)"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page\tNumber (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_warsh_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_warsh_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicWarsh_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "خط الرسم العثماني (رواية ورش)\nتاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 07-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية ورش)"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 16-9-2020\nتاريخ آخر تعديل: 07-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية ورش)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 16-9-2020<br>\n\t\t\tتاريخ آخر تعديل: 07-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 6.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 11,
+  "total_bytes": 25131536,
+  "files": [
+    {
+      "path": "UthmanicWarsh_v2-1 data/read.me",
+      "size_bytes": 2238,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/read.me"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.csv",
+      "size_bytes": 1751726,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.csv"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.html",
+      "size_bytes": 4101201,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.html"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.json",
+      "size_bytes": 2764531,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.json"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.sql",
+      "size_bytes": 2584370,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.sql"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.txt",
+      "size_bytes": 1726873,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.txt"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.xlsx",
+      "size_bytes": 748668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.xlsx"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 data/warshData_v2-1.xml",
+      "size_bytes": 3168453,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20data/warshData_v2-1.xml"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 font/uthmanic_warsh_v21.docx",
+      "size_bytes": 1046628,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20font/uthmanic_warsh_v21.docx"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 font/uthmanic_warsh_v21.pdf",
+      "size_bytes": 6365212,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20font/uthmanic_warsh_v21.pdf"
+    },
+    {
+      "path": "UthmanicWarsh_v2-1 font/uthmanic_warsh_v21.ttf",
+      "size_bytes": 871636,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-warsh/UthmanicWarsh_v2-1%20font/uthmanic_warsh_v21.ttf"
+    }
+  ]
+}

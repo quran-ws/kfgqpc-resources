@@ -1,0 +1,47 @@
+{
+  "slug": "milibari-1",
+  "page_order": 27,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "المليبارية [المليالم] (മലയാളം)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Milibari.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/milibari-1.pdf",
+    "filename": "milibari-1.pdf",
+    "size_bytes": 277489155,
+    "size_human": "264.63 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 27 Aug 2024 06:21:03 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/milibari-1/milibari-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ace75a90f4b52866ef100b6add079fe9",
+      "sha1": "c21bac43209b073b634bc7cdceb84f70091de550",
+      "sha256": "d381efbe2944ee041494a138ca89ab658c15ee4bd43850c6f5f778891631037d"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 277589644,
+  "files": [
+    {
+      "path": "Milibari.jpg",
+      "size_bytes": 100489,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/milibari-1/Milibari.jpg"
+    },
+    {
+      "path": "milibari-1.pdf",
+      "size_bytes": 277489155,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/milibari-1/milibari-1.pdf"
+    }
+  ]
+}

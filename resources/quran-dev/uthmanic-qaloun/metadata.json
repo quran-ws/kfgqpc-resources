@@ -1,0 +1,169 @@
+{
+  "slug": "uthmanic-qaloun",
+  "page_order": 5,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "خط الرسم العثماني (رواية قالون)",
+    "en": "Unicode Uthmanic Font (Qaloun Narration)"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicQaloun_v2-1.zip",
+    "filename": "UthmanicQaloun_v2-1.zip",
+    "size_bytes": 8763948,
+    "size_human": "8.36 MB",
+    "downloads_count_at_capture": 287,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Mon, 26 Sep 2022 06:05:57 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "964208ff04c8aadd3ddc1be262d8cfd3",
+      "sha1": "81733666be17742e13c9fa4c7d26d42b1adc67c8"
+    },
+    "computed": {
+      "md5": "964208ff04c8aadd3ddc1be262d8cfd3",
+      "sha1": "81733666be17742e13c9fa4c7d26d42b1adc67c8",
+      "sha256": "6988b782b4268c70a11bc807223fcf2b131a9879a48aad34eb65af523fcb144d"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "18-10-2020",
+    "created_iso": "2020-10-18",
+    "last_modified": "25-09-2022",
+    "last_modified_iso": "2022-09-25",
+    "version": "5.0",
+    "update_notes": null
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "خط الرسم العثماني (رواية قالون)\nرواية قالون عن نَافِعٍ المَدَنيّ: وهي الرواية التي يقرأ بها أهل ليبيا وتونس وبعض المناطق في موريتانيا\nتحقق الوثوقية (MD5): 964208ff04c8aadd3ddc1be262d8cfd3\nتحقق الوثوقية (SHA-1): 81733666be17742e13c9fa4c7d26d42b1adc67c8\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية قالون)"
+        },
+        {
+          "type": "text",
+          "text": "رواية قالون عن نَافِعٍ المَدَنيّ: وهي الرواية التي يقرأ بها أهل ليبيا وتونس وبعض المناطق في موريتانيا"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 964208ff04c8aadd3ddc1be262d8cfd3"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 81733666be17742e13c9fa4c7d26d42b1adc67c8"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية قالون)</h3>\n          <p>رواية قالون عن نَافِعٍ المَدَنيّ: وهي الرواية التي يقرأ بها أهل ليبيا وتونس وبعض المناطق في موريتانيا</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 964208ff04c8aadd3ddc1be262d8cfd3</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 81733666be17742e13c9fa4c7d26d42b1adc67c8</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_qaloun_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_qaloun_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicQaloun_v2-1 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_qaloun_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_qaloun_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicQaloun_v2-1 data folder except Excel file to display Aya mark properly)"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_qaloun_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_qaloun_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicQaloun_v2-1 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "خط الرسم العثماني (رواية قالون)\nتاريخ الإنشاء: 18-10-2020\nتاريخ آخر تعديل: 25-09-2022\nمعلومات حول التحديث الجديدفي ملف: read.me\nتحديث: 5.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية قالون)"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 18-10-2020\nتاريخ آخر تعديل: 25-09-2022\nمعلومات حول التحديث الجديدفي ملف: read.me\nتحديث: 5.0"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية قالون)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 18-10-2020<br>\n\t\t\tتاريخ آخر تعديل: 25-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديدفي ملف: read.me<br>\n\t\t\tتحديث: 5.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 11,
+  "total_bytes": 24731988,
+  "files": [
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.csv",
+      "size_bytes": 1746843,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.csv"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.html",
+      "size_bytes": 4096319,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.html"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.json",
+      "size_bytes": 2759651,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.json"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.sql",
+      "size_bytes": 2579496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.sql"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.txt",
+      "size_bytes": 1721993,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.txt"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.xlsx",
+      "size_bytes": 751050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.xlsx"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/QalounData_v2-1.xml",
+      "size_bytes": 3163573,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/QalounData_v2-1.xml"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 data/read.me",
+      "size_bytes": 1863,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20data/read.me"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 font/uthmanic_qaloun_v21.docx",
+      "size_bytes": 1004949,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20font/uthmanic_qaloun_v21.docx"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 font/uthmanic_qaloun_v21.pdf",
+      "size_bytes": 6027555,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20font/uthmanic_qaloun_v21.pdf"
+    },
+    {
+      "path": "UthmanicQaloun_v2-1 font/uthmanic_qaloun_v21.ttf",
+      "size_bytes": 878696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-qaloun/UthmanicQaloun_v2-1%20font/uthmanic_qaloun_v21.ttf"
+    }
+  ]
+}

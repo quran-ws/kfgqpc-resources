@@ -1,0 +1,38 @@
+{
+  "slug": "مطوية-معلومات-عن-المجمع-2026",
+  "page_order": 5,
+  "group": "training-bags",
+  "source_page": "https://qurancomplex.gov.sa/training-bags/",
+  "title": {
+    "ar": "معلومات عن المجمع",
+    "en": null
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/training-bags/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-2026.pdf",
+    "filename": "مطوية-معلومات-عن-المجمع-2026.pdf",
+    "size_bytes": 574853,
+    "size_human": "561.4 KB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 12 May 2026 11:38:16 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/training-bags/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-2026/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-2026.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "84c3a91f60268d302d841be34b7d02b1",
+      "sha1": "41f1d0489171d289e7754dd877f096692f3f1993",
+      "sha256": "b6dbe8c452f25cc42b132a554e8d416ce925701246b307dd402d8758521f16b4"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:09Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 574853,
+  "files": [
+    {
+      "path": "مطوية-معلومات-عن-المجمع-2026.pdf",
+      "size_bytes": 574853,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/training-bags/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-2026/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9-2026.pdf"
+    }
+  ]
+}

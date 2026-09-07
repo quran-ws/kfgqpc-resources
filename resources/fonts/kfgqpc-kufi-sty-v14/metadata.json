@@ -1,0 +1,38 @@
+{
+  "slug": "kfgqpc-kufi-sty-v14",
+  "page_order": 3,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/fonts/KFGQPC-KufiStyV14.ttf",
+    "filename": "KFGQPC-KufiStyV14.ttf",
+    "size_bytes": 99252,
+    "size_human": "96.9 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Mon, 05 Aug 2024 07:14:57 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/kfgqpc-kufi-sty-v14/KFGQPC-KufiStyV14.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "4ec1cc9628a2648240b64b6cb7d953a2",
+      "sha1": "827b349956aacd7444ee44b93a7c99217fce3a97",
+      "sha256": "234482a828807ba6ea0e9f5255f1124a4b7e8dd7520f792af144a0799a846e5f"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 99252,
+  "files": [
+    {
+      "path": "KFGQPC-KufiStyV14.ttf",
+      "size_bytes": 99252,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/kfgqpc-kufi-sty-v14/KFGQPC-KufiStyV14.ttf"
+    }
+  ]
+}

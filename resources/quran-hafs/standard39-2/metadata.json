@@ -1,0 +1,47 @@
+{
+  "slug": "standard39-2",
+  "page_order": 5,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "المصحف العادي",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/10/Standard50.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/standard39-2.pdf",
+    "filename": "standard39-2.pdf",
+    "size_bytes": 243520529,
+    "size_human": "232.24 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 13 Nov 2025 08:04:59 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standard39-2/standard39-2.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ff6c4c26d1beefd71b81659d772ad02e",
+      "sha1": "a9c33da41745cb2408c5037ac315114c45091f53",
+      "sha256": "5c4297de1fb6b654f641eed33242408d89432cbecf8a96ff5d297cb45fea7f07"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 243639484,
+  "files": [
+    {
+      "path": "Standard50.jpg",
+      "size_bytes": 118955,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standard39-2/Standard50.jpg"
+    },
+    {
+      "path": "standard39-2.pdf",
+      "size_bytes": 243520529,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standard39-2/standard39-2.pdf"
+    }
+  ]
+}

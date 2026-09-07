@@ -1,0 +1,47 @@
+{
+  "slug": "iranouniya-1",
+  "page_order": 6,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الإيرانونية (Iranon)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Iranouniya.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/iranouniya-1.pdf",
+    "filename": "iranouniya-1.pdf",
+    "size_bytes": 18010761,
+    "size_human": "17.18 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 20 Aug 2024 09:27:39 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/iranouniya-1/iranouniya-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "73d593afadbf7aedaeadc7db0fd7f2ce",
+      "sha1": "61c868202c4272cc79172aa4ffe2537d73de9a90",
+      "sha256": "84a7402bce6bfc5a65d9a179a4475e4dc7790d4c5e823203cdae0ef676757fd7"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 18125803,
+  "files": [
+    {
+      "path": "Iranouniya.jpg",
+      "size_bytes": 115042,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/iranouniya-1/Iranouniya.jpg"
+    },
+    {
+      "path": "iranouniya-1.pdf",
+      "size_bytes": 18010761,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/iranouniya-1/iranouniya-1.pdf"
+    }
+  ]
+}

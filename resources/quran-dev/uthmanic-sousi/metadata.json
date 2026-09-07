@@ -1,0 +1,169 @@
+{
+  "slug": "uthmanic-sousi",
+  "page_order": 7,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "خط الرسم العثماني (رواية السوسي)",
+    "en": "Unicode Uthmanic Font (Susi Narration)"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicSousi_v2-0.zip",
+    "filename": "UthmanicSousi_v2-0.zip",
+    "size_bytes": 8860083,
+    "size_human": "8.45 MB",
+    "downloads_count_at_capture": 194,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Tue, 27 Sep 2022 05:32:13 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "1bf6023e29b7622a52b6171232c17096",
+      "sha1": "e52dbc6d8b43797a8faa0fd1ec1d8e5000265674"
+    },
+    "computed": {
+      "md5": "1bf6023e29b7622a52b6171232c17096",
+      "sha1": "e52dbc6d8b43797a8faa0fd1ec1d8e5000265674",
+      "sha256": "e912273b3863bbf97ec4a7b1134967e3cdf21de7fcc06df9dee42bce655ce472"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "02-11-2020",
+    "created_iso": "2020-11-02",
+    "last_modified": "27-09-2022",
+    "last_modified_iso": "2022-09-27",
+    "version": "3.0",
+    "update_notes": null
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "خط الرسم العثماني (رواية السوسي)\nرواية السوسي عن أبي عَمْرِو البَصْريّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.\nتحقق الوثوقية (MD5): 1bf6023e29b7622a52b6171232c17096\nتحقق الوثوقية (SHA-1): e52dbc6d8b43797a8faa0fd1ec1d8e5000265674\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية السوسي)"
+        },
+        {
+          "type": "text",
+          "text": "رواية السوسي عن أبي عَمْرِو البَصْريّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 1bf6023e29b7622a52b6171232c17096"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): e52dbc6d8b43797a8faa0fd1ec1d8e5000265674"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية السوسي)</h3>\n          <p>رواية السوسي عن أبي عَمْرِو البَصْريّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 1bf6023e29b7622a52b6171232c17096</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> e52dbc6d8b43797a8faa0fd1ec1d8e5000265674</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_sousi_uthmanic_script ttf font file)\n7- aya_no (int): Aya Number\n8- line_start (int): Start Line of Aya\n9- line_end (int): End Line of Aya\n10- aya_text (text): Text of the Aya in kfgqpc_sousi_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicSousi_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_sousi_uthmanic_script ttf font file)\n7- aya_no (int): Aya Number\n8- line_start (int): Start Line of Aya\n9- line_end (int): End Line of Aya\n10- aya_text (text): Text of the Aya in kfgqpc_sousi_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicSousi_v2-0 data folder except Excel file to display Aya mark properly)"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_sousi_uthmanic_script ttf font file)<br>\n\t\t\t7- aya_no (int): Aya Number<br>\n\t\t\t8- line_start (int): Start Line of Aya<br>\n\t\t\t9- line_end (int): End Line of Aya<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_sousi_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicSousi_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "خط الرسم العثماني (رواية السوسي)\nتاريخ الإنشاء: 02-11-2020\nتاريخ آخر تعديل: 27-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 3.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية السوسي)"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 02-11-2020\nتاريخ آخر تعديل: 27-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 3.0"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية السوسي)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 02-11-2020<br>\n\t\t\tتاريخ آخر تعديل: 27-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 3.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 11,
+  "total_bytes": 24704974,
+  "files": [
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.csv",
+      "size_bytes": 1740646,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.csv"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.html",
+      "size_bytes": 4091238,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.html"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.json",
+      "size_bytes": 2753945,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.json"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.sql",
+      "size_bytes": 2573828,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.sql"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.txt",
+      "size_bytes": 1715786,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.txt"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.xlsx",
+      "size_bytes": 735823,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.xlsx"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/SousiData_v2-0.xml",
+      "size_bytes": 3158062,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/SousiData_v2-0.xml"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 data/read.me",
+      "size_bytes": 1807,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20data/read.me"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 font/uthmanic_sousi_v20.docx",
+      "size_bytes": 1053220,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20font/uthmanic_sousi_v20.docx"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 font/uthmanic_sousi_v20.pdf",
+      "size_bytes": 6080271,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20font/uthmanic_sousi_v20.pdf"
+    },
+    {
+      "path": "UthmanicSousi_v2-0 font/uthmanic_sousi_v20.ttf",
+      "size_bytes": 800348,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-sousi/UthmanicSousi_v2-0%20font/uthmanic_sousi_v20.ttf"
+    }
+  ]
+}

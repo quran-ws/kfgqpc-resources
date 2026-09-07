@@ -1,0 +1,47 @@
+{
+  "slug": "hindi-1",
+  "page_order": 30,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الهندية (हिन्दी)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Hindi.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/hindi-1.pdf",
+    "filename": "hindi-1.pdf",
+    "size_bytes": 230163247,
+    "size_human": "219.50 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 27 Aug 2024 08:32:44 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/hindi-1/hindi-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5859f7465b71799d80da946296a40550",
+      "sha1": "eb9b28055279cb9419f4f9365ea022e07f5d25a3",
+      "sha256": "c0af983bda91c4d538f33398807c36786ab9c918e336c4c75e8ab8c717adb521"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 230280249,
+  "files": [
+    {
+      "path": "Hindi.jpg",
+      "size_bytes": 117002,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/hindi-1/Hindi.jpg"
+    },
+    {
+      "path": "hindi-1.pdf",
+      "size_bytes": 230163247,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/hindi-1/hindi-1.pdf"
+    }
+  ]
+}

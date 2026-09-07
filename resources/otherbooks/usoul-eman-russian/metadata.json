@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-russian",
+  "page_order": 8,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة (اللغة الروسية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_russian.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Russian.pdf",
+    "filename": "UsoulEman-Russian.pdf",
+    "size_bytes": 38740457,
+    "size_human": "36.95 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 13:49:14 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-russian/UsoulEman-Russian.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "33b33fb7b89b08fb9e19459beba7d0a5",
+      "sha1": "d2c4b7403de3029bc7c48762026bd856e90db502",
+      "sha256": "6178baf5813b71f5b422ae163e5ca6c48a7dddf47ecc1fc673dfbc3a29ceb20d"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 38791496,
+  "files": [
+    {
+      "path": "UsoulEman-Russian.pdf",
+      "size_bytes": 38740457,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-russian/UsoulEman-Russian.pdf"
+    },
+    {
+      "path": "usoul_eman_russian.jpg",
+      "size_bytes": 51039,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-russian/usoul_eman_russian.jpg"
+    }
+  ]
+}

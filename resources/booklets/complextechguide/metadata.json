@@ -1,0 +1,47 @@
+{
+  "slug": "complextechguide",
+  "page_order": 1,
+  "group": "booklets",
+  "source_page": "https://qurancomplex.gov.sa/booklets/",
+  "title": {
+    "ar": "دليل الأعمال التقنية",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/complex_tech_guide__cover.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/booklets/complextechguide.pdf",
+    "filename": "complextechguide.pdf",
+    "size_bytes": 15797205,
+    "size_human": "15.07 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 28 May 2023 08:17:33 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/booklets/complextechguide/complextechguide.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "2c4b9bbb39ab7de140083122265bb92a",
+      "sha1": "0761b275d98247474df80aea28fa6513981af131",
+      "sha256": "af297d10a20341e6af3610df77a863685a6b2319faefa03fb792eb85dd6d4943"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:59Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 15947209,
+  "files": [
+    {
+      "path": "complex_tech_guide__cover.jpg",
+      "size_bytes": 150004,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/booklets/complextechguide/complex_tech_guide__cover.jpg"
+    },
+    {
+      "path": "complextechguide.pdf",
+      "size_bytes": 15797205,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/booklets/complextechguide/complextechguide.pdf"
+    }
+  ]
+}

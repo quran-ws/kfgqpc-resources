@@ -1,0 +1,169 @@
+{
+  "slug": "uthmanic-shuba",
+  "page_order": 4,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "خط الرسم العثماني (رواية شعبة)",
+    "en": "Unicode Uthmanic Font (Shubah Narration)"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/UthmanicShuba_v2-0.zip",
+    "filename": "UthmanicShuba_v2-0.zip",
+    "size_bytes": 8739612,
+    "size_human": "8.33 MB",
+    "downloads_count_at_capture": 239,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Wed, 21 Sep 2022 11:19:28 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "5cda29121bf0d7234e039002e1fbf600",
+      "sha1": "8d66bdf0cab96dc7d1032792c19f77980ca6682a"
+    },
+    "computed": {
+      "md5": "5cda29121bf0d7234e039002e1fbf600",
+      "sha1": "8d66bdf0cab96dc7d1032792c19f77980ca6682a",
+      "sha256": "977e64f3f889c084dc82aec4e97092836ca61777cdc93c3ee7da6f59592efbcf"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "11-10-2020",
+    "created_iso": "2020-10-11",
+    "last_modified": "21-09-2022",
+    "last_modified_iso": "2022-09-21",
+    "version": "6.0",
+    "update_notes": null
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "خط الرسم العثماني (رواية شعبة)\nرواية شُعبة عن عاصِمِ الكُوفيّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.\nتحقق الوثوقية (MD5): 5cda29121bf0d7234e039002e1fbf600\nتحقق الوثوقية (SHA-1): 8d66bdf0cab96dc7d1032792c19f77980ca6682a\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية شعبة)"
+        },
+        {
+          "type": "text",
+          "text": "رواية شُعبة عن عاصِمِ الكُوفيّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 5cda29121bf0d7234e039002e1fbf600"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 8d66bdf0cab96dc7d1032792c19f77980ca6682a"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية شعبة)</h3>\n          <p>رواية شُعبة عن عاصِمِ الكُوفيّ: وهي من الروايات التي يستفيد منها المتخصصون في القراءات من طلبة العلم وغيرهم.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 5cda29121bf0d7234e039002e1fbf600</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 8d66bdf0cab96dc7d1032792c19f77980ca6682a</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_shuba_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_shuba_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicShuba_v2-0 data folder except Excel file to display Aya mark properly)\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)\n4- sura_no (int): Sura Number\n5- sura_name_en (varchar): Sura Name in English\n6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_shuba_uthmanic_script ttf font file)\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in kfgqpc_shuba_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicShuba_v2-0 data folder except Excel file to display Aya mark properly)"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number<br>\n\t\t\t2- jozz (int): Jozz Number<br>\n\t\t\t3- page (varchar): Page Number (There are some Ayat in two pages we separated with – symbol)<br>\n\t\t\t4- sura_no (int): Sura Number<br>\n\t\t\t5- sura_name_en (varchar): Sura Name in English<br>\n\t\t\t6- sura_name_ar (varchar): Sura Name in Arabic (kfgqpc_shuba_uthmanic_script ttf font file)<br>\n\t\t\t7- line_start (int): Start Line of Aya<br>\n\t\t\t8- line_end (int): End Line of Aya<br>\n\t\t\t9- aya_no (int): Aya Number<br>\n\t\t\t10- aya_text (text): Text of the Aya in kfgqpc_shuba_uthmanic_script ttf font file (Adding Aya mark as Symbol to all files in UthmanicShuba_v2-0 data folder except Excel file to display Aya mark properly)\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "خط الرسم العثماني (رواية شعبة)\nتاريخ الإنشاء: 11-10-2020\nتاريخ آخر تعديل: 21-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية شعبة)"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 11-10-2020\nتاريخ آخر تعديل: 21-09-2022\nمعلومات حول التحديث الجديد في ملف: read.me\nتحديث: 6.0"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية شعبة)</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 11-10-2020<br>\n\t\t\tتاريخ آخر تعديل: 21-09-2022<br>\n\t\t\tمعلومات حول التحديث الجديد في ملف: read.me<br>\n\t\t\tتحديث: 6.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 11,
+  "total_bytes": 24262232,
+  "files": [
+    {
+      "path": "UthmanicShuba_v2-0 data/read.me",
+      "size_bytes": 1722,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/read.me"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.csv",
+      "size_bytes": 1702424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.csv"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.html",
+      "size_bytes": 4060243,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.html"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.json",
+      "size_bytes": 2706393,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.json"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.sql",
+      "size_bytes": 2525725,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.sql"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.txt",
+      "size_bytes": 1677533,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.txt"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.xlsx",
+      "size_bytes": 731225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.xlsx"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 data/shubaData_v2-0.xml",
+      "size_bytes": 3124217,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20data/shubaData_v2-0.xml"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 font/uthmanic_shuba_v20.docx",
+      "size_bytes": 871753,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20font/uthmanic_shuba_v20.docx"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 font/uthmanic_shuba_v20.pdf",
+      "size_bytes": 6139889,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20font/uthmanic_shuba_v20.pdf"
+    },
+    {
+      "path": "UthmanicShuba_v2-0 font/uthmanic_shuba_v20.ttf",
+      "size_bytes": 721108,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/uthmanic-shuba/UthmanicShuba_v2-0%20font/uthmanic_shuba_v20.ttf"
+    }
+  ]
+}

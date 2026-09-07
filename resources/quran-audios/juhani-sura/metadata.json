@@ -1,0 +1,607 @@
+{
+  "slug": "juhani-sura",
+  "page_order": 18,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-douri-juhani/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/douri/juhani/sura.zip",
+    "filename": "sura.zip",
+    "size_bytes": 1622785417,
+    "size_human": "1.51 GB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Sun, 28 May 2023 10:33:33 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "2923e0e2a81ff1962ab68c448edbb260",
+      "sha1": "0e10ef4be4ad10dc9a54d4f5560c85ebff2c3ecc",
+      "sha256": "4f52a03d0e40fe969124a751fbd01bac8acbfcef4cef62cf792607aaee466d28"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 115,
+  "total_bytes": 1759511150,
+  "files": [
+    {
+      "path": "sura/001_Al-Fatihah_الفاتحة.mp3",
+      "size_bytes": 996414,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/001_Al-Fatihah_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3"
+    },
+    {
+      "path": "sura/002_Al-Baqarah_البقرة.mp3",
+      "size_bytes": 137120705,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/002_Al-Baqarah_%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+    },
+    {
+      "path": "sura/003_Al-'Imran_آل عمران.mp3",
+      "size_bytes": 78628989,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/003_Al-%27Imran_%D8%A2%D9%84%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "sura/004_An-Nisa'_النساء.mp3",
+      "size_bytes": 77947715,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/004_An-Nisa%27_%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "sura/005_Al-Ma'idah_المائدة.mp3",
+      "size_bytes": 61957015,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/005_Al-Ma%27idah_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "sura/006_Al-An'am_الأنعام.mp3",
+      "size_bytes": 68047098,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/006_Al-An%27am_%D8%A7%D9%84%D8%A3%D9%86%D8%B9%D8%A7%D9%85.mp3"
+    },
+    {
+      "path": "sura/007_Al-A'raf_الأعراف.mp3",
+      "size_bytes": 73427905,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/007_Al-A%27raf_%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "sura/008_Al-Anfal_الأنفال.mp3",
+      "size_bytes": 28514011,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/008_Al-Anfal_%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%A7%D9%84.mp3"
+    },
+    {
+      "path": "sura/009_At-Taubah_التوبة.mp3",
+      "size_bytes": 53984444,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/009_At-Taubah_%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9.mp3"
+    },
+    {
+      "path": "sura/010_Yunus_يونس.mp3",
+      "size_bytes": 40066403,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/010_Yunus_%D9%8A%D9%88%D9%86%D8%B3.mp3"
+    },
+    {
+      "path": "sura/011_Hud_هود.mp3",
+      "size_bytes": 38672509,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/011_Hud_%D9%87%D9%88%D8%AF.mp3"
+    },
+    {
+      "path": "sura/012_Yusuf_يوسف.mp3",
+      "size_bytes": 37469622,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/012_Yusuf_%D9%8A%D9%88%D8%B3%D9%81.mp3"
+    },
+    {
+      "path": "sura/013_Ar-Ra'd_الرعد.mp3",
+      "size_bytes": 18174119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/013_Ar-Ra%27d_%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3"
+    },
+    {
+      "path": "sura/014_Ibrahim_إبراهيم.mp3",
+      "size_bytes": 17872352,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/014_Ibrahim_%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "sura/015_Al-Hijr_الحجر.mp3",
+      "size_bytes": 15885792,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/015_Al-Hijr_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "sura/016_An-Nahl_النحل.mp3",
+      "size_bytes": 41565622,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/016_An-Nahl_%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3"
+    },
+    {
+      "path": "sura/017_Al-Isra'_الإسراء.mp3",
+      "size_bytes": 33002057,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/017_Al-Isra%27_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "sura/018_Al-Kahf_الكهف.mp3",
+      "size_bytes": 33223575,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/018_Al-Kahf_%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3"
+    },
+    {
+      "path": "sura/019_Maryam_مريم.mp3",
+      "size_bytes": 19820878,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/019_Maryam_%D9%85%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "sura/020_Ta-Ha_طه.mp3",
+      "size_bytes": 27380924,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/020_Ta-Ha_%D8%B7%D9%87.mp3"
+    },
+    {
+      "path": "sura/021_Al-Anbiya'_الأنبياء.mp3",
+      "size_bytes": 26201025,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/021_Al-Anbiya%27_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "sura/022_Al-Hajj_الحج.mp3",
+      "size_bytes": 27696065,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/022_Al-Hajj_%D8%A7%D9%84%D8%AD%D8%AC.mp3"
+    },
+    {
+      "path": "sura/023_Al-Mu'minun_المؤمنون.mp3",
+      "size_bytes": 25465417,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/023_Al-Mu%27minun_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "sura/024_An-Nur_النور.mp3",
+      "size_bytes": 31879000,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/024_An-Nur_%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "sura/025_Al-Furqan_الفرقان.mp3",
+      "size_bytes": 19119124,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/025_Al-Furqan_%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "sura/026_Ash-Shu'ara'_الشعراء.mp3",
+      "size_bytes": 32352548,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/026_Ash-Shu%27ara%27_%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "sura/027_An-Naml_النمل.mp3",
+      "size_bytes": 27039869,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/027_An-Naml_%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "sura/028_Al-Qasas_القصص.mp3",
+      "size_bytes": 30767647,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/028_Al-Qasas_%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3"
+    },
+    {
+      "path": "sura/029_Al-'Ankabut_العنكبوت.mp3",
+      "size_bytes": 21999281,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/029_Al-%27Ankabut_%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3"
+    },
+    {
+      "path": "sura/030_Ar-Rum_الروم.mp3",
+      "size_bytes": 20147304,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/030_Ar-Rum_%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3"
+    },
+    {
+      "path": "sura/031_Luqman_لقمان.mp3",
+      "size_bytes": 12826749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/031_Luqman_%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "sura/032_As-Sajdah_السجدة.mp3",
+      "size_bytes": 8479973,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/032_As-Sajdah_%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "sura/033_Al-Ahzab_الأحزاب.mp3",
+      "size_bytes": 28433345,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/033_Al-Ahzab_%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8.mp3"
+    },
+    {
+      "path": "sura/034_Saba'_سبأ.mp3",
+      "size_bytes": 18787265,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/034_Saba%27_%D8%B3%D8%A8%D8%A3.mp3"
+    },
+    {
+      "path": "sura/035_Fatir_فاطر.mp3",
+      "size_bytes": 17813420,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/035_Fatir_%D9%81%D8%A7%D8%B7%D8%B1.mp3"
+    },
+    {
+      "path": "sura/036_Ya-Sin_يس.mp3",
+      "size_bytes": 16776045,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/036_Ya-Sin_%D9%8A%D8%B3.mp3"
+    },
+    {
+      "path": "sura/037_As-Saffat_الصافات.mp3",
+      "size_bytes": 22290181,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/037_As-Saffat_%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "sura/038_Sad_ص.mp3",
+      "size_bytes": 17241652,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/038_Sad_%D8%B5.mp3"
+    },
+    {
+      "path": "sura/039_Az-Zumar_الزمر.mp3",
+      "size_bytes": 25124780,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/039_Az-Zumar_%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "sura/040_Ghafir_غافر.mp3",
+      "size_bytes": 27137253,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/040_Ghafir_%D8%BA%D8%A7%D9%81%D8%B1.mp3"
+    },
+    {
+      "path": "sura/041_Fussilat_فصلت.mp3",
+      "size_bytes": 17518239,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/041_Fussilat_%D9%81%D8%B5%D9%84%D8%AA.mp3"
+    },
+    {
+      "path": "sura/042_Ash-Shura_الشورى.mp3",
+      "size_bytes": 18228871,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/042_Ash-Shura_%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3"
+    },
+    {
+      "path": "sura/043_Az-Zukhruf_الزخرف.mp3",
+      "size_bytes": 19188506,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/043_Az-Zukhruf_%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3"
+    },
+    {
+      "path": "sura/044_Ad-Dukhan_الدخان.mp3",
+      "size_bytes": 8537652,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/044_Ad-Dukhan_%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "sura/045_Al-Jathiyah_الجاثية.mp3",
+      "size_bytes": 10564336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/045_Al-Jathiyah_%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "sura/046_Al-Ahqaf_الأحقاف.mp3",
+      "size_bytes": 28450798,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/046_Al-Ahqaf_%D8%A7%D9%84%D8%A3%D8%AD%D9%82%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "sura/047_Muhammad_محمد.mp3",
+      "size_bytes": 24326376,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/047_Muhammad_%D9%85%D8%AD%D9%85%D8%AF.mp3"
+    },
+    {
+      "path": "sura/048_Al-Fath_الفتح.mp3",
+      "size_bytes": 12462289,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/048_Al-Fath_%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3"
+    },
+    {
+      "path": "sura/049_Al-Hujurat_الحجرات.mp3",
+      "size_bytes": 7911967,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/049_Al-Hujurat_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "sura/050_Qaf_ق.mp3",
+      "size_bytes": 8063686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/050_Qaf_%D9%82.mp3"
+    },
+    {
+      "path": "sura/051_Adh-Dhariyat_الذاريات.mp3",
+      "size_bytes": 8371304,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/051_Adh-Dhariyat_%D8%A7%D9%84%D8%B0%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "sura/052_At-Tur_الطور.mp3",
+      "size_bytes": 7408744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/052_At-Tur_%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "sura/053_An-Najm_النجم.mp3",
+      "size_bytes": 7760666,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/053_An-Najm_%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3"
+    },
+    {
+      "path": "sura/054_Al-Qamar_القمر.mp3",
+      "size_bytes": 7693374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/054_Al-Qamar_%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "sura/055_Ar-Rahman_الرحمن.mp3",
+      "size_bytes": 10106253,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/055_Ar-Rahman_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86.mp3"
+    },
+    {
+      "path": "sura/056_Al-Waqi'ah_الواقعة.mp3",
+      "size_bytes": 10308963,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/056_Al-Waqi%27ah_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "sura/057_Al-Hadid_الحديد.mp3",
+      "size_bytes": 11894282,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/057_Al-Hadid_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3"
+    },
+    {
+      "path": "sura/058_Al-Mujadilah_المجادلة.mp3",
+      "size_bytes": 9809502,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/058_Al-Mujadilah_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "sura/059_Al-Hashr_الحشر.mp3",
+      "size_bytes": 9509407,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/059_Al-Hashr_%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3"
+    },
+    {
+      "path": "sura/060_Al-Mumtahanah_الممتحنة.mp3",
+      "size_bytes": 7570494,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/060_Al-Mumtahanah_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "sura/061_As-Saff_الصف.mp3",
+      "size_bytes": 4615941,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/061_As-Saff_%D8%A7%D9%84%D8%B5%D9%81.mp3"
+    },
+    {
+      "path": "sura/062_Al-Jumu'ah_الجمعة.mp3",
+      "size_bytes": 3752855,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/062_Al-Jumu%27ah_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "sura/063_Al-Munafiqun_المنافقون.mp3",
+      "size_bytes": 4042083,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/063_Al-Munafiqun_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "sura/064_At-Taghabun_التغابن.mp3",
+      "size_bytes": 5242044,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/064_At-Taghabun_%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3"
+    },
+    {
+      "path": "sura/065_At-Talaq_الطلاق.mp3",
+      "size_bytes": 5936692,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/065_At-Talaq_%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "sura/066_At-Tahrim_التحريم.mp3",
+      "size_bytes": 5573485,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/066_At-Tahrim_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "sura/067_Al-Mulk_الملك.mp3",
+      "size_bytes": 7145848,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/067_Al-Mulk_%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3"
+    },
+    {
+      "path": "sura/068_Al-Qalam_القلم.mp3",
+      "size_bytes": 7303836,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/068_Al-Qalam_%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3"
+    },
+    {
+      "path": "sura/069_Al-Haqqah_الحاقة.mp3",
+      "size_bytes": 6398119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/069_Al-Haqqah_%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A9.mp3"
+    },
+    {
+      "path": "sura/070_Al-Ma'arij_المعارج.mp3",
+      "size_bytes": 5428453,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/070_Al-Ma%27arij_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3"
+    },
+    {
+      "path": "sura/071_Nuh_نوح.mp3",
+      "size_bytes": 5040169,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/071_Nuh_%D9%86%D9%88%D8%AD.mp3"
+    },
+    {
+      "path": "sura/072_Al-Jinn_الجن.mp3",
+      "size_bytes": 6001475,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/072_Al-Jinn_%D8%A7%D9%84%D8%AC%D9%86.mp3"
+    },
+    {
+      "path": "sura/073_Al-Muzzammil_المزمل.mp3",
+      "size_bytes": 4420754,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/073_Al-Muzzammil_%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "sura/074_Al-Muddaththir_المد ثر.mp3",
+      "size_bytes": 5903673,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/074_Al-Muddaththir_%D8%A7%D9%84%D9%85%D8%AF%20%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "sura/075_Al-Qiyamah_القيامة.mp3",
+      "size_bytes": 3717746,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/075_Al-Qiyamah_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3"
+    },
+    {
+      "path": "sura/076_Al-Insan_الإنسان.mp3",
+      "size_bytes": 5677557,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/076_Al-Insan_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "sura/077_Al-Mursalat_المرسلات.mp3",
+      "size_bytes": 4930664,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/077_Al-Mursalat_%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "sura/078_An-Naba'_النبأ.mp3",
+      "size_bytes": 4463386,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/078_An-Naba%27_%D8%A7%D9%84%D9%86%D8%A8%D8%A3.mp3"
+    },
+    {
+      "path": "sura/079_An-Nazi'at_النازعات.mp3",
+      "size_bytes": 4391915,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/079_An-Nazi%27at_%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "sura/080_'Abasa_عبس.mp3",
+      "size_bytes": 7383147,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/080_%27Abasa_%D8%B9%D8%A8%D8%B3.mp3"
+    },
+    {
+      "path": "sura/081_At-Takwir_التكوير.mp3",
+      "size_bytes": 2584659,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/081_At-Takwir_%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3"
+    },
+    {
+      "path": "sura/082_Al-Infitar_الانفطار.mp3",
+      "size_bytes": 2004532,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/082_Al-Infitar_%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3"
+    },
+    {
+      "path": "sura/083_Al-Mutaffifin_المطففين.mp3",
+      "size_bytes": 4304143,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/083_Al-Mutaffifin_%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "sura/084_Al-Inshiqaq_الانشقاق.mp3",
+      "size_bytes": 2490618,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/084_Al-Inshiqaq_%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "sura/085_Al-Buruj_البروج.mp3",
+      "size_bytes": 2607647,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/085_Al-Buruj_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3"
+    },
+    {
+      "path": "sura/086_At-Tariq_الطارق.mp3",
+      "size_bytes": 1538507,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/086_At-Tariq_%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3"
+    },
+    {
+      "path": "sura/087_Al-A'la_الأعلى.mp3",
+      "size_bytes": 1560659,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/087_Al-A%27la_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3"
+    },
+    {
+      "path": "sura/088_Al-Ghashiyah_الغاشية.mp3",
+      "size_bytes": 2226050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/088_Al-Ghashiyah_%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "sura/089_Al-Fajr_الفجر.mp3",
+      "size_bytes": 3153502,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/089_Al-Fajr_%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "sura/090_Al-Balad_البلد.mp3",
+      "size_bytes": 1839438,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/090_Al-Balad_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3"
+    },
+    {
+      "path": "sura/091_Ash-Shams_الشمس.mp3",
+      "size_bytes": 1470798,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/091_Ash-Shams_%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3"
+    },
+    {
+      "path": "sura/092_Al-Lail_الليل.mp3",
+      "size_bytes": 1902968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/092_Al-Lail_%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "sura/093_Ad-Duha_الضحى.mp3",
+      "size_bytes": 1063288,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/093_Ad-Duha_%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3"
+    },
+    {
+      "path": "sura/094_Ash-Sharh_الشرح.mp3",
+      "size_bytes": 644075,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/094_Ash-Sharh_%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3"
+    },
+    {
+      "path": "sura/095_At-Tin_التين.mp3",
+      "size_bytes": 875206,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/095_At-Tin_%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "sura/096_Al-'Alaq_العلق.mp3",
+      "size_bytes": 1688973,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/096_Al-%27Alaq_%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "sura/097_Al-Qadr_القدر.mp3",
+      "size_bytes": 644075,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/097_Al-Qadr_%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3"
+    },
+    {
+      "path": "sura/098_Al-Bayyinah_البينة.mp3",
+      "size_bytes": 2006204,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/098_Al-Bayyinah_%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "sura/099_Az-Zalzalah_الزلزلة.mp3",
+      "size_bytes": 943333,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/099_Az-Zalzalah_%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "sura/100_Al-'Adiyat_العاديات.mp3",
+      "size_bytes": 1066631,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/100_Al-%27Adiyat_%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "sura/101_Al-Qari'ah_القارعة.mp3",
+      "size_bytes": 933720,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/101_Al-Qari%27ah_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "sura/102_At-Takathur_التكاثر.mp3",
+      "size_bytes": 823797,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/102_At-Takathur_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "sura/103_Al-'Asr_العصر.mp3",
+      "size_bytes": 409182,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/103_Al-%27Asr_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "sura/104_Al-Humazah_الهمزة.mp3",
+      "size_bytes": 863921,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/104_Al-Humazah_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.mp3"
+    },
+    {
+      "path": "sura/105_Al-Fil_الفيل.mp3",
+      "size_bytes": 656613,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/105_Al-Fil_%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "sura/106_Quraish_قريش.mp3",
+      "size_bytes": 552542,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/106_Quraish_%D9%82%D8%B1%D9%8A%D8%B4.mp3"
+    },
+    {
+      "path": "sura/107_Al-Ma'un_الماعون.mp3",
+      "size_bytes": 735190,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/107_Al-Ma%27un_%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "sura/108_Al-Kauthar_الكوثر.mp3",
+      "size_bytes": 320574,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/108_Al-Kauthar_%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "sura/109_Al-Kafirun_الكافرون.mp3",
+      "size_bytes": 626520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/109_Al-Kafirun_%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "sura/110_An-Nasr_النصر.mp3",
+      "size_bytes": 512835,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/110_An-Nasr_%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "sura/111_Al-Masad_المسد.mp3",
+      "size_bytes": 558811,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/111_Al-Masad_%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3"
+    },
+    {
+      "path": "sura/112_Al-Ikhlas_الإخلاص.mp3",
+      "size_bytes": 343562,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/112_Al-Ikhlas_%D8%A7%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%B5.mp3"
+    },
+    {
+      "path": "sura/113_Al-Falaq_الفلق.mp3",
+      "size_bytes": 516179,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/113_Al-Falaq_%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "sura/114_An-Nas_الناس.mp3",
+      "size_bytes": 649508,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/114_An-Nas_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
+    },
+    {
+      "path": "sura/juhani - Shortcut.lnk",
+      "size_bytes": 1247,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/juhani-sura/sura/juhani%20-%20Shortcut.lnk"
+    }
+  ]
+}

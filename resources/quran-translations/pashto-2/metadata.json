@@ -1,0 +1,47 @@
+{
+  "slug": "pashto-2",
+  "page_order": 14,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "البشتو (پښتو) [دوهم ټوک]",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Pashto-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/pashto-2.pdf",
+    "filename": "pashto-2.pdf",
+    "size_bytes": 257343493,
+    "size_human": "245.42 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 04 Apr 2022 15:03:25 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/pashto-2/pashto-2.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5ba000e03226c9b020ceaf6f82356392",
+      "sha1": "4791696705db838110882b97392f3557fea1eab2",
+      "sha256": "b8fe8d48ae8e23827f5334af41ce8b9f3df041a4ba24d72e1918a5f5e99b4721"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 257403857,
+  "files": [
+    {
+      "path": "Pashto-1.jpg",
+      "size_bytes": 60364,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/pashto-2/Pashto-1.jpg"
+    },
+    {
+      "path": "pashto-2.pdf",
+      "size_bytes": 257343493,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/pashto-2/pashto-2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "slug": "muyassar-ghareeb-sura",
+  "page_order": 3,
+  "group": "books-audios",
+  "source_page": "https://qurancomplex.gov.sa/books-audios-muyassarghareeb/",
+  "title": {
+    "ar": "تحميل الكتاب لسور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/MuyassarGhareeb/MuyassarGhareeb-sura.zip",
+    "filename": "MuyassarGhareeb-sura.zip",
+    "size_bytes": 273034261,
+    "size_human": "260.39 MB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Tue, 22 Mar 2022 08:08:30 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "880e221103ed23dcddbb78645c282f74",
+      "sha1": "66831809bb00fea686ab2e1ac888cd4b19f41c37",
+      "sha256": "b1c60c4d9262379f03d7bc034be2ab5be25c7be85c1faeb74a9c536092f61fdb"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:47Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 114,
+  "total_bytes": 298883749,
+  "files": [
+    {
+      "path": "غريب_القران_سور/G-001_الفاتحة.mp3",
+      "size_bytes": 375205,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-001_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-002_البقرة.mp3",
+      "size_bytes": 22362177,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-002_%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-003_ال_عمران.mp3",
+      "size_bytes": 11615778,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-003_%D8%A7%D9%84_%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-004_النساء.mp3",
+      "size_bytes": 10582729,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-004_%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-005_المائدة.mp3",
+      "size_bytes": 8171126,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-005_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-006_الأنعام.mp3",
+      "size_bytes": 9395307,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-006_%D8%A7%D9%84%D8%A3%D9%86%D8%B9%D8%A7%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-007_الأعراف.mp3",
+      "size_bytes": 12487609,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-007_%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-008_الأنفال.mp3",
+      "size_bytes": 5079293,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-008_%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%A7%D9%84.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-009_التوبة.mp3",
+      "size_bytes": 10196138,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-009_%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-010_يونس.mp3",
+      "size_bytes": 5823062,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-010_%D9%8A%D9%88%D9%86%D8%B3.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-011_هود.mp3",
+      "size_bytes": 6238744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-011_%D9%87%D9%88%D8%AF.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-012_يوسف.mp3",
+      "size_bytes": 5645576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-012_%D9%8A%D9%88%D8%B3%D9%81.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-013_الرعد.mp3",
+      "size_bytes": 3651827,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-013_%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-014_ابراهيم.mp3",
+      "size_bytes": 3730508,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-014_%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-015_الحجر.mp3",
+      "size_bytes": 3707708,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-015_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-016_النحل.mp3",
+      "size_bytes": 6933548,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-016_%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-017_الاسراء.mp3",
+      "size_bytes": 7338708,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-017_%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-018_الكهف.mp3",
+      "size_bytes": 6669450,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-018_%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-019_مريم.mp3",
+      "size_bytes": 3714918,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-019_%D9%85%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-020_طه.mp3",
+      "size_bytes": 5103044,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-020_%D8%B7%D9%87.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-021_الأنبياء.mp3",
+      "size_bytes": 5416273,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-021_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-022_الحج.mp3",
+      "size_bytes": 4690591,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-022_%D8%A7%D9%84%D8%AD%D8%AC.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-023_المؤمنون.mp3",
+      "size_bytes": 4183868,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-023_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-024_النور.mp3",
+      "size_bytes": 3798374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-024_%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-025_الفرقان.mp3",
+      "size_bytes": 2903576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-025_%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-026_الشعراء.mp3",
+      "size_bytes": 3004366,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-026_%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-027_النمل.mp3",
+      "size_bytes": 2558916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-027_%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-028_القصص.mp3",
+      "size_bytes": 3855352,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-028_%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-029_العنكبوت.mp3",
+      "size_bytes": 2458606,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-029_%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-030_الروم.mp3",
+      "size_bytes": 3037427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-030_%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-031_لقمان.mp3",
+      "size_bytes": 1952896,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-031_%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-032_السجدة.mp3",
+      "size_bytes": 1183642,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-032_%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-033_الأحزاب.mp3",
+      "size_bytes": 4378606,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-033_%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-034_سباء.mp3",
+      "size_bytes": 3626279,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-034_%D8%B3%D8%A8%D8%A7%D8%A1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-035_فاطر.mp3",
+      "size_bytes": 2232667,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-035_%D9%81%D8%A7%D8%B7%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-036_يس.mp3",
+      "size_bytes": 2091533,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-036_%D9%8A%D8%B3.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-037_الصافات.mp3",
+      "size_bytes": 2663385,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-037_%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-038_ص.mp3",
+      "size_bytes": 3390634,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-038_%D8%B5.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-039_الزمر.mp3",
+      "size_bytes": 3705587,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-039_%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-040_غافر.mp3",
+      "size_bytes": 4219290,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-040_%D8%BA%D8%A7%D9%81%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-041_فصلت.mp3",
+      "size_bytes": 3769535,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-041_%D9%81%D8%B5%D9%84%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-042_الشورى.mp3",
+      "size_bytes": 3976424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-042_%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-043_الزخرف.mp3",
+      "size_bytes": 3232332,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-043_%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-044_الدخان.mp3",
+      "size_bytes": 1648287,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-044_%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-045_الجاثية.mp3",
+      "size_bytes": 1348214,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-045_%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-046_الاحقاف.mp3",
+      "size_bytes": 1847100,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-046_%D8%A7%D9%84%D8%A7%D8%AD%D9%82%D8%A7%D9%81.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-047_محمد.mp3",
+      "size_bytes": 1335205,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-047_%D9%85%D8%AD%D9%85%D8%AF.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-048_الفتح.mp3",
+      "size_bytes": 1466862,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-048_%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-049_الحجرات.mp3",
+      "size_bytes": 918604,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-049_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-050_ق.mp3",
+      "size_bytes": 1928686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-050_%D9%82.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-051_الذاريات.mp3",
+      "size_bytes": 2032287,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-051_%D8%A7%D9%84%D8%B0%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-052_الطور.mp3",
+      "size_bytes": 1452682,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-052_%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-053_النجم.mp3",
+      "size_bytes": 1982916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-053_%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-054_القمر.mp3",
+      "size_bytes": 2371775,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-054_%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-055_الرحمن.mp3",
+      "size_bytes": 1696405,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-055_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-056_الواقعة.mp3",
+      "size_bytes": 2593398,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-056_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-057_الحديد.mp3",
+      "size_bytes": 2262917,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-057_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-058_المجادلة.mp3",
+      "size_bytes": 1325644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-058_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-059_الحشر.mp3",
+      "size_bytes": 1863557,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-059_%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-060_الممتحنة.mp3",
+      "size_bytes": 1205272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-060_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-061_الصف.mp3",
+      "size_bytes": 578489,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-061_%D8%A7%D9%84%D8%B5%D9%81.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-062_الجمعة.mp3",
+      "size_bytes": 863590,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-062_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-063_المنافقون.mp3",
+      "size_bytes": 673471,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-063_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-064_التغابن.mp3",
+      "size_bytes": 957944,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-064_%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-065_الطلاق.mp3",
+      "size_bytes": 1158408,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-065_%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-066_التحريم.mp3",
+      "size_bytes": 828795,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-066_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-067_الملك.mp3",
+      "size_bytes": 1854937,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-067_%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-068_القلم.mp3",
+      "size_bytes": 2045923,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-068_%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-069_الحاقة.mp3",
+      "size_bytes": 1943105,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-069_%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-070_المعارج.mp3",
+      "size_bytes": 1506045,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-070_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-071_نوح.mp3",
+      "size_bytes": 904811,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-071_%D9%86%D9%88%D8%AD.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-072_الجن.mp3",
+      "size_bytes": 1790049,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-072_%D8%A7%D9%84%D8%AC%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-073_المزمل.mp3",
+      "size_bytes": 1558708,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-073_%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-074_المدثر.mp3",
+      "size_bytes": 2289019,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-074_%D8%A7%D9%84%D9%85%D8%AF%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-075_القيامة.mp3",
+      "size_bytes": 1679478,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-075_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-076_الأنسان.mp3",
+      "size_bytes": 1920922,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-076_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%A7%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-077_المرسلات.mp3",
+      "size_bytes": 1540297,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-077_%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-078_النبأ.mp3",
+      "size_bytes": 1381995,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-078_%D8%A7%D9%84%D9%86%D8%A8%D8%A3.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-079_النازعات.mp3",
+      "size_bytes": 1558322,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-079_%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-080_عبس.mp3",
+      "size_bytes": 1312562,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-080_%D8%B9%D8%A8%D8%B3.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-081_التكوير.mp3",
+      "size_bytes": 856067,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-081_%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-082_الأنفطار.mp3",
+      "size_bytes": 690868,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-082_%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-083_المطففين.mp3",
+      "size_bytes": 1325644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-083_%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-084_الأنشقاق.mp3",
+      "size_bytes": 752622,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-084_%D8%A7%D9%84%D8%A3%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-085_البروج.mp3",
+      "size_bytes": 686950,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-085_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-086_الطارق.mp3",
+      "size_bytes": 605605,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-086_%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-087_الأعلى.mp3",
+      "size_bytes": 594006,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-087_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-088_الغاشية.mp3",
+      "size_bytes": 714692,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-088_%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-089_الفجر.mp3",
+      "size_bytes": 1139286,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-089_%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-090_البلد.mp3",
+      "size_bytes": 744315,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-090_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-091_الشمس.mp3",
+      "size_bytes": 569085,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-091_%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-092_الليل.mp3",
+      "size_bytes": 776916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-092_%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-093_الضحى.mp3",
+      "size_bytes": 332416,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-093_%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-094_الشرح.mp3",
+      "size_bytes": 210947,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-094_%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-095_التين.mp3",
+      "size_bytes": 278499,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-095_%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-096_العلق.mp3",
+      "size_bytes": 623316,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-096_%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-097_القدر.mp3",
+      "size_bytes": 295583,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-097_%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-098_البينة.mp3",
+      "size_bytes": 373794,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-098_%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-099_الزلزلة.mp3",
+      "size_bytes": 321915,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-099_%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-100_العاديات.mp3",
+      "size_bytes": 465640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-100_%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-101_القارعة.mp3",
+      "size_bytes": 391192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-101_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-102_التكاثر.mp3",
+      "size_bytes": 348873,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-102_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-103_العصر.mp3",
+      "size_bytes": 156476,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-103_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-104_الهمزة.mp3",
+      "size_bytes": 361255,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-104_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-105_الفيل.mp3",
+      "size_bytes": 233830,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-105_%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-106_قريش.mp3",
+      "size_bytes": 169799,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-106_%D9%82%D8%B1%D9%8A%D8%B4.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-107_الماعون.mp3",
+      "size_bytes": 272073,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-107_%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-108_الكوثر.mp3",
+      "size_bytes": 144094,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-108_%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-109_الكافرون.mp3",
+      "size_bytes": 361485,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-109_%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-110_النصر.mp3",
+      "size_bytes": 141900,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-110_%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-111_المسد.mp3",
+      "size_bytes": 382017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-111_%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-112_الأخلاص.mp3",
+      "size_bytes": 282804,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-112_%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D8%B5.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-113_الفلق.mp3",
+      "size_bytes": 242053,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-113_%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3"
+    },
+    {
+      "path": "غريب_القران_سور/G-114_الناس.mp3",
+      "size_bytes": 258437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/books-audios/muyassar-ghareeb-sura/%D8%BA%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D8%B1/G-114_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
+    }
+  ]
+}

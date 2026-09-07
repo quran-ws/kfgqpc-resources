@@ -1,0 +1,47 @@
+{
+  "slug": "tafseer-muyassar",
+  "page_order": 4,
+  "group": "quran-interpretation-books",
+  "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+  "title": {
+    "ar": "التفسير الميسر",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tafseer_Moyassar-Jawami.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/TafseerMuyassar.pdf",
+    "filename": "TafseerMuyassar.pdf",
+    "size_bytes": 348194833,
+    "size_human": "332.06 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 13:16:06 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tafseer-muyassar/TafseerMuyassar.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a04a6ee6067964b2697c4221c45cc064",
+      "sha1": "6af75a69f9838206ec24855e22525b29bcedfd03",
+      "sha256": "e2a46fd8703b2881b5ae2bf1de571cc5ca47580368738bf61ce9373a46a3d15b"
+    }
+  },
+  "captured_at": "2026-09-07T14:27:50Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 348292662,
+  "files": [
+    {
+      "path": "TafseerMuyassar.pdf",
+      "size_bytes": 348194833,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tafseer-muyassar/TafseerMuyassar.pdf"
+    },
+    {
+      "path": "Tafseer_Moyassar-Jawami.jpg",
+      "size_bytes": 97829,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tafseer-muyassar/Tafseer_Moyassar-Jawami.jpg"
+    }
+  ]
+}

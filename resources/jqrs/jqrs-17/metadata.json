@@ -1,0 +1,32 @@
+{
+  "slug": "jqrs-17",
+  "page_order": 13,
+  "group": "jqrs",
+  "source_page": "https://jqrs.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "سكرتير التحرير",
+    "en": null
+  },
+  "download": {
+    "url": "https://jqrs.qurancomplex.gov.sa/wp-content/uploads/jqrs-docs/all/JQRS_17.pdf",
+    "filename": "JQRS_17.pdf",
+    "size_bytes": 44678490,
+    "size_human": "42.61 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 26 Dec 2024 04:46:38 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-17/JQRS_17.pdf"
+  },
+  "checksums": null,
+  "captured_at": "2026-09-02T10:29:05Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 44678490,
+  "files": [
+    {
+      "path": "JQRS_17.pdf",
+      "size_bytes": 44678490,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-17/JQRS_17.pdf"
+    }
+  ]
+}

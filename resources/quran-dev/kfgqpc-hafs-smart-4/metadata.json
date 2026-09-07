@@ -1,0 +1,164 @@
+{
+  "slug": "kfgqpc-hafs-smart-4",
+  "page_order": 1,
+  "group": "quran-dev",
+  "source_page": "https://qurancomplex.gov.sa/quran-dev/",
+  "title": {
+    "ar": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية",
+    "en": "Unicode Uthmanic Font (Hafs Narration) for smart devices"
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/resources_dev/kfgqpc_hafs_smart_4.zip",
+    "filename": "kfgqpc_hafs_smart_4.zip",
+    "size_bytes": 22705385,
+    "size_human": "21.65 MB",
+    "downloads_count_at_capture": 1725,
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Thu, 30 Jun 2022 06:03:14 GMT"
+  },
+  "checksums": {
+    "published": {
+      "md5": "53d82b553e5fe919ca1a732e35bf4eb0",
+      "sha1": "1dbeae3847880b1c21a956dcfdc0a2d9d490e729"
+    },
+    "computed": {
+      "md5": "53d82b553e5fe919ca1a732e35bf4eb0",
+      "sha1": "1dbeae3847880b1c21a956dcfdc0a2d9d490e729",
+      "sha256": "e0db8d3ccb9889abe70606a70fef102f1e3a4646e682c0263ef9554775a05ffe"
+    },
+    "verified": true,
+    "note": null
+  },
+  "release_info": {
+    "created": "21-08-2020",
+    "created_iso": "2020-08-21",
+    "last_modified": "30-06-2022",
+    "last_modified_iso": "2022-06-30",
+    "version": "6.0",
+    "update_notes": "في ملف read.me"
+  },
+  "tabs": {
+    "definition": {
+      "label_ar": "تعريف",
+      "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية\nيستخدم لعرض الآيات بالرسم العثماني على الأجهزة الذكية، وهو ليس معداً لعرض كامل صفحة المصحف مطابقة لمصحف المدينة النبوية، ولكنه يستخدم لعرض النص القرآني على مستوى الآيات فقط. مثل عرض نص الآيات في نتائج البحث، عرض نص الآيات في كتاب التفسير أوالكتب الأخرى.\nتحقق الوثوقية (MD5): 53d82b553e5fe919ca1a732e35bf4eb0\nتحقق الوثوقية (SHA-1): 1dbeae3847880b1c21a956dcfdc0a2d9d490e729\nأنواع الملفات:",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية"
+        },
+        {
+          "type": "text",
+          "text": "يستخدم لعرض الآيات بالرسم العثماني على الأجهزة الذكية، وهو ليس معداً لعرض كامل صفحة المصحف مطابقة لمصحف المدينة النبوية، ولكنه يستخدم لعرض النص القرآني على مستوى الآيات فقط. مثل عرض نص الآيات في نتائج البحث، عرض نص الآيات في كتاب التفسير أوالكتب الأخرى."
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (MD5): 53d82b553e5fe919ca1a732e35bf4eb0"
+        },
+        {
+          "type": "text",
+          "text": "تحقق الوثوقية (SHA-1): 1dbeae3847880b1c21a956dcfdc0a2d9d490e729"
+        },
+        {
+          "type": "text",
+          "text": "أنواع الملفات:"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية حفص) للأجهزة الذكية</h3>\n          <p>يستخدم لعرض الآيات بالرسم العثماني على الأجهزة الذكية، وهو ليس معداً لعرض كامل صفحة المصحف مطابقة لمصحف المدينة النبوية، ولكنه يستخدم لعرض النص القرآني على مستوى الآيات فقط. مثل عرض نص الآيات في نتائج البحث، عرض نص الآيات في كتاب التفسير أوالكتب الأخرى.</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (MD5):</strong> 53d82b553e5fe919ca1a732e35bf4eb0</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>تحقق الوثوقية (SHA-1):</strong> 1dbeae3847880b1c21a956dcfdc0a2d9d490e729</p>\n\t\t  <p class=\"qc_modern_txt_right\"><strong>أنواع الملفات:</strong> <i class=\"fa-regular fa-file-excel\" style=\"color: green;\" title=\"excel\"></i>\n\t\t\t<i class=\"fa-regular fa-file-word\" style=\"color: blue;\" title=\"word\"></i>\n\t\t\t<i class=\"fa-solid fa-database\" style=\"color: #000;\" title=\"database\"></i>\n\t\t\t<i class=\"fa-brands fa-html5\" style=\"color: #ff4500;\" title=\"HTML 5\"></i>\n\t\t\t<i class=\"fa-regular fa-file-code\" style=\"color: #607d8b;\" title=\"JSON/XML\"></i>\n\t\t\t<i class=\"fa-regular fa-file-pdf\" style=\"color: #c62828;\" title=\"PDF\"></i>\n\t\t  </p>"
+    },
+    "usage_guide": {
+      "label_ar": "دليل الاستخدام",
+      "text": "The database contains the following fields:\n1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in UthmanicHafs unicode\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\nIt includes two folders:\n1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The database contains the following fields:"
+        },
+        {
+          "type": "text",
+          "text": "1- id (int): Auto_increment Number\n2- jozz (int): Jozz Number\n3- sura_no (int): Sura Number\n4- sura_name_en (varchar): Sura Name in English\n5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font)\n6- page (int): Page Number\n7- line_start (int): Start Line of Aya\n8- line_end (int): End Line of Aya\n9- aya_no (int): Aya Number\n10- aya_text (text): Text of the Aya in UthmanicHafs unicode\n11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose"
+        },
+        {
+          "type": "heading",
+          "text": "It includes two folders:"
+        },
+        {
+          "type": "text",
+          "text": "1- It contains font file and whole Qur’an data in MS document file.\n2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF)."
+        }
+      ],
+      "html": "<h3 class=\"qc_modern_inside_tab_en\">The database contains the following fields:</h3>\n          <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- id (int): Auto_increment Number <br>\n\t\t\t2- jozz (int): Jozz Number <br>\n\t\t\t3- sura_no (int): Sura Number <br>\n\t\t\t4- sura_name_en (varchar): Sura Name in English <br>\n\t\t\t5- sura_name_ar (varchar): Sura Name in Arabic (Uthman Taha Naskh font) <br>\n\t\t\t6- page (int): Page Number <br>\n\t\t\t7- line_start (int): Start Line of Aya <br>\n\t\t\t8- line_end (int): End Line of Aya <br>\n\t\t\t9- aya_no (int): Aya Number <br>\n\t\t\t10- aya_text (text): Text of the Aya in UthmanicHafs unicode <br>\n\t\t\t11- aya_text_emlaey (text): Emlaey Text of the Aya used for search purpose\n\t\t  </p>\n\t\t  <h3 class=\"qc_modern_inside_tab_en\">It includes two folders:</h3>\n\t\t  <p class=\"qc_modern_inside_tab_en\">\n\t\t\t1- It contains font file and whole Qur’an data in MS document file. <br>\n\t\t\t2- It contains files for developers (Excel, CSV, HTML5, SQL, XML, JSON and PDF).\n\t\t  </p>"
+    },
+    "information": {
+      "label_ar": "معلومات",
+      "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية\nتاريخ الإنشاء: 21-08-2020\nتاريخ آخر تعديل: 30-06-2022\nمعلومات حول التحديث الجديد: في ملف read.me\nتحديث: 6.0",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "خط الرسم العثماني (رواية حفص) للأجهزة الذكية"
+        },
+        {
+          "type": "text",
+          "text": "تاريخ الإنشاء: 21-08-2020\nتاريخ آخر تعديل: 30-06-2022\nمعلومات حول التحديث الجديد: في ملف read.me\nتحديث: 6.0"
+        }
+      ],
+      "html": "<h3>خط الرسم العثماني (رواية حفص) للأجهزة الذكية</h3>\n          <p>\n\t\t\tتاريخ الإنشاء: 21-08-2020 <br>\n\t\t\tتاريخ آخر تعديل: 30-06-2022 <br>\n\t\t\tمعلومات حول التحديث الجديد: في ملف read.me<br>\n\t\t\tتحديث: 6.0\n\t\t  </p>"
+    }
+  },
+  "captured_at": "2026-09-07T14:02:59Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 10,
+  "total_bytes": 54344550,
+  "files": [
+    {
+      "path": "kfgqpc_hafs_smart_data/hafs_smart_v8.csv",
+      "size_bytes": 3032989,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/hafs_smart_v8.csv"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_data/hafs_smart_v8.html",
+      "size_bytes": 5621209,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/hafs_smart_v8.html"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_data/hafs_smart_v8.json",
+      "size_bytes": 4192442,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/hafs_smart_v8.json"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_data/hafs_smart_v8.sql",
+      "size_bytes": 3980479,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/hafs_smart_v8.sql"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_data/hafs_smart_v8.xlsx",
+      "size_bytes": 1159191,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/hafs_smart_v8.xlsx"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_data/hafs_smart_v8.xml",
+      "size_bytes": 4685098,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/hafs_smart_v8.xml"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_data/read.me",
+      "size_bytes": 1927,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_data/read.me"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_font/HafsSmart_08.docx",
+      "size_bytes": 1848904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_font/HafsSmart_08.docx"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_font/HafsSmart_08.pdf",
+      "size_bytes": 29521127,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_font/HafsSmart_08.pdf"
+    },
+    {
+      "path": "kfgqpc_hafs_smart_font/HafsSmart_08.ttf",
+      "size_bytes": 301184,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-dev/kfgqpc-hafs-smart-4/kfgqpc_hafs_smart_font/HafsSmart_08.ttf"
+    }
+  ]
+}

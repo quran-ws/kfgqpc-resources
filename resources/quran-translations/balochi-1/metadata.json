@@ -1,0 +1,47 @@
+{
+  "slug": "balochi-1",
+  "page_order": 7,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "البلوشية (بلوچی)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/urdu.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/balochi-1.pdf",
+    "filename": "balochi-1.pdf",
+    "size_bytes": 408224664,
+    "size_human": "389.31 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 20 Aug 2024 05:34:21 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/balochi-1/balochi-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5dce036655b282eff94a44db42585d0a",
+      "sha1": "75fbb3f4388aa19abed5ea25ac211b28a491a130",
+      "sha256": "e9e32d9e4d3e4b978b3204d4562f5fb0faf9ed9911cd9250a1c397f04e2d67aa"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 408295379,
+  "files": [
+    {
+      "path": "balochi-1.pdf",
+      "size_bytes": 408224664,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/balochi-1/balochi-1.pdf"
+    },
+    {
+      "path": "urdu.jpg",
+      "size_bytes": 70715,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/balochi-1/urdu.jpg"
+    }
+  ]
+}

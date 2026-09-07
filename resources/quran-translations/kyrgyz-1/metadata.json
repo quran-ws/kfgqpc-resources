@@ -1,0 +1,47 @@
+{
+  "slug": "kyrgyz-1",
+  "page_order": 24,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "القيرغيزية (кыргыз тили)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Kyrgyz.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kyrgyz-1.pdf",
+    "filename": "kyrgyz-1.pdf",
+    "size_bytes": 160883767,
+    "size_human": "153.43 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Mon, 26 Aug 2024 08:38:09 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kyrgyz-1/kyrgyz-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "bdba689ed2c8af20426b47afdd022179",
+      "sha1": "b4d8c300327b6ec6bce9f65cb532ef46ed52777d",
+      "sha256": "1b4a7f189b5056b0f760a7f8f4795274d31eab7f4fd696daa1eb38b62b252297"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 160992287,
+  "files": [
+    {
+      "path": "Kyrgyz.jpg",
+      "size_bytes": 108520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kyrgyz-1/Kyrgyz.jpg"
+    },
+    {
+      "path": "kyrgyz-1.pdf",
+      "size_bytes": 160883767,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kyrgyz-1/kyrgyz-1.pdf"
+    }
+  ]
+}

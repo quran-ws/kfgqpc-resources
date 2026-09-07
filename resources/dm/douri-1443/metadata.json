@@ -1,0 +1,3056 @@
+{
+  "slug": "douri-1443",
+  "page_order": 5,
+  "group": "dm",
+  "source_page": "https://dm.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل",
+    "en": null
+  },
+  "download": {
+    "url": "https://dm.qurancomplex.gov.sa/Download/Douri-1443.zip",
+    "filename": "Douri-1443.zip",
+    "size_bytes": 482791633,
+    "size_human": "460.43 MB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Tue, 08 Feb 2022 10:35:43 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5557b758056edd3304a4edfe8ed7087b",
+      "sha1": "f37c19e7e6e5070596aae0b0b8e9df234bf9492e",
+      "sha256": "f43a49555fd8c63774725e670a16c002a6024e40ad5601c8adc72846ca581c85"
+    }
+  },
+  "captured_at": "2026-09-07T14:04:04Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 604,
+  "total_bytes": 506079784,
+  "files": [
+    {
+      "path": "Douri-1443/001___douri__DM.ai",
+      "size_bytes": 238931,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/001___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/002___douri__DM.ai",
+      "size_bytes": 284438,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/002___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/003___douri__DM.ai",
+      "size_bytes": 803747,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/003___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/004___douri__DM.ai",
+      "size_bytes": 826374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/004___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/005___douri__DM.ai",
+      "size_bytes": 757487,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/005___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/006___douri__DM.ai",
+      "size_bytes": 861947,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/006___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/007___douri__DM.ai",
+      "size_bytes": 875165,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/007___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/008___douri__DM.ai",
+      "size_bytes": 824462,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/008___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/009___douri__DM.ai",
+      "size_bytes": 784837,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/009___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/010___douri__DM.ai",
+      "size_bytes": 818123,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/010___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/011___douri__DM.ai",
+      "size_bytes": 857231,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/011___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/012___douri__DM.ai",
+      "size_bytes": 755227,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/012___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/013___douri__DM.ai",
+      "size_bytes": 816630,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/013___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/014___douri__DM.ai",
+      "size_bytes": 756743,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/014___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/015___douri__DM.ai",
+      "size_bytes": 777443,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/015___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/016___douri__DM.ai",
+      "size_bytes": 736893,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/016___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/017___douri__DM.ai",
+      "size_bytes": 777899,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/017___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/018___douri__DM.ai",
+      "size_bytes": 818834,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/018___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/019___douri__DM.ai",
+      "size_bytes": 884006,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/019___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/020___douri__DM.ai",
+      "size_bytes": 824938,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/020___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/021___douri__DM.ai",
+      "size_bytes": 802459,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/021___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/022___douri__DM.ai",
+      "size_bytes": 821842,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/022___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/023___douri__DM.ai",
+      "size_bytes": 816987,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/023___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/024___douri__DM.ai",
+      "size_bytes": 856465,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/024___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/025___douri__DM.ai",
+      "size_bytes": 816953,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/025___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/026___douri__DM.ai",
+      "size_bytes": 792486,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/026___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/027___douri__DM.ai",
+      "size_bytes": 857997,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/027___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/028___douri__DM.ai",
+      "size_bytes": 761687,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/028___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/029___douri__DM.ai",
+      "size_bytes": 806002,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/029___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/030___douri__DM.ai",
+      "size_bytes": 964631,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/030___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/031___douri__DM.ai",
+      "size_bytes": 708832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/031___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/032___douri__DM.ai",
+      "size_bytes": 797232,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/032___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/033___douri__DM.ai",
+      "size_bytes": 880019,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/033___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/034___douri__DM.ai",
+      "size_bytes": 807222,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/034___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/035___douri__DM.ai",
+      "size_bytes": 869142,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/035___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/036___douri__DM.ai",
+      "size_bytes": 917368,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/036___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/037___douri__DM.ai",
+      "size_bytes": 911292,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/037___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/038___douri__DM.ai",
+      "size_bytes": 842850,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/038___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/039___douri__DM.ai",
+      "size_bytes": 758336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/039___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/040___douri__DM.ai",
+      "size_bytes": 739252,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/040___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/041___douri__DM.ai",
+      "size_bytes": 698798,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/041___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/042___douri__DM.ai",
+      "size_bytes": 882295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/042___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/043___douri__DM.ai",
+      "size_bytes": 799838,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/043___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/044___douri__DM.ai",
+      "size_bytes": 838770,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/044___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/045___douri__DM.ai",
+      "size_bytes": 820433,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/045___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/046___douri__DM.ai",
+      "size_bytes": 726794,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/046___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/047___douri__DM.ai",
+      "size_bytes": 813294,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/047___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/048___douri__DM.ai",
+      "size_bytes": 810127,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/048___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/049___douri__DM.ai",
+      "size_bytes": 820679,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/049___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/050___douri__DM.ai",
+      "size_bytes": 852405,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/050___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/051___douri__DM.ai",
+      "size_bytes": 803047,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/051___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/052___douri__DM.ai",
+      "size_bytes": 779883,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/052___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/053___douri__DM.ai",
+      "size_bytes": 862824,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/053___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/054___douri__DM.ai",
+      "size_bytes": 866538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/054___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/055___douri__DM.ai",
+      "size_bytes": 833908,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/055___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/056___douri__DM.ai",
+      "size_bytes": 809534,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/056___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/057___douri__DM.ai",
+      "size_bytes": 778138,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/057___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/058___douri__DM.ai",
+      "size_bytes": 845276,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/058___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/059___douri__DM.ai",
+      "size_bytes": 842955,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/059___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/060___douri__DM.ai",
+      "size_bytes": 786431,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/060___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/061___douri__DM.ai",
+      "size_bytes": 794017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/061___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/062___douri__DM.ai",
+      "size_bytes": 859590,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/062___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/063___douri__DM.ai",
+      "size_bytes": 876550,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/063___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/064___douri__DM.ai",
+      "size_bytes": 802933,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/064___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/065___douri__DM.ai",
+      "size_bytes": 842810,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/065___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/066___douri__DM.ai",
+      "size_bytes": 841933,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/066___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/067___douri__DM.ai",
+      "size_bytes": 788812,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/067___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/068___douri__DM.ai",
+      "size_bytes": 834371,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/068___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/069___douri__DM.ai",
+      "size_bytes": 678026,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/069___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/070___douri__DM.ai",
+      "size_bytes": 838344,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/070___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/071___douri__DM.ai",
+      "size_bytes": 847150,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/071___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/072___douri__DM.ai",
+      "size_bytes": 864364,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/072___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/073___douri__DM.ai",
+      "size_bytes": 891872,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/073___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/074___douri__DM.ai",
+      "size_bytes": 787157,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/074___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/075___douri__DM.ai",
+      "size_bytes": 806545,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/075___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/076___douri__DM.ai",
+      "size_bytes": 761652,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/076___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/077___douri__DM.ai",
+      "size_bytes": 907174,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/077___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/078___douri__DM.ai",
+      "size_bytes": 843423,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/078___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/079___douri__DM.ai",
+      "size_bytes": 687806,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/079___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/080___douri__DM.ai",
+      "size_bytes": 782731,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/080___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/081___douri__DM.ai",
+      "size_bytes": 676224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/081___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/082___douri__DM.ai",
+      "size_bytes": 778930,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/082___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/083___douri__DM.ai",
+      "size_bytes": 740793,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/083___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/084___douri__DM.ai",
+      "size_bytes": 732407,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/084___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/085___douri__DM.ai",
+      "size_bytes": 822539,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/085___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/086___douri__DM.ai",
+      "size_bytes": 848628,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/086___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/087___douri__DM.ai",
+      "size_bytes": 880659,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/087___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/088___douri__DM.ai",
+      "size_bytes": 764189,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/088___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/089___douri__DM.ai",
+      "size_bytes": 818869,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/089___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/090___douri__DM.ai",
+      "size_bytes": 908850,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/090___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/091___douri__DM.ai",
+      "size_bytes": 828336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/091___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/092___douri__DM.ai",
+      "size_bytes": 885402,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/092___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/093___douri__DM.ai",
+      "size_bytes": 730431,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/093___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/094___douri__DM.ai",
+      "size_bytes": 918326,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/094___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/095___douri__DM.ai",
+      "size_bytes": 801966,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/095___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/096___douri__DM.ai",
+      "size_bytes": 772163,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/096___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/097___douri__DM.ai",
+      "size_bytes": 770639,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/097___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/098___douri__DM.ai",
+      "size_bytes": 760279,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/098___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/099___douri__DM.ai",
+      "size_bytes": 781572,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/099___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/100___douri__DM.ai",
+      "size_bytes": 862860,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/100___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/101___douri__DM.ai",
+      "size_bytes": 813487,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/101___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/102___douri__DM.ai",
+      "size_bytes": 848645,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/102___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/103___douri__DM.ai",
+      "size_bytes": 879730,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/103___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/104___douri__DM.ai",
+      "size_bytes": 807948,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/104___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/105___douri__DM.ai",
+      "size_bytes": 799673,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/105___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/106___douri__DM.ai",
+      "size_bytes": 787322,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/106___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/107___douri__DM.ai",
+      "size_bytes": 876157,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/107___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/108___douri__DM.ai",
+      "size_bytes": 771222,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/108___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/109___douri__DM.ai",
+      "size_bytes": 746951,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/109___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/110___douri__DM.ai",
+      "size_bytes": 673318,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/110___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/111___douri__DM.ai",
+      "size_bytes": 824712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/111___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/112___douri__DM.ai",
+      "size_bytes": 835881,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/112___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/113___douri__DM.ai",
+      "size_bytes": 768415,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/113___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/114___douri__DM.ai",
+      "size_bytes": 784630,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/114___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/115___douri__DM.ai",
+      "size_bytes": 777938,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/115___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/116___douri__DM.ai",
+      "size_bytes": 836233,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/116___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/117___douri__DM.ai",
+      "size_bytes": 952864,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/117___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/118___douri__DM.ai",
+      "size_bytes": 933764,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/118___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/119___douri__DM.ai",
+      "size_bytes": 823692,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/119___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/120___douri__DM.ai",
+      "size_bytes": 865700,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/120___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/121___douri__DM.ai",
+      "size_bytes": 730321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/121___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/122___douri__DM.ai",
+      "size_bytes": 848263,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/122___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/123___douri__DM.ai",
+      "size_bytes": 806927,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/123___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/124___douri__DM.ai",
+      "size_bytes": 834137,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/124___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/125___douri__DM.ai",
+      "size_bytes": 881842,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/125___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/126___douri__DM.ai",
+      "size_bytes": 816442,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/126___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/127___douri__DM.ai",
+      "size_bytes": 888496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/127___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/128___douri__DM.ai",
+      "size_bytes": 812686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/128___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/129___douri__DM.ai",
+      "size_bytes": 802295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/129___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/130___douri__DM.ai",
+      "size_bytes": 966317,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/130___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/131___douri__DM.ai",
+      "size_bytes": 869878,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/131___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/132___douri__DM.ai",
+      "size_bytes": 883740,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/132___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/133___douri__DM.ai",
+      "size_bytes": 860112,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/133___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/134___douri__DM.ai",
+      "size_bytes": 824996,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/134___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/135___douri__DM.ai",
+      "size_bytes": 897322,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/135___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/136___douri__DM.ai",
+      "size_bytes": 778517,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/136___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/137___douri__DM.ai",
+      "size_bytes": 807855,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/137___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/138___douri__DM.ai",
+      "size_bytes": 837121,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/138___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/139___douri__DM.ai",
+      "size_bytes": 863064,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/139___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/140___douri__DM.ai",
+      "size_bytes": 880101,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/140___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/141___douri__DM.ai",
+      "size_bytes": 846768,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/141___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/142___douri__DM.ai",
+      "size_bytes": 862385,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/142___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/143___douri__DM.ai",
+      "size_bytes": 833538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/143___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/144___douri__DM.ai",
+      "size_bytes": 778113,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/144___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/145___douri__DM.ai",
+      "size_bytes": 734854,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/145___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/146___douri__DM.ai",
+      "size_bytes": 773793,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/146___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/147___douri__DM.ai",
+      "size_bytes": 793366,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/147___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/148___douri__DM.ai",
+      "size_bytes": 805849,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/148___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/149___douri__DM.ai",
+      "size_bytes": 807123,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/149___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/150___douri__DM.ai",
+      "size_bytes": 905352,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/150___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/151___douri__DM.ai",
+      "size_bytes": 786501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/151___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/152___douri__DM.ai",
+      "size_bytes": 917382,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/152___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/153___douri__DM.ai",
+      "size_bytes": 845552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/153___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/154___douri__DM.ai",
+      "size_bytes": 893894,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/154___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/155___douri__DM.ai",
+      "size_bytes": 848949,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/155___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/156___douri__DM.ai",
+      "size_bytes": 870770,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/156___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/157___douri__DM.ai",
+      "size_bytes": 835643,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/157___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/158___douri__DM.ai",
+      "size_bytes": 827860,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/158___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/159___douri__DM.ai",
+      "size_bytes": 776709,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/159___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/160___douri__DM.ai",
+      "size_bytes": 759443,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/160___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/161___douri__DM.ai",
+      "size_bytes": 723492,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/161___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/162___douri__DM.ai",
+      "size_bytes": 887035,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/162___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/163___douri__DM.ai",
+      "size_bytes": 803543,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/163___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/164___douri__DM.ai",
+      "size_bytes": 831082,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/164___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/165___douri__DM.ai",
+      "size_bytes": 825453,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/165___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/166___douri__DM.ai",
+      "size_bytes": 807923,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/166___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/167___douri__DM.ai",
+      "size_bytes": 791144,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/167___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/168___douri__DM.ai",
+      "size_bytes": 788964,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/168___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/169___douri__DM.ai",
+      "size_bytes": 840631,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/169___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/170___douri__DM.ai",
+      "size_bytes": 780147,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/170___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/171___douri__DM.ai",
+      "size_bytes": 729105,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/171___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/172___douri__DM.ai",
+      "size_bytes": 841011,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/172___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/173___douri__DM.ai",
+      "size_bytes": 870435,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/173___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/174___douri__DM.ai",
+      "size_bytes": 893623,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/174___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/175___douri__DM.ai",
+      "size_bytes": 856455,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/175___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/176___douri__DM.ai",
+      "size_bytes": 854353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/176___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/177___douri__DM.ai",
+      "size_bytes": 775418,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/177___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/178___douri__DM.ai",
+      "size_bytes": 825876,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/178___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/179___douri__DM.ai",
+      "size_bytes": 811276,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/179___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/180___douri__DM.ai",
+      "size_bytes": 819951,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/180___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/181___douri__DM.ai",
+      "size_bytes": 748806,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/181___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/182___douri__DM.ai",
+      "size_bytes": 803016,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/182___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/183___douri__DM.ai",
+      "size_bytes": 785567,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/183___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/184___douri__DM.ai",
+      "size_bytes": 826131,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/184___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/185___douri__DM.ai",
+      "size_bytes": 831727,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/185___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/186___douri__DM.ai",
+      "size_bytes": 855712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/186___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/187___douri__DM.ai",
+      "size_bytes": 836751,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/187___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/188___douri__DM.ai",
+      "size_bytes": 777966,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/188___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/189___douri__DM.ai",
+      "size_bytes": 823786,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/189___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/190___douri__DM.ai",
+      "size_bytes": 766182,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/190___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/191___douri__DM.ai",
+      "size_bytes": 722535,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/191___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/192___douri__DM.ai",
+      "size_bytes": 754051,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/192___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/193___douri__DM.ai",
+      "size_bytes": 741469,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/193___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/194___douri__DM.ai",
+      "size_bytes": 783946,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/194___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/195___douri__DM.ai",
+      "size_bytes": 751057,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/195___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/196___douri__DM.ai",
+      "size_bytes": 805183,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/196___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/197___douri__DM.ai",
+      "size_bytes": 768544,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/197___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/198___douri__DM.ai",
+      "size_bytes": 781296,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/198___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/199___douri__DM.ai",
+      "size_bytes": 793163,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/199___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/200___douri__DM.ai",
+      "size_bytes": 851727,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/200___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/201___douri__DM.ai",
+      "size_bytes": 773088,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/201___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/202___douri__DM.ai",
+      "size_bytes": 831427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/202___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/203___douri__DM.ai",
+      "size_bytes": 850433,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/203___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/204___douri__DM.ai",
+      "size_bytes": 812721,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/204___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/205___douri__DM.ai",
+      "size_bytes": 759023,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/205___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/206___douri__DM.ai",
+      "size_bytes": 786710,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/206___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/207___douri__DM.ai",
+      "size_bytes": 746387,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/207___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/208___douri__DM.ai",
+      "size_bytes": 803580,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/208___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/209___douri__DM.ai",
+      "size_bytes": 808892,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/209___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/210___douri__DM.ai",
+      "size_bytes": 775036,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/210___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/211___douri__DM.ai",
+      "size_bytes": 878561,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/211___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/212___douri__DM.ai",
+      "size_bytes": 897786,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/212___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/213___douri__DM.ai",
+      "size_bytes": 917573,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/213___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/214___douri__DM.ai",
+      "size_bytes": 888357,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/214___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/215___douri__DM.ai",
+      "size_bytes": 833745,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/215___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/216___douri__DM.ai",
+      "size_bytes": 764192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/216___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/217___douri__DM.ai",
+      "size_bytes": 881660,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/217___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/218___douri__DM.ai",
+      "size_bytes": 856569,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/218___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/219___douri__DM.ai",
+      "size_bytes": 839562,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/219___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/220___douri__DM.ai",
+      "size_bytes": 847936,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/220___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/221___douri__DM.ai",
+      "size_bytes": 813260,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/221___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/222___douri__DM.ai",
+      "size_bytes": 840055,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/222___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/223___douri__DM.ai",
+      "size_bytes": 833203,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/223___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/224___douri__DM.ai",
+      "size_bytes": 827124,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/224___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/225___douri__DM.ai",
+      "size_bytes": 863337,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/225___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/226___douri__DM.ai",
+      "size_bytes": 810509,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/226___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/227___douri__DM.ai",
+      "size_bytes": 832814,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/227___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/228___douri__DM.ai",
+      "size_bytes": 911889,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/228___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/229___douri__DM.ai",
+      "size_bytes": 802418,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/229___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/230___douri__DM.ai",
+      "size_bytes": 893248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/230___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/231___douri__DM.ai",
+      "size_bytes": 807964,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/231___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/232___douri__DM.ai",
+      "size_bytes": 803225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/232___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/233___douri__DM.ai",
+      "size_bytes": 871529,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/233___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/234___douri__DM.ai",
+      "size_bytes": 817668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/234___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/235___douri__DM.ai",
+      "size_bytes": 795578,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/235___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/236___douri__DM.ai",
+      "size_bytes": 837532,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/236___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/237___douri__DM.ai",
+      "size_bytes": 817614,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/237___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/238___douri__DM.ai",
+      "size_bytes": 787628,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/238___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/239___douri__DM.ai",
+      "size_bytes": 898055,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/239___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/240___douri__DM.ai",
+      "size_bytes": 810630,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/240___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/241___douri__DM.ai",
+      "size_bytes": 860347,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/241___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/242___douri__DM.ai",
+      "size_bytes": 871329,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/242___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/243___douri__DM.ai",
+      "size_bytes": 819142,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/243___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/244___douri__DM.ai",
+      "size_bytes": 800482,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/244___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/245___douri__DM.ai",
+      "size_bytes": 782715,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/245___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/246___douri__DM.ai",
+      "size_bytes": 782992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/246___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/247___douri__DM.ai",
+      "size_bytes": 829521,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/247___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/248___douri__DM.ai",
+      "size_bytes": 816637,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/248___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/249___douri__DM.ai",
+      "size_bytes": 789038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/249___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/250___douri__DM.ai",
+      "size_bytes": 809450,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/250___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/251___douri__DM.ai",
+      "size_bytes": 947709,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/251___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/252___douri__DM.ai",
+      "size_bytes": 928397,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/252___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/253___douri__DM.ai",
+      "size_bytes": 883655,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/253___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/254___douri__DM.ai",
+      "size_bytes": 874432,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/254___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/255___douri__DM.ai",
+      "size_bytes": 714795,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/255___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/256___douri__DM.ai",
+      "size_bytes": 801362,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/256___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/257___douri__DM.ai",
+      "size_bytes": 774106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/257___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/258___douri__DM.ai",
+      "size_bytes": 803561,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/258___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/259___douri__DM.ai",
+      "size_bytes": 827510,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/259___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/260___douri__DM.ai",
+      "size_bytes": 818335,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/260___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/261___douri__DM.ai",
+      "size_bytes": 791730,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/261___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/262___douri__DM.ai",
+      "size_bytes": 806060,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/262___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/263___douri__DM.ai",
+      "size_bytes": 864471,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/263___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/264___douri__DM.ai",
+      "size_bytes": 848371,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/264___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/265___douri__DM.ai",
+      "size_bytes": 843941,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/265___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/266___douri__DM.ai",
+      "size_bytes": 882189,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/266___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/267___douri__DM.ai",
+      "size_bytes": 778155,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/267___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/268___douri__DM.ai",
+      "size_bytes": 759928,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/268___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/269___douri__DM.ai",
+      "size_bytes": 826146,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/269___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/270___douri__DM.ai",
+      "size_bytes": 847374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/270___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/271___douri__DM.ai",
+      "size_bytes": 819517,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/271___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/272___douri__DM.ai",
+      "size_bytes": 914060,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/272___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/273___douri__DM.ai",
+      "size_bytes": 896418,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/273___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/274___douri__DM.ai",
+      "size_bytes": 890289,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/274___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/275___douri__DM.ai",
+      "size_bytes": 806586,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/275___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/276___douri__DM.ai",
+      "size_bytes": 789755,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/276___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/277___douri__DM.ai",
+      "size_bytes": 807796,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/277___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/278___douri__DM.ai",
+      "size_bytes": 814606,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/278___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/279___douri__DM.ai",
+      "size_bytes": 745795,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/279___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/280___douri__DM.ai",
+      "size_bytes": 787513,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/280___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/281___douri__DM.ai",
+      "size_bytes": 837044,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/281___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/282___douri__DM.ai",
+      "size_bytes": 775785,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/282___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/283___douri__DM.ai",
+      "size_bytes": 904929,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/283___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/284___douri__DM.ai",
+      "size_bytes": 836762,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/284___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/285___douri__DM.ai",
+      "size_bytes": 910842,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/285___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/286___douri__DM.ai",
+      "size_bytes": 925149,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/286___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/287___douri__DM.ai",
+      "size_bytes": 863702,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/287___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/288___douri__DM.ai",
+      "size_bytes": 839508,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/288___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/289___douri__DM.ai",
+      "size_bytes": 839738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/289___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/290___douri__DM.ai",
+      "size_bytes": 835752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/290___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/291___douri__DM.ai",
+      "size_bytes": 845108,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/291___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/292___douri__DM.ai",
+      "size_bytes": 876230,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/292___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/293___douri__DM.ai",
+      "size_bytes": 867260,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/293___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/294___douri__DM.ai",
+      "size_bytes": 822060,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/294___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/295___douri__DM.ai",
+      "size_bytes": 832134,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/295___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/296___douri__DM.ai",
+      "size_bytes": 840268,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/296___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/297___douri__DM.ai",
+      "size_bytes": 874979,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/297___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/298___douri__DM.ai",
+      "size_bytes": 895232,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/298___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/299___douri__DM.ai",
+      "size_bytes": 865612,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/299___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/300___douri__DM.ai",
+      "size_bytes": 831106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/300___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/301___douri__DM.ai",
+      "size_bytes": 844100,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/301___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/302___douri__DM.ai",
+      "size_bytes": 882111,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/302___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/303___douri__DM.ai",
+      "size_bytes": 911672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/303___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/304___douri__DM.ai",
+      "size_bytes": 948964,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/304___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/305___douri__DM.ai",
+      "size_bytes": 691271,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/305___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/306___douri__DM.ai",
+      "size_bytes": 827822,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/306___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/307___douri__DM.ai",
+      "size_bytes": 864546,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/307___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/308___douri__DM.ai",
+      "size_bytes": 886514,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/308___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/309___douri__DM.ai",
+      "size_bytes": 941030,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/309___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/310___douri__DM.ai",
+      "size_bytes": 860904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/310___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/311___douri__DM.ai",
+      "size_bytes": 844916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/311___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/312___douri__DM.ai",
+      "size_bytes": 773927,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/312___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/313___douri__DM.ai",
+      "size_bytes": 864321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/313___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/314___douri__DM.ai",
+      "size_bytes": 899199,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/314___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/315___douri__DM.ai",
+      "size_bytes": 855425,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/315___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/316___douri__DM.ai",
+      "size_bytes": 921753,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/316___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/317___douri__DM.ai",
+      "size_bytes": 854404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/317___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/318___douri__DM.ai",
+      "size_bytes": 832005,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/318___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/319___douri__DM.ai",
+      "size_bytes": 874080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/319___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/320___douri__DM.ai",
+      "size_bytes": 814167,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/320___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/321___douri__DM.ai",
+      "size_bytes": 911941,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/321___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/322___douri__DM.ai",
+      "size_bytes": 787387,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/322___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/323___douri__DM.ai",
+      "size_bytes": 881527,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/323___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/324___douri__DM.ai",
+      "size_bytes": 850882,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/324___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/325___douri__DM.ai",
+      "size_bytes": 770325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/325___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/326___douri__DM.ai",
+      "size_bytes": 837971,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/326___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/327___douri__DM.ai",
+      "size_bytes": 811017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/327___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/328___douri__DM.ai",
+      "size_bytes": 791085,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/328___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/329___douri__DM.ai",
+      "size_bytes": 751141,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/329___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/330___douri__DM.ai",
+      "size_bytes": 720460,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/330___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/331___douri__DM.ai",
+      "size_bytes": 733668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/331___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/332___douri__DM.ai",
+      "size_bytes": 790690,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/332___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/333___douri__DM.ai",
+      "size_bytes": 875938,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/333___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/334___douri__DM.ai",
+      "size_bytes": 808901,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/334___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/335___douri__DM.ai",
+      "size_bytes": 774819,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/335___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/336___douri__DM.ai",
+      "size_bytes": 872752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/336___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/337___douri__DM.ai",
+      "size_bytes": 823927,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/337___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/338___douri__DM.ai",
+      "size_bytes": 856199,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/338___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/339___douri__DM.ai",
+      "size_bytes": 759225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/339___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/340___douri__DM.ai",
+      "size_bytes": 819598,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/340___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/341___douri__DM.ai",
+      "size_bytes": 754374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/341___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/342___douri__DM.ai",
+      "size_bytes": 853542,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/342___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/343___douri__DM.ai",
+      "size_bytes": 896170,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/343___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/344___douri__DM.ai",
+      "size_bytes": 922297,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/344___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/345___douri__DM.ai",
+      "size_bytes": 937769,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/345___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/346___douri__DM.ai",
+      "size_bytes": 898001,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/346___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/347___douri__DM.ai",
+      "size_bytes": 843398,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/347___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/348___douri__DM.ai",
+      "size_bytes": 840113,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/348___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/349___douri__DM.ai",
+      "size_bytes": 831487,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/349___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/350___douri__DM.ai",
+      "size_bytes": 926009,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/350___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/351___douri__DM.ai",
+      "size_bytes": 928094,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/351___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/352___douri__DM.ai",
+      "size_bytes": 922282,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/352___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/353___douri__DM.ai",
+      "size_bytes": 860234,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/353___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/354___douri__DM.ai",
+      "size_bytes": 908706,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/354___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/355___douri__DM.ai",
+      "size_bytes": 910468,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/355___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/356___douri__DM.ai",
+      "size_bytes": 929313,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/356___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/357___douri__DM.ai",
+      "size_bytes": 850695,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/357___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/358___douri__DM.ai",
+      "size_bytes": 774277,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/358___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/359___douri__DM.ai",
+      "size_bytes": 810629,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/359___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/360___douri__DM.ai",
+      "size_bytes": 799036,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/360___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/361___douri__DM.ai",
+      "size_bytes": 779216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/361___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/362___douri__DM.ai",
+      "size_bytes": 884080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/362___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/363___douri__DM.ai",
+      "size_bytes": 815720,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/363___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/364___douri__DM.ai",
+      "size_bytes": 844028,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/364___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/365___douri__DM.ai",
+      "size_bytes": 838136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/365___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/366___douri__DM.ai",
+      "size_bytes": 733869,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/366___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/367___douri__DM.ai",
+      "size_bytes": 891498,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/367___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/368___douri__DM.ai",
+      "size_bytes": 895038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/368___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/369___douri__DM.ai",
+      "size_bytes": 942255,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/369___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/370___douri__DM.ai",
+      "size_bytes": 874947,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/370___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/371___douri__DM.ai",
+      "size_bytes": 950557,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/371___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/372___douri__DM.ai",
+      "size_bytes": 918578,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/372___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/373___douri__DM.ai",
+      "size_bytes": 921793,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/373___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/374___douri__DM.ai",
+      "size_bytes": 948010,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/374___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/375___douri__DM.ai",
+      "size_bytes": 912528,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/375___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/376___douri__DM.ai",
+      "size_bytes": 825500,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/376___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/377___douri__DM.ai",
+      "size_bytes": 908448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/377___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/378___douri__DM.ai",
+      "size_bytes": 854385,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/378___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/379___douri__DM.ai",
+      "size_bytes": 906950,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/379___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/380___douri__DM.ai",
+      "size_bytes": 948500,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/380___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/381___douri__DM.ai",
+      "size_bytes": 786887,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/381___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/382___douri__DM.ai",
+      "size_bytes": 823738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/382___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/383___douri__DM.ai",
+      "size_bytes": 866050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/383___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/384___douri__DM.ai",
+      "size_bytes": 885320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/384___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/385___douri__DM.ai",
+      "size_bytes": 797005,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/385___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/386___douri__DM.ai",
+      "size_bytes": 780636,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/386___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/387___douri__DM.ai",
+      "size_bytes": 880412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/387___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/388___douri__DM.ai",
+      "size_bytes": 807350,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/388___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/389___douri__DM.ai",
+      "size_bytes": 809004,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/389___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/390___douri__DM.ai",
+      "size_bytes": 773356,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/390___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/391___douri__DM.ai",
+      "size_bytes": 790427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/391___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/392___douri__DM.ai",
+      "size_bytes": 847835,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/392___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/393___douri__DM.ai",
+      "size_bytes": 866537,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/393___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/394___douri__DM.ai",
+      "size_bytes": 825690,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/394___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/395___douri__DM.ai",
+      "size_bytes": 839050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/395___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/396___douri__DM.ai",
+      "size_bytes": 782195,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/396___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/397___douri__DM.ai",
+      "size_bytes": 830108,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/397___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/398___douri__DM.ai",
+      "size_bytes": 814989,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/398___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/399___douri__DM.ai",
+      "size_bytes": 781734,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/399___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/400___douri__DM.ai",
+      "size_bytes": 759685,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/400___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/401___douri__DM.ai",
+      "size_bytes": 746410,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/401___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/402___douri__DM.ai",
+      "size_bytes": 824338,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/402___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/403___douri__DM.ai",
+      "size_bytes": 900571,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/403___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/404___douri__DM.ai",
+      "size_bytes": 757918,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/404___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/405___douri__DM.ai",
+      "size_bytes": 849918,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/405___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/406___douri__DM.ai",
+      "size_bytes": 811939,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/406___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/407___douri__DM.ai",
+      "size_bytes": 825312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/407___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/408___douri__DM.ai",
+      "size_bytes": 874431,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/408___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/409___douri__DM.ai",
+      "size_bytes": 897372,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/409___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/410___douri__DM.ai",
+      "size_bytes": 850829,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/410___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/411___douri__DM.ai",
+      "size_bytes": 779702,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/411___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/412___douri__DM.ai",
+      "size_bytes": 862647,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/412___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/413___douri__DM.ai",
+      "size_bytes": 875927,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/413___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/414___douri__DM.ai",
+      "size_bytes": 809841,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/414___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/415___douri__DM.ai",
+      "size_bytes": 812342,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/415___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/416___douri__DM.ai",
+      "size_bytes": 849526,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/416___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/417___douri__DM.ai",
+      "size_bytes": 774812,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/417___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/418___douri__DM.ai",
+      "size_bytes": 808754,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/418___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/419___douri__DM.ai",
+      "size_bytes": 881072,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/419___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/420___douri__DM.ai",
+      "size_bytes": 880075,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/420___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/421___douri__DM.ai",
+      "size_bytes": 840520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/421___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/422___douri__DM.ai",
+      "size_bytes": 811465,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/422___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/423___douri__DM.ai",
+      "size_bytes": 891682,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/423___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/424___douri__DM.ai",
+      "size_bytes": 824323,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/424___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/425___douri__DM.ai",
+      "size_bytes": 846975,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/425___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/426___douri__DM.ai",
+      "size_bytes": 861393,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/426___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/427___douri__DM.ai",
+      "size_bytes": 877302,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/427___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/428___douri__DM.ai",
+      "size_bytes": 745094,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/428___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/429___douri__DM.ai",
+      "size_bytes": 858448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/429___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/430___douri__DM.ai",
+      "size_bytes": 845689,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/430___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/431___douri__DM.ai",
+      "size_bytes": 845833,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/431___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/432___douri__DM.ai",
+      "size_bytes": 863742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/432___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/433___douri__DM.ai",
+      "size_bytes": 906895,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/433___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/434___douri__DM.ai",
+      "size_bytes": 809830,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/434___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/435___douri__DM.ai",
+      "size_bytes": 936024,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/435___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/436___douri__DM.ai",
+      "size_bytes": 833017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/436___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/437___douri__DM.ai",
+      "size_bytes": 848403,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/437___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/438___douri__DM.ai",
+      "size_bytes": 830886,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/438___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/439___douri__DM.ai",
+      "size_bytes": 909096,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/439___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/440___douri__DM.ai",
+      "size_bytes": 754841,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/440___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/441___douri__DM.ai",
+      "size_bytes": 861197,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/441___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/442___douri__DM.ai",
+      "size_bytes": 865614,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/442___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/443___douri__DM.ai",
+      "size_bytes": 876677,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/443___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/444___douri__DM.ai",
+      "size_bytes": 847644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/444___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/445___douri__DM.ai",
+      "size_bytes": 802670,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/445___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/446___douri__DM.ai",
+      "size_bytes": 931038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/446___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/447___douri__DM.ai",
+      "size_bytes": 955244,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/447___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/448___douri__DM.ai",
+      "size_bytes": 882810,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/448___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/449___douri__DM.ai",
+      "size_bytes": 917228,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/449___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/450___douri__DM.ai",
+      "size_bytes": 858054,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/450___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/451___douri__DM.ai",
+      "size_bytes": 920773,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/451___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/452___douri__DM.ai",
+      "size_bytes": 896522,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/452___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/453___douri__DM.ai",
+      "size_bytes": 880181,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/453___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/454___douri__DM.ai",
+      "size_bytes": 914843,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/454___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/455___douri__DM.ai",
+      "size_bytes": 936537,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/455___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/456___douri__DM.ai",
+      "size_bytes": 915329,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/456___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/457___douri__DM.ai",
+      "size_bytes": 936564,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/457___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/458___douri__DM.ai",
+      "size_bytes": 797689,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/458___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/459___douri__DM.ai",
+      "size_bytes": 892803,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/459___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/460___douri__DM.ai",
+      "size_bytes": 922273,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/460___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/461___douri__DM.ai",
+      "size_bytes": 877901,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/461___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/462___douri__DM.ai",
+      "size_bytes": 818420,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/462___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/463___douri__DM.ai",
+      "size_bytes": 810325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/463___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/464___douri__DM.ai",
+      "size_bytes": 831206,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/464___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/465___douri__DM.ai",
+      "size_bytes": 819834,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/465___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/466___douri__DM.ai",
+      "size_bytes": 815501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/466___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/467___douri__DM.ai",
+      "size_bytes": 783820,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/467___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/468___douri__DM.ai",
+      "size_bytes": 814490,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/468___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/469___douri__DM.ai",
+      "size_bytes": 818146,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/469___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/470___douri__DM.ai",
+      "size_bytes": 825468,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/470___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/471___douri__DM.ai",
+      "size_bytes": 775705,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/471___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/472___douri__DM.ai",
+      "size_bytes": 793102,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/472___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/473___douri__DM.ai",
+      "size_bytes": 756132,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/473___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/474___douri__DM.ai",
+      "size_bytes": 762454,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/474___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/475___douri__DM.ai",
+      "size_bytes": 831178,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/475___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/476___douri__DM.ai",
+      "size_bytes": 808135,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/476___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/477___douri__DM.ai",
+      "size_bytes": 821315,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/477___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/478___douri__DM.ai",
+      "size_bytes": 897504,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/478___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/479___douri__DM.ai",
+      "size_bytes": 886223,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/479___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/480___douri__DM.ai",
+      "size_bytes": 827479,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/480___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/481___douri__DM.ai",
+      "size_bytes": 886861,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/481___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/482___douri__DM.ai",
+      "size_bytes": 877020,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/482___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/483___douri__DM.ai",
+      "size_bytes": 817719,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/483___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/484___douri__DM.ai",
+      "size_bytes": 862617,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/484___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/485___douri__DM.ai",
+      "size_bytes": 804994,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/485___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/486___douri__DM.ai",
+      "size_bytes": 880668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/486___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/487___douri__DM.ai",
+      "size_bytes": 949179,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/487___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/488___douri__DM.ai",
+      "size_bytes": 842760,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/488___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/489___douri__DM.ai",
+      "size_bytes": 753227,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/489___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/490___douri__DM.ai",
+      "size_bytes": 850437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/490___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/491___douri__DM.ai",
+      "size_bytes": 907370,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/491___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/492___douri__DM.ai",
+      "size_bytes": 868097,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/492___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/493___douri__DM.ai",
+      "size_bytes": 829710,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/493___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/494___douri__DM.ai",
+      "size_bytes": 854649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/494___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/495___douri__DM.ai",
+      "size_bytes": 882728,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/495___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/496___douri__DM.ai",
+      "size_bytes": 813252,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/496___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/497___douri__DM.ai",
+      "size_bytes": 911150,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/497___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/498___douri__DM.ai",
+      "size_bytes": 737160,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/498___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/499___douri__DM.ai",
+      "size_bytes": 923760,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/499___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/500___douri__DM.ai",
+      "size_bytes": 847338,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/500___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/501___douri__DM.ai",
+      "size_bytes": 978337,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/501___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/502___douri__DM.ai",
+      "size_bytes": 850945,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/502___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/503___douri__DM.ai",
+      "size_bytes": 899079,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/503___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/504___douri__DM.ai",
+      "size_bytes": 915183,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/504___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/505___douri__DM.ai",
+      "size_bytes": 884353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/505___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/506___douri__DM.ai",
+      "size_bytes": 823234,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/506___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/507___douri__DM.ai",
+      "size_bytes": 947215,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/507___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/508___douri__DM.ai",
+      "size_bytes": 956226,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/508___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/509___douri__DM.ai",
+      "size_bytes": 853404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/509___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/510___douri__DM.ai",
+      "size_bytes": 885498,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/510___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/511___douri__DM.ai",
+      "size_bytes": 799107,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/511___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/512___douri__DM.ai",
+      "size_bytes": 838593,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/512___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/513___douri__DM.ai",
+      "size_bytes": 880037,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/513___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/514___douri__DM.ai",
+      "size_bytes": 827600,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/514___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/515___douri__DM.ai",
+      "size_bytes": 843277,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/515___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/516___douri__DM.ai",
+      "size_bytes": 936183,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/516___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/517___douri__DM.ai",
+      "size_bytes": 911597,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/517___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/518___douri__DM.ai",
+      "size_bytes": 826301,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/518___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/519___douri__DM.ai",
+      "size_bytes": 948398,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/519___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/520___douri__DM.ai",
+      "size_bytes": 798833,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/520___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/521___douri__DM.ai",
+      "size_bytes": 949322,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/521___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/522___douri__DM.ai",
+      "size_bytes": 965251,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/522___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/523___douri__DM.ai",
+      "size_bytes": 825017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/523___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/524___douri__DM.ai",
+      "size_bytes": 901224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/524___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/525___douri__DM.ai",
+      "size_bytes": 899684,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/525___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/526___douri__DM.ai",
+      "size_bytes": 911298,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/526___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/527___douri__DM.ai",
+      "size_bytes": 946102,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/527___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/528___douri__DM.ai",
+      "size_bytes": 851665,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/528___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/529___douri__DM.ai",
+      "size_bytes": 937864,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/529___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/530___douri__DM.ai",
+      "size_bytes": 955491,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/530___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/531___douri__DM.ai",
+      "size_bytes": 808125,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/531___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/532___douri__DM.ai",
+      "size_bytes": 948156,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/532___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/533___douri__DM.ai",
+      "size_bytes": 924322,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/533___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/534___douri__DM.ai",
+      "size_bytes": 817096,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/534___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/535___douri__DM.ai",
+      "size_bytes": 957521,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/535___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/536___douri__DM.ai",
+      "size_bytes": 944415,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/536___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/537___douri__DM.ai",
+      "size_bytes": 854613,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/537___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/538___douri__DM.ai",
+      "size_bytes": 914076,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/538___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/539___douri__DM.ai",
+      "size_bytes": 930656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/539___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/540___douri__DM.ai",
+      "size_bytes": 863426,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/540___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/541___douri__DM.ai",
+      "size_bytes": 836337,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/541___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/542___douri__DM.ai",
+      "size_bytes": 852287,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/542___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/543___douri__DM.ai",
+      "size_bytes": 935626,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/543___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/544___douri__DM.ai",
+      "size_bytes": 961082,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/544___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/545___douri__DM.ai",
+      "size_bytes": 788459,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/545___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/546___douri__DM.ai",
+      "size_bytes": 868612,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/546___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/547___douri__DM.ai",
+      "size_bytes": 855491,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/547___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/548___douri__DM.ai",
+      "size_bytes": 792485,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/548___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/549___douri__DM.ai",
+      "size_bytes": 927433,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/549___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/550___douri__DM.ai",
+      "size_bytes": 992069,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/550___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/551___douri__DM.ai",
+      "size_bytes": 800813,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/551___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/552___douri__DM.ai",
+      "size_bytes": 997839,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/552___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/553___douri__DM.ai",
+      "size_bytes": 826488,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/553___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/554___douri__DM.ai",
+      "size_bytes": 850249,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/554___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/555___douri__DM.ai",
+      "size_bytes": 793729,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/555___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/556___douri__DM.ai",
+      "size_bytes": 904314,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/556___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/557___douri__DM.ai",
+      "size_bytes": 782039,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/557___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/558___douri__DM.ai",
+      "size_bytes": 880527,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/558___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/559___douri__DM.ai",
+      "size_bytes": 955542,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/559___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/560___douri__DM.ai",
+      "size_bytes": 859189,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/560___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/561___douri__DM.ai",
+      "size_bytes": 788932,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/561___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/562___douri__DM.ai",
+      "size_bytes": 888766,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/562___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/563___douri__DM.ai",
+      "size_bytes": 936301,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/563___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/564___douri__DM.ai",
+      "size_bytes": 844068,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/564___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/565___douri__DM.ai",
+      "size_bytes": 1013361,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/565___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/566___douri__DM.ai",
+      "size_bytes": 878421,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/566___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/567___douri__DM.ai",
+      "size_bytes": 1005683,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/567___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/568___douri__DM.ai",
+      "size_bytes": 861730,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/568___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/569___douri__DM.ai",
+      "size_bytes": 1015775,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/569___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/570___douri__DM.ai",
+      "size_bytes": 845019,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/570___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/571___douri__DM.ai",
+      "size_bytes": 898660,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/571___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/572___douri__DM.ai",
+      "size_bytes": 847479,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/572___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/573___douri__DM.ai",
+      "size_bytes": 894355,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/573___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/574___douri__DM.ai",
+      "size_bytes": 865758,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/574___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/575___douri__DM.ai",
+      "size_bytes": 912885,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/575___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/576___douri__DM.ai",
+      "size_bytes": 994675,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/576___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/577___douri__DM.ai",
+      "size_bytes": 939051,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/577___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/578___douri__DM.ai",
+      "size_bytes": 905502,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/578___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/579___douri__DM.ai",
+      "size_bytes": 992913,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/579___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/580___douri__DM.ai",
+      "size_bytes": 861690,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/580___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/581___douri__DM.ai",
+      "size_bytes": 960595,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/581___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/582___douri__DM.ai",
+      "size_bytes": 852136,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/582___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/583___douri__DM.ai",
+      "size_bytes": 903284,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/583___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/584___douri__DM.ai",
+      "size_bytes": 883635,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/584___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/585___douri__DM.ai",
+      "size_bytes": 976820,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/585___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/586___douri__DM.ai",
+      "size_bytes": 857714,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/586___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/587___douri__DM.ai",
+      "size_bytes": 795634,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/587___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/588___douri__DM.ai",
+      "size_bytes": 956041,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/588___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/589___douri__DM.ai",
+      "size_bytes": 865220,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/589___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/590___douri__DM.ai",
+      "size_bytes": 859945,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/590___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/591___douri__DM.ai",
+      "size_bytes": 808555,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/591___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/592___douri__DM.ai",
+      "size_bytes": 852369,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/592___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/593___douri__DM.ai",
+      "size_bytes": 839466,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/593___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/594___douri__DM.ai",
+      "size_bytes": 819417,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/594___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/595___douri__DM.ai",
+      "size_bytes": 797353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/595___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/596___douri__DM.ai",
+      "size_bytes": 757685,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/596___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/597___douri__DM.ai",
+      "size_bytes": 799651,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/597___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/598___douri__DM.ai",
+      "size_bytes": 822808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/598___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/599___douri__DM.ai",
+      "size_bytes": 769427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/599___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/600___douri__DM.ai",
+      "size_bytes": 779027,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/600___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/601___douri__DM.ai",
+      "size_bytes": 671827,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/601___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/602___douri__DM.ai",
+      "size_bytes": 602501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/602___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/603___douri__DM.ai",
+      "size_bytes": 605186,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/603___douri__DM.ai"
+    },
+    {
+      "path": "Douri-1443/604___douri__DM.ai",
+      "size_bytes": 543969,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/douri-1443/Douri-1443/604___douri__DM.ai"
+    }
+  ],
+  "recovery_note": {
+    "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
+    "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
+  }
+}

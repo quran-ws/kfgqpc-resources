@@ -1,0 +1,602 @@
+{
+  "slug": "sediki-sura",
+  "page_order": 16,
+  "group": "quran-audios",
+  "source_page": "https://qurancomplex.gov.sa/quran-audio-sousi-sediki/",
+  "title": {
+    "ar": "تحميل سور المصحف كاملاً",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/new-sounds/sousi/sediki-sura.zip",
+    "filename": "sediki-sura.zip",
+    "size_bytes": 2652809311,
+    "size_human": "2.47 GB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Wed, 15 Feb 2023 11:31:41 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "98c188923ab4f6ee5e69054435492727",
+      "sha1": "4b04aafbdb63b9f6dee4e74ad2c29c617a6c4fe9",
+      "sha256": "63ee3376cb81cf3e0a2d9bd845ab7949afa27892f388442e54a9c5671c4493fd"
+    }
+  },
+  "captured_at": "2026-09-07T14:11:06Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 114,
+  "total_bytes": 2832030144,
+  "files": [
+    {
+      "path": "sediki/06-001D00-10mp3.mp3",
+      "size_bytes": 2220703,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-001D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-002D00-10mp3.mp3",
+      "size_bytes": 283977877,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-002D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-003D00-10mp3.mp3",
+      "size_bytes": 170943240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-003D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-004D00-10mp3.mp3",
+      "size_bytes": 169462996,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-004D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-005D00-10mp3.mp3",
+      "size_bytes": 125274491,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-005D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-006D00-10mp3.mp3",
+      "size_bytes": 140850346,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-006D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-007D00-10mp3.mp3",
+      "size_bytes": 151175986,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-007D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-008D00-10mp3.mp3",
+      "size_bytes": 56101034,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-008D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-009D00-10mp3.mp3",
+      "size_bytes": 114803777,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-009D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-010D00-10mp3.mp3",
+      "size_bytes": 81835805,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-010D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-011D00-10mp3.mp3",
+      "size_bytes": 85757286,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-011D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-012D00-10mp3.mp3",
+      "size_bytes": 78671854,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-012D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-013D00-10mp3.mp3",
+      "size_bytes": 38576653,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-013D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-014D00-10mp3.mp3",
+      "size_bytes": 38527146,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-014D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-015D00-10mp3.mp3",
+      "size_bytes": 17278749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-015D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-016D00-10mp3.mp3",
+      "size_bytes": 87454284,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-016D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-017D00-10mp3.mp3",
+      "size_bytes": 66674189,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-017D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-018D00-10mp3.mp3",
+      "size_bytes": 33172483,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-018D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-019D00-10mp3.mp3",
+      "size_bytes": 41429454,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-019D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-020D00-10mp3.mp3",
+      "size_bytes": 26588790,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-020D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-021D00-10mp3.mp3",
+      "size_bytes": 27421364,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-021D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-022D00-10mp3.mp3",
+      "size_bytes": 28415689,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-022D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-023D00-10mp3.mp3",
+      "size_bytes": 24911101,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-023D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-024D00-10mp3.mp3",
+      "size_bytes": 61010842,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-024D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-025D00-10mp3.mp3",
+      "size_bytes": 18492084,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-025D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-026D00-10mp3.mp3",
+      "size_bytes": 65202137,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-026D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-027D00-10mp3.mp3",
+      "size_bytes": 52441843,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-027D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-028D00-10mp3.mp3",
+      "size_bytes": 32324025,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-028D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-029D00-10mp3.mp3",
+      "size_bytes": 23311990,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-029D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-030D00-10mp3.mp3",
+      "size_bytes": 19068032,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-030D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-031D00-10mp3.mp3",
+      "size_bytes": 12084770,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-031D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-032D00-10mp3.mp3",
+      "size_bytes": 8661684,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-032D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-033D00-10mp3.mp3",
+      "size_bytes": 55375916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-033D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-034D00-10mp3.mp3",
+      "size_bytes": 18278089,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-034D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-035D00-10mp3.mp3",
+      "size_bytes": 16724117,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-035D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-036D00-10mp3.mp3",
+      "size_bytes": 16418171,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-036D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-037D00-10mp3.mp3",
+      "size_bytes": 22529988,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-037D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-038D00-10mp3.mp3",
+      "size_bytes": 16559023,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-038D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-039D00-10mp3.mp3",
+      "size_bytes": 47706365,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-039D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-040D00-10mp3.mp3",
+      "size_bytes": 25078285,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-040D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-041D00-10mp3.mp3",
+      "size_bytes": 33418013,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-041D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-042D00-10mp3.mp3",
+      "size_bytes": 35982610,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-042D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-043D00-10mp3.mp3",
+      "size_bytes": 19143683,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-043D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-044D00-10mp3.mp3",
+      "size_bytes": 8791252,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-044D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-045D00-10mp3.mp3",
+      "size_bytes": 10623167,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-045D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-046D00-10mp3.mp3",
+      "size_bytes": 12716724,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-046D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-047D00-10mp3.mp3",
+      "size_bytes": 11345818,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-047D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-048D00-10mp3.mp3",
+      "size_bytes": 12030853,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-048D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-049D00-10mp3.mp3",
+      "size_bytes": 7900163,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-049D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-050D00-10mp3.mp3",
+      "size_bytes": 8535879,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-050D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-051D00-10mp3.mp3",
+      "size_bytes": 8663356,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-051D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-052D00-10mp3.mp3",
+      "size_bytes": 7550331,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-052D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-053D00-10mp3.mp3",
+      "size_bytes": 7757639,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-053D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-054D00-10mp3.mp3",
+      "size_bytes": 7488891,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-054D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-055D00-10mp3.mp3",
+      "size_bytes": 11286050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-055D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-056D00-10mp3.mp3",
+      "size_bytes": 22189121,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-056D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-057D00-10mp3.mp3",
+      "size_bytes": 12507745,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-057D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-058D00-10mp3.mp3",
+      "size_bytes": 10555457,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-058D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-059D00-10mp3.mp3",
+      "size_bytes": 21208589,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-059D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-060D00-10mp3.mp3",
+      "size_bytes": 8367023,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-060D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-061D00-10mp3.mp3",
+      "size_bytes": 4982808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-061D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-062D00-10mp3.mp3",
+      "size_bytes": 4012306,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-062D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-063D00-10mp3.mp3",
+      "size_bytes": 4177400,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-063D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-064D00-10mp3.mp3",
+      "size_bytes": 5661155,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-064D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-065D00-10mp3.mp3",
+      "size_bytes": 6268032,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-065D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-066D00-10mp3.mp3",
+      "size_bytes": 5994457,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-066D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-067D00-10mp3.mp3",
+      "size_bytes": 7251072,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-067D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-068D00-10mp3.mp3",
+      "size_bytes": 7663598,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-068D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-069D00-10mp3.mp3",
+      "size_bytes": 6442321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-069D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-070D00-10mp3.mp3",
+      "size_bytes": 5314667,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-070D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-071D00-10mp3.mp3",
+      "size_bytes": 4353361,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-071D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-072D00-10mp3.mp3",
+      "size_bytes": 4942265,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-072D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-073D00-10mp3.mp3",
+      "size_bytes": 3922445,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-073D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-074D00-10mp3.mp3",
+      "size_bytes": 5582997,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-074D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-075D00-10mp3.mp3",
+      "size_bytes": 3719317,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-075D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-076D00-10mp3.mp3",
+      "size_bytes": 5626465,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-076D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-077D00-10mp3.mp3",
+      "size_bytes": 5262004,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-077D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-078D00-10mp3.mp3",
+      "size_bytes": 4378856,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-078D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-079D00-10mp3.mp3",
+      "size_bytes": 4244274,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-079D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-080D00-10mp3.mp3",
+      "size_bytes": 3630292,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-080D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-081D00-10mp3.mp3",
+      "size_bytes": 2724992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-081D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-082D00-10mp3.mp3",
+      "size_bytes": 2132744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-082D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-083D00-10mp3.mp3",
+      "size_bytes": 4633812,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-083D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-084D00-10mp3.mp3",
+      "size_bytes": 2604202,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-084D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-085D00-10mp3.mp3",
+      "size_bytes": 2883399,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-085D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-086D00-10mp3.mp3",
+      "size_bytes": 1535898,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-086D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-087D00-10mp3.mp3",
+      "size_bytes": 1742370,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-087D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-088D00-10mp3.mp3",
+      "size_bytes": 2217172,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-088D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-089D00-10mp3.mp3",
+      "size_bytes": 3264577,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-089D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-090D00-10mp3.mp3",
+      "size_bytes": 1885312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-090D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-091D00-10mp3.mp3",
+      "size_bytes": 1488251,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-091D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-092D00-10mp3.mp3",
+      "size_bytes": 1844770,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-092D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-093D00-10mp3.mp3",
+      "size_bytes": 1076143,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-093D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-094D00-10mp3.mp3",
+      "size_bytes": 706249,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-094D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-095D00-10mp3.mp3",
+      "size_bytes": 1030585,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-095D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-096D00-10mp3.mp3",
+      "size_bytes": 1761596,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-096D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-097D00-10mp3.mp3",
+      "size_bytes": 722968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-097D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-098D00-10mp3.mp3",
+      "size_bytes": 1946752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-098D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-099D00-10mp3.mp3",
+      "size_bytes": 972071,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-099D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-100D00-10mp3.mp3",
+      "size_bytes": 1186066,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-100D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-101D00-10mp3.mp3",
+      "size_bytes": 974997,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-101D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-102D00-10mp3.mp3",
+      "size_bytes": 919826,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-102D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-103D00-10mp3.mp3",
+      "size_bytes": 435412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-103D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-104D00-10mp3.mp3",
+      "size_bytes": 876359,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-104D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-105D00-10mp3.mp3",
+      "size_bytes": 744701,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-105D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-106D00-10mp3.mp3",
+      "size_bytes": 664453,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-106D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-107D00-10mp3.mp3",
+      "size_bytes": 818680,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-107D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-108D00-10mp3.mp3",
+      "size_bytes": 381913,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-108D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-109D00-10mp3.mp3",
+      "size_bytes": 689531,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-109D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-110D00-10mp3.mp3",
+      "size_bytes": 545335,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-110D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-111D00-10mp3.mp3",
+      "size_bytes": 602595,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-111D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-112D00-10mp3.mp3",
+      "size_bytes": 386510,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-112D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-113D00-10mp3.mp3",
+      "size_bytes": 573756,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-113D00-10mp3.mp3"
+    },
+    {
+      "path": "sediki/06-114D00-10mp3.mp3",
+      "size_bytes": 771033,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-audios/sediki-sura/sediki/06-114D00-10mp3.mp3"
+    }
+  ]
+}

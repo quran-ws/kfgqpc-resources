@@ -1,0 +1,500 @@
+{
+  "group": "quran-hafs",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/",
+  "resource_count": 14,
+  "available_count": 14,
+  "file_count": 28,
+  "total_bytes": 2685453101,
+  "resources": [
+    {
+      "slug": "mumtaz-1",
+      "page_order": 1,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف الممتاز",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Mumtaz_New.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/mumtaz-1.pdf",
+        "filename": "mumtaz-1.pdf",
+        "size_bytes": 359949479,
+        "size_human": "343.27 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 10:36:50 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/mumtaz-1/mumtaz-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "04527427c7da4f7c4840c9c7db9e2f02",
+          "sha1": "32ce4a8f364e869e04026cd6c4782c34f068e512",
+          "sha256": "1dfa938b649a521253331375fa0a80ec80b49453b4d3c5173d8c2b76a3998173"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 360045527
+    },
+    {
+      "slug": "khass1brown-1",
+      "page_order": 2,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف الخاص ١",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Khass_Hafs-on_the_box.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/khass1brown-1.pdf",
+        "filename": "khass1brown-1.pdf",
+        "size_bytes": 609338538,
+        "size_human": "581.11 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 10:34:32 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/khass1brown-1/khass1brown-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "31dcb8407d9c538fb1d51722193e78b3",
+          "sha1": "abc85ecc83690f67de719bc5a7d13fef308affbf",
+          "sha256": "39f98e3fdf16ec881f014431707dd8aa97092b2fcdee9a21d7ff93dacf99ab0c"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 609456366
+    },
+    {
+      "slug": "jawamee39",
+      "page_order": 3,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف الجوامعي",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Jawamee50.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/jawamee39.pdf",
+        "filename": "jawamee39.pdf",
+        "size_bytes": 167547887,
+        "size_human": "159.79 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 10:15:35 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawamee39/jawamee39.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "7896c475efa6da18e395d0d2d7af14e9",
+          "sha1": "f14d6dc84a8b6c168a9e5fa73cf4d61fdc7df305",
+          "sha256": "6bbc7ff013ed3d848667ca80df64018c4ad3ff2e1d63e1a13a68aca9ec97fdc6"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 167612999
+    },
+    {
+      "slug": "jawameethree-1",
+      "page_order": 4,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف الجوامعي – ٣",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Jawamee70.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/jawameethree-1.pdf",
+        "filename": "jawameethree-1.pdf",
+        "size_bytes": 224311553,
+        "size_human": "213.92 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 12:01:25 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawameethree-1/jawameethree-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e1adba074094ac104659087854358525",
+          "sha1": "85548ddd040bfcc57b2da4c0d6a9d94d8a2f7560",
+          "sha256": "1c2ee2a38789dcbee660f6b9c09e864d009fadd33e7c52fd9b89eb6c248bc591"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 224376098
+    },
+    {
+      "slug": "standard39-2",
+      "page_order": 5,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف العادي",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/10/Standard50.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/standard39-2.pdf",
+        "filename": "standard39-2.pdf",
+        "size_bytes": 243520529,
+        "size_human": "232.24 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 08:04:59 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standard39-2/standard39-2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ff6c4c26d1beefd71b81659d772ad02e",
+          "sha1": "a9c33da41745cb2408c5037ac315114c45091f53",
+          "sha256": "5c4297de1fb6b654f641eed33242408d89432cbecf8a96ff5d297cb45fea7f07"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 243639484
+    },
+    {
+      "slug": "standardthree-1",
+      "page_order": 6,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف العادي – ٣",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Standard2-50.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/standardthree-1.pdf",
+        "filename": "standardthree-1.pdf",
+        "size_bytes": 238648541,
+        "size_human": "227.59 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 16 Nov 2025 12:03:40 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standardthree-1/standardthree-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "203f9fb1200ed54bc3dd6f4fdf6ee7f6",
+          "sha1": "39c18e2f5cd6a1127f25307a4b75a813057d2c3b",
+          "sha256": "f68282d43a8f0adea07251dfe83d7bb94d44be5d32662526646edb78e8dafb26"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 238721593
+    },
+    {
+      "slug": "wasat39-1",
+      "page_order": 7,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف الوسط",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Wasat.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/wasat39-1.pdf",
+        "filename": "wasat39-1.pdf",
+        "size_bytes": 211330566,
+        "size_human": "201.54 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 11:00:47 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/wasat39-1/wasat39-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a401d2093578a2a7f523ef42f1989d1f",
+          "sha1": "052198672762bccc32619bf536c735ccc7b67fd5",
+          "sha256": "19e5556fb46c94b8c618449e71b1a3e36659f3ad84c31c946e8c34f3c186a12e"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 211394813
+    },
+    {
+      "slug": "jaib",
+      "page_order": 8,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "مصحف الجيب",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Jaib01.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/jaib.pdf",
+        "filename": "jaib.pdf",
+        "size_bytes": 119909244,
+        "size_human": "114.35 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 10:12:40 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jaib/jaib.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "e4ddb2243b325a71704af62a6e4ef4b0",
+          "sha1": "d3e88536e6d5df6e35b1eb42f25a4d21eadbbea3",
+          "sha256": "70eba3d516823d54a9b001672c00a0403a25df937d52fe0a38731b915825aee4"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 119934423
+    },
+    {
+      "slug": "kaffi-1",
+      "page_order": 9,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "المصحف الكفي",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/kaffi.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/kaffi-1.pdf",
+        "filename": "kaffi-1.pdf",
+        "size_bytes": 119909244,
+        "size_human": "114.35 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Thu, 13 Nov 2025 10:30:39 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/kaffi-1/kaffi-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "31475b43053eed913e9a11a39216028c",
+          "sha1": "6b153cd88e7776f8f99a4e45d05423a3a5936e17",
+          "sha256": "266b8a3288fc629fb94be19361a7ca5814805a789641ac1798d4dc5a081c0828"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 119951355
+    },
+    {
+      "slug": "nastaleeq-1",
+      "page_order": 10,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "مصحف نستعليق",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Nastaliq50.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/nastaleeq-1.pdf",
+        "filename": "nastaleeq-1.pdf",
+        "size_bytes": 206739357,
+        "size_human": "197.16 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Mon, 17 Nov 2025 08:57:46 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/nastaleeq-1/nastaleeq-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "b184621d9a533d7cb028b3b41e97b1a8",
+          "sha1": "ca78f6f7ae7d80b709b420cac0cd8d7a21ecedb3",
+          "sha256": "1fabc182750b4b0cbef22774cb4247ec8eca91b858c5b5d697a30c7d3579844e"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 206812448
+    },
+    {
+      "slug": "rubuyassen-2",
+      "page_order": 11,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "ربع يس",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Rubuyassen.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/rubuyassen-2.pdf",
+        "filename": "rubuyassen-2.pdf",
+        "size_bytes": 123249364,
+        "size_human": "117.54 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 18 Nov 2025 08:29:23 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/rubuyassen-2/rubuyassen-2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "b7574f1827996f1255e564fa1b32d54b",
+          "sha1": "7ebf8f71c3f13fd5d8d5316d43d99b5e1766ea85",
+          "sha256": "686e533b91cb9949a6d9248f145266cbd30f6b3f5786ca217e267517047d5a30"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 123302773
+    },
+    {
+      "slug": "juzuqad-1",
+      "page_order": 12,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "جزء قد سمع",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Juzu_Qad.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzuqad-1.pdf",
+        "filename": "juzuqad-1.pdf",
+        "size_bytes": 12804591,
+        "size_human": "12.21 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 18 Nov 2025 08:36:26 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuqad-1/juzuqad-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "aa2a45c5fbec97257583079844b49d85",
+          "sha1": "65cb79ce6b0c7003c58aef9a7a37ff9e1ab684a3",
+          "sha256": "5f667bc49f423658b38f377e613f92e3b048229ed505791dbbdc83029eedc82f"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 12857438
+    },
+    {
+      "slug": "juzutabarak-1",
+      "page_order": 13,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "جزء تبارك",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Juzu-Tabarak.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzutabarak-1.pdf",
+        "filename": "juzutabarak-1.pdf",
+        "size_bytes": 14188196,
+        "size_human": "13.53 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 18 Nov 2025 10:38:17 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzutabarak-1/juzutabarak-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "ae76a9a406583233a716ba6b00c2d1de",
+          "sha1": "1c8cfc31a115e0e62c842107a70913a99c6f9f7f",
+          "sha256": "16aca7de05c627b19d7518773d5f30cea946925c5ab6cbac4047bffe231c9b6a"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 14239199
+    },
+    {
+      "slug": "juzuamma-2",
+      "page_order": 14,
+      "group": "quran-hafs",
+      "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+      "title": {
+        "ar": "الفاتحة وجزء عم",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Juzu_Amma.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzuamma-2.pdf",
+        "filename": "juzuamma-2.pdf",
+        "size_bytes": 33053201,
+        "size_human": "31.52 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 18 Nov 2025 10:50:29 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuamma-2/juzuamma-2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "c49d0d31c90addf92c12fa381ff39948",
+          "sha1": "635ce34fa81df6036482b8b85d3df1691189345e",
+          "sha256": "5d14f40fe3b52ad31d46b5b4c5df039c2c7a7b4d37deaf907c66461521dce30a"
+        }
+      },
+      "captured_at": "2026-09-07T14:21:20Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 33108585
+    }
+  ]
+}

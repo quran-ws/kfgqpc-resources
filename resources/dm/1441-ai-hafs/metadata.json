@@ -1,0 +1,3052 @@
+{
+  "slug": "1441-ai-hafs",
+  "page_order": 1,
+  "group": "dm",
+  "source_page": "https://dm.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل",
+    "en": null
+  },
+  "download": {
+    "url": "https://dm.qurancomplex.gov.sa/Download/1441-AI-hafs.zip",
+    "filename": "1441-AI-hafs.zip",
+    "size_bytes": 466430736,
+    "size_human": "444.82 MB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Sun, 10 Apr 2022 06:53:15 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "f21863db9c9dec8eb2c449201c63e116",
+      "sha1": "3aad5fd2ec7c7a992848b956ab80271adc81905e",
+      "sha256": "280c5d71ca16aaeeb3a343be1b92c76fa6df71d0671e202c026fde12402d9eef"
+    }
+  },
+  "captured_at": "2026-09-07T14:04:04Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 604,
+  "total_bytes": 768981578,
+  "files": [
+    {
+      "path": "1441 مصحف حفص-إليستريتور/001___Hafs39__DM.ai",
+      "size_bytes": 393966,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/001___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/002___Hafs39__DM.ai",
+      "size_bytes": 469559,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/002___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/003___Hafs39__DM.ai",
+      "size_bytes": 1214516,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/003___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/004___Hafs39__DM.ai",
+      "size_bytes": 1229489,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/004___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/005___Hafs39__DM.ai",
+      "size_bytes": 1159808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/005___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/006___Hafs39__DM.ai",
+      "size_bytes": 1278657,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/006___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/007___Hafs39__DM.ai",
+      "size_bytes": 1360886,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/007___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/008___Hafs39__DM.ai",
+      "size_bytes": 1236968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/008___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/009___Hafs39__DM.ai",
+      "size_bytes": 1303807,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/009___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/010___Hafs39__DM.ai",
+      "size_bytes": 1242611,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/010___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/011___Hafs39__DM.ai",
+      "size_bytes": 1338076,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/011___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/012___Hafs39__DM.ai",
+      "size_bytes": 1172776,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/012___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/013___Hafs39__DM.ai",
+      "size_bytes": 1238725,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/013___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/014___Hafs39__DM.ai",
+      "size_bytes": 1174145,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/014___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/015___Hafs39__DM.ai",
+      "size_bytes": 1158173,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/015___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/016___Hafs39__DM.ai",
+      "size_bytes": 1148211,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/016___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/017___Hafs39__DM.ai",
+      "size_bytes": 1202633,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/017___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/018___Hafs39__DM.ai",
+      "size_bytes": 1242300,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/018___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/019___Hafs39__DM.ai",
+      "size_bytes": 1407404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/019___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/020___Hafs39__DM.ai",
+      "size_bytes": 1261094,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/020___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/021___Hafs39__DM.ai",
+      "size_bytes": 1217535,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/021___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/022___Hafs39__DM.ai",
+      "size_bytes": 794649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/022___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/023___Hafs39__DM.ai",
+      "size_bytes": 1206314,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/023___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/024___Hafs39__DM.ai",
+      "size_bytes": 1322119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/024___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/025___Hafs39__DM.ai",
+      "size_bytes": 1238333,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/025___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/026___Hafs39__DM.ai",
+      "size_bytes": 1209689,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/026___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/027___Hafs39__DM.ai",
+      "size_bytes": 1470920,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/027___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/028___Hafs39__DM.ai",
+      "size_bytes": 1181172,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/028___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/029___Hafs39__DM.ai",
+      "size_bytes": 1265613,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/029___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/030___Hafs39__DM.ai",
+      "size_bytes": 1502899,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/030___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/031___Hafs39__DM.ai",
+      "size_bytes": 1061974,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/031___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/032___Hafs39__DM.ai",
+      "size_bytes": 781688,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/032___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/033___Hafs39__DM.ai",
+      "size_bytes": 1343984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/033___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/034___Hafs39__DM.ai",
+      "size_bytes": 1293961,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/034___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/035___Hafs39__DM.ai",
+      "size_bytes": 1418289,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/035___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/036___Hafs39__DM.ai",
+      "size_bytes": 1418204,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/036___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/037___Hafs39__DM.ai",
+      "size_bytes": 1496328,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/037___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/038___Hafs39__DM.ai",
+      "size_bytes": 1275133,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/038___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/039___Hafs39__DM.ai",
+      "size_bytes": 1171154,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/039___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/040___Hafs39__DM.ai",
+      "size_bytes": 1130619,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/040___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/041___Hafs39__DM.ai",
+      "size_bytes": 1077385,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/041___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/042___Hafs39__DM.ai",
+      "size_bytes": 873169,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/042___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/043___Hafs39__DM.ai",
+      "size_bytes": 1219953,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/043___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/044___Hafs39__DM.ai",
+      "size_bytes": 1314311,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/044___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/045___Hafs39__DM.ai",
+      "size_bytes": 1261013,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/045___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/046___Hafs39__DM.ai",
+      "size_bytes": 1129147,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/046___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/047___Hafs39__DM.ai",
+      "size_bytes": 1278478,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/047___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/048___Hafs39__DM.ai",
+      "size_bytes": 1263473,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/048___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/049___Hafs39__DM.ai",
+      "size_bytes": 832375,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/049___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/050___Hafs39__DM.ai",
+      "size_bytes": 1346390,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/050___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/051___Hafs39__DM.ai",
+      "size_bytes": 1289172,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/051___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/052___Hafs39__DM.ai",
+      "size_bytes": 1204335,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/052___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/053___Hafs39__DM.ai",
+      "size_bytes": 1308832,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/053___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/054___Hafs39__DM.ai",
+      "size_bytes": 1345534,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/054___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/055___Hafs39__DM.ai",
+      "size_bytes": 1340058,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/055___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/056___Hafs39__DM.ai",
+      "size_bytes": 1278383,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/056___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/057___Hafs39__DM.ai",
+      "size_bytes": 1202434,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/057___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/058___Hafs39__DM.ai",
+      "size_bytes": 1300738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/058___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/059___Hafs39__DM.ai",
+      "size_bytes": 1359518,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/059___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/060___Hafs39__DM.ai",
+      "size_bytes": 1268648,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/060___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/061___Hafs39__DM.ai",
+      "size_bytes": 1235445,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/061___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/062___Hafs39__DM.ai",
+      "size_bytes": 1380867,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/062___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/063___Hafs39__DM.ai",
+      "size_bytes": 1425078,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/063___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/064___Hafs39__DM.ai",
+      "size_bytes": 1244321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/064___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/065___Hafs39__DM.ai",
+      "size_bytes": 1313250,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/065___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/066___Hafs39__DM.ai",
+      "size_bytes": 1332937,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/066___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/067___Hafs39__DM.ai",
+      "size_bytes": 794400,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/067___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/068___Hafs39__DM.ai",
+      "size_bytes": 1289884,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/068___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/069___Hafs39__DM.ai",
+      "size_bytes": 1061627,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/069___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/070___Hafs39__DM.ai",
+      "size_bytes": 1349118,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/070___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/071___Hafs39__DM.ai",
+      "size_bytes": 1308791,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/071___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/072___Hafs39__DM.ai",
+      "size_bytes": 1359207,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/072___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/073___Hafs39__DM.ai",
+      "size_bytes": 1363270,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/073___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/074___Hafs39__DM.ai",
+      "size_bytes": 1257495,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/074___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/075___Hafs39__DM.ai",
+      "size_bytes": 1248803,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/075___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/076___Hafs39__DM.ai",
+      "size_bytes": 1184674,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/076___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/077___Hafs39__DM.ai",
+      "size_bytes": 1574404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/077___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/078___Hafs39__DM.ai",
+      "size_bytes": 1320190,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/078___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/079___Hafs39__DM.ai",
+      "size_bytes": 714906,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/079___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/080___Hafs39__DM.ai",
+      "size_bytes": 1257392,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/080___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/081___Hafs39__DM.ai",
+      "size_bytes": 1049802,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/081___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/082___Hafs39__DM.ai",
+      "size_bytes": 782610,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/082___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/083___Hafs39__DM.ai",
+      "size_bytes": 1129914,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/083___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/084___Hafs39__DM.ai",
+      "size_bytes": 1222743,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/084___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/085___Hafs39__DM.ai",
+      "size_bytes": 1278747,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/085___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/086___Hafs39__DM.ai",
+      "size_bytes": 1389916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/086___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/087___Hafs39__DM.ai",
+      "size_bytes": 1419145,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/087___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/088___Hafs39__DM.ai",
+      "size_bytes": 1237618,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/088___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/089___Hafs39__DM.ai",
+      "size_bytes": 1297706,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/089___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/090___Hafs39__DM.ai",
+      "size_bytes": 1446722,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/090___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/091___Hafs39__DM.ai",
+      "size_bytes": 1315235,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/091___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/092___Hafs39__DM.ai",
+      "size_bytes": 1404079,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/092___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/093___Hafs39__DM.ai",
+      "size_bytes": 1125080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/093___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/094___Hafs39__DM.ai",
+      "size_bytes": 1442916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/094___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/095___Hafs39__DM.ai",
+      "size_bytes": 1260471,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/095___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/096___Hafs39__DM.ai",
+      "size_bytes": 1185422,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/096___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/097___Hafs39__DM.ai",
+      "size_bytes": 775406,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/097___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/098___Hafs39__DM.ai",
+      "size_bytes": 1184589,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/098___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/099___Hafs39__DM.ai",
+      "size_bytes": 1212554,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/099___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/100___Hafs39__DM.ai",
+      "size_bytes": 908892,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/100___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/101___Hafs39__DM.ai",
+      "size_bytes": 1273419,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/101___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/102___Hafs39__DM.ai",
+      "size_bytes": 872471,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/102___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/103___Hafs39__DM.ai",
+      "size_bytes": 1352069,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/103___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/104___Hafs39__DM.ai",
+      "size_bytes": 827634,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/104___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/105___Hafs39__DM.ai",
+      "size_bytes": 1237888,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/105___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/106___Hafs39__DM.ai",
+      "size_bytes": 1302195,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/106___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/107___Hafs39__DM.ai",
+      "size_bytes": 1365789,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/107___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/108___Hafs39__DM.ai",
+      "size_bytes": 1195423,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/108___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/109___Hafs39__DM.ai",
+      "size_bytes": 1209390,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/109___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/110___Hafs39__DM.ai",
+      "size_bytes": 1040124,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/110___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/111___Hafs39__DM.ai",
+      "size_bytes": 1283904,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/111___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/112___Hafs39__DM.ai",
+      "size_bytes": 1294883,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/112___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/113___Hafs39__DM.ai",
+      "size_bytes": 1180194,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/113___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/114___Hafs39__DM.ai",
+      "size_bytes": 1224840,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/114___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/115___Hafs39__DM.ai",
+      "size_bytes": 1195195,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/115___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/116___Hafs39__DM.ai",
+      "size_bytes": 1303810,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/116___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/117___Hafs39__DM.ai",
+      "size_bytes": 961097,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/117___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/118___Hafs39__DM.ai",
+      "size_bytes": 1438710,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/118___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/119___Hafs39__DM.ai",
+      "size_bytes": 1312576,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/119___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/120___Hafs39__DM.ai",
+      "size_bytes": 1334898,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/120___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/121___Hafs39__DM.ai",
+      "size_bytes": 1104468,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/121___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/122___Hafs39__DM.ai",
+      "size_bytes": 1346940,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/122___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/123___Hafs39__DM.ai",
+      "size_bytes": 1321596,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/123___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/124___Hafs39__DM.ai",
+      "size_bytes": 1340532,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/124___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/125___Hafs39__DM.ai",
+      "size_bytes": 1422520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/125___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/126___Hafs39__DM.ai",
+      "size_bytes": 841608,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/126___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/127___Hafs39__DM.ai",
+      "size_bytes": 1434864,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/127___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/128___Hafs39__DM.ai",
+      "size_bytes": 1239626,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/128___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/129___Hafs39__DM.ai",
+      "size_bytes": 1260995,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/129___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/130___Hafs39__DM.ai",
+      "size_bytes": 1504391,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/130___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/131___Hafs39__DM.ai",
+      "size_bytes": 1361687,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/131___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/132___Hafs39__DM.ai",
+      "size_bytes": 886686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/132___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/133___Hafs39__DM.ai",
+      "size_bytes": 1324455,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/133___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/134___Hafs39__DM.ai",
+      "size_bytes": 1298973,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/134___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/135___Hafs39__DM.ai",
+      "size_bytes": 1373455,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/135___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/136___Hafs39__DM.ai",
+      "size_bytes": 1209852,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/136___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/137___Hafs39__DM.ai",
+      "size_bytes": 818160,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/137___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/138___Hafs39__DM.ai",
+      "size_bytes": 1286102,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/138___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/139___Hafs39__DM.ai",
+      "size_bytes": 1361269,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/139___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/140___Hafs39__DM.ai",
+      "size_bytes": 886050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/140___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/141___Hafs39__DM.ai",
+      "size_bytes": 1346943,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/141___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/142___Hafs39__DM.ai",
+      "size_bytes": 864231,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/142___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/143___Hafs39__DM.ai",
+      "size_bytes": 1325840,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/143___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/144___Hafs39__DM.ai",
+      "size_bytes": 1223306,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/144___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/145___Hafs39__DM.ai",
+      "size_bytes": 1109652,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/145___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/146___Hafs39__DM.ai",
+      "size_bytes": 1213454,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/146___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/147___Hafs39__DM.ai",
+      "size_bytes": 1228774,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/147___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/148___Hafs39__DM.ai",
+      "size_bytes": 1272439,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/148___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/149___Hafs39__DM.ai",
+      "size_bytes": 1252524,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/149___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/150___Hafs39__DM.ai",
+      "size_bytes": 1382111,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/150___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/151___Hafs39__DM.ai",
+      "size_bytes": 1287607,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/151___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/152___Hafs39__DM.ai",
+      "size_bytes": 1468579,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/152___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/153___Hafs39__DM.ai",
+      "size_bytes": 1303172,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/153___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/154___Hafs39__DM.ai",
+      "size_bytes": 906814,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/154___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/155___Hafs39__DM.ai",
+      "size_bytes": 1354615,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/155___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/156___Hafs39__DM.ai",
+      "size_bytes": 1391486,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/156___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/157___Hafs39__DM.ai",
+      "size_bytes": 1293292,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/157___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/158___Hafs39__DM.ai",
+      "size_bytes": 1322137,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/158___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/159___Hafs39__DM.ai",
+      "size_bytes": 1199805,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/159___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/160___Hafs39__DM.ai",
+      "size_bytes": 1168170,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/160___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/161___Hafs39__DM.ai",
+      "size_bytes": 1115769,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/161___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/162___Hafs39__DM.ai",
+      "size_bytes": 890631,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/162___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/163___Hafs39__DM.ai",
+      "size_bytes": 1261885,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/163___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/164___Hafs39__DM.ai",
+      "size_bytes": 1273833,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/164___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/165___Hafs39__DM.ai",
+      "size_bytes": 1304038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/165___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/166___Hafs39__DM.ai",
+      "size_bytes": 1245058,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/166___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/167___Hafs39__DM.ai",
+      "size_bytes": 1245285,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/167___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/168___Hafs39__DM.ai",
+      "size_bytes": 1216309,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/168___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/169___Hafs39__DM.ai",
+      "size_bytes": 1308170,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/169___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/170___Hafs39__DM.ai",
+      "size_bytes": 806024,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/170___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/171___Hafs39__DM.ai",
+      "size_bytes": 1117861,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/171___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/172___Hafs39__DM.ai",
+      "size_bytes": 1298421,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/172___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/173___Hafs39__DM.ai",
+      "size_bytes": 864790,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/173___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/174___Hafs39__DM.ai",
+      "size_bytes": 1374753,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/174___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/175___Hafs39__DM.ai",
+      "size_bytes": 1314845,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/175___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/176___Hafs39__DM.ai",
+      "size_bytes": 1310353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/176___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/177___Hafs39__DM.ai",
+      "size_bytes": 1260501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/177___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/178___Hafs39__DM.ai",
+      "size_bytes": 1319872,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/178___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/179___Hafs39__DM.ai",
+      "size_bytes": 1271262,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/179___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/180___Hafs39__DM.ai",
+      "size_bytes": 1259626,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/180___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/181___Hafs39__DM.ai",
+      "size_bytes": 1180109,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/181___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/182___Hafs39__DM.ai",
+      "size_bytes": 820917,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/182___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/183___Hafs39__DM.ai",
+      "size_bytes": 1230976,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/183___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/184___Hafs39__DM.ai",
+      "size_bytes": 1304812,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/184___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/185___Hafs39__DM.ai",
+      "size_bytes": 1307790,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/185___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/186___Hafs39__DM.ai",
+      "size_bytes": 1347715,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/186___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/187___Hafs39__DM.ai",
+      "size_bytes": 1443611,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/187___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/188___Hafs39__DM.ai",
+      "size_bytes": 1245345,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/188___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/189___Hafs39__DM.ai",
+      "size_bytes": 1330742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/189___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/190___Hafs39__DM.ai",
+      "size_bytes": 1215048,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/190___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/191___Hafs39__DM.ai",
+      "size_bytes": 1136405,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/191___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/192___Hafs39__DM.ai",
+      "size_bytes": 1217371,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/192___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/193___Hafs39__DM.ai",
+      "size_bytes": 1194685,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/193___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/194___Hafs39__DM.ai",
+      "size_bytes": 1235051,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/194___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/195___Hafs39__DM.ai",
+      "size_bytes": 1155543,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/195___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/196___Hafs39__DM.ai",
+      "size_bytes": 1299930,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/196___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/197___Hafs39__DM.ai",
+      "size_bytes": 1207216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/197___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/198___Hafs39__DM.ai",
+      "size_bytes": 1209207,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/198___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/199___Hafs39__DM.ai",
+      "size_bytes": 1269067,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/199___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/200___Hafs39__DM.ai",
+      "size_bytes": 1340653,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/200___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/201___Hafs39__DM.ai",
+      "size_bytes": 1242715,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/201___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/202___Hafs39__DM.ai",
+      "size_bytes": 1227730,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/202___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/203___Hafs39__DM.ai",
+      "size_bytes": 1343591,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/203___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/204___Hafs39__DM.ai",
+      "size_bytes": 1320881,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/204___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/205___Hafs39__DM.ai",
+      "size_bytes": 1149712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/205___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/206___Hafs39__DM.ai",
+      "size_bytes": 1303846,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/206___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/207___Hafs39__DM.ai",
+      "size_bytes": 1150580,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/207___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/208___Hafs39__DM.ai",
+      "size_bytes": 1338169,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/208___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/209___Hafs39__DM.ai",
+      "size_bytes": 1284044,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/209___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/210___Hafs39__DM.ai",
+      "size_bytes": 1211482,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/210___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/211___Hafs39__DM.ai",
+      "size_bytes": 1403395,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/211___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/212___Hafs39__DM.ai",
+      "size_bytes": 906878,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/212___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/213___Hafs39__DM.ai",
+      "size_bytes": 1421911,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/213___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/214___Hafs39__DM.ai",
+      "size_bytes": 1431613,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/214___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/215___Hafs39__DM.ai",
+      "size_bytes": 1298093,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/215___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/216___Hafs39__DM.ai",
+      "size_bytes": 1176214,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/216___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/217___Hafs39__DM.ai",
+      "size_bytes": 906437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/217___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/218___Hafs39__DM.ai",
+      "size_bytes": 1325329,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/218___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/219___Hafs39__DM.ai",
+      "size_bytes": 1333399,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/219___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/220___Hafs39__DM.ai",
+      "size_bytes": 1314074,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/220___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/221___Hafs39__DM.ai",
+      "size_bytes": 1273092,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/221___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/222___Hafs39__DM.ai",
+      "size_bytes": 855170,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/222___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/223___Hafs39__DM.ai",
+      "size_bytes": 1300280,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/223___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/224___Hafs39__DM.ai",
+      "size_bytes": 1316822,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/224___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/225___Hafs39__DM.ai",
+      "size_bytes": 1340713,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/225___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/226___Hafs39__DM.ai",
+      "size_bytes": 1285525,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/226___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/227___Hafs39__DM.ai",
+      "size_bytes": 1284672,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/227___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/228___Hafs39__DM.ai",
+      "size_bytes": 1456078,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/228___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/229___Hafs39__DM.ai",
+      "size_bytes": 1252049,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/229___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/230___Hafs39__DM.ai",
+      "size_bytes": 1385295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/230___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/231___Hafs39__DM.ai",
+      "size_bytes": 1240414,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/231___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/232___Hafs39__DM.ai",
+      "size_bytes": 1246496,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/232___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/233___Hafs39__DM.ai",
+      "size_bytes": 1372584,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/233___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/234___Hafs39__DM.ai",
+      "size_bytes": 1290017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/234___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/235___Hafs39__DM.ai",
+      "size_bytes": 1265334,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/235___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/236___Hafs39__DM.ai",
+      "size_bytes": 1344654,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/236___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/237___Hafs39__DM.ai",
+      "size_bytes": 1279925,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/237___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/238___Hafs39__DM.ai",
+      "size_bytes": 1275440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/238___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/239___Hafs39__DM.ai",
+      "size_bytes": 1407259,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/239___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/240___Hafs39__DM.ai",
+      "size_bytes": 1281727,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/240___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/241___Hafs39__DM.ai",
+      "size_bytes": 1345180,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/241___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/242___Hafs39__DM.ai",
+      "size_bytes": 884407,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/242___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/243___Hafs39__DM.ai",
+      "size_bytes": 1259035,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/243___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/244___Hafs39__DM.ai",
+      "size_bytes": 1264229,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/244___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/245___Hafs39__DM.ai",
+      "size_bytes": 1233191,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/245___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/246___Hafs39__DM.ai",
+      "size_bytes": 1245120,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/246___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/247___Hafs39__DM.ai",
+      "size_bytes": 1314630,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/247___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/248___Hafs39__DM.ai",
+      "size_bytes": 1266334,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/248___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/249___Hafs39__DM.ai",
+      "size_bytes": 1289764,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/249___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/250___Hafs39__DM.ai",
+      "size_bytes": 1257113,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/250___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/251___Hafs39__DM.ai",
+      "size_bytes": 1482226,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/251___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/252___Hafs39__DM.ai",
+      "size_bytes": 963697,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/252___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/253___Hafs39__DM.ai",
+      "size_bytes": 1378275,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/253___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/254___Hafs39__DM.ai",
+      "size_bytes": 889384,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/254___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/255___Hafs39__DM.ai",
+      "size_bytes": 1090226,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/255___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/256___Hafs39__DM.ai",
+      "size_bytes": 1255272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/256___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/257___Hafs39__DM.ai",
+      "size_bytes": 1224432,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/257___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/258___Hafs39__DM.ai",
+      "size_bytes": 1227698,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/258___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/259___Hafs39__DM.ai",
+      "size_bytes": 1314427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/259___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/260___Hafs39__DM.ai",
+      "size_bytes": 1237499,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/260___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/261___Hafs39__DM.ai",
+      "size_bytes": 1210963,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/261___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/262___Hafs39__DM.ai",
+      "size_bytes": 1295971,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/262___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/263___Hafs39__DM.ai",
+      "size_bytes": 1321362,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/263___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/264___Hafs39__DM.ai",
+      "size_bytes": 1282125,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/264___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/265___Hafs39__DM.ai",
+      "size_bytes": 1273051,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/265___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/266___Hafs39__DM.ai",
+      "size_bytes": 1317650,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/266___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/267___Hafs39__DM.ai",
+      "size_bytes": 1223437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/267___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/268___Hafs39__DM.ai",
+      "size_bytes": 1155211,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/268___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/269___Hafs39__DM.ai",
+      "size_bytes": 1243325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/269___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/270___Hafs39__DM.ai",
+      "size_bytes": 1409360,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/270___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/271___Hafs39__DM.ai",
+      "size_bytes": 1236002,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/271___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/272___Hafs39__DM.ai",
+      "size_bytes": 1408788,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/272___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/273___Hafs39__DM.ai",
+      "size_bytes": 1350973,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/273___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/274___Hafs39__DM.ai",
+      "size_bytes": 1426674,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/274___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/275___Hafs39__DM.ai",
+      "size_bytes": 1267720,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/275___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/276___Hafs39__DM.ai",
+      "size_bytes": 1218668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/276___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/277___Hafs39__DM.ai",
+      "size_bytes": 1283987,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/277___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/278___Hafs39__DM.ai",
+      "size_bytes": 1262150,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/278___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/279___Hafs39__DM.ai",
+      "size_bytes": 1157678,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/279___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/280___Hafs39__DM.ai",
+      "size_bytes": 831101,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/280___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/281___Hafs39__DM.ai",
+      "size_bytes": 1296946,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/281___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/282___Hafs39__DM.ai",
+      "size_bytes": 1266348,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/282___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/283___Hafs39__DM.ai",
+      "size_bytes": 1385277,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/283___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/284___Hafs39__DM.ai",
+      "size_bytes": 1332889,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/284___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/285___Hafs39__DM.ai",
+      "size_bytes": 1376974,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/285___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/286___Hafs39__DM.ai",
+      "size_bytes": 1477475,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/286___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/287___Hafs39__DM.ai",
+      "size_bytes": 875373,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/287___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/288___Hafs39__DM.ai",
+      "size_bytes": 1273894,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/288___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/289___Hafs39__DM.ai",
+      "size_bytes": 1304452,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/289___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/290___Hafs39__DM.ai",
+      "size_bytes": 1290400,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/290___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/291___Hafs39__DM.ai",
+      "size_bytes": 1275176,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/291___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/292___Hafs39__DM.ai",
+      "size_bytes": 1351522,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/292___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/293___Hafs39__DM.ai",
+      "size_bytes": 902214,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/293___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/294___Hafs39__DM.ai",
+      "size_bytes": 1272807,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/294___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/295___Hafs39__DM.ai",
+      "size_bytes": 1324924,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/295___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/296___Hafs39__DM.ai",
+      "size_bytes": 1308464,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/296___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/297___Hafs39__DM.ai",
+      "size_bytes": 1369617,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/297___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/298___Hafs39__DM.ai",
+      "size_bytes": 1373012,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/298___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/299___Hafs39__DM.ai",
+      "size_bytes": 1391452,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/299___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/300___Hafs39__DM.ai",
+      "size_bytes": 1281437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/300___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/301___Hafs39__DM.ai",
+      "size_bytes": 1297900,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/301___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/302___Hafs39__DM.ai",
+      "size_bytes": 877856,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/302___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/303___Hafs39__DM.ai",
+      "size_bytes": 1391255,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/303___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/304___Hafs39__DM.ai",
+      "size_bytes": 1511571,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/304___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/305___Hafs39__DM.ai",
+      "size_bytes": 1117299,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/305___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/306___Hafs39__DM.ai",
+      "size_bytes": 1264532,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/306___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/307___Hafs39__DM.ai",
+      "size_bytes": 1305682,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/307___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/308___Hafs39__DM.ai",
+      "size_bytes": 1356158,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/308___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/309___Hafs39__DM.ai",
+      "size_bytes": 1468000,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/309___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/310___Hafs39__DM.ai",
+      "size_bytes": 1325702,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/310___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/311___Hafs39__DM.ai",
+      "size_bytes": 1262417,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/311___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/312___Hafs39__DM.ai",
+      "size_bytes": 1191225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/312___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/313___Hafs39__DM.ai",
+      "size_bytes": 1267810,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/313___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/314___Hafs39__DM.ai",
+      "size_bytes": 1408725,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/314___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/315___Hafs39__DM.ai",
+      "size_bytes": 1325847,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/315___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/316___Hafs39__DM.ai",
+      "size_bytes": 1434939,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/316___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/317___Hafs39__DM.ai",
+      "size_bytes": 1317608,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/317___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/318___Hafs39__DM.ai",
+      "size_bytes": 1261187,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/318___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/319___Hafs39__DM.ai",
+      "size_bytes": 1361063,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/319___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/320___Hafs39__DM.ai",
+      "size_bytes": 1257182,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/320___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/321___Hafs39__DM.ai",
+      "size_bytes": 1378615,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/321___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/322___Hafs39__DM.ai",
+      "size_bytes": 1290520,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/322___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/323___Hafs39__DM.ai",
+      "size_bytes": 1348559,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/323___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/324___Hafs39__DM.ai",
+      "size_bytes": 1334246,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/324___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/325___Hafs39__DM.ai",
+      "size_bytes": 1143467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/325___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/326___Hafs39__DM.ai",
+      "size_bytes": 1301056,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/326___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/327___Hafs39__DM.ai",
+      "size_bytes": 1223119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/327___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/328___Hafs39__DM.ai",
+      "size_bytes": 1261977,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/328___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/329___Hafs39__DM.ai",
+      "size_bytes": 1194574,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/329___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/330___Hafs39__DM.ai",
+      "size_bytes": 1100844,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/330___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/331___Hafs39__DM.ai",
+      "size_bytes": 1110964,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/331___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/332___Hafs39__DM.ai",
+      "size_bytes": 1295128,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/332___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/333___Hafs39__DM.ai",
+      "size_bytes": 1343243,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/333___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/334___Hafs39__DM.ai",
+      "size_bytes": 1334924,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/334___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/335___Hafs39__DM.ai",
+      "size_bytes": 1220538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/335___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/336___Hafs39__DM.ai",
+      "size_bytes": 1425202,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/336___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/337___Hafs39__DM.ai",
+      "size_bytes": 1306097,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/337___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/338___Hafs39__DM.ai",
+      "size_bytes": 1345648,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/338___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/339___Hafs39__DM.ai",
+      "size_bytes": 1215631,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/339___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/340___Hafs39__DM.ai",
+      "size_bytes": 1269791,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/340___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/341___Hafs39__DM.ai",
+      "size_bytes": 1197276,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/341___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/342___Hafs39__DM.ai",
+      "size_bytes": 1342226,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/342___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/343___Hafs39__DM.ai",
+      "size_bytes": 1380508,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/343___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/344___Hafs39__DM.ai",
+      "size_bytes": 1448767,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/344___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/345___Hafs39__DM.ai",
+      "size_bytes": 1401526,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/345___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/346___Hafs39__DM.ai",
+      "size_bytes": 1388209,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/346___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/347___Hafs39__DM.ai",
+      "size_bytes": 849025,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/347___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/348___Hafs39__DM.ai",
+      "size_bytes": 1277943,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/348___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/349___Hafs39__DM.ai",
+      "size_bytes": 1246540,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/349___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/350___Hafs39__DM.ai",
+      "size_bytes": 1581471,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/350___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/351___Hafs39__DM.ai",
+      "size_bytes": 1466267,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/351___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/352___Hafs39__DM.ai",
+      "size_bytes": 919900,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/352___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/353___Hafs39__DM.ai",
+      "size_bytes": 1314283,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/353___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/354___Hafs39__DM.ai",
+      "size_bytes": 1495030,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/354___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/355___Hafs39__DM.ai",
+      "size_bytes": 1410729,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/355___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/356___Hafs39__DM.ai",
+      "size_bytes": 1510609,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/356___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/357___Hafs39__DM.ai",
+      "size_bytes": 1372649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/357___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/358___Hafs39__DM.ai",
+      "size_bytes": 1199851,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/358___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/359___Hafs39__DM.ai",
+      "size_bytes": 1297991,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/359___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/360___Hafs39__DM.ai",
+      "size_bytes": 1237848,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/360___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/361___Hafs39__DM.ai",
+      "size_bytes": 1219063,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/361___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/362___Hafs39__DM.ai",
+      "size_bytes": 887971,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/362___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/363___Hafs39__DM.ai",
+      "size_bytes": 1244752,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/363___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/364___Hafs39__DM.ai",
+      "size_bytes": 1308877,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/364___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/365___Hafs39__DM.ai",
+      "size_bytes": 1269184,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/365___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/366___Hafs39__DM.ai",
+      "size_bytes": 1152686,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/366___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/367___Hafs39__DM.ai",
+      "size_bytes": 1459851,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/367___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/368___Hafs39__DM.ai",
+      "size_bytes": 1369921,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/368___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/369___Hafs39__DM.ai",
+      "size_bytes": 1484106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/369___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/370___Hafs39__DM.ai",
+      "size_bytes": 1318841,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/370___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/371___Hafs39__DM.ai",
+      "size_bytes": 1432544,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/371___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/372___Hafs39__DM.ai",
+      "size_bytes": 1388746,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/372___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/373___Hafs39__DM.ai",
+      "size_bytes": 1388319,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/373___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/374___Hafs39__DM.ai",
+      "size_bytes": 1459337,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/374___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/375___Hafs39__DM.ai",
+      "size_bytes": 1351063,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/375___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/376___Hafs39__DM.ai",
+      "size_bytes": 1255121,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/376___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/377___Hafs39__DM.ai",
+      "size_bytes": 942669,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/377___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/378___Hafs39__DM.ai",
+      "size_bytes": 1321851,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/378___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/379___Hafs39__DM.ai",
+      "size_bytes": 1423873,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/379___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/380___Hafs39__DM.ai",
+      "size_bytes": 1478058,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/380___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/381___Hafs39__DM.ai",
+      "size_bytes": 1199222,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/381___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/382___Hafs39__DM.ai",
+      "size_bytes": 835441,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/382___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/383___Hafs39__DM.ai",
+      "size_bytes": 1344194,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/383___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/384___Hafs39__DM.ai",
+      "size_bytes": 1387721,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/384___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/385___Hafs39__DM.ai",
+      "size_bytes": 1223441,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/385___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/386___Hafs39__DM.ai",
+      "size_bytes": 1241016,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/386___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/387___Hafs39__DM.ai",
+      "size_bytes": 1383707,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/387___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/388___Hafs39__DM.ai",
+      "size_bytes": 1245436,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/388___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/389___Hafs39__DM.ai",
+      "size_bytes": 840460,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/389___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/390___Hafs39__DM.ai",
+      "size_bytes": 1193534,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/390___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/391___Hafs39__DM.ai",
+      "size_bytes": 1237439,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/391___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/392___Hafs39__DM.ai",
+      "size_bytes": 843683,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/392___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/393___Hafs39__DM.ai",
+      "size_bytes": 1327013,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/393___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/394___Hafs39__DM.ai",
+      "size_bytes": 1306357,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/394___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/395___Hafs39__DM.ai",
+      "size_bytes": 1301038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/395___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/396___Hafs39__DM.ai",
+      "size_bytes": 1243149,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/396___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/397___Hafs39__DM.ai",
+      "size_bytes": 1275989,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/397___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/398___Hafs39__DM.ai",
+      "size_bytes": 1257399,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/398___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/399___Hafs39__DM.ai",
+      "size_bytes": 1241707,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/399___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/400___Hafs39__DM.ai",
+      "size_bytes": 1161322,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/400___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/401___Hafs39__DM.ai",
+      "size_bytes": 1170726,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/401___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/402___Hafs39__DM.ai",
+      "size_bytes": 840503,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/402___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/403___Hafs39__DM.ai",
+      "size_bytes": 1386970,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/403___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/404___Hafs39__DM.ai",
+      "size_bytes": 1196498,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/404___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/405___Hafs39__DM.ai",
+      "size_bytes": 1298050,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/405___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/406___Hafs39__DM.ai",
+      "size_bytes": 1223630,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/406___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/407___Hafs39__DM.ai",
+      "size_bytes": 1286253,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/407___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/408___Hafs39__DM.ai",
+      "size_bytes": 1365821,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/408___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/409___Hafs39__DM.ai",
+      "size_bytes": 1361568,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/409___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/410___Hafs39__DM.ai",
+      "size_bytes": 1348204,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/410___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/411___Hafs39__DM.ai",
+      "size_bytes": 1236413,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/411___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/412___Hafs39__DM.ai",
+      "size_bytes": 1323700,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/412___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/413___Hafs39__DM.ai",
+      "size_bytes": 1360644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/413___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/414___Hafs39__DM.ai",
+      "size_bytes": 1269449,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/414___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/415___Hafs39__DM.ai",
+      "size_bytes": 1363281,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/415___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/416___Hafs39__DM.ai",
+      "size_bytes": 1267708,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/416___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/417___Hafs39__DM.ai",
+      "size_bytes": 1203925,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/417___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/418___Hafs39__DM.ai",
+      "size_bytes": 1314240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/418___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/419___Hafs39__DM.ai",
+      "size_bytes": 1355438,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/419___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/420___Hafs39__DM.ai",
+      "size_bytes": 1409669,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/420___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/421___Hafs39__DM.ai",
+      "size_bytes": 1284828,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/421___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/422___Hafs39__DM.ai",
+      "size_bytes": 831184,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/422___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/423___Hafs39__DM.ai",
+      "size_bytes": 1397863,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/423___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/424___Hafs39__DM.ai",
+      "size_bytes": 1266501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/424___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/425___Hafs39__DM.ai",
+      "size_bytes": 850155,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/425___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/426___Hafs39__DM.ai",
+      "size_bytes": 1376091,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/426___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/427___Hafs39__DM.ai",
+      "size_bytes": 1354091,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/427___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/428___Hafs39__DM.ai",
+      "size_bytes": 1201516,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/428___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/429___Hafs39__DM.ai",
+      "size_bytes": 1353995,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/429___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/430___Hafs39__DM.ai",
+      "size_bytes": 1291338,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/430___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/431___Hafs39__DM.ai",
+      "size_bytes": 1310572,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/431___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/432___Hafs39__DM.ai",
+      "size_bytes": 1335512,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/432___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/433___Hafs39__DM.ai",
+      "size_bytes": 1420124,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/433___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/434___Hafs39__DM.ai",
+      "size_bytes": 1271392,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/434___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/435___Hafs39__DM.ai",
+      "size_bytes": 1448160,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/435___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/436___Hafs39__DM.ai",
+      "size_bytes": 1339239,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/436___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/437___Hafs39__DM.ai",
+      "size_bytes": 1312445,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/437___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/438___Hafs39__DM.ai",
+      "size_bytes": 1259641,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/438___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/439___Hafs39__DM.ai",
+      "size_bytes": 1468595,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/439___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/440___Hafs39__DM.ai",
+      "size_bytes": 1176233,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/440___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/441___Hafs39__DM.ai",
+      "size_bytes": 1293698,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/441___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/442___Hafs39__DM.ai",
+      "size_bytes": 1317308,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/442___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/443___Hafs39__DM.ai",
+      "size_bytes": 1372811,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/443___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/444___Hafs39__DM.ai",
+      "size_bytes": 1334373,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/444___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/445___Hafs39__DM.ai",
+      "size_bytes": 1207253,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/445___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/446___Hafs39__DM.ai",
+      "size_bytes": 1504138,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/446___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/447___Hafs39__DM.ai",
+      "size_bytes": 1407681,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/447___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/448___Hafs39__DM.ai",
+      "size_bytes": 1341895,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/448___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/449___Hafs39__DM.ai",
+      "size_bytes": 1391404,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/449___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/450___Hafs39__DM.ai",
+      "size_bytes": 1255548,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/450___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/451___Hafs39__DM.ai",
+      "size_bytes": 1354590,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/451___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/452___Hafs39__DM.ai",
+      "size_bytes": 1340491,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/452___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/453___Hafs39__DM.ai",
+      "size_bytes": 1425048,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/453___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/454___Hafs39__DM.ai",
+      "size_bytes": 1452708,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/454___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/455___Hafs39__DM.ai",
+      "size_bytes": 1405412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/455___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/456___Hafs39__DM.ai",
+      "size_bytes": 1428919,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/456___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/457___Hafs39__DM.ai",
+      "size_bytes": 1417894,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/457___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/458___Hafs39__DM.ai",
+      "size_bytes": 1260877,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/458___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/459___Hafs39__DM.ai",
+      "size_bytes": 1417010,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/459___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/460___Hafs39__DM.ai",
+      "size_bytes": 1485767,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/460___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/461___Hafs39__DM.ai",
+      "size_bytes": 1336189,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/461___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/462___Hafs39__DM.ai",
+      "size_bytes": 1254276,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/462___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/463___Hafs39__DM.ai",
+      "size_bytes": 1239698,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/463___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/464___Hafs39__DM.ai",
+      "size_bytes": 1298834,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/464___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/465___Hafs39__DM.ai",
+      "size_bytes": 1268210,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/465___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/466___Hafs39__DM.ai",
+      "size_bytes": 1293740,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/466___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/467___Hafs39__DM.ai",
+      "size_bytes": 1259087,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/467___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/468___Hafs39__DM.ai",
+      "size_bytes": 1245701,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/468___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/469___Hafs39__DM.ai",
+      "size_bytes": 1280015,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/469___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/470___Hafs39__DM.ai",
+      "size_bytes": 1273600,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/470___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/471___Hafs39__DM.ai",
+      "size_bytes": 1188722,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/471___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/472___Hafs39__DM.ai",
+      "size_bytes": 1255944,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/472___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/473___Hafs39__DM.ai",
+      "size_bytes": 1149451,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/473___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/474___Hafs39__DM.ai",
+      "size_bytes": 1213072,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/474___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/475___Hafs39__DM.ai",
+      "size_bytes": 1257737,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/475___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/476___Hafs39__DM.ai",
+      "size_bytes": 1239835,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/476___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/477___Hafs39__DM.ai",
+      "size_bytes": 1341846,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/477___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/478___Hafs39__DM.ai",
+      "size_bytes": 1385974,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/478___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/479___Hafs39__DM.ai",
+      "size_bytes": 1388337,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/479___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/480___Hafs39__DM.ai",
+      "size_bytes": 1265250,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/480___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/481___Hafs39__DM.ai",
+      "size_bytes": 1372522,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/481___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/482___Hafs39__DM.ai",
+      "size_bytes": 1368401,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/482___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/483___Hafs39__DM.ai",
+      "size_bytes": 1327094,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/483___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/484___Hafs39__DM.ai",
+      "size_bytes": 1349958,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/484___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/485___Hafs39__DM.ai",
+      "size_bytes": 1215445,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/485___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/486___Hafs39__DM.ai",
+      "size_bytes": 1411938,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/486___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/487___Hafs39__DM.ai",
+      "size_bytes": 1435742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/487___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/488___Hafs39__DM.ai",
+      "size_bytes": 1330386,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/488___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/489___Hafs39__DM.ai",
+      "size_bytes": 1162902,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/489___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/490___Hafs39__DM.ai",
+      "size_bytes": 1284380,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/490___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/491___Hafs39__DM.ai",
+      "size_bytes": 1389287,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/491___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/492___Hafs39__DM.ai",
+      "size_bytes": 1303563,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/492___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/493___Hafs39__DM.ai",
+      "size_bytes": 1282459,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/493___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/494___Hafs39__DM.ai",
+      "size_bytes": 1295330,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/494___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/495___Hafs39__DM.ai",
+      "size_bytes": 1366844,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/495___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/496___Hafs39__DM.ai",
+      "size_bytes": 1318152,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/496___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/497___Hafs39__DM.ai",
+      "size_bytes": 1374946,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/497___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/498___Hafs39__DM.ai",
+      "size_bytes": 1107901,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/498___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/499___Hafs39__DM.ai",
+      "size_bytes": 1561427,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/499___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/500___Hafs39__DM.ai",
+      "size_bytes": 1346178,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/500___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/501___Hafs39__DM.ai",
+      "size_bytes": 1495224,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/501___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/502___Hafs39__DM.ai",
+      "size_bytes": 1315521,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/502___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/503___Hafs39__DM.ai",
+      "size_bytes": 1382844,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/503___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/504___Hafs39__DM.ai",
+      "size_bytes": 1465749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/504___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/505___Hafs39__DM.ai",
+      "size_bytes": 1378266,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/505___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/506___Hafs39__DM.ai",
+      "size_bytes": 1280466,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/506___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/507___Hafs39__DM.ai",
+      "size_bytes": 1579323,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/507___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/508___Hafs39__DM.ai",
+      "size_bytes": 1501374,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/508___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/509___Hafs39__DM.ai",
+      "size_bytes": 1301204,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/509___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/510___Hafs39__DM.ai",
+      "size_bytes": 1404225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/510___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/511___Hafs39__DM.ai",
+      "size_bytes": 1259650,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/511___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/512___Hafs39__DM.ai",
+      "size_bytes": 1312452,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/512___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/513___Hafs39__DM.ai",
+      "size_bytes": 1366454,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/513___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/514___Hafs39__DM.ai",
+      "size_bytes": 1277954,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/514___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/515___Hafs39__DM.ai",
+      "size_bytes": 1339662,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/515___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/516___Hafs39__DM.ai",
+      "size_bytes": 1488397,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/516___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/517___Hafs39__DM.ai",
+      "size_bytes": 1428845,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/517___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/518___Hafs39__DM.ai",
+      "size_bytes": 1285557,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/518___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/519___Hafs39__DM.ai",
+      "size_bytes": 1496647,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/519___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/520___Hafs39__DM.ai",
+      "size_bytes": 1197423,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/520___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/521___Hafs39__DM.ai",
+      "size_bytes": 1451519,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/521___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/522___Hafs39__DM.ai",
+      "size_bytes": 1447373,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/522___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/523___Hafs39__DM.ai",
+      "size_bytes": 1230138,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/523___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/524___Hafs39__DM.ai",
+      "size_bytes": 1413505,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/524___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/525___Hafs39__DM.ai",
+      "size_bytes": 1358632,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/525___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/526___Hafs39__DM.ai",
+      "size_bytes": 1444277,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/526___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/527___Hafs39__DM.ai",
+      "size_bytes": 1442677,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/527___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/528___Hafs39__DM.ai",
+      "size_bytes": 1302738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/528___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/529___Hafs39__DM.ai",
+      "size_bytes": 1443758,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/529___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/530___Hafs39__DM.ai",
+      "size_bytes": 1461782,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/530___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/531___Hafs39__DM.ai",
+      "size_bytes": 1227344,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/531___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/532___Hafs39__DM.ai",
+      "size_bytes": 1436240,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/532___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/533___Hafs39__DM.ai",
+      "size_bytes": 1392826,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/533___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/534___Hafs39__DM.ai",
+      "size_bytes": 1207472,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/534___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/535___Hafs39__DM.ai",
+      "size_bytes": 1401307,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/535___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/536___Hafs39__DM.ai",
+      "size_bytes": 1464937,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/536___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/537___Hafs39__DM.ai",
+      "size_bytes": 1272351,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/537___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/538___Hafs39__DM.ai",
+      "size_bytes": 1442458,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/538___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/539___Hafs39__DM.ai",
+      "size_bytes": 1469477,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/539___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/540___Hafs39__DM.ai",
+      "size_bytes": 1342930,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/540___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/541___Hafs39__DM.ai",
+      "size_bytes": 1295013,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/541___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/542___Hafs39__DM.ai",
+      "size_bytes": 1359908,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/542___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/543___Hafs39__DM.ai",
+      "size_bytes": 1448709,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/543___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/544___Hafs39__DM.ai",
+      "size_bytes": 1514446,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/544___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/545___Hafs39__DM.ai",
+      "size_bytes": 1261867,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/545___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/546___Hafs39__DM.ai",
+      "size_bytes": 1366773,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/546___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/547___Hafs39__DM.ai",
+      "size_bytes": 1360587,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/547___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/548___Hafs39__DM.ai",
+      "size_bytes": 1229452,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/548___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/549___Hafs39__DM.ai",
+      "size_bytes": 1527440,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/549___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/550___Hafs39__DM.ai",
+      "size_bytes": 1610450,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/550___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/551___Hafs39__DM.ai",
+      "size_bytes": 1266468,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/551___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/552___Hafs39__DM.ai",
+      "size_bytes": 1604609,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/552___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/553___Hafs39__DM.ai",
+      "size_bytes": 1344668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/553___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/554___Hafs39__DM.ai",
+      "size_bytes": 1401408,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/554___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/555___Hafs39__DM.ai",
+      "size_bytes": 1231676,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/555___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/556___Hafs39__DM.ai",
+      "size_bytes": 1500870,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/556___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/557___Hafs39__DM.ai",
+      "size_bytes": 1211457,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/557___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/558___Hafs39__DM.ai",
+      "size_bytes": 1466254,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/558___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/559___Hafs39__DM.ai",
+      "size_bytes": 1464466,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/559___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/560___Hafs39__DM.ai",
+      "size_bytes": 1413961,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/560___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/561___Hafs39__DM.ai",
+      "size_bytes": 1235295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/561___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/562___Hafs39__DM.ai",
+      "size_bytes": 1401186,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/562___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/563___Hafs39__DM.ai",
+      "size_bytes": 1400538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/563___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/564___Hafs39__DM.ai",
+      "size_bytes": 1293920,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/564___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/565___Hafs39__DM.ai",
+      "size_bytes": 1485375,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/565___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/566___Hafs39__DM.ai",
+      "size_bytes": 1379467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/566___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/567___Hafs39__DM.ai",
+      "size_bytes": 1533297,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/567___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/568___Hafs39__DM.ai",
+      "size_bytes": 1270198,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/568___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/569___Hafs39__DM.ai",
+      "size_bytes": 1529247,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/569___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/570___Hafs39__DM.ai",
+      "size_bytes": 1330187,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/570___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/571___Hafs39__DM.ai",
+      "size_bytes": 1333035,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/571___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/572___Hafs39__DM.ai",
+      "size_bytes": 1341509,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/572___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/573___Hafs39__DM.ai",
+      "size_bytes": 1346863,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/573___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/574___Hafs39__DM.ai",
+      "size_bytes": 1376026,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/574___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/575___Hafs39__DM.ai",
+      "size_bytes": 1428305,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/575___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/576___Hafs39__DM.ai",
+      "size_bytes": 1479896,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/576___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/577___Hafs39__DM.ai",
+      "size_bytes": 1463776,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/577___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/578___Hafs39__DM.ai",
+      "size_bytes": 1408806,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/578___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/579___Hafs39__DM.ai",
+      "size_bytes": 1514524,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/579___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/580___Hafs39__DM.ai",
+      "size_bytes": 1310788,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/580___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/581___Hafs39__DM.ai",
+      "size_bytes": 1401769,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/581___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/582___Hafs39__DM.ai",
+      "size_bytes": 1304930,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/582___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/583___Hafs39__DM.ai",
+      "size_bytes": 1372727,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/583___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/584___Hafs39__DM.ai",
+      "size_bytes": 1329091,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/584___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/585___Hafs39__DM.ai",
+      "size_bytes": 1487369,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/585___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/586___Hafs39__DM.ai",
+      "size_bytes": 1316867,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/586___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/587___Hafs39__DM.ai",
+      "size_bytes": 1211032,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/587___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/588___Hafs39__DM.ai",
+      "size_bytes": 1441915,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/588___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/589___Hafs39__DM.ai",
+      "size_bytes": 1322859,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/589___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/590___Hafs39__DM.ai",
+      "size_bytes": 1351466,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/590___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/591___Hafs39__DM.ai",
+      "size_bytes": 1214001,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/591___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/592___Hafs39__DM.ai",
+      "size_bytes": 1262611,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/592___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/593___Hafs39__DM.ai",
+      "size_bytes": 1243038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/593___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/594___Hafs39__DM.ai",
+      "size_bytes": 1250992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/594___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/595___Hafs39__DM.ai",
+      "size_bytes": 1165215,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/595___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/596___Hafs39__DM.ai",
+      "size_bytes": 1156457,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/596___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/597___Hafs39__DM.ai",
+      "size_bytes": 1176132,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/597___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/598___Hafs39__DM.ai",
+      "size_bytes": 1226552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/598___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/599___Hafs39__DM.ai",
+      "size_bytes": 1166451,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/599___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/600___Hafs39__DM.ai",
+      "size_bytes": 1183556,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/600___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/601___Hafs39__DM.ai",
+      "size_bytes": 982373,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/601___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/602___Hafs39__DM.ai",
+      "size_bytes": 885218,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/602___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/603___Hafs39__DM.ai",
+      "size_bytes": 881657,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/603___Hafs39__DM.ai"
+    },
+    {
+      "path": "1441 مصحف حفص-إليستريتور/604___Hafs39__DM.ai",
+      "size_bytes": 790241,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1441-ai-hafs/1441%20%D9%85%D8%B5%D8%AD%D9%81%20%D8%AD%D9%81%D8%B5-%D8%A5%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA%D9%88%D8%B1/604___Hafs39__DM.ai"
+    }
+  ]
+}

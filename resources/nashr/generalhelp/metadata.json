@@ -1,0 +1,38 @@
+{
+  "slug": "generalhelp",
+  "page_order": 2,
+  "group": "nashr",
+  "source_page": "https://nashr.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "دليل استخدام التطبيق",
+    "en": null
+  },
+  "download": {
+    "url": "https://nashr.qurancomplex.gov.sa/download/Generalhelp.pdf",
+    "filename": "Generalhelp.pdf",
+    "size_bytes": 3060839,
+    "size_human": "2.92 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 10 Apr 2022 08:13:47 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/nashr/generalhelp/Generalhelp.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "3b0d1f83e7ef17d0923f4d203920df64",
+      "sha1": "e937131ac594c5dd7114bed59ed8f9e66f5e0a15",
+      "sha256": "6eb93fd480e75015a82be23d6bd2b0b2af5db330aac0b0e32c953feaaeaffb09"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:49Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 3060839,
+  "files": [
+    {
+      "path": "Generalhelp.pdf",
+      "size_bytes": 3060839,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/nashr/generalhelp/Generalhelp.pdf"
+    }
+  ]
+}

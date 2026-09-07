@@ -1,0 +1,47 @@
+{
+  "slug": "complexbooklet",
+  "page_order": 2,
+  "group": "booklets",
+  "source_page": "https://qurancomplex.gov.sa/booklets/",
+  "title": {
+    "ar": "مسيرة وإنجازات",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/complex_booklet__Cover.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/booklets/complexbooklet.pdf",
+    "filename": "complexbooklet.pdf",
+    "size_bytes": 5352357,
+    "size_human": "5.10 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 11 Sep 2019 07:22:33 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/booklets/complexbooklet/complexbooklet.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "4249346ffcdb5269a3a07a4faae632dd",
+      "sha1": "d2a36715aee08b7d68e5c64d3be16dfc0002c0bc",
+      "sha256": "7582ec96430328d5254d4d3210132b3845dda28dc86122d4db8b6dc3d4eebd0a"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:59Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 5551677,
+  "files": [
+    {
+      "path": "complex_booklet__Cover.jpg",
+      "size_bytes": 199320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/booklets/complexbooklet/complex_booklet__Cover.jpg"
+    },
+    {
+      "path": "complexbooklet.pdf",
+      "size_bytes": 5352357,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/booklets/complexbooklet/complexbooklet.pdf"
+    }
+  ]
+}

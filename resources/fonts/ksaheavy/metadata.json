@@ -1,0 +1,38 @@
+{
+  "slug": "ksaheavy",
+  "page_order": 8,
+  "group": "fonts",
+  "source_page": "https://fonts.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل الخط",
+    "en": null
+  },
+  "download": {
+    "url": "https://fonts.qurancomplex.gov.sa/wp-content/uploads/2022/12/KSAHeavy.ttf",
+    "filename": "KSAHeavy.ttf",
+    "size_bytes": 49556,
+    "size_human": "48.4 KB",
+    "content_type": "application/octet-stream",
+    "server_last_modified": "Tue, 13 Dec 2022 07:55:41 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaheavy/KSAHeavy.ttf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "cf47c861b8415fa4bd90bf4b4580c3bd",
+      "sha1": "db21382deec05ca93f4c9633d05662987992b4f5",
+      "sha256": "62d9282338c5e908b0def3a58c1d0c241f74b0a5e9756b286a4548db364bff55"
+    }
+  },
+  "captured_at": "2026-09-07T14:03:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 49556,
+  "files": [
+    {
+      "path": "KSAHeavy.ttf",
+      "size_bytes": 49556,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/fonts/ksaheavy/KSAHeavy.ttf"
+    }
+  ]
+}

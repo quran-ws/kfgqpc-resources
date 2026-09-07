@@ -1,0 +1,47 @@
+{
+  "slug": "thikr-duaa-english",
+  "page_order": 12,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب الذكر والدعاء (اللغة الإنجليزية)",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/thikr-duaa-english.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/ThikrDuaa-English.pdf",
+    "filename": "ThikrDuaa-English.pdf",
+    "size_bytes": 16041341,
+    "size_human": "15.30 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 11:53:49 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa-english/ThikrDuaa-English.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "5a34ccbd7b0196b674210107913bdc0c",
+      "sha1": "f77bec2ace44d0b003e228db1a3eb5c9ed6a348f",
+      "sha256": "8f7c3d46ca290e94eb7f4c25bbbc26bed1cc5ab9f560824c1bb556b03c9ceca0"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 16094884,
+  "files": [
+    {
+      "path": "ThikrDuaa-English.pdf",
+      "size_bytes": 16041341,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa-english/ThikrDuaa-English.pdf"
+    },
+    {
+      "path": "thikr-duaa-english.jpg",
+      "size_bytes": 53543,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/thikr-duaa-english/thikr-duaa-english.jpg"
+    }
+  ]
+}

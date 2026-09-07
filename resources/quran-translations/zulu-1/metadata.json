@@ -1,0 +1,47 @@
+{
+  "slug": "zulu-1",
+  "page_order": 36,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الزولو (Zulu)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/08/Zulu-ayat.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/zulu-1.pdf",
+    "filename": "zulu-1.pdf",
+    "size_bytes": 15609164,
+    "size_human": "14.89 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 21 Aug 2024 05:32:32 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/zulu-1/zulu-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "c392225281cb2870c07bd4d75ccd2b2d",
+      "sha1": "34f3e84f219ebd80080bc2d4d300fdeda42b1b12",
+      "sha256": "1f3e1440850e4f1f446739a9f26d9319675cfe174331637f7062f0660d46bd99"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 15679500,
+  "files": [
+    {
+      "path": "Zulu-ayat.jpg",
+      "size_bytes": 70336,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/zulu-1/Zulu-ayat.jpg"
+    },
+    {
+      "path": "zulu-1.pdf",
+      "size_bytes": 15609164,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/zulu-1/zulu-1.pdf"
+    }
+  ]
+}

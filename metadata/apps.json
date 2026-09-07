@@ -1,0 +1,41 @@
+{
+  "group": "apps",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/apps/",
+  "resource_count": 1,
+  "available_count": 1,
+  "file_count": 1,
+  "total_bytes": 15464892,
+  "resources": [
+    {
+      "slug": "quran-hafs-guide",
+      "page_order": 1,
+      "group": "apps",
+      "source_page": "https://qurancomplex.gov.sa/apps/",
+      "title": {
+        "ar": "تحميل دليل الاستخدام",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/appres/QuranHafsGuide.pdf",
+        "filename": "QuranHafsGuide.pdf",
+        "size_bytes": 15464892,
+        "size_human": "14.75 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 03 Nov 2024 08:17:12 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/apps/quran-hafs-guide/QuranHafsGuide.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "debca2228911360631cb77077692b215",
+          "sha1": "3eb96e8336f41f8debf49280ed0b1a93ad44e8b7",
+          "sha256": "d4626d5017b2b0453187ff0a9f83b9edef6daa09ea279ce410734e3595178565"
+        }
+      },
+      "captured_at": "2026-09-07T14:04:38Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 1,
+      "total_bytes": 15464892
+    }
+  ]
+}

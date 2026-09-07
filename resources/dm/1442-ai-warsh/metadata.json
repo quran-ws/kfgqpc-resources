@@ -1,0 +1,3056 @@
+{
+  "slug": "1442-ai-warsh",
+  "page_order": 2,
+  "group": "dm",
+  "source_page": "https://dm.qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تحميل",
+    "en": null
+  },
+  "download": {
+    "url": "https://dm.qurancomplex.gov.sa/Download/1442-ai-warsh.zip",
+    "filename": "1442-ai-warsh.zip",
+    "size_bytes": 417437136,
+    "size_human": "398.10 MB",
+    "content_type": "application/x-zip-compressed",
+    "server_last_modified": "Mon, 28 Sep 2020 07:58:12 GMT"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "dfbf6ab548ddb877a181db387d8ee597",
+      "sha1": "4f3073b3b91c7e25e4c30e9f642b29d63c45eaa2",
+      "sha256": "2a0c65131dac5a922502fb4740034fb4ffc57792a0b6e5c1cc34c5a3339dd5d7"
+    }
+  },
+  "captured_at": "2026-09-07T14:04:04Z",
+  "available": true,
+  "archive_extracted": true,
+  "file_count": 604,
+  "total_bytes": 729521699,
+  "files": [
+    {
+      "path": "warsh-ai/001___Warsh39__DM.ai",
+      "size_bytes": 463563,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/001___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/002___Warsh39__DM.ai",
+      "size_bytes": 516737,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/002___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/003___Warsh39__DM.ai",
+      "size_bytes": 1134681,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/003___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/004___Warsh39__DM.ai",
+      "size_bytes": 1168205,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/004___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/005___Warsh39__DM.ai",
+      "size_bytes": 1061720,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/005___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/006___Warsh39__DM.ai",
+      "size_bytes": 1246596,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/006___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/007___Warsh39__DM.ai",
+      "size_bytes": 1246285,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/007___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/008___Warsh39__DM.ai",
+      "size_bytes": 768289,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/008___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/009___Warsh39__DM.ai",
+      "size_bytes": 1068738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/009___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/010___Warsh39__DM.ai",
+      "size_bytes": 1158601,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/010___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/011___Warsh39__DM.ai",
+      "size_bytes": 1201640,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/011___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/012___Warsh39__DM.ai",
+      "size_bytes": 1080353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/012___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/013___Warsh39__DM.ai",
+      "size_bytes": 1101572,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/013___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/014___Warsh39__DM.ai",
+      "size_bytes": 1054573,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/014___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/015___Warsh39__DM.ai",
+      "size_bytes": 1080174,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/015___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/016___Warsh39__DM.ai",
+      "size_bytes": 1013775,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/016___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/017___Warsh39__DM.ai",
+      "size_bytes": 1077464,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/017___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/018___Warsh39__DM.ai",
+      "size_bytes": 1147888,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/018___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/019___Warsh39__DM.ai",
+      "size_bytes": 1229787,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/019___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/020___Warsh39__DM.ai",
+      "size_bytes": 1193126,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/020___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/021___Warsh39__DM.ai",
+      "size_bytes": 1122614,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/021___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/022___Warsh39__DM.ai",
+      "size_bytes": 1170849,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/022___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/023___Warsh39__DM.ai",
+      "size_bytes": 1173026,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/023___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/024___Warsh39__DM.ai",
+      "size_bytes": 1220843,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/024___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/025___Warsh39__DM.ai",
+      "size_bytes": 1155278,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/025___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/026___Warsh39__DM.ai",
+      "size_bytes": 1100099,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/026___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/027___Warsh39__DM.ai",
+      "size_bytes": 1165962,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/027___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/028___Warsh39__DM.ai",
+      "size_bytes": 1026501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/028___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/029___Warsh39__DM.ai",
+      "size_bytes": 1080021,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/029___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/030___Warsh39__DM.ai",
+      "size_bytes": 1323864,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/030___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/031___Warsh39__DM.ai",
+      "size_bytes": 984162,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/031___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/032___Warsh39__DM.ai",
+      "size_bytes": 1100249,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/032___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/033___Warsh39__DM.ai",
+      "size_bytes": 1213287,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/033___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/034___Warsh39__DM.ai",
+      "size_bytes": 1102733,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/034___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/035___Warsh39__DM.ai",
+      "size_bytes": 1192929,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/035___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/036___Warsh39__DM.ai",
+      "size_bytes": 1276311,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/036___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/037___Warsh39__DM.ai",
+      "size_bytes": 1252151,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/037___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/038___Warsh39__DM.ai",
+      "size_bytes": 1166031,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/038___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/039___Warsh39__DM.ai",
+      "size_bytes": 1065413,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/039___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/040___Warsh39__DM.ai",
+      "size_bytes": 1027961,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/040___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/041___Warsh39__DM.ai",
+      "size_bytes": 988448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/041___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/042___Warsh39__DM.ai",
+      "size_bytes": 1206726,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/042___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/043___Warsh39__DM.ai",
+      "size_bytes": 1092767,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/043___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/044___Warsh39__DM.ai",
+      "size_bytes": 1141755,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/044___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/045___Warsh39__DM.ai",
+      "size_bytes": 1112153,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/045___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/046___Warsh39__DM.ai",
+      "size_bytes": 995473,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/046___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/047___Warsh39__DM.ai",
+      "size_bytes": 1157985,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/047___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/048___Warsh39__DM.ai",
+      "size_bytes": 1133636,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/048___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/049___Warsh39__DM.ai",
+      "size_bytes": 1132117,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/049___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/050___Warsh39__DM.ai",
+      "size_bytes": 1224924,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/050___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/051___Warsh39__DM.ai",
+      "size_bytes": 1108644,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/051___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/052___Warsh39__DM.ai",
+      "size_bytes": 1075134,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/052___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/053___Warsh39__DM.ai",
+      "size_bytes": 1172506,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/053___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/054___Warsh39__DM.ai",
+      "size_bytes": 1225605,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/054___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/055___Warsh39__DM.ai",
+      "size_bytes": 1180962,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/055___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/056___Warsh39__DM.ai",
+      "size_bytes": 1131678,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/056___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/057___Warsh39__DM.ai",
+      "size_bytes": 1085388,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/057___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/058___Warsh39__DM.ai",
+      "size_bytes": 1174080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/058___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/059___Warsh39__DM.ai",
+      "size_bytes": 1176610,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/059___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/060___Warsh39__DM.ai",
+      "size_bytes": 1090465,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/060___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/061___Warsh39__DM.ai",
+      "size_bytes": 1094355,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/061___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/062___Warsh39__DM.ai",
+      "size_bytes": 1216273,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/062___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/063___Warsh39__DM.ai",
+      "size_bytes": 1280436,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/063___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/064___Warsh39__DM.ai",
+      "size_bytes": 1116436,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/064___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/065___Warsh39__DM.ai",
+      "size_bytes": 1180868,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/065___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/066___Warsh39__DM.ai",
+      "size_bytes": 1240117,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/066___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/067___Warsh39__DM.ai",
+      "size_bytes": 1133768,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/067___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/068___Warsh39__DM.ai",
+      "size_bytes": 1190685,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/068___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/069___Warsh39__DM.ai",
+      "size_bytes": 962677,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/069___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/070___Warsh39__DM.ai",
+      "size_bytes": 1178935,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/070___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/071___Warsh39__DM.ai",
+      "size_bytes": 1206280,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/071___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/072___Warsh39__DM.ai",
+      "size_bytes": 1199737,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/072___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/073___Warsh39__DM.ai",
+      "size_bytes": 1218438,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/073___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/074___Warsh39__DM.ai",
+      "size_bytes": 1065865,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/074___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/075___Warsh39__DM.ai",
+      "size_bytes": 1125859,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/075___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/076___Warsh39__DM.ai",
+      "size_bytes": 1066002,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/076___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/077___Warsh39__DM.ai",
+      "size_bytes": 852498,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/077___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/078___Warsh39__DM.ai",
+      "size_bytes": 1146693,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/078___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/079___Warsh39__DM.ai",
+      "size_bytes": 972828,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/079___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/080___Warsh39__DM.ai",
+      "size_bytes": 1089479,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/080___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/081___Warsh39__DM.ai",
+      "size_bytes": 966615,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/081___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/082___Warsh39__DM.ai",
+      "size_bytes": 1077279,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/082___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/083___Warsh39__DM.ai",
+      "size_bytes": 1072670,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/083___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/084___Warsh39__DM.ai",
+      "size_bytes": 1040596,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/084___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/085___Warsh39__DM.ai",
+      "size_bytes": 1158491,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/085___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/086___Warsh39__DM.ai",
+      "size_bytes": 1196645,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/086___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/087___Warsh39__DM.ai",
+      "size_bytes": 1246824,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/087___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/088___Warsh39__DM.ai",
+      "size_bytes": 1062456,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/088___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/089___Warsh39__DM.ai",
+      "size_bytes": 1159282,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/089___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/090___Warsh39__DM.ai",
+      "size_bytes": 1308216,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/090___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/091___Warsh39__DM.ai",
+      "size_bytes": 1151106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/091___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/092___Warsh39__DM.ai",
+      "size_bytes": 1216073,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/092___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/093___Warsh39__DM.ai",
+      "size_bytes": 1018649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/093___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/094___Warsh39__DM.ai",
+      "size_bytes": 1285741,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/094___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/095___Warsh39__DM.ai",
+      "size_bytes": 1101620,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/095___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/096___Warsh39__DM.ai",
+      "size_bytes": 1100371,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/096___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/097___Warsh39__DM.ai",
+      "size_bytes": 1097860,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/097___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/098___Warsh39__DM.ai",
+      "size_bytes": 1072788,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/098___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/099___Warsh39__DM.ai",
+      "size_bytes": 1103983,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/099___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/100___Warsh39__DM.ai",
+      "size_bytes": 1215198,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/100___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/101___Warsh39__DM.ai",
+      "size_bytes": 1146172,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/101___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/102___Warsh39__DM.ai",
+      "size_bytes": 1195768,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/102___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/103___Warsh39__DM.ai",
+      "size_bytes": 1234800,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/103___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/104___Warsh39__DM.ai",
+      "size_bytes": 1133302,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/104___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/105___Warsh39__DM.ai",
+      "size_bytes": 1120254,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/105___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/106___Warsh39__DM.ai",
+      "size_bytes": 1243323,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/106___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/107___Warsh39__DM.ai",
+      "size_bytes": 1209110,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/107___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/108___Warsh39__DM.ai",
+      "size_bytes": 1102119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/108___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/109___Warsh39__DM.ai",
+      "size_bytes": 1056712,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/109___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/110___Warsh39__DM.ai",
+      "size_bytes": 959467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/110___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/111___Warsh39__DM.ai",
+      "size_bytes": 1168459,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/111___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/112___Warsh39__DM.ai",
+      "size_bytes": 1213725,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/112___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/113___Warsh39__DM.ai",
+      "size_bytes": 1059630,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/113___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/114___Warsh39__DM.ai",
+      "size_bytes": 1157494,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/114___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/115___Warsh39__DM.ai",
+      "size_bytes": 1087084,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/115___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/116___Warsh39__DM.ai",
+      "size_bytes": 1301462,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/116___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/117___Warsh39__DM.ai",
+      "size_bytes": 1339887,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/117___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/118___Warsh39__DM.ai",
+      "size_bytes": 1388389,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/118___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/119___Warsh39__DM.ai",
+      "size_bytes": 1161180,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/119___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/120___Warsh39__DM.ai",
+      "size_bytes": 1210558,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/120___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/121___Warsh39__DM.ai",
+      "size_bytes": 1075530,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/121___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/122___Warsh39__DM.ai",
+      "size_bytes": 1251556,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/122___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/123___Warsh39__DM.ai",
+      "size_bytes": 1187980,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/123___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/124___Warsh39__DM.ai",
+      "size_bytes": 1176038,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/124___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/125___Warsh39__DM.ai",
+      "size_bytes": 1253289,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/125___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/126___Warsh39__DM.ai",
+      "size_bytes": 1210165,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/126___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/127___Warsh39__DM.ai",
+      "size_bytes": 1256872,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/127___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/128___Warsh39__DM.ai",
+      "size_bytes": 1176272,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/128___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/129___Warsh39__DM.ai",
+      "size_bytes": 1120665,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/129___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/130___Warsh39__DM.ai",
+      "size_bytes": 1423738,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/130___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/131___Warsh39__DM.ai",
+      "size_bytes": 1275138,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/131___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/132___Warsh39__DM.ai",
+      "size_bytes": 1245295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/132___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/133___Warsh39__DM.ai",
+      "size_bytes": 1213250,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/133___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/134___Warsh39__DM.ai",
+      "size_bytes": 1134090,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/134___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/135___Warsh39__DM.ai",
+      "size_bytes": 1323457,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/135___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/136___Warsh39__DM.ai",
+      "size_bytes": 1097028,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/136___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/137___Warsh39__DM.ai",
+      "size_bytes": 1165463,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/137___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/138___Warsh39__DM.ai",
+      "size_bytes": 1171537,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/138___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/139___Warsh39__DM.ai",
+      "size_bytes": 1283303,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/139___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/140___Warsh39__DM.ai",
+      "size_bytes": 1208513,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/140___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/141___Warsh39__DM.ai",
+      "size_bytes": 1212422,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/141___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/142___Warsh39__DM.ai",
+      "size_bytes": 1274088,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/142___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/143___Warsh39__DM.ai",
+      "size_bytes": 1165011,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/143___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/144___Warsh39__DM.ai",
+      "size_bytes": 1111951,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/144___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/145___Warsh39__DM.ai",
+      "size_bytes": 1103654,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/145___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/146___Warsh39__DM.ai",
+      "size_bytes": 1113288,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/146___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/147___Warsh39__DM.ai",
+      "size_bytes": 1138779,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/147___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/148___Warsh39__DM.ai",
+      "size_bytes": 1126656,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/148___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/149___Warsh39__DM.ai",
+      "size_bytes": 1143437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/149___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/150___Warsh39__DM.ai",
+      "size_bytes": 1305400,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/150___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/151___Warsh39__DM.ai",
+      "size_bytes": 1153442,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/151___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/152___Warsh39__DM.ai",
+      "size_bytes": 1296700,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/152___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/153___Warsh39__DM.ai",
+      "size_bytes": 1194248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/153___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/154___Warsh39__DM.ai",
+      "size_bytes": 1279458,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/154___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/155___Warsh39__DM.ai",
+      "size_bytes": 1210131,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/155___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/156___Warsh39__DM.ai",
+      "size_bytes": 1237359,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/156___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/157___Warsh39__DM.ai",
+      "size_bytes": 1174608,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/157___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/158___Warsh39__DM.ai",
+      "size_bytes": 1175276,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/158___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/159___Warsh39__DM.ai",
+      "size_bytes": 1094505,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/159___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/160___Warsh39__DM.ai",
+      "size_bytes": 1078325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/160___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/161___Warsh39__DM.ai",
+      "size_bytes": 1029305,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/161___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/162___Warsh39__DM.ai",
+      "size_bytes": 1287732,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/162___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/163___Warsh39__DM.ai",
+      "size_bytes": 1122362,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/163___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/164___Warsh39__DM.ai",
+      "size_bytes": 1190412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/164___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/165___Warsh39__DM.ai",
+      "size_bytes": 1170796,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/165___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/166___Warsh39__DM.ai",
+      "size_bytes": 1144727,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/166___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/167___Warsh39__DM.ai",
+      "size_bytes": 1139909,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/167___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/168___Warsh39__DM.ai",
+      "size_bytes": 1145662,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/168___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/169___Warsh39__DM.ai",
+      "size_bytes": 1191252,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/169___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/170___Warsh39__DM.ai",
+      "size_bytes": 1074241,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/170___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/171___Warsh39__DM.ai",
+      "size_bytes": 1081879,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/171___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/172___Warsh39__DM.ai",
+      "size_bytes": 1204510,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/172___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/173___Warsh39__DM.ai",
+      "size_bytes": 1209868,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/173___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/174___Warsh39__DM.ai",
+      "size_bytes": 1281898,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/174___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/175___Warsh39__DM.ai",
+      "size_bytes": 1220638,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/175___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/176___Warsh39__DM.ai",
+      "size_bytes": 807760,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/176___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/177___Warsh39__DM.ai",
+      "size_bytes": 1129334,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/177___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/178___Warsh39__DM.ai",
+      "size_bytes": 1177313,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/178___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/179___Warsh39__DM.ai",
+      "size_bytes": 1162784,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/179___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/180___Warsh39__DM.ai",
+      "size_bytes": 1165666,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/180___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/181___Warsh39__DM.ai",
+      "size_bytes": 1105959,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/181___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/182___Warsh39__DM.ai",
+      "size_bytes": 1151052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/182___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/183___Warsh39__DM.ai",
+      "size_bytes": 1124158,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/183___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/184___Warsh39__DM.ai",
+      "size_bytes": 1218509,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/184___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/185___Warsh39__DM.ai",
+      "size_bytes": 1201830,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/185___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/186___Warsh39__DM.ai",
+      "size_bytes": 1229243,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/186___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/187___Warsh39__DM.ai",
+      "size_bytes": 1268007,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/187___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/188___Warsh39__DM.ai",
+      "size_bytes": 1164593,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/188___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/189___Warsh39__DM.ai",
+      "size_bytes": 1173342,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/189___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/190___Warsh39__DM.ai",
+      "size_bytes": 1100467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/190___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/191___Warsh39__DM.ai",
+      "size_bytes": 1012410,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/191___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/192___Warsh39__DM.ai",
+      "size_bytes": 1114653,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/192___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/193___Warsh39__DM.ai",
+      "size_bytes": 1046551,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/193___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/194___Warsh39__DM.ai",
+      "size_bytes": 1175607,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/194___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/195___Warsh39__DM.ai",
+      "size_bytes": 1054197,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/195___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/196___Warsh39__DM.ai",
+      "size_bytes": 1205256,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/196___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/197___Warsh39__DM.ai",
+      "size_bytes": 1083231,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/197___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/198___Warsh39__DM.ai",
+      "size_bytes": 1157908,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/198___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/199___Warsh39__DM.ai",
+      "size_bytes": 1139090,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/199___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/200___Warsh39__DM.ai",
+      "size_bytes": 1246646,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/200___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/201___Warsh39__DM.ai",
+      "size_bytes": 1187052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/201___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/202___Warsh39__DM.ai",
+      "size_bytes": 1113182,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/202___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/203___Warsh39__DM.ai",
+      "size_bytes": 1254294,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/203___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/204___Warsh39__DM.ai",
+      "size_bytes": 1104563,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/204___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/205___Warsh39__DM.ai",
+      "size_bytes": 1134320,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/205___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/206___Warsh39__DM.ai",
+      "size_bytes": 1121573,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/206___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/207___Warsh39__DM.ai",
+      "size_bytes": 1106619,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/207___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/208___Warsh39__DM.ai",
+      "size_bytes": 722589,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/208___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/209___Warsh39__DM.ai",
+      "size_bytes": 1133638,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/209___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/210___Warsh39__DM.ai",
+      "size_bytes": 1094009,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/210___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/211___Warsh39__DM.ai",
+      "size_bytes": 1220022,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/211___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/212___Warsh39__DM.ai",
+      "size_bytes": 1269649,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/212___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/213___Warsh39__DM.ai",
+      "size_bytes": 1317045,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/213___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/214___Warsh39__DM.ai",
+      "size_bytes": 1259583,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/214___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/215___Warsh39__DM.ai",
+      "size_bytes": 1191462,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/215___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/216___Warsh39__DM.ai",
+      "size_bytes": 1055687,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/216___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/217___Warsh39__DM.ai",
+      "size_bytes": 1258097,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/217___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/218___Warsh39__DM.ai",
+      "size_bytes": 1288321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/218___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/219___Warsh39__DM.ai",
+      "size_bytes": 1167319,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/219___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/220___Warsh39__DM.ai",
+      "size_bytes": 1207219,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/220___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/221___Warsh39__DM.ai",
+      "size_bytes": 777225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/221___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/222___Warsh39__DM.ai",
+      "size_bytes": 1229380,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/222___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/223___Warsh39__DM.ai",
+      "size_bytes": 1239469,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/223___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/224___Warsh39__DM.ai",
+      "size_bytes": 1246892,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/224___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/225___Warsh39__DM.ai",
+      "size_bytes": 1236192,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/225___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/226___Warsh39__DM.ai",
+      "size_bytes": 1243607,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/226___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/227___Warsh39__DM.ai",
+      "size_bytes": 1239495,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/227___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/228___Warsh39__DM.ai",
+      "size_bytes": 1296582,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/228___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/229___Warsh39__DM.ai",
+      "size_bytes": 1163184,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/229___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/230___Warsh39__DM.ai",
+      "size_bytes": 1313804,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/230___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/231___Warsh39__DM.ai",
+      "size_bytes": 1188867,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/231___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/232___Warsh39__DM.ai",
+      "size_bytes": 1157846,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/232___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/233___Warsh39__DM.ai",
+      "size_bytes": 1201846,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/233___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/234___Warsh39__DM.ai",
+      "size_bytes": 1278528,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/234___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/235___Warsh39__DM.ai",
+      "size_bytes": 1166351,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/235___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/236___Warsh39__DM.ai",
+      "size_bytes": 1187925,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/236___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/237___Warsh39__DM.ai",
+      "size_bytes": 1135785,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/237___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/238___Warsh39__DM.ai",
+      "size_bytes": 1107358,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/238___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/239___Warsh39__DM.ai",
+      "size_bytes": 1337931,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/239___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/240___Warsh39__DM.ai",
+      "size_bytes": 1214149,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/240___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/241___Warsh39__DM.ai",
+      "size_bytes": 1281353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/241___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/242___Warsh39__DM.ai",
+      "size_bytes": 1242622,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/242___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/243___Warsh39__DM.ai",
+      "size_bytes": 1210478,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/243___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/244___Warsh39__DM.ai",
+      "size_bytes": 1121839,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/244___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/245___Warsh39__DM.ai",
+      "size_bytes": 1171028,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/245___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/246___Warsh39__DM.ai",
+      "size_bytes": 1182076,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/246___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/247___Warsh39__DM.ai",
+      "size_bytes": 1170055,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/247___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/248___Warsh39__DM.ai",
+      "size_bytes": 1203155,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/248___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/249___Warsh39__DM.ai",
+      "size_bytes": 1126829,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/249___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/250___Warsh39__DM.ai",
+      "size_bytes": 1132755,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/250___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/251___Warsh39__DM.ai",
+      "size_bytes": 840939,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/251___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/252___Warsh39__DM.ai",
+      "size_bytes": 1402548,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/252___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/253___Warsh39__DM.ai",
+      "size_bytes": 1228550,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/253___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/254___Warsh39__DM.ai",
+      "size_bytes": 1218052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/254___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/255___Warsh39__DM.ai",
+      "size_bytes": 1024170,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/255___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/256___Warsh39__DM.ai",
+      "size_bytes": 1110424,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/256___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/257___Warsh39__DM.ai",
+      "size_bytes": 1093643,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/257___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/258___Warsh39__DM.ai",
+      "size_bytes": 1117739,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/258___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/259___Warsh39__DM.ai",
+      "size_bytes": 1167926,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/259___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/260___Warsh39__DM.ai",
+      "size_bytes": 1170527,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/260___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/261___Warsh39__DM.ai",
+      "size_bytes": 1119749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/261___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/262___Warsh39__DM.ai",
+      "size_bytes": 1153486,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/262___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/263___Warsh39__DM.ai",
+      "size_bytes": 1232726,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/263___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/264___Warsh39__DM.ai",
+      "size_bytes": 1240843,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/264___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/265___Warsh39__DM.ai",
+      "size_bytes": 1213357,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/265___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/266___Warsh39__DM.ai",
+      "size_bytes": 1269905,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/266___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/267___Warsh39__DM.ai",
+      "size_bytes": 1110121,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/267___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/268___Warsh39__DM.ai",
+      "size_bytes": 1047104,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/268___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/269___Warsh39__DM.ai",
+      "size_bytes": 1139552,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/269___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/270___Warsh39__DM.ai",
+      "size_bytes": 1228571,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/270___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/271___Warsh39__DM.ai",
+      "size_bytes": 1165993,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/271___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/272___Warsh39__DM.ai",
+      "size_bytes": 1321302,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/272___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/273___Warsh39__DM.ai",
+      "size_bytes": 1261952,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/273___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/274___Warsh39__DM.ai",
+      "size_bytes": 1372796,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/274___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/275___Warsh39__DM.ai",
+      "size_bytes": 1201538,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/275___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/276___Warsh39__DM.ai",
+      "size_bytes": 1099169,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/276___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/277___Warsh39__DM.ai",
+      "size_bytes": 1143084,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/277___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/278___Warsh39__DM.ai",
+      "size_bytes": 1134347,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/278___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/279___Warsh39__DM.ai",
+      "size_bytes": 1099674,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/279___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/280___Warsh39__DM.ai",
+      "size_bytes": 1197324,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/280___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/281___Warsh39__DM.ai",
+      "size_bytes": 1252242,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/281___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/282___Warsh39__DM.ai",
+      "size_bytes": 1195624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/282___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/283___Warsh39__DM.ai",
+      "size_bytes": 1332530,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/283___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/284___Warsh39__DM.ai",
+      "size_bytes": 1265516,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/284___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/285___Warsh39__DM.ai",
+      "size_bytes": 1377742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/285___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/286___Warsh39__DM.ai",
+      "size_bytes": 1402017,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/286___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/287___Warsh39__DM.ai",
+      "size_bytes": 1234624,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/287___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/288___Warsh39__DM.ai",
+      "size_bytes": 1182978,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/288___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/289___Warsh39__DM.ai",
+      "size_bytes": 1213766,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/289___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/290___Warsh39__DM.ai",
+      "size_bytes": 1190260,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/290___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/291___Warsh39__DM.ai",
+      "size_bytes": 1176886,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/291___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/292___Warsh39__DM.ai",
+      "size_bytes": 1317282,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/292___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/293___Warsh39__DM.ai",
+      "size_bytes": 1241647,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/293___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/294___Warsh39__DM.ai",
+      "size_bytes": 1176423,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/294___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/295___Warsh39__DM.ai",
+      "size_bytes": 1217048,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/295___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/296___Warsh39__DM.ai",
+      "size_bytes": 1193721,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/296___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/297___Warsh39__DM.ai",
+      "size_bytes": 1248498,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/297___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/298___Warsh39__DM.ai",
+      "size_bytes": 1356273,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/298___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/299___Warsh39__DM.ai",
+      "size_bytes": 1234359,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/299___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/300___Warsh39__DM.ai",
+      "size_bytes": 1266485,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/300___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/301___Warsh39__DM.ai",
+      "size_bytes": 1236968,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/301___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/302___Warsh39__DM.ai",
+      "size_bytes": 1283529,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/302___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/303___Warsh39__DM.ai",
+      "size_bytes": 1343024,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/303___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/304___Warsh39__DM.ai",
+      "size_bytes": 1357147,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/304___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/305___Warsh39__DM.ai",
+      "size_bytes": 1110080,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/305___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/306___Warsh39__DM.ai",
+      "size_bytes": 1208718,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/306___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/307___Warsh39__DM.ai",
+      "size_bytes": 1216875,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/307___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/308___Warsh39__DM.ai",
+      "size_bytes": 1269157,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/308___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/309___Warsh39__DM.ai",
+      "size_bytes": 1414114,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/309___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/310___Warsh39__DM.ai",
+      "size_bytes": 1246362,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/310___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/311___Warsh39__DM.ai",
+      "size_bytes": 1196450,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/311___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/312___Warsh39__DM.ai",
+      "size_bytes": 1107619,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/312___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/313___Warsh39__DM.ai",
+      "size_bytes": 1231485,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/313___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/314___Warsh39__DM.ai",
+      "size_bytes": 1344800,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/314___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/315___Warsh39__DM.ai",
+      "size_bytes": 1213934,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/315___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/316___Warsh39__DM.ai",
+      "size_bytes": 1312778,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/316___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/317___Warsh39__DM.ai",
+      "size_bytes": 1234781,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/317___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/318___Warsh39__DM.ai",
+      "size_bytes": 1180415,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/318___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/319___Warsh39__DM.ai",
+      "size_bytes": 1231582,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/319___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/320___Warsh39__DM.ai",
+      "size_bytes": 1178483,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/320___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/321___Warsh39__DM.ai",
+      "size_bytes": 1335994,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/321___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/322___Warsh39__DM.ai",
+      "size_bytes": 1151027,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/322___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/323___Warsh39__DM.ai",
+      "size_bytes": 1228753,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/323___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/324___Warsh39__DM.ai",
+      "size_bytes": 1195954,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/324___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/325___Warsh39__DM.ai",
+      "size_bytes": 1136572,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/325___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/326___Warsh39__DM.ai",
+      "size_bytes": 1199592,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/326___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/327___Warsh39__DM.ai",
+      "size_bytes": 1146202,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/327___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/328___Warsh39__DM.ai",
+      "size_bytes": 1156412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/328___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/329___Warsh39__DM.ai",
+      "size_bytes": 1126837,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/329___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/330___Warsh39__DM.ai",
+      "size_bytes": 1029626,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/330___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/331___Warsh39__DM.ai",
+      "size_bytes": 1029121,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/331___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/332___Warsh39__DM.ai",
+      "size_bytes": 1174992,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/332___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/333___Warsh39__DM.ai",
+      "size_bytes": 1294883,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/333___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/334___Warsh39__DM.ai",
+      "size_bytes": 1161797,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/334___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/335___Warsh39__DM.ai",
+      "size_bytes": 1148328,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/335___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/336___Warsh39__DM.ai",
+      "size_bytes": 1283143,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/336___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/337___Warsh39__DM.ai",
+      "size_bytes": 1218299,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/337___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/338___Warsh39__DM.ai",
+      "size_bytes": 1222196,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/338___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/339___Warsh39__DM.ai",
+      "size_bytes": 1123700,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/339___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/340___Warsh39__DM.ai",
+      "size_bytes": 1157787,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/340___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/341___Warsh39__DM.ai",
+      "size_bytes": 1125544,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/341___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/342___Warsh39__DM.ai",
+      "size_bytes": 1230492,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/342___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/343___Warsh39__DM.ai",
+      "size_bytes": 1258437,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/343___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/344___Warsh39__DM.ai",
+      "size_bytes": 1326131,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/344___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/345___Warsh39__DM.ai",
+      "size_bytes": 1400210,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/345___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/346___Warsh39__DM.ai",
+      "size_bytes": 1329265,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/346___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/347___Warsh39__DM.ai",
+      "size_bytes": 1165086,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/347___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/348___Warsh39__DM.ai",
+      "size_bytes": 1255106,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/348___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/349___Warsh39__DM.ai",
+      "size_bytes": 1260932,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/349___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/350___Warsh39__DM.ai",
+      "size_bytes": 1393082,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/350___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/351___Warsh39__DM.ai",
+      "size_bytes": 1265325,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/351___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/352___Warsh39__DM.ai",
+      "size_bytes": 1283184,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/352___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/353___Warsh39__DM.ai",
+      "size_bytes": 1254724,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/353___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/354___Warsh39__DM.ai",
+      "size_bytes": 1323195,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/354___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/355___Warsh39__DM.ai",
+      "size_bytes": 1276802,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/355___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/356___Warsh39__DM.ai",
+      "size_bytes": 1353164,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/356___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/357___Warsh39__DM.ai",
+      "size_bytes": 1279861,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/357___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/358___Warsh39__DM.ai",
+      "size_bytes": 1119755,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/358___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/359___Warsh39__DM.ai",
+      "size_bytes": 1135868,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/359___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/360___Warsh39__DM.ai",
+      "size_bytes": 1107602,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/360___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/361___Warsh39__DM.ai",
+      "size_bytes": 1161321,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/361___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/362___Warsh39__DM.ai",
+      "size_bytes": 1294225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/362___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/363___Warsh39__DM.ai",
+      "size_bytes": 1155337,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/363___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/364___Warsh39__DM.ai",
+      "size_bytes": 1214359,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/364___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/365___Warsh39__DM.ai",
+      "size_bytes": 1246212,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/365___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/366___Warsh39__DM.ai",
+      "size_bytes": 1074238,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/366___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/367___Warsh39__DM.ai",
+      "size_bytes": 1301768,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/367___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/368___Warsh39__DM.ai",
+      "size_bytes": 1287024,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/368___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/369___Warsh39__DM.ai",
+      "size_bytes": 1479749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/369___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/370___Warsh39__DM.ai",
+      "size_bytes": 1287416,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/370___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/371___Warsh39__DM.ai",
+      "size_bytes": 1379043,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/371___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/372___Warsh39__DM.ai",
+      "size_bytes": 1347101,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/372___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/373___Warsh39__DM.ai",
+      "size_bytes": 1405586,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/373___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/374___Warsh39__DM.ai",
+      "size_bytes": 1402652,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/374___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/375___Warsh39__DM.ai",
+      "size_bytes": 1305100,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/375___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/376___Warsh39__DM.ai",
+      "size_bytes": 1223717,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/376___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/377___Warsh39__DM.ai",
+      "size_bytes": 1343022,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/377___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/378___Warsh39__DM.ai",
+      "size_bytes": 1219501,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/378___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/379___Warsh39__DM.ai",
+      "size_bytes": 1334965,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/379___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/380___Warsh39__DM.ai",
+      "size_bytes": 1342737,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/380___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/381___Warsh39__DM.ai",
+      "size_bytes": 1185865,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/381___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/382___Warsh39__DM.ai",
+      "size_bytes": 1182615,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/382___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/383___Warsh39__DM.ai",
+      "size_bytes": 1227866,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/383___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/384___Warsh39__DM.ai",
+      "size_bytes": 1268019,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/384___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/385___Warsh39__DM.ai",
+      "size_bytes": 1193612,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/385___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/386___Warsh39__DM.ai",
+      "size_bytes": 1125792,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/386___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/387___Warsh39__DM.ai",
+      "size_bytes": 1276490,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/387___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/388___Warsh39__DM.ai",
+      "size_bytes": 1163773,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/388___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/389___Warsh39__DM.ai",
+      "size_bytes": 1239559,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/389___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/390___Warsh39__DM.ai",
+      "size_bytes": 1134231,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/390___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/391___Warsh39__DM.ai",
+      "size_bytes": 1161168,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/391___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/392___Warsh39__DM.ai",
+      "size_bytes": 1250309,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/392___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/393___Warsh39__DM.ai",
+      "size_bytes": 1300207,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/393___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/394___Warsh39__DM.ai",
+      "size_bytes": 1176086,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/394___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/395___Warsh39__DM.ai",
+      "size_bytes": 1187463,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/395___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/396___Warsh39__DM.ai",
+      "size_bytes": 1133370,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/396___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/397___Warsh39__DM.ai",
+      "size_bytes": 1251242,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/397___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/398___Warsh39__DM.ai",
+      "size_bytes": 1185673,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/398___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/399___Warsh39__DM.ai",
+      "size_bytes": 1130288,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/399___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/400___Warsh39__DM.ai",
+      "size_bytes": 1102784,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/400___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/401___Warsh39__DM.ai",
+      "size_bytes": 1085119,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/401___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/402___Warsh39__DM.ai",
+      "size_bytes": 1193527,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/402___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/403___Warsh39__DM.ai",
+      "size_bytes": 1284514,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/403___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/404___Warsh39__DM.ai",
+      "size_bytes": 1126873,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/404___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/405___Warsh39__DM.ai",
+      "size_bytes": 1307371,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/405___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/406___Warsh39__DM.ai",
+      "size_bytes": 1156297,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/406___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/407___Warsh39__DM.ai",
+      "size_bytes": 1149872,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/407___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/408___Warsh39__DM.ai",
+      "size_bytes": 1372986,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/408___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/409___Warsh39__DM.ai",
+      "size_bytes": 1331436,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/409___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/410___Warsh39__DM.ai",
+      "size_bytes": 1228149,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/410___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/411___Warsh39__DM.ai",
+      "size_bytes": 1163139,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/411___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/412___Warsh39__DM.ai",
+      "size_bytes": 1245397,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/412___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/413___Warsh39__DM.ai",
+      "size_bytes": 1307454,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/413___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/414___Warsh39__DM.ai",
+      "size_bytes": 1208468,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/414___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/415___Warsh39__DM.ai",
+      "size_bytes": 1214956,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/415___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/416___Warsh39__DM.ai",
+      "size_bytes": 1198895,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/416___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/417___Warsh39__DM.ai",
+      "size_bytes": 1170246,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/417___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/418___Warsh39__DM.ai",
+      "size_bytes": 1247462,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/418___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/419___Warsh39__DM.ai",
+      "size_bytes": 1211116,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/419___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/420___Warsh39__DM.ai",
+      "size_bytes": 1316448,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/420___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/421___Warsh39__DM.ai",
+      "size_bytes": 1282590,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/421___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/422___Warsh39__DM.ai",
+      "size_bytes": 1199990,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/422___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/423___Warsh39__DM.ai",
+      "size_bytes": 1251260,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/423___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/424___Warsh39__DM.ai",
+      "size_bytes": 1230808,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/424___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/425___Warsh39__DM.ai",
+      "size_bytes": 1204828,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/425___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/426___Warsh39__DM.ai",
+      "size_bytes": 1239134,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/426___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/427___Warsh39__DM.ai",
+      "size_bytes": 1225606,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/427___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/428___Warsh39__DM.ai",
+      "size_bytes": 1144144,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/428___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/429___Warsh39__DM.ai",
+      "size_bytes": 1184830,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/429___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/430___Warsh39__DM.ai",
+      "size_bytes": 1238499,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/430___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/431___Warsh39__DM.ai",
+      "size_bytes": 1157869,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/431___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/432___Warsh39__DM.ai",
+      "size_bytes": 1271044,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/432___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/433___Warsh39__DM.ai",
+      "size_bytes": 1302113,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/433___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/434___Warsh39__DM.ai",
+      "size_bytes": 1188943,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/434___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/435___Warsh39__DM.ai",
+      "size_bytes": 1289558,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/435___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/436___Warsh39__DM.ai",
+      "size_bytes": 1208800,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/436___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/437___Warsh39__DM.ai",
+      "size_bytes": 1203312,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/437___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/438___Warsh39__DM.ai",
+      "size_bytes": 1200315,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/438___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/439___Warsh39__DM.ai",
+      "size_bytes": 1278683,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/439___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/440___Warsh39__DM.ai",
+      "size_bytes": 1183029,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/440___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/441___Warsh39__DM.ai",
+      "size_bytes": 1240001,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/441___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/442___Warsh39__DM.ai",
+      "size_bytes": 1247412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/442___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/443___Warsh39__DM.ai",
+      "size_bytes": 1234731,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/443___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/444___Warsh39__DM.ai",
+      "size_bytes": 1254638,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/444___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/445___Warsh39__DM.ai",
+      "size_bytes": 1192386,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/445___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/446___Warsh39__DM.ai",
+      "size_bytes": 1432373,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/446___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/447___Warsh39__DM.ai",
+      "size_bytes": 1373075,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/447___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/448___Warsh39__DM.ai",
+      "size_bytes": 1321295,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/448___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/449___Warsh39__DM.ai",
+      "size_bytes": 1338572,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/449___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/450___Warsh39__DM.ai",
+      "size_bytes": 1268614,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/450___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/451___Warsh39__DM.ai",
+      "size_bytes": 1342186,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/451___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/452___Warsh39__DM.ai",
+      "size_bytes": 1365304,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/452___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/453___Warsh39__DM.ai",
+      "size_bytes": 1265990,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/453___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/454___Warsh39__DM.ai",
+      "size_bytes": 1317034,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/454___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/455___Warsh39__DM.ai",
+      "size_bytes": 1316225,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/455___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/456___Warsh39__DM.ai",
+      "size_bytes": 1354696,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/456___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/457___Warsh39__DM.ai",
+      "size_bytes": 1365967,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/457___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/458___Warsh39__DM.ai",
+      "size_bytes": 1178660,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/458___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/459___Warsh39__DM.ai",
+      "size_bytes": 1221871,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/459___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/460___Warsh39__DM.ai",
+      "size_bytes": 1341650,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/460___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/461___Warsh39__DM.ai",
+      "size_bytes": 1223062,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/461___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/462___Warsh39__DM.ai",
+      "size_bytes": 1168327,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/462___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/463___Warsh39__DM.ai",
+      "size_bytes": 1135728,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/463___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/464___Warsh39__DM.ai",
+      "size_bytes": 1228235,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/464___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/465___Warsh39__DM.ai",
+      "size_bytes": 1160248,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/465___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/466___Warsh39__DM.ai",
+      "size_bytes": 1149673,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/466___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/467___Warsh39__DM.ai",
+      "size_bytes": 1123173,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/467___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/468___Warsh39__DM.ai",
+      "size_bytes": 1198816,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/468___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/469___Warsh39__DM.ai",
+      "size_bytes": 1156281,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/469___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/470___Warsh39__DM.ai",
+      "size_bytes": 1189704,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/470___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/471___Warsh39__DM.ai",
+      "size_bytes": 1089100,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/471___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/472___Warsh39__DM.ai",
+      "size_bytes": 1180677,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/472___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/473___Warsh39__DM.ai",
+      "size_bytes": 1071654,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/473___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/474___Warsh39__DM.ai",
+      "size_bytes": 1085868,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/474___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/475___Warsh39__DM.ai",
+      "size_bytes": 1141824,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/475___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/476___Warsh39__DM.ai",
+      "size_bytes": 1171213,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/476___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/477___Warsh39__DM.ai",
+      "size_bytes": 1199689,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/477___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/478___Warsh39__DM.ai",
+      "size_bytes": 1278925,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/478___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/479___Warsh39__DM.ai",
+      "size_bytes": 1243200,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/479___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/480___Warsh39__DM.ai",
+      "size_bytes": 1198657,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/480___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/481___Warsh39__DM.ai",
+      "size_bytes": 1303817,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/481___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/482___Warsh39__DM.ai",
+      "size_bytes": 1244052,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/482___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/483___Warsh39__DM.ai",
+      "size_bytes": 1212301,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/483___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/484___Warsh39__DM.ai",
+      "size_bytes": 1232937,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/484___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/485___Warsh39__DM.ai",
+      "size_bytes": 1169479,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/485___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/486___Warsh39__DM.ai",
+      "size_bytes": 1299000,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/486___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/487___Warsh39__DM.ai",
+      "size_bytes": 1326916,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/487___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/488___Warsh39__DM.ai",
+      "size_bytes": 1229221,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/488___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/489___Warsh39__DM.ai",
+      "size_bytes": 1086486,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/489___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/490___Warsh39__DM.ai",
+      "size_bytes": 1201849,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/490___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/491___Warsh39__DM.ai",
+      "size_bytes": 1294762,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/491___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/492___Warsh39__DM.ai",
+      "size_bytes": 1292856,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/492___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/493___Warsh39__DM.ai",
+      "size_bytes": 1232127,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/493___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/494___Warsh39__DM.ai",
+      "size_bytes": 1218282,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/494___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/495___Warsh39__DM.ai",
+      "size_bytes": 1267907,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/495___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/496___Warsh39__DM.ai",
+      "size_bytes": 1180744,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/496___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/497___Warsh39__DM.ai",
+      "size_bytes": 1367432,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/497___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/498___Warsh39__DM.ai",
+      "size_bytes": 1095819,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/498___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/499___Warsh39__DM.ai",
+      "size_bytes": 1354383,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/499___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/500___Warsh39__DM.ai",
+      "size_bytes": 1250314,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/500___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/501___Warsh39__DM.ai",
+      "size_bytes": 1471131,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/501___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/502___Warsh39__DM.ai",
+      "size_bytes": 1238717,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/502___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/503___Warsh39__DM.ai",
+      "size_bytes": 1330412,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/503___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/504___Warsh39__DM.ai",
+      "size_bytes": 1328525,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/504___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/505___Warsh39__DM.ai",
+      "size_bytes": 1324867,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/505___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/506___Warsh39__DM.ai",
+      "size_bytes": 1195231,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/506___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/507___Warsh39__DM.ai",
+      "size_bytes": 1419635,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/507___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/508___Warsh39__DM.ai",
+      "size_bytes": 1393530,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/508___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/509___Warsh39__DM.ai",
+      "size_bytes": 1263535,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/509___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/510___Warsh39__DM.ai",
+      "size_bytes": 1319411,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/510___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/511___Warsh39__DM.ai",
+      "size_bytes": 1216230,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/511___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/512___Warsh39__DM.ai",
+      "size_bytes": 1227316,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/512___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/513___Warsh39__DM.ai",
+      "size_bytes": 1296409,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/513___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/514___Warsh39__DM.ai",
+      "size_bytes": 1203787,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/514___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/515___Warsh39__DM.ai",
+      "size_bytes": 1211167,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/515___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/516___Warsh39__DM.ai",
+      "size_bytes": 1345737,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/516___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/517___Warsh39__DM.ai",
+      "size_bytes": 1348390,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/517___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/518___Warsh39__DM.ai",
+      "size_bytes": 1228841,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/518___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/519___Warsh39__DM.ai",
+      "size_bytes": 1446699,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/519___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/520___Warsh39__DM.ai",
+      "size_bytes": 1191101,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/520___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/521___Warsh39__DM.ai",
+      "size_bytes": 1399930,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/521___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/522___Warsh39__DM.ai",
+      "size_bytes": 1420507,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/522___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/523___Warsh39__DM.ai",
+      "size_bytes": 1165044,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/523___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/524___Warsh39__DM.ai",
+      "size_bytes": 1321934,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/524___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/525___Warsh39__DM.ai",
+      "size_bytes": 1358074,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/525___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/526___Warsh39__DM.ai",
+      "size_bytes": 1379785,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/526___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/527___Warsh39__DM.ai",
+      "size_bytes": 1373507,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/527___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/528___Warsh39__DM.ai",
+      "size_bytes": 1259673,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/528___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/529___Warsh39__DM.ai",
+      "size_bytes": 1417500,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/529___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/530___Warsh39__DM.ai",
+      "size_bytes": 1435804,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/530___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/531___Warsh39__DM.ai",
+      "size_bytes": 1181049,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/531___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/532___Warsh39__DM.ai",
+      "size_bytes": 1409866,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/532___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/533___Warsh39__DM.ai",
+      "size_bytes": 1429929,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/533___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/534___Warsh39__DM.ai",
+      "size_bytes": 1193791,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/534___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/535___Warsh39__DM.ai",
+      "size_bytes": 1421927,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/535___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/536___Warsh39__DM.ai",
+      "size_bytes": 1390131,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/536___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/537___Warsh39__DM.ai",
+      "size_bytes": 1274292,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/537___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/538___Warsh39__DM.ai",
+      "size_bytes": 1285043,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/538___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/539___Warsh39__DM.ai",
+      "size_bytes": 1354001,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/539___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/540___Warsh39__DM.ai",
+      "size_bytes": 1257398,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/540___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/541___Warsh39__DM.ai",
+      "size_bytes": 1266433,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/541___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/542___Warsh39__DM.ai",
+      "size_bytes": 1265632,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/542___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/543___Warsh39__DM.ai",
+      "size_bytes": 1366674,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/543___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/544___Warsh39__DM.ai",
+      "size_bytes": 1402380,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/544___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/545___Warsh39__DM.ai",
+      "size_bytes": 1200521,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/545___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/546___Warsh39__DM.ai",
+      "size_bytes": 1229148,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/546___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/547___Warsh39__DM.ai",
+      "size_bytes": 1249959,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/547___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/548___Warsh39__DM.ai",
+      "size_bytes": 1132316,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/548___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/549___Warsh39__DM.ai",
+      "size_bytes": 1483967,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/549___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/550___Warsh39__DM.ai",
+      "size_bytes": 1424120,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/550___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/551___Warsh39__DM.ai",
+      "size_bytes": 1134872,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/551___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/552___Warsh39__DM.ai",
+      "size_bytes": 1460775,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/552___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/553___Warsh39__DM.ai",
+      "size_bytes": 1269732,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/553___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/554___Warsh39__DM.ai",
+      "size_bytes": 1250561,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/554___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/555___Warsh39__DM.ai",
+      "size_bytes": 1119110,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/555___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/556___Warsh39__DM.ai",
+      "size_bytes": 1382470,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/556___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/557___Warsh39__DM.ai",
+      "size_bytes": 1148572,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/557___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/558___Warsh39__DM.ai",
+      "size_bytes": 1394467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/558___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/559___Warsh39__DM.ai",
+      "size_bytes": 1425487,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/559___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/560___Warsh39__DM.ai",
+      "size_bytes": 1319353,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/560___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/561___Warsh39__DM.ai",
+      "size_bytes": 1213442,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/561___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/562___Warsh39__DM.ai",
+      "size_bytes": 1370588,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/562___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/563___Warsh39__DM.ai",
+      "size_bytes": 1384039,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/563___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/564___Warsh39__DM.ai",
+      "size_bytes": 1232163,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/564___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/565___Warsh39__DM.ai",
+      "size_bytes": 1552218,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/565___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/566___Warsh39__DM.ai",
+      "size_bytes": 1361586,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/566___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/567___Warsh39__DM.ai",
+      "size_bytes": 1525654,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/567___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/568___Warsh39__DM.ai",
+      "size_bytes": 1291889,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/568___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/569___Warsh39__DM.ai",
+      "size_bytes": 1522853,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/569___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/570___Warsh39__DM.ai",
+      "size_bytes": 1285059,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/570___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/571___Warsh39__DM.ai",
+      "size_bytes": 1368378,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/571___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/572___Warsh39__DM.ai",
+      "size_bytes": 1287087,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/572___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/573___Warsh39__DM.ai",
+      "size_bytes": 1354382,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/573___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/574___Warsh39__DM.ai",
+      "size_bytes": 1334749,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/574___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/575___Warsh39__DM.ai",
+      "size_bytes": 1311742,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/575___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/576___Warsh39__DM.ai",
+      "size_bytes": 1502334,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/576___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/577___Warsh39__DM.ai",
+      "size_bytes": 1431766,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/577___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/578___Warsh39__DM.ai",
+      "size_bytes": 1402214,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/578___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/579___Warsh39__DM.ai",
+      "size_bytes": 1407948,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/579___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/580___Warsh39__DM.ai",
+      "size_bytes": 1285062,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/580___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/581___Warsh39__DM.ai",
+      "size_bytes": 1509105,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/581___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/582___Warsh39__DM.ai",
+      "size_bytes": 1324068,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/582___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/583___Warsh39__DM.ai",
+      "size_bytes": 1343558,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/583___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/584___Warsh39__DM.ai",
+      "size_bytes": 1376979,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/584___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/585___Warsh39__DM.ai",
+      "size_bytes": 1572984,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/585___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/586___Warsh39__DM.ai",
+      "size_bytes": 1345668,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/586___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/587___Warsh39__DM.ai",
+      "size_bytes": 1143230,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/587___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/588___Warsh39__DM.ai",
+      "size_bytes": 1420467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/588___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/589___Warsh39__DM.ai",
+      "size_bytes": 1313267,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/589___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/590___Warsh39__DM.ai",
+      "size_bytes": 1313351,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/590___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/591___Warsh39__DM.ai",
+      "size_bytes": 1128884,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/591___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/592___Warsh39__DM.ai",
+      "size_bytes": 1278339,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/592___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/593___Warsh39__DM.ai",
+      "size_bytes": 1290086,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/593___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/594___Warsh39__DM.ai",
+      "size_bytes": 1259018,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/594___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/595___Warsh39__DM.ai",
+      "size_bytes": 1111083,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/595___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/596___Warsh39__DM.ai",
+      "size_bytes": 1131933,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/596___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/597___Warsh39__DM.ai",
+      "size_bytes": 1159334,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/597___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/598___Warsh39__DM.ai",
+      "size_bytes": 1232567,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/598___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/599___Warsh39__DM.ai",
+      "size_bytes": 1114888,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/599___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/600___Warsh39__DM.ai",
+      "size_bytes": 1151467,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/600___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/601___Warsh39__DM.ai",
+      "size_bytes": 1010360,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/601___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/602___Warsh39__DM.ai",
+      "size_bytes": 587771,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/602___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/603___Warsh39__DM.ai",
+      "size_bytes": 865175,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/603___Warsh39__DM.ai"
+    },
+    {
+      "path": "warsh-ai/604___Warsh39__DM.ai",
+      "size_bytes": 776046,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/dm/1442-ai-warsh/warsh-ai/604___Warsh39__DM.ai"
+    }
+  ],
+  "recovery_note": {
+    "ar": "حُذِف هذا الملف من موقع مجمع الملك فهد لطباعة المصحف الشريف (dm.qurancomplex.gov.sa) ولم يَعُد متاحًا للتنزيل المباشر منه. النسخة المحفوظة هنا مُستعادة من أرشيف Wayback Machine، وهي مطابقة للملف الأصلي.",
+    "en": "This file was removed from the King Fahd Glorious Qur'an Printing Complex website (dm.qurancomplex.gov.sa) and is no longer available for direct download there. The copy stored here was recovered from the Wayback Machine archive and matches the original file."
+  }
+}

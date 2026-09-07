@@ -1,0 +1,38 @@
+{
+  "slug": "praying-calender-1448-riyadh",
+  "page_order": 3,
+  "group": "calendar",
+  "source_page": "https://qurancomplex.gov.sa/",
+  "title": {
+    "ar": "تقويم مواقيت الصلاة",
+    "en": null
+  },
+  "download": {
+    "url": "https://download.qurancomplex.gov.sa/kfgqpc-calendar/1448/Praying-Calender-1448-RIYADH.pdf",
+    "filename": "Praying-Calender-1448-RIYADH.pdf",
+    "size_bytes": 14049822,
+    "size_human": "13.40 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 21 Jun 2026 05:14:56 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-riyadh/Praying-Calender-1448-RIYADH.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e410eeb20415afa24573580314983869",
+      "sha1": "ae2995caf4d527cf7f96e4c0d7f4bc8053e426b8",
+      "sha256": "0bedddf93b546ab4194ce1e4931fe2d06d9a9ced41b318d341849abfb7d12415"
+    }
+  },
+  "captured_at": "2026-09-07T14:05:32Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 1,
+  "total_bytes": 14049822,
+  "files": [
+    {
+      "path": "Praying-Calender-1448-RIYADH.pdf",
+      "size_bytes": 14049822,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/calendar/praying-calender-1448-riyadh/Praying-Calender-1448-RIYADH.pdf"
+    }
+  ]
+}

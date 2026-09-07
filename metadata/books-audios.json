@@ -1,0 +1,100 @@
+{
+  "group": "books-audios",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/books-audios/",
+  "resource_count": 3,
+  "available_count": 3,
+  "file_count": 6708,
+  "total_bytes": 1267068236,
+  "resources": [
+    {
+      "slug": "tafseer-muyassar-ayat",
+      "page_order": 1,
+      "group": "books-audios",
+      "source_page": "https://qurancomplex.gov.sa/books-audios/",
+      "title": {
+        "ar": "حقوق الاستخدام",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/TafseerMuyassar/TafseerMuyassar-ayat.zip",
+        "filename": "TafseerMuyassar-ayat.zip",
+        "size_bytes": 743525665,
+        "size_human": "709.08 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 22 Mar 2022 08:37:12 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "7afd0e71f5092b6ee748845e43605565",
+          "sha1": "33ba36da01daa143767d65e6d90c77abe46d4e64",
+          "sha256": "ab7b6d2332ef61e822b32e1305cc849b5ae6b997e7e763a2c6d78e2d621f7a29"
+        }
+      },
+      "captured_at": "2026-09-07T14:05:47Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 6352,
+      "total_bytes": 879506087
+    },
+    {
+      "slug": "tajweed-muyassar",
+      "page_order": 2,
+      "group": "books-audios",
+      "source_page": "https://qurancomplex.gov.sa/books-audios/",
+      "title": {
+        "ar": "حقوق الاستخدام",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/TajweedMuyassar/TajweedMuyassar.zip",
+        "filename": "TajweedMuyassar.zip",
+        "size_bytes": 76668806,
+        "size_human": "73.12 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Sun, 10 May 2026 10:59:55 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "da1260b92ac7009050d0916a2bdab6fb",
+          "sha1": "f30b5b88f4cee980258769b24d7ca7e19926855c",
+          "sha256": "8824ca8f7067e56a0ad1221f611e3a0a03b4d12bf1a534416e783483d6c74990"
+        }
+      },
+      "captured_at": "2026-09-07T14:05:47Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 242,
+      "total_bytes": 88678400
+    },
+    {
+      "slug": "muyassar-ghareeb-sura",
+      "page_order": 3,
+      "group": "books-audios",
+      "source_page": "https://qurancomplex.gov.sa/books-audios-muyassarghareeb/",
+      "title": {
+        "ar": "تحميل الكتاب لسور المصحف كاملاً",
+        "en": null
+      },
+      "download": {
+        "url": "https://download.qurancomplex.gov.sa/new-sounds/MuyassarGhareeb/MuyassarGhareeb-sura.zip",
+        "filename": "MuyassarGhareeb-sura.zip",
+        "size_bytes": 273034261,
+        "size_human": "260.39 MB",
+        "content_type": "application/x-zip-compressed",
+        "server_last_modified": "Tue, 22 Mar 2022 08:08:30 GMT"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "880e221103ed23dcddbb78645c282f74",
+          "sha1": "66831809bb00fea686ab2e1ac888cd4b19f41c37",
+          "sha256": "b1c60c4d9262379f03d7bc034be2ab5be25c7be85c1faeb74a9c536092f61fdb"
+        }
+      },
+      "captured_at": "2026-09-07T14:05:47Z",
+      "available": true,
+      "archive_extracted": true,
+      "file_count": 114,
+      "total_bytes": 298883749
+    }
+  ]
+}

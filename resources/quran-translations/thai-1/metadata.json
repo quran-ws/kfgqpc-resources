@@ -1,0 +1,47 @@
+{
+  "slug": "thai-1",
+  "page_order": 17,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "التايلندية (ไทย)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Thai.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/thai-1.pdf",
+    "filename": "thai-1.pdf",
+    "size_bytes": 324638233,
+    "size_human": "309.60 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Sun, 25 Aug 2024 10:17:58 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/thai-1/thai-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "d62ec3a05865bbde6d86195b37d6ed62",
+      "sha1": "817fe5b22933b1a848bee2578cf7909f3aa65cfb",
+      "sha256": "7ef7140284fbbf02a0d4a8f791d4e33a8762a7cf714c0d8edaa9c02dc79fac0c"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 324704887,
+  "files": [
+    {
+      "path": "Thai.jpg",
+      "size_bytes": 66654,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/thai-1/Thai.jpg"
+    },
+    {
+      "path": "thai-1.pdf",
+      "size_bytes": 324638233,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/thai-1/thai-1.pdf"
+    }
+  ]
+}

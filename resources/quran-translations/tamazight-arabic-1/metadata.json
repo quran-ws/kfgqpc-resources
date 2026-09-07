@@ -1,0 +1,47 @@
+{
+  "slug": "tamazight-arabic-1",
+  "page_order": 40,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الأمازيغية [بالحرف العربي] (غاللغه اتمازيغث-اسثقپايليث)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Tamazight_Arabic.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/tamazight-Arabic-1.pdf",
+    "filename": "tamazight-Arabic-1.pdf",
+    "size_bytes": 305517946,
+    "size_human": "291.36 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Wed, 28 Aug 2024 05:14:51 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tamazight-arabic-1/tamazight-Arabic-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "f5eb6bfeb08c648a744fe18fdaa36305",
+      "sha1": "394e6a2d9cef932943bba9eb3d4b8379b90a6224",
+      "sha256": "36d1c995a7e80ffd1c6a9556543a04896a4dde3e3aac08044fe3a33172789470"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 305593964,
+  "files": [
+    {
+      "path": "Tamazight_Arabic.jpg",
+      "size_bytes": 76018,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tamazight-arabic-1/Tamazight_Arabic.jpg"
+    },
+    {
+      "path": "tamazight-Arabic-1.pdf",
+      "size_bytes": 305517946,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/tamazight-arabic-1/tamazight-Arabic-1.pdf"
+    }
+  ]
+}

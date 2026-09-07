@@ -1,0 +1,47 @@
+{
+  "slug": "kannada-1",
+  "page_order": 32,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الكنّاديّة (ಕನ್ನಡ)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/kannada.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/kannada-1.pdf",
+    "filename": "kannada-1.pdf",
+    "size_bytes": 22144522,
+    "size_human": "21.12 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 27 Aug 2024 10:22:30 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kannada-1/kannada-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "a76de295fd35416336102720e16f369e",
+      "sha1": "7be638aa3b303b706dcab8f4991a83003aee5645",
+      "sha256": "ba352214d2780adacc46649f77051dca529570f06dd2a2126aa7bf60d6238444"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 22188445,
+  "files": [
+    {
+      "path": "kannada-1.pdf",
+      "size_bytes": 22144522,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kannada-1/kannada-1.pdf"
+    },
+    {
+      "path": "kannada.jpg",
+      "size_bytes": 43923,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/kannada-1/kannada.jpg"
+    }
+  ]
+}

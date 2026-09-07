@@ -1,0 +1,47 @@
+{
+  "slug": "nko-1",
+  "page_order": 41,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "الأنكو (Nko)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الأفريقية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Nko.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/nko-1.pdf",
+    "filename": "nko-1.pdf",
+    "size_bytes": 364113956,
+    "size_human": "347.25 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 29 Aug 2024 06:12:02 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nko-1/nko-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "c8c039035c7a7d7d311051a2f2a20df3",
+      "sha1": "3eaa8c72869e7c561b4abb4e3e63e993026ac875",
+      "sha256": "5d465c9580b2b17c0752a82b5f2a70e76f3d9f6c2b57e7cc18330fc9bacf4b65"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 364155022,
+  "files": [
+    {
+      "path": "Nko.jpg",
+      "size_bytes": 41066,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nko-1/Nko.jpg"
+    },
+    {
+      "path": "nko-1.pdf",
+      "size_bytes": 364113956,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/nko-1/nko-1.pdf"
+    }
+  ]
+}

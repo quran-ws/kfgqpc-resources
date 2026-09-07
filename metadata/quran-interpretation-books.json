@@ -1,0 +1,220 @@
+{
+  "group": "quran-interpretation-books",
+  "download_base": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/",
+  "resource_count": 6,
+  "available_count": 6,
+  "file_count": 12,
+  "total_bytes": 684308530,
+  "resources": [
+    {
+      "slug": "sirj-qari-part-1",
+      "page_order": 1,
+      "group": "quran-interpretation-books",
+      "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+      "title": {
+        "ar": "سراج القارئ المبتدي وتذكار المقرئ المنتهي-1",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/sirj_qari_image.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/sirj_qari_part_1.pdf",
+        "filename": "sirj_qari_part_1.pdf",
+        "size_bytes": 22568060,
+        "size_human": "21.52 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 13 Oct 2024 08:55:20 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-1/sirj_qari_part_1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "f15b0eb1a2ea1c53d6c7733c3c498a78",
+          "sha1": "83fb35bf2ad49e6f8398d55882bbaea12edc34ae",
+          "sha256": "c4397dc0c00df0b5137a62c94d8455353574bdcddc52a5bb8a786546c4b394ba"
+        }
+      },
+      "captured_at": "2026-09-07T14:27:50Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 22697789
+    },
+    {
+      "slug": "sirj-qari-part-2",
+      "page_order": 2,
+      "group": "quran-interpretation-books",
+      "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+      "title": {
+        "ar": "سراج القارئ المبتدي وتذكار المقرئ المنتهي-2",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/sirj_qari_image.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/sirj_qari_part_2.pdf",
+        "filename": "sirj_qari_part_2.pdf",
+        "size_bytes": 51747971,
+        "size_human": "49.35 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 13 Oct 2024 10:56:07 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-2/sirj_qari_part_2.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "9976ea829517775bcfe4b5a6d823dde3",
+          "sha1": "c659ebe1f3130558bf88eeacb365df1619f3178d",
+          "sha256": "ce169acbf5e90403682e55ce8669c0ca0e1031559c25763f17a69c653954b5f2"
+        }
+      },
+      "captured_at": "2026-09-07T14:27:50Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 51877700
+    },
+    {
+      "slug": "sirj-qari-part-3",
+      "page_order": 3,
+      "group": "quran-interpretation-books",
+      "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+      "title": {
+        "ar": "سراج القارئ المبتدي وتذكار المقرئ المنتهي-3",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/sirj_qari_image.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/sirj_qari_part_3.pdf",
+        "filename": "sirj_qari_part_3.pdf",
+        "size_bytes": 18581131,
+        "size_human": "17.72 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Sun, 13 Oct 2024 08:40:17 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-3/sirj_qari_part_3.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "566f5f038e00a73549076b48114fc418",
+          "sha1": "fb3b9e3f83dd093f890f3e9f64f58561d386bd65",
+          "sha256": "ac3e718a3b24c8c6edc434ecf5bb0e3081fbfbe4f441d6ffdcc9529b19784c5a"
+        }
+      },
+      "captured_at": "2026-09-07T14:27:50Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 18710860
+    },
+    {
+      "slug": "tafseer-muyassar",
+      "page_order": 4,
+      "group": "quran-interpretation-books",
+      "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+      "title": {
+        "ar": "التفسير الميسر",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tafseer_Moyassar-Jawami.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/TafseerMuyassar.pdf",
+        "filename": "TafseerMuyassar.pdf",
+        "size_bytes": 348194833,
+        "size_human": "332.06 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 13:16:06 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tafseer-muyassar/TafseerMuyassar.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "a04a6ee6067964b2697c4221c45cc064",
+          "sha1": "6af75a69f9838206ec24855e22525b29bcedfd03",
+          "sha256": "e2a46fd8703b2881b5ae2bf1de571cc5ca47580368738bf61ce9373a46a3d15b"
+        }
+      },
+      "captured_at": "2026-09-07T14:27:50Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 348292662
+    },
+    {
+      "slug": "muyassar-ghareeb-1",
+      "page_order": 5,
+      "group": "quran-interpretation-books",
+      "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+      "title": {
+        "ar": "الميسر في غريب القرآن الكريم",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2024/04/Muyassar_Ghareeb-1.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/MuyassarGhareeb-1.pdf",
+        "filename": "MuyassarGhareeb-1.pdf",
+        "size_bytes": 240026838,
+        "size_human": "228.91 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 05 May 2026 11:42:52 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/muyassar-ghareeb-1/MuyassarGhareeb-1.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "6ede45857912d0e8fe8cb41f39b66446",
+          "sha1": "e8c87b53a8269de626b30fa13acc1ddc1c8f4da3",
+          "sha256": "559d1433b467597c86e2178e343ebda6842a32166ade532e49c11af130fdb9a3"
+        }
+      },
+      "captured_at": "2026-09-07T14:27:50Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 240099811
+    },
+    {
+      "slug": "tajweed-muyassar",
+      "page_order": 6,
+      "group": "quran-interpretation-books",
+      "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+      "title": {
+        "ar": "التجويد الميسَّر",
+        "en": null
+      },
+      "publication": {
+        "category": "",
+        "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tajweed_Muyassar.jpg"
+      },
+      "download": {
+        "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/TajweedMuyassar.pdf",
+        "filename": "TajweedMuyassar.pdf",
+        "size_bytes": 2528037,
+        "size_human": "2.41 MB",
+        "content_type": "application/pdf",
+        "server_last_modified": "Tue, 22 Mar 2022 12:14:45 GMT",
+        "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tajweed-muyassar/TajweedMuyassar.pdf"
+      },
+      "checksums": {
+        "computed": {
+          "md5": "c0a9347ca199fb54704f912819d652b2",
+          "sha1": "1618ef79a2ac2741f3188129808398b476b1a199",
+          "sha256": "178e6953363e06f7b698826f79308803feae9aa48589dc4c0cf6ab9d552d376d"
+        }
+      },
+      "captured_at": "2026-09-07T14:27:50Z",
+      "available": true,
+      "archive_extracted": false,
+      "file_count": 2,
+      "total_bytes": 2629708
+    }
+  ]
+}

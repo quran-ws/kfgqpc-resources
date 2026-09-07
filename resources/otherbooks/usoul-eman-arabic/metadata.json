@@ -1,0 +1,47 @@
+{
+  "slug": "usoul-eman-arabic",
+  "page_order": 1,
+  "group": "otherbooks",
+  "source_page": "https://qurancomplex.gov.sa/otherbooks/",
+  "title": {
+    "ar": "كتاب أصول الإيمان في ضوء الكتاب والسنة",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2026/08/usoul_eman_arabic-1.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/UsoulEman-Arabic.pdf",
+    "filename": "UsoulEman-Arabic.pdf",
+    "size_bytes": 32098138,
+    "size_human": "30.61 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 12:23:11 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-arabic/UsoulEman-Arabic.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "ab03c3902a477b47dbf38e730d790ede",
+      "sha1": "a90b713791c192b87b41199ed0d81b39336a5371",
+      "sha256": "b508179683a77b43f024b9634fedceca4d040215eff727b11aeed1159f5dc851"
+    }
+  },
+  "captured_at": "2026-09-07T14:28:19Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 32158774,
+  "files": [
+    {
+      "path": "UsoulEman-Arabic.pdf",
+      "size_bytes": 32098138,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-arabic/UsoulEman-Arabic.pdf"
+    },
+    {
+      "path": "usoul_eman_arabic-1.jpg",
+      "size_bytes": 60636,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/otherbooks/usoul-eman-arabic/usoul_eman_arabic-1.jpg"
+    }
+  ]
+}

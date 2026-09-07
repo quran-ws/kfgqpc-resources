@@ -1,0 +1,47 @@
+{
+  "slug": "rubuyassen-2",
+  "page_order": 11,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "ربع يس",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Rubuyassen.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/rubuyassen-2.pdf",
+    "filename": "rubuyassen-2.pdf",
+    "size_bytes": 123249364,
+    "size_human": "117.54 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 18 Nov 2025 08:29:23 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/rubuyassen-2/rubuyassen-2.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "b7574f1827996f1255e564fa1b32d54b",
+      "sha1": "7ebf8f71c3f13fd5d8d5316d43d99b5e1766ea85",
+      "sha256": "686e533b91cb9949a6d9248f145266cbd30f6b3f5786ca217e267517047d5a30"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 123302773,
+  "files": [
+    {
+      "path": "Rubuyassen.jpg",
+      "size_bytes": 53409,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/rubuyassen-2/Rubuyassen.jpg"
+    },
+    {
+      "path": "rubuyassen-2.pdf",
+      "size_bytes": 123249364,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/rubuyassen-2/rubuyassen-2.pdf"
+    }
+  ]
+}

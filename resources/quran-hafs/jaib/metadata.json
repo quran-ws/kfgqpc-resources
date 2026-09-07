@@ -1,0 +1,47 @@
+{
+  "slug": "jaib",
+  "page_order": 8,
+  "group": "quran-hafs",
+  "source_page": "https://qurancomplex.gov.sa/quran-hafs/",
+  "title": {
+    "ar": "مصحف الجيب",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Jaib01.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/jaib.pdf",
+    "filename": "jaib.pdf",
+    "size_bytes": 119909244,
+    "size_human": "114.35 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 13 Nov 2025 10:12:40 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jaib/jaib.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "e4ddb2243b325a71704af62a6e4ef4b0",
+      "sha1": "d3e88536e6d5df6e35b1eb42f25a4d21eadbbea3",
+      "sha256": "70eba3d516823d54a9b001672c00a0403a25df937d52fe0a38731b915825aee4"
+    }
+  },
+  "captured_at": "2026-09-07T14:21:20Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 119934423,
+  "files": [
+    {
+      "path": "Jaib01.jpg",
+      "size_bytes": 25179,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jaib/Jaib01.jpg"
+    },
+    {
+      "path": "jaib.pdf",
+      "size_bytes": 119909244,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jaib/jaib.pdf"
+    }
+  ]
+}

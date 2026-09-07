@@ -1,0 +1,47 @@
+{
+  "slug": "tajweed-muyassar",
+  "page_order": 6,
+  "group": "quran-interpretation-books",
+  "source_page": "https://qurancomplex.gov.sa/quran-interpretation-books/",
+  "title": {
+    "ar": "التجويد الميسَّر",
+    "en": null
+  },
+  "publication": {
+    "category": "",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Tajweed_Muyassar.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/books/TajweedMuyassar.pdf",
+    "filename": "TajweedMuyassar.pdf",
+    "size_bytes": 2528037,
+    "size_human": "2.41 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Tue, 22 Mar 2022 12:14:45 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tajweed-muyassar/TajweedMuyassar.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "c0a9347ca199fb54704f912819d652b2",
+      "sha1": "1618ef79a2ac2741f3188129808398b476b1a199",
+      "sha256": "178e6953363e06f7b698826f79308803feae9aa48589dc4c0cf6ab9d552d376d"
+    }
+  },
+  "captured_at": "2026-09-07T14:27:50Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 2629708,
+  "files": [
+    {
+      "path": "TajweedMuyassar.pdf",
+      "size_bytes": 2528037,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tajweed-muyassar/TajweedMuyassar.pdf"
+    },
+    {
+      "path": "Tajweed_Muyassar.jpg",
+      "size_bytes": 101671,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tajweed-muyassar/Tajweed_Muyassar.jpg"
+    }
+  ]
+}

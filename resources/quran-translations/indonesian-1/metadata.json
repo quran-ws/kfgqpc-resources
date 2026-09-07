@@ -1,0 +1,47 @@
+{
+  "slug": "indonesian-1",
+  "page_order": 10,
+  "group": "quran-translations",
+  "source_page": "https://qurancomplex.gov.sa/quran-translations/",
+  "title": {
+    "ar": "اللغة الإندونيسية (Bahasa Indonesia)",
+    "en": null
+  },
+  "publication": {
+    "category": "اللغات الآسيوية",
+    "cover_url": "https://qurancomplex.gov.sa/wp-content/uploads/2025/02/Indonesian.jpg"
+  },
+  "download": {
+    "url": "https://qurancomplex.gov.sa/wp-content/uploads/isdarat/translations/indonesian-1.pdf",
+    "filename": "indonesian-1.pdf",
+    "size_bytes": 584354142,
+    "size_human": "557.28 MB",
+    "content_type": "application/pdf",
+    "server_last_modified": "Thu, 22 Aug 2024 07:57:03 GMT",
+    "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/indonesian-1/indonesian-1.pdf"
+  },
+  "checksums": {
+    "computed": {
+      "md5": "4bce4875850ab70e826ff493ad3e09db",
+      "sha1": "c6d76f9927901dda689b847c777514d749e75cf9",
+      "sha256": "af8c95f1b447683e77b9b54246f6b7fc6515ab53692c10516e8ed1bb71fbb8a2"
+    }
+  },
+  "captured_at": "2026-09-07T14:23:16Z",
+  "available": true,
+  "archive_extracted": false,
+  "file_count": 2,
+  "total_bytes": 584466331,
+  "files": [
+    {
+      "path": "Indonesian.jpg",
+      "size_bytes": 112189,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/indonesian-1/Indonesian.jpg"
+    },
+    {
+      "path": "indonesian-1.pdf",
+      "size_bytes": 584354142,
+      "url": "https://cdn.quran.ws/KFGQPC/resources/quran-translations/indonesian-1/indonesian-1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+
+# The files themselves are served from the CDN, not from git.
+/resources/**
+!/resources/**/
+!/resources/**/README.md
+!/resources/**/metadata.json
+
+# Internal working material: collection tooling, raw captured pages, HTTP
+# headers, build config and verification output. This repository is for
+# people downloading the files, not a record of how the copy was made.
+/tools/
+/archive/
+/verify-report.txt
+/mirror-base.txt
+/group-titles.json
+/LARGE-FILES.md
+/NOTICE.md
+/.gitattributes
