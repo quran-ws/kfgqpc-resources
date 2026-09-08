@@ -7,12 +7,12 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | سراج القارئ المبتدي وتذكار المقرئ المنتهي-1 | 21.65 MB | — | [sirj_qari_part_1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-1/sirj_qari_part_1.pdf) |
-| 2 | سراج القارئ المبتدي وتذكار المقرئ المنتهي-2 | 49.47 MB | — | [sirj_qari_part_2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-2/sirj_qari_part_2.pdf) |
-| 3 | سراج القارئ المبتدي وتذكار المقرئ المنتهي-3 | 17.84 MB | — | [sirj_qari_part_3.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-3/sirj_qari_part_3.pdf) |
-| 4 | التفسير الميسر | 332.16 MB | — | [TafseerMuyassar.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tafseer-muyassar/TafseerMuyassar.pdf) |
-| 5 | الميسر في غريب القرآن الكريم | 228.98 MB | — | [MuyassarGhareeb-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/muyassar-ghareeb-1/MuyassarGhareeb-1.pdf) |
-| 6 | التجويد الميسَّر | 2.51 MB | — | [TajweedMuyassar.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tajweed-muyassar/TajweedMuyassar.pdf) |
+| 1 | سراج القارئ المبتدي وتذكار المقرئ المنتهي-1<br>`Siraj al-Qari' al-Mubtadi wa Tidhkar al-Muqri' al-Muntahi — Part 1` | 21.65 MB | — | [sirj_qari_part_1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-1/sirj_qari_part_1.pdf) |
+| 2 | سراج القارئ المبتدي وتذكار المقرئ المنتهي-2<br>`Siraj al-Qari' al-Mubtadi wa Tidhkar al-Muqri' al-Muntahi — Part 2` | 49.47 MB | — | [sirj_qari_part_2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-2/sirj_qari_part_2.pdf) |
+| 3 | سراج القارئ المبتدي وتذكار المقرئ المنتهي-3<br>`Siraj al-Qari' al-Mubtadi wa Tidhkar al-Muqri' al-Muntahi — Part 3` | 17.84 MB | — | [sirj_qari_part_3.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/sirj-qari-part-3/sirj_qari_part_3.pdf) |
+| 4 | التفسير الميسر<br>`Al-Tafsir al-Muyassar` | 332.16 MB | — | [TafseerMuyassar.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tafseer-muyassar/TafseerMuyassar.pdf) |
+| 5 | الميسر في غريب القرآن الكريم<br>`Al-Muyassar on the Rare Words of the Qur'an` | 228.98 MB | — | [MuyassarGhareeb-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/muyassar-ghareeb-1/MuyassarGhareeb-1.pdf) |
+| 6 | التجويد الميسَّر<br>`Al-Tajwid al-Muyassar` | 2.51 MB | — | [TajweedMuyassar.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-interpretation-books/tajweed-muyassar/TajweedMuyassar.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

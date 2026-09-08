@@ -7,20 +7,20 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | المصحف الممتاز | 343.37 MB | — | [mumtaz-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/mumtaz-1/mumtaz-1.pdf) |
-| 2 | المصحف الخاص ١ | 581.22 MB | — | [khass1brown-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/khass1brown-1/khass1brown-1.pdf) |
-| 3 | المصحف الجوامعي | 159.85 MB | — | [jawamee39.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawamee39/jawamee39.pdf) |
-| 4 | المصحف الجوامعي – ٣ | 213.98 MB | — | [jawameethree-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawameethree-1/jawameethree-1.pdf) |
-| 5 | المصحف العادي | 232.35 MB | — | [standard39-2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standard39-2/standard39-2.pdf) |
-| 6 | المصحف العادي – ٣ | 227.66 MB | — | [standardthree-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standardthree-1/standardthree-1.pdf) |
-| 7 | المصحف الوسط | 201.60 MB | — | [wasat39-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/wasat39-1/wasat39-1.pdf) |
-| 8 | مصحف الجيب | 114.38 MB | — | [jaib.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jaib/jaib.pdf) |
-| 9 | المصحف الكفي | 114.39 MB | — | [kaffi-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/kaffi-1/kaffi-1.pdf) |
-| 10 | مصحف نستعليق | 197.23 MB | — | [nastaleeq-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/nastaleeq-1/nastaleeq-1.pdf) |
-| 11 | ربع يس | 117.59 MB | — | [rubuyassen-2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/rubuyassen-2/rubuyassen-2.pdf) |
-| 12 | جزء قد سمع | 12.26 MB | — | [juzuqad-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuqad-1/juzuqad-1.pdf) |
-| 13 | جزء تبارك | 13.58 MB | — | [juzutabarak-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzutabarak-1/juzutabarak-1.pdf) |
-| 14 | الفاتحة وجزء عم | 31.57 MB | — | [juzuamma-2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuamma-2/juzuamma-2.pdf) |
+| 1 | المصحف الممتاز<br>`Premium Mushaf` | 343.37 MB | — | [mumtaz-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/mumtaz-1/mumtaz-1.pdf) |
+| 2 | المصحف الخاص ١<br>`Special Mushaf 1` | 581.22 MB | — | [khass1brown-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/khass1brown-1/khass1brown-1.pdf) |
+| 3 | المصحف الجوامعي<br>`Mosque Mushaf (large format)` | 159.85 MB | — | [jawamee39.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawamee39/jawamee39.pdf) |
+| 4 | المصحف الجوامعي – ٣<br>`Mosque Mushaf — 3` | 213.98 MB | — | [jawameethree-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jawameethree-1/jawameethree-1.pdf) |
+| 5 | المصحف العادي<br>`Standard Mushaf` | 232.35 MB | — | [standard39-2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standard39-2/standard39-2.pdf) |
+| 6 | المصحف العادي – ٣<br>`Standard Mushaf — 3` | 227.66 MB | — | [standardthree-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/standardthree-1/standardthree-1.pdf) |
+| 7 | المصحف الوسط<br>`Medium-size Mushaf` | 201.60 MB | — | [wasat39-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/wasat39-1/wasat39-1.pdf) |
+| 8 | مصحف الجيب<br>`Pocket Mushaf` | 114.38 MB | — | [jaib.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/jaib/jaib.pdf) |
+| 9 | المصحف الكفي<br>`Al-Kaffi Mushaf (palm size)` | 114.39 MB | — | [kaffi-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/kaffi-1/kaffi-1.pdf) |
+| 10 | مصحف نستعليق<br>`Nasta'liq Script Mushaf` | 197.23 MB | — | [nastaleeq-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/nastaleeq-1/nastaleeq-1.pdf) |
+| 11 | ربع يس<br>`Rub' Yasin (Ya-Sin quarter)` | 117.59 MB | — | [rubuyassen-2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/rubuyassen-2/rubuyassen-2.pdf) |
+| 12 | جزء قد سمع<br>`Juz' Qad Sami'a` | 12.26 MB | — | [juzuqad-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuqad-1/juzuqad-1.pdf) |
+| 13 | جزء تبارك<br>`Juz' Tabarak` | 13.58 MB | — | [juzutabarak-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzutabarak-1/juzutabarak-1.pdf) |
+| 14 | الفاتحة وجزء عم<br>`Al-Fatihah and Juz' 'Amma` | 31.57 MB | — | [juzuamma-2.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-hafs/juzuamma-2/juzuamma-2.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

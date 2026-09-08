@@ -7,8 +7,8 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | دليل الأعمال التقنية | 15.21 MB | — | [complextechguide.pdf](https://cdn.quran.ws/KFGQPC/resources/booklets/complextechguide/complextechguide.pdf) |
-| 2 | مسيرة وإنجازات | 5.29 MB | — | [complexbooklet.pdf](https://cdn.quran.ws/KFGQPC/resources/booklets/complexbooklet/complexbooklet.pdf) |
+| 1 | دليل الأعمال التقنية<br>`Guide to the Complex's Technical Works` | 15.21 MB | — | [complextechguide.pdf](https://cdn.quran.ws/KFGQPC/resources/booklets/complextechguide/complextechguide.pdf) |
+| 2 | مسيرة وإنجازات<br>`The Complex: Journey and Achievements` | 5.29 MB | — | [complexbooklet.pdf](https://cdn.quran.ws/KFGQPC/resources/booklets/complexbooklet/complexbooklet.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

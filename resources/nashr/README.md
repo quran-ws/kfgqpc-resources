@@ -7,10 +7,10 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | تحميل | 136.76 MB | — | [Mushaf_Publisher_Win_Setup_V3.16.zip](https://cdn.quran.ws/KFGQPC/resources/nashr/mushaf-publisher-win-setup/Mushaf_Publisher_Win_Setup_V3.16.zip) 134.60 MB<br>[تصفّح 2 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/nashr__mushaf-publisher-win-setup.html) |
-| 2 | دليل استخدام التطبيق | 2.92 MB | — | [Generalhelp.pdf](https://cdn.quran.ws/KFGQPC/resources/nashr/generalhelp/Generalhelp.pdf) |
-| 3 | دليل استخدام التطبيق مع برنامج إليستريتور | 72.52 KB | — | [Help_illustrator.pdf](https://cdn.quran.ws/KFGQPC/resources/nashr/help-illustrator/Help_illustrator.pdf) |
-| 4 | دليل استخدام التطبيق مع برنامج فوتوشوب | 106.24 KB | — | [Help_Photoshop.pdf](https://cdn.quran.ws/KFGQPC/resources/nashr/help-photoshop/Help_Photoshop.pdf) |
+| 1 | برنامج ناشر المصحف لنظام ويندوز – الإصدار 3.16<br>`Mushaf Publisher for Windows — Setup v3.16` | 136.76 MB | — | [Mushaf_Publisher_Win_Setup_V3.16.zip](https://cdn.quran.ws/KFGQPC/resources/nashr/mushaf-publisher-win-setup/Mushaf_Publisher_Win_Setup_V3.16.zip) 134.60 MB<br>[تصفّح 2 ملف / browse](https://quran-ws.github.io/kfgqpc-resources/r/nashr__mushaf-publisher-win-setup.html) |
+| 2 | دليل استخدام التطبيق<br>`Mushaf Publisher — User Guide` | 2.92 MB | — | [Generalhelp.pdf](https://cdn.quran.ws/KFGQPC/resources/nashr/generalhelp/Generalhelp.pdf) |
+| 3 | دليل استخدام التطبيق مع برنامج إليستريتور<br>`Mushaf Publisher — Guide for Adobe Illustrator` | 72.52 KB | — | [Help_illustrator.pdf](https://cdn.quran.ws/KFGQPC/resources/nashr/help-illustrator/Help_illustrator.pdf) |
+| 4 | دليل استخدام التطبيق مع برنامج فوتوشوب<br>`Mushaf Publisher — Guide for Adobe Photoshop` | 106.24 KB | — | [Help_Photoshop.pdf](https://cdn.quran.ws/KFGQPC/resources/nashr/help-photoshop/Help_Photoshop.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

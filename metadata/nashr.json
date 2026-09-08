@@ -12,8 +12,8 @@
       "group": "nashr",
       "source_page": "https://nashr.qurancomplex.gov.sa/",
       "title": {
-        "ar": "تحميل",
-        "en": null
+        "ar": "برنامج ناشر المصحف لنظام ويندوز – الإصدار 3.16",
+        "en": "Mushaf Publisher for Windows — Setup v3.16"
       },
       "download": {
         "url": "https://nashr.qurancomplex.gov.sa/download/Mushaf_Publisher_Win_Setup_V3.16.zip",
@@ -45,7 +45,7 @@
       "source_page": "https://nashr.qurancomplex.gov.sa/",
       "title": {
         "ar": "دليل استخدام التطبيق",
-        "en": null
+        "en": "Mushaf Publisher — User Guide"
       },
       "download": {
         "url": "https://nashr.qurancomplex.gov.sa/download/Generalhelp.pdf",
@@ -76,7 +76,7 @@
       "source_page": "https://nashr.qurancomplex.gov.sa/",
       "title": {
         "ar": "دليل استخدام التطبيق مع برنامج إليستريتور",
-        "en": null
+        "en": "Mushaf Publisher — Guide for Adobe Illustrator"
       },
       "download": {
         "url": "https://nashr.qurancomplex.gov.sa/download/Help_illustrator.pdf",
@@ -107,7 +107,7 @@
       "source_page": "https://nashr.qurancomplex.gov.sa/",
       "title": {
         "ar": "دليل استخدام التطبيق مع برنامج فوتوشوب",
-        "en": null
+        "en": "Mushaf Publisher — Guide for Adobe Photoshop"
       },
       "download": {
         "url": "https://nashr.qurancomplex.gov.sa/download/Help_Photoshop.pdf",

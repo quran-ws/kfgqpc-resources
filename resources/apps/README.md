@@ -7,7 +7,7 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | تحميل دليل الاستخدام | 14.75 MB | — | [QuranHafsGuide.pdf](https://cdn.quran.ws/KFGQPC/resources/apps/quran-hafs-guide/QuranHafsGuide.pdf) |
+| 1 | دليل استخدام تطبيق مصحف المدينة النبوية<br>`Madinah Mushaf App — User Guide` | 14.75 MB | — | [QuranHafsGuide.pdf](https://cdn.quran.ws/KFGQPC/resources/apps/quran-hafs-guide/QuranHafsGuide.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.

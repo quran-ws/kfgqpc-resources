@@ -7,11 +7,11 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | مصحف ورش | 223.40 MB | — | [warsh39-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/warsh39-1/warsh39-1.pdf) |
-| 2 | مصحف الدوري | 247.74 MB | — | [douri-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/douri-1/douri-1.pdf) |
-| 3 | مصحف قالون | 230.97 MB | — | [qaloun-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/qaloun-1/qaloun-1.pdf) |
-| 4 | مصحف شعبة | 220.43 MB | — | [shuba-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/shuba-1/shuba-1.pdf) |
-| 5 | مصحف السوسي | 203.13 MB | — | [sousi-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/sousi-1/sousi-1.pdf) |
+| 1 | مصحف ورش<br>`Mushaf — Warsh` | 223.40 MB | — | [warsh39-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/warsh39-1/warsh39-1.pdf) |
+| 2 | مصحف الدوري<br>`Mushaf — Al-Duri` | 247.74 MB | — | [douri-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/douri-1/douri-1.pdf) |
+| 3 | مصحف قالون<br>`Mushaf — Qalun` | 230.97 MB | — | [qaloun-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/qaloun-1/qaloun-1.pdf) |
+| 4 | مصحف شعبة<br>`Mushaf — Shu'bah` | 220.43 MB | — | [shuba-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/shuba-1/shuba-1.pdf) |
+| 5 | مصحف السوسي<br>`Mushaf — Al-Susi` | 203.13 MB | — | [sousi-1.pdf](https://cdn.quran.ws/KFGQPC/resources/quran-qiraat/sousi-1/sousi-1.pdf) |
 
 كل مورد له `metadata.json` بجواره يحتوي روابط التحميل وبصمات التحقق.
 Each resource has a `metadata.json` beside it with its download links and checksums.
