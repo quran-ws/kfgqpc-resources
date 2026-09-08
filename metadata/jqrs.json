@@ -671,8 +671,8 @@
         "filename": "JQRS_08.pdf",
         "size_bytes": 192620335,
         "size_human": "183.70 MB",
-        "content_type": "application/pdf",
-        "server_last_modified": "Sun, 19 Jan 2025 05:01:08 GMT",
+        "content_type": null,
+        "server_last_modified": null,
         "url_cdn": "https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-08/JQRS_08.pdf"
       },
       "checksums": {
@@ -682,7 +682,7 @@
           "sha256": "d34528bfa3f8b0d915c81f0c779f8120796325b981e537cb704f62ccf37152e7"
         }
       },
-      "captured_at": "2026-09-02T10:29:05Z",
+      "captured_at": "2026-09-07T15:26:31Z",
       "available": true,
       "archive_extracted": false,
       "file_count": 1,
