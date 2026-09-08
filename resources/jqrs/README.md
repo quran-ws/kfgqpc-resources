@@ -7,8 +7,8 @@
 
 | # | العنوان / Title | الحجم / Size | الإصدار / Version | التحميل / Download |
 |---:|---|---:|---|---|
-| 1 | العدد الثلاثون | 37.24 MB | — | [JQRS_30.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-30/JQRS_30.pdf) |
-| 2 | العدد التاسع والعشرون | 21.69 MB | — | [JQRS_29.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-29/JQRS_29.pdf) |
+| 1 | مجلة البحوث والدراسات القرآنية – العدد 30<br>`Journal of Qur'anic Research and Studies – Issue 30` | 37.24 MB | — | [JQRS_30.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-30/JQRS_30.pdf) |
+| 2 | مجلة البحوث والدراسات القرآنية – العدد 29<br>`Journal of Qur'anic Research and Studies – Issue 29` | 21.69 MB | — | [JQRS_29.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-29/JQRS_29.pdf) |
 | 3 | مجلة البحوث والدراسات القرآنية – العدد 28<br>`Journal of Qur'anic Research and Studies – Issue 28` | 39.94 MB | — | [JQRS_28.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-28/JQRS_28.pdf) |
 | 4 | مجلة البحوث والدراسات القرآنية – العدد 27<br>`Journal of Qur'anic Research and Studies – Issue 27` | 16.81 MB | — | [JQRS_27.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-27/JQRS_27.pdf) |
 | 5 | مجلة البحوث والدراسات القرآنية – العدد 26<br>`Journal of Qur'anic Research and Studies – Issue 26` | 16.20 MB | — | [JQRS_26.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-26/JQRS_26.pdf) |
@@ -22,12 +22,12 @@
 | 13 | مجلة البحوث والدراسات القرآنية – العدد 17<br>`Journal of Qur'anic Research and Studies – Issue 17` | 42.61 MB | — | [JQRS_17.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-17/JQRS_17.pdf) |
 | 14 | مجلة البحوث والدراسات القرآنية – العدد 16<br>`Journal of Qur'anic Research and Studies – Issue 16` | 42.57 MB | — | [JQRS_16.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-16/JQRS_16.pdf) |
 | 15 | مجلة البحوث والدراسات القرآنية – العدد 15<br>`Journal of Qur'anic Research and Studies – Issue 15` | 32.22 MB | — | [JQRS_15.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-15/JQRS_15.pdf) |
-| 16 | العدد الرابع عشر | 30.54 MB | — | [JQRS_14.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-14/JQRS_14.pdf) |
-| 17 | العدد الثالث عشر | 60.36 MB | — | [JQRS_13.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-13/JQRS_13.pdf) |
-| 18 | العدد الثاني عشر | 27.81 MB | — | [JQRS_12.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-12/JQRS_12.pdf) |
-| 19 | العدد الحادي عشر | 80.38 MB | — | [JQRS_11.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-11/JQRS_11.pdf) |
-| 20 | العدد العاشر | 173.40 MB | — | [JQRS_10.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-10/JQRS_10.pdf) |
-| 21 | العدد التاسع | 244.89 MB | — | [JQRS_09.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-09/JQRS_09.pdf) |
+| 16 | مجلة البحوث والدراسات القرآنية – العدد 14<br>`Journal of Qur'anic Research and Studies – Issue 14` | 30.54 MB | — | [JQRS_14.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-14/JQRS_14.pdf) |
+| 17 | مجلة البحوث والدراسات القرآنية – العدد 13<br>`Journal of Qur'anic Research and Studies – Issue 13` | 60.36 MB | — | [JQRS_13.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-13/JQRS_13.pdf) |
+| 18 | مجلة البحوث والدراسات القرآنية – العدد 12<br>`Journal of Qur'anic Research and Studies – Issue 12` | 27.81 MB | — | [JQRS_12.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-12/JQRS_12.pdf) |
+| 19 | مجلة البحوث والدراسات القرآنية – العدد 11<br>`Journal of Qur'anic Research and Studies – Issue 11` | 80.38 MB | — | [JQRS_11.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-11/JQRS_11.pdf) |
+| 20 | مجلة البحوث والدراسات القرآنية – العدد 10<br>`Journal of Qur'anic Research and Studies – Issue 10` | 173.40 MB | — | [JQRS_10.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-10/JQRS_10.pdf) |
+| 21 | مجلة البحوث والدراسات القرآنية – العدد 9<br>`Journal of Qur'anic Research and Studies – Issue 9` | 244.89 MB | — | [JQRS_09.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-09/JQRS_09.pdf) |
 | 22 | مجلة البحوث والدراسات القرآنية – العدد 8<br>`Journal of Qur'anic Research and Studies – Issue 8` | 183.70 MB | — | [JQRS_08.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-08/JQRS_08.pdf) |
 | 23 | مجلة البحوث والدراسات القرآنية – العدد 7<br>`Journal of Qur'anic Research and Studies – Issue 7` | 161.46 MB | — | [JQRS_07.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-07/JQRS_07.pdf) |
 | 24 | مجلة البحوث والدراسات القرآنية – العدد 6<br>`Journal of Qur'anic Research and Studies – Issue 6` | 277.15 MB | — | [JQRS_06.pdf](https://cdn.quran.ws/KFGQPC/resources/jqrs/jqrs-06/JQRS_06.pdf) |
